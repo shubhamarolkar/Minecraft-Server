@@ -1,67 +1,52 @@
-[14:21:58] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[14:21:58] [ServerMain/INFO]: Reloading ResourceManager: Default, bukkit
-[14:21:59] [Worker-Main-1/INFO]: Loaded 7 recipes
-[14:22:00] [Server thread/INFO]: Starting minecraft server version 1.18.1
-[14:22:00] [Server thread/INFO]: Loading properties
-[14:22:00] [Server thread/INFO]: This server is running Paper version git-Paper-168 (MC: 1.18.1) (Implementing API version 1.18.1-R0.1-SNAPSHOT) (Git: dcca6cb)
-[14:22:00] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[14:22:00] [Server thread/INFO]: Using 4 threads for Netty based IO
-[14:22:00] [Server thread/INFO]: Default game type: SURVIVAL
-[14:22:00] [Server thread/INFO]: Generating keypair
-[14:22:00] [Server thread/INFO]: Starting Minecraft server on *:25565
-[14:22:00] [Server thread/INFO]: Using default channel type
-[14:22:00] [Server thread/INFO]: Paper: Using Java 11 compression from Velocity.
-[14:22:00] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
-[14:22:01] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[14:22:01] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[14:22:01] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[14:22:01] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[14:22:01] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[14:22:01] [Server thread/INFO]: Preparing level "world"
-[14:22:02] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[14:22:02] [Server thread/INFO]: Time elapsed: 278 ms
-[14:22:02] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[14:22:02] [Server thread/INFO]: Time elapsed: 96 ms
-[14:22:02] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[14:22:02] [Server thread/INFO]: Time elapsed: 114 ms
-[14:22:02] [Server thread/INFO]: Running delayed init tasks
-[14:22:02] [Server thread/INFO]: Done (2.488s)! For help, type "help"
-[14:22:02] [Server thread/INFO]: Timings Reset
-[14:24:29] [User Authenticator #1/INFO]: UUID of player cr0n0s69 is ace33f99-a894-3d26-814e-bb4eee675f63
-[14:24:30] [Server thread/INFO]: cr0n0s69 joined the game
-[14:24:30] [Server thread/INFO]: cr0n0s69[/[0:0:0:0:0:0:0:1]:58670] logged in with entity id 78 at ([world]83.16808714793474, 85.0, 322.6657441581351)
-[14:25:13] [Server thread/INFO]: cr0n0s69 lost connection: Disconnected
-[14:25:13] [Server thread/INFO]: cr0n0s69 left the game
-[14:58:32] [User Authenticator #2/INFO]: UUID of player cr0n0s69 is ace33f99-a894-3d26-814e-bb4eee675f63
-[14:58:32] [Server thread/INFO]: cr0n0s69 joined the game
-[14:58:32] [Server thread/INFO]: cr0n0s69[/[0:0:0:0:0:0:0:1]:58238] logged in with entity id 581 at ([world]90.0611026597427, 85.0, 320.79555854879516)
-[15:01:09] [User Authenticator #3/INFO]: UUID of player RohitSardeshmukh is ae640622-7e93-37c5-9dc3-158c765c9327
-[15:01:09] [Server thread/INFO]: RohitSardeshmukh joined the game
-[15:01:09] [Server thread/INFO]: RohitSardeshmukh[/[0:0:0:0:0:0:0:1]:58439] logged in with entity id 1413 at ([world]-58.27983905503462, 64.0, 321.0743067313071)
-[15:11:34] [Server thread/INFO]: RohitSardeshmukh lost connection: Disconnected
-[15:11:34] [Server thread/INFO]: RohitSardeshmukh left the game
-[15:11:41] [User Authenticator #4/INFO]: UUID of player RohitSardeshmukh is ae640622-7e93-37c5-9dc3-158c765c9327
-[15:11:41] [Server thread/INFO]: RohitSardeshmukh joined the game
-[15:11:41] [Server thread/INFO]: RohitSardeshmukh[/[0:0:0:0:0:0:0:1]:58544] logged in with entity id 4121 at ([world]154.58872704641067, 79.0, 382.39332166417466)
-[15:11:42] [Server thread/INFO]: cr0n0s69 lost connection: Disconnected
-[15:11:42] [Server thread/INFO]: cr0n0s69 left the game
-[15:11:47] [User Authenticator #4/INFO]: UUID of player cr0n0s69 is ace33f99-a894-3d26-814e-bb4eee675f63
-[15:11:47] [Server thread/INFO]: cr0n0s69 joined the game
-[15:11:47] [Server thread/INFO]: cr0n0s69[/[0:0:0:0:0:0:0:1]:58545] logged in with entity id 4220 at ([world]95.5, 85.0, 317.5)
-[15:12:13] [Server thread/INFO]: RohitSardeshmukh lost connection: Disconnected
-[15:12:13] [Server thread/INFO]: RohitSardeshmukh left the game
-[15:12:13] [Server thread/INFO]: cr0n0s69 lost connection: Disconnected
-[15:12:13] [Server thread/INFO]: cr0n0s69 left the game
-[15:15:49] [Server thread/INFO]: Stopping server
-[15:15:49] [Server thread/INFO]: Saving players
-[15:15:49] [Server thread/INFO]: Saving worlds
-[15:15:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[15:15:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[15:15:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[15:15:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[15:15:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[15:15:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[15:15:50] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[15:15:51] [Server thread/INFO]: Flushing Chunk IO
-[15:15:51] [Server thread/INFO]: Closing Thread Pool
-[15:15:51] [Server thread/INFO]: Closing Server
+[01:43:39] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[01:43:39] [ServerMain/INFO]: Reloading ResourceManager: Default, bukkit
+[01:43:40] [Worker-Main-2/INFO]: Loaded 7 recipes
+[01:43:41] [Server thread/INFO]: Starting minecraft server version 1.18.1
+[01:43:41] [Server thread/INFO]: Loading properties
+[01:43:41] [Server thread/INFO]: This server is running Paper version git-Paper-168 (MC: 1.18.1) (Implementing API version 1.18.1-R0.1-SNAPSHOT) (Git: dcca6cb)
+[01:43:41] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[01:43:41] [Server thread/INFO]: Using 4 threads for Netty based IO
+[01:43:41] [Server thread/INFO]: Default game type: SURVIVAL
+[01:43:41] [Server thread/INFO]: Generating keypair
+[01:43:41] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:43:41] [Server thread/INFO]: Using default channel type
+[01:43:41] [Server thread/INFO]: Paper: Using Java 11 compression from Velocity.
+[01:43:41] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
+[01:43:41] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[01:43:41] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:43:41] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:43:41] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:43:41] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:43:41] [Server thread/INFO]: Preparing level "world"
+[01:43:42] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:43:42] [Server thread/INFO]: Time elapsed: 181 ms
+[01:43:42] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[01:43:42] [Server thread/INFO]: Time elapsed: 55 ms
+[01:43:42] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[01:43:42] [Server thread/INFO]: Time elapsed: 51 ms
+[01:43:43] [Server thread/INFO]: Running delayed init tasks
+[01:43:43] [Server thread/INFO]: Done (1.729s)! For help, type "help"
+[01:43:43] [Server thread/INFO]: Timings Reset
+[01:44:10] [User Authenticator #1/INFO]: UUID of player cr0n0s69 is ace33f99-a894-3d26-814e-bb4eee675f63
+[01:44:10] [Server thread/INFO]: cr0n0s69 joined the game
+[01:44:10] [Server thread/INFO]: cr0n0s69[/127.0.0.1:7314] logged in with entity id 74 at ([world]231.2888523351447, 62.9375, 392.6128395044237)
+[01:44:18] [Server thread/INFO]: cr0n0s69 lost connection: Disconnected
+[01:44:18] [Server thread/INFO]: cr0n0s69 left the game
+[01:45:27] [User Authenticator #2/INFO]: UUID of player cr0n0s69 is ace33f99-a894-3d26-814e-bb4eee675f63
+[01:45:27] [Server thread/INFO]: cr0n0s69 joined the game
+[01:45:27] [Server thread/INFO]: cr0n0s69[/127.0.0.1:7377] logged in with entity id 525 at ([world]231.2888523351447, 62.9375, 392.6128395044237)
+[01:45:49] [Server thread/INFO]: cr0n0s69 lost connection: Disconnected
+[01:45:49] [Server thread/INFO]: cr0n0s69 left the game
+[01:45:58] [Server thread/INFO]: Stopping the server
+[01:45:58] [Server thread/INFO]: Stopping server
+[01:45:58] [Server thread/INFO]: Saving players
+[01:45:58] [Server thread/INFO]: Saving worlds
+[01:45:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:46:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[01:46:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[01:46:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:46:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:46:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:46:02] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[01:46:04] [Server thread/INFO]: Flushing Chunk IO
+[01:46:04] [Server thread/INFO]: Closing Thread Pool
