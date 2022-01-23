@@ -1,0 +1,40 @@
+[00:00:54] [Server thread/INFO]: RohitSardeshmukh was blown up by Creeper
+[00:12:18] [Server thread/INFO]: watchtime has made the advancement [Fishy Business]
+[00:19:08] [Server thread/INFO]: watchtime has made the advancement [Take Aim]
+[00:35:39] [Server thread/INFO]: Nothing changed. The player already is an operator
+[00:35:45] [Server thread/INFO]: Made watchtime a server operator
+[00:36:43] [Server thread/INFO]: watchtime issued server command: /gam
+[00:36:51] [Server thread/INFO]: watchtime issued server command: /gamemode creative
+[00:36:51] [Server thread/INFO]: [watchtime: Set own game mode to Creative Mode]
+[00:50:39] [Server thread/INFO]: watchtime issued server command: /gamemode survival
+[00:50:39] [Server thread/INFO]: [watchtime: Set own game mode to Survival Mode]
+[00:58:48] [Server thread/INFO]: watchtime lost connection: Disconnected
+[00:58:48] [Server thread/INFO]: watchtime left the game
+[01:10:24] [Server thread/INFO]: RohitSardeshmukh was slain by Zombie
+[01:10:30] [User Authenticator #11/INFO]: UUID of player cr0n0s69 is ace33f99-a894-3d26-814e-bb4eee675f63
+[01:10:30] [Server thread/INFO]: cr0n0s69 joined the game
+[01:10:30] [Server thread/INFO]: cr0n0s69[/127.0.0.1:29972] logged in with entity id 60155 at ([world]107.68330194005611, 86.0, 315.2403385301811)
+[01:12:05] [User Authenticator #12/INFO]: UUID of player watchtime is c057e1a1-33de-3761-931c-ce2a12a5e0c1
+[01:12:05] [Server thread/INFO]: watchtime joined the game
+[01:12:05] [Server thread/INFO]: watchtime[/[0:0:0:0:0:0:0:1]:29980] logged in with entity id 60439 at ([world]74.29564884494732, 81.0, 323.1233320243702)
+[01:16:44] [Server thread/INFO]: watchtime has made the advancement [Ice Bucket Challenge]
+[01:27:14] [Server thread/INFO]: RohitSardeshmukh lost connection: Disconnected
+[01:27:14] [Server thread/INFO]: RohitSardeshmukh left the game
+[01:30:38] [Server thread/INFO]: cr0n0s69 has made the advancement [Ice Bucket Challenge]
+[01:36:48] [Server thread/INFO]: watchtime lost connection: Disconnected
+[01:36:48] [Server thread/INFO]: watchtime left the game
+[01:36:49] [Server thread/INFO]: cr0n0s69 lost connection: Disconnected
+[01:36:49] [Server thread/INFO]: cr0n0s69 left the game
+[01:37:52] [Server thread/INFO]: Stopping the server
+[01:37:52] [Server thread/INFO]: Stopping server
+[01:37:52] [Server thread/INFO]: Saving players
+[01:37:52] [Server thread/INFO]: Saving worlds
+[01:37:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:37:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[01:37:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[01:37:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:37:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:37:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:37:53] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[01:37:53] [Server thread/INFO]: Flushing Chunk IO
+[01:37:53] [Server thread/INFO]: Closing Thread Pool
