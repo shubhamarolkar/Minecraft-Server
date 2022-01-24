@@ -1328,6 +1328,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_yellow_dye": "2022-01-24 23:50:47 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2022-01-22 12:36:01 +0530"
@@ -1544,6 +1550,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2022-01-24 22:44:51 +0530"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2022-01-24 12:32:09 +0530",
@@ -1553,6 +1565,7 @@
       "bread": "2022-01-23 16:47:40 +0530",
       "suspicious_stew": "2022-01-24 00:53:35 +0530",
       "salmon": "2022-01-24 00:12:04 +0530",
+      "melon_slice": "2022-01-25 00:27:21 +0530",
       "cooked_rabbit": "2022-01-24 16:14:19 +0530",
       "cooked_chicken": "2022-01-22 12:59:05 +0530",
       "cooked_salmon": "2022-01-24 12:04:08 +0530"
@@ -2063,6 +2076,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2022-01-24 22:44:51 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2022-01-24 17:00:37 +0530"
@@ -2072,6 +2091,12 @@
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2022-01-24 11:47:02 +0530"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tactical_fishing": {
+    "criteria": {
+      "salmon_bucket": "2022-01-25 00:15:23 +0530"
     },
     "done": true
   },
@@ -2309,6 +2334,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_candle": {
+    "criteria": {
+      "has_yellow_dye": "2022-01-24 23:50:47 +0530"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2022-01-25 00:27:46 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2022-01-23 13:18:25 +0530"
@@ -2474,6 +2511,12 @@
   "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2022-01-23 18:13:41 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_carpet_from_white_carpet": {
+    "criteria": {
+      "has_yellow_dye": "2022-01-24 23:50:47 +0530"
     },
     "done": true
   },

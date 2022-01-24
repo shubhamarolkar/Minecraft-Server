@@ -1,112 +1,104 @@
-[21:56:58] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[21:56:58] [ServerMain/INFO]: Reloading ResourceManager: Default, bukkit
-[21:56:59] [Worker-Main-1/INFO]: Loaded 7 recipes
-[21:57:00] [Server thread/INFO]: Starting minecraft server version 1.18.1
-[21:57:00] [Server thread/INFO]: Loading properties
-[21:57:00] [Server thread/INFO]: This server is running Paper version git-Paper-168 (MC: 1.18.1) (Implementing API version 1.18.1-R0.1-SNAPSHOT) (Git: dcca6cb)
-[21:57:00] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[21:57:00] [Server thread/INFO]: Using 4 threads for Netty based IO
-[21:57:00] [Server thread/INFO]: Default game type: SURVIVAL
-[21:57:00] [Server thread/INFO]: Generating keypair
-[21:57:00] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:57:00] [Server thread/INFO]: Using default channel type
-[21:57:00] [Server thread/INFO]: Paper: Using Java 11 compression from Velocity.
-[21:57:00] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
-[21:57:00] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[21:57:00] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[21:57:00] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[21:57:00] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[21:57:00] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[21:57:00] [Server thread/INFO]: Preparing level "world"
-[21:57:01] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:57:01] [Server thread/INFO]: Time elapsed: 247 ms
-[21:57:01] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[21:57:01] [Server thread/INFO]: Time elapsed: 50 ms
-[21:57:01] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[21:57:01] [Server thread/INFO]: Time elapsed: 49 ms
-[21:57:02] [Server thread/INFO]: Running delayed init tasks
-[21:57:02] [Server thread/INFO]: Done (1.803s)! For help, type "help"
-[21:57:02] [Server thread/INFO]: Timings Reset
-[22:00:01] [User Authenticator #1/INFO]: UUID of player N91Area is 37a2adee-8142-3385-95bc-a55aff328507
-[22:00:01] [Server thread/INFO]: N91Area joined the game
-[22:00:01] [Server thread/INFO]: N91Area[/[0:0:0:0:0:0:0:1]:28426] logged in with entity id 77 at ([world]8.5, 230.0, 4.5)
-[22:00:34] [Server thread/INFO]: N91Area lost connection: Disconnected
-[22:00:34] [Server thread/INFO]: N91Area left the game
-[22:04:19] [User Authenticator #2/INFO]: UUID of player snypee is b43ac269-6ae9-3fc6-9cfa-48dc4978aefc
-[22:04:19] [Server thread/INFO]: snypee joined the game
-[22:04:19] [Server thread/INFO]: snypee[/[0:0:0:0:0:0:0:1]:1138] logged in with entity id 526 at ([world]97.81384956472738, 65.0, 345.30000001192093)
-[22:05:17] [User Authenticator #2/INFO]: UUID of player cr0n0s69 is ace33f99-a894-3d26-814e-bb4eee675f63
-[22:05:17] [Server thread/INFO]: cr0n0s69 joined the game
-[22:05:17] [Server thread/INFO]: cr0n0s69[/127.0.0.1:1371] logged in with entity id 1073 at ([world]231.2888523351447, 62.9375, 392.6128395044237)
-[22:06:57] [User Authenticator #3/INFO]: UUID of player OmkarSANAS is 0578c101-ef8a-3ea5-bece-979eaea41d7e
-[22:06:57] [Server thread/INFO]: OmkarSANAS joined the game
-[22:06:57] [Server thread/INFO]: OmkarSANAS[/[0:0:0:0:0:0:0:1]:1731] logged in with entity id 1716 at ([world]236.309387217483, 14.0, -123.68961358994025)
-[22:07:22] [Async Chat Thread - #0/INFO]: <cr0n0s69> bruh
-[22:07:30] [Async Chat Thread - #0/INFO]: <cr0n0s69> who is N91Area
-[22:07:35] [Server thread/INFO]: snypee has made the advancement [Suit Up]
-[22:07:37] [Server thread/INFO]: snypee has made the advancement [Acquire Hardware]
-[22:07:41] [Server thread/INFO]: snypee has made the advancement [Diamonds!]
-[22:07:45] [Async Chat Thread - #0/INFO]: <cr0n0s69> sus
-[22:13:49] [Server thread/INFO]: OmkarSANAS lost connection: Disconnected
-[22:13:49] [Server thread/INFO]: OmkarSANAS left the game
-[22:13:50] [Async Chat Thread - #1/INFO]: <snypee> so jao bhadwo
-[22:14:17] [Server thread/INFO]: snypee lost connection: Disconnected
-[22:14:17] [Server thread/INFO]: snypee left the game
-[22:14:19] [User Authenticator #4/INFO]: UUID of player snypee is b43ac269-6ae9-3fc6-9cfa-48dc4978aefc
-[22:14:19] [Server thread/INFO]: snypee joined the game
-[22:14:19] [Server thread/INFO]: snypee[/[0:0:0:0:0:0:0:1]:3435] logged in with entity id 4213 at ([world]157.04483527865634, 81.0625, 385.69999998807907)
-[22:14:25] [User Authenticator #4/INFO]: UUID of player OmkarSANAS is 0578c101-ef8a-3ea5-bece-979eaea41d7e
-[22:14:25] [Server thread/INFO]: OmkarSANAS joined the game
-[22:14:25] [Server thread/INFO]: OmkarSANAS[/[0:0:0:0:0:0:0:1]:3461] logged in with entity id 4288 at ([world]241.30000001192093, 30.0, -123.30000001192093)
-[22:14:54] [Server thread/INFO]: snypee lost connection: Disconnected
-[22:14:54] [Server thread/INFO]: snypee left the game
-[22:14:58] [User Authenticator #4/INFO]: UUID of player snypee is b43ac269-6ae9-3fc6-9cfa-48dc4978aefc
-[22:14:58] [Server thread/INFO]: snypee joined the game
-[22:14:58] [Server thread/INFO]: snypee[/[0:0:0:0:0:0:0:1]:3624] logged in with entity id 4731 at ([world]157.04483527865634, 81.0625, 385.69999998807907)
-[22:15:22] [Server thread/INFO]: cr0n0s69 lost connection: Disconnected
-[22:15:22] [Server thread/INFO]: cr0n0s69 left the game
-[22:15:43] [Server thread/WARN]: snypee was kicked due to keepalive timeout!
-[22:15:43] [Server thread/INFO]: snypee lost connection: Timed out
-[22:15:43] [Server thread/INFO]: snypee left the game
-[22:16:38] [User Authenticator #5/INFO]: UUID of player snypee is b43ac269-6ae9-3fc6-9cfa-48dc4978aefc
-[22:16:38] [Server thread/INFO]: snypee joined the game
-[22:16:38] [Server thread/INFO]: snypee[/[0:0:0:0:0:0:0:1]:30863] logged in with entity id 5122 at ([world]157.04483527865634, 81.0625, 385.69999998807907)
-[22:17:23] [Server thread/WARN]: snypee was kicked due to keepalive timeout!
-[22:17:23] [Server thread/INFO]: snypee lost connection: Timed out
-[22:17:23] [Server thread/INFO]: snypee left the game
-[22:18:36] [User Authenticator #6/INFO]: UUID of player snypee is b43ac269-6ae9-3fc6-9cfa-48dc4978aefc
-[22:18:36] [Server thread/INFO]: snypee joined the game
-[22:18:36] [Server thread/INFO]: snypee[/[0:0:0:0:0:0:0:1]:31228] logged in with entity id 5884 at ([world]157.04483527865634, 81.0625, 385.69999998807907)
-[22:19:06] [Server thread/INFO]: snypee lost connection: Disconnected
-[22:19:06] [Server thread/INFO]: snypee left the game
-[22:19:41] [User Authenticator #7/INFO]: UUID of player snypee is b43ac269-6ae9-3fc6-9cfa-48dc4978aefc
-[22:19:41] [Server thread/INFO]: snypee joined the game
-[22:19:41] [Server thread/INFO]: snypee[/[0:0:0:0:0:0:0:1]:31442] logged in with entity id 6474 at ([world]157.04483527865634, 81.0625, 385.69999998807907)
-[22:20:05] [Server thread/INFO]: snypee lost connection: Disconnected
-[22:20:05] [Server thread/INFO]: snypee left the game
-[22:20:36] [User Authenticator #7/INFO]: UUID of player snypee is b43ac269-6ae9-3fc6-9cfa-48dc4978aefc
-[22:20:36] [Server thread/INFO]: snypee joined the game
-[22:20:36] [Server thread/INFO]: snypee[/[0:0:0:0:0:0:0:1]:31667] logged in with entity id 7016 at ([world]157.04483527865634, 81.0625, 385.69999998807907)
-[22:21:02] [Server thread/INFO]: snypee lost connection: Disconnected
-[22:21:02] [Server thread/INFO]: snypee left the game
-[22:21:07] [User Authenticator #7/INFO]: UUID of player snypee is b43ac269-6ae9-3fc6-9cfa-48dc4978aefc
-[22:21:07] [Server thread/INFO]: snypee joined the game
-[22:21:07] [Server thread/INFO]: snypee[/[0:0:0:0:0:0:0:1]:31804] logged in with entity id 7422 at ([world]157.04483527865634, 81.0625, 385.69999998807907)
-[22:21:52] [Server thread/WARN]: snypee was kicked due to keepalive timeout!
-[22:21:52] [Server thread/INFO]: snypee lost connection: Timed out
-[22:21:52] [Server thread/INFO]: snypee left the game
-[22:23:02] [Server thread/INFO]: Stopping the server
-[22:23:03] [Server thread/INFO]: Stopping server
-[22:23:03] [Server thread/INFO]: Saving players
-[22:23:03] [Server thread/INFO]: OmkarSANAS lost connection: Server closed
-[22:23:03] [Server thread/INFO]: OmkarSANAS left the game
-[22:23:03] [Server thread/INFO]: Saving worlds
-[22:23:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[22:23:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[22:23:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[22:23:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:23:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:23:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22:23:05] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[22:23:06] [Server thread/INFO]: Flushing Chunk IO
-[22:23:06] [Server thread/INFO]: Closing Thread Pool
+[00:04:07] [Server thread/INFO]: snypee tried to swim in lava
+[00:05:12] [Async Chat Thread - #6/INFO]: <OmkarSANAS> zhop
+[00:05:16] [Async Chat Thread - #6/INFO]: <OmkarSANAS> ghapaghap
+[00:05:27] [Async Chat Thread - #6/INFO]: <OmkarSANAS> ooh
+[00:06:07] [Async Chat Thread - #6/INFO]: <watchtime> ghapaghap
+[00:09:37] [Server thread/INFO]: snypee has made the advancement [Hot Stuff]
+[00:14:25] [Async Chat Thread - #7/INFO]: <OmkarSANAS> rip
+[00:14:34] [Async Chat Thread - #7/INFO]: <OmkarSANAS> snypee
+[00:14:35] [Server thread/INFO]: watchtime was shot by Skeleton
+[00:14:39] [Async Chat Thread - #7/INFO]: <OmkarSANAS> xD
+[00:14:59] [User Authenticator #13/INFO]: UUID of player RohitSardeshmukh is ae640622-7e93-37c5-9dc3-158c765c9327
+[00:14:59] [Server thread/INFO]: RohitSardeshmukh lost connection: You logged in from another location
+[00:14:59] [Server thread/INFO]: RohitSardeshmukh left the game
+[00:14:59] [Server thread/INFO]: RohitSardeshmukh joined the game
+[00:14:59] [Server thread/INFO]: RohitSardeshmukh[/[0:0:0:0:0:0:0:1]:61792] logged in with entity id 34213 at ([world]93.39006744773536, 64.0, 414.8630459631374)
+[00:15:00] [Server thread/INFO]: watchtime issued server command: /gamemode creative
+[00:15:00] [Server thread/INFO]: [watchtime: Set own game mode to Creative Mode]
+[00:15:06] [User Authenticator #13/INFO]: UUID of player RohitSardeshmukh is ae640622-7e93-37c5-9dc3-158c765c9327
+[00:15:06] [Server thread/INFO]: RohitSardeshmukh lost connection: You logged in from another location
+[00:15:06] [Server thread/INFO]: RohitSardeshmukh left the game
+[00:15:06] [Server thread/INFO]: RohitSardeshmukh joined the game
+[00:15:06] [Server thread/INFO]: RohitSardeshmukh[/[0:0:0:0:0:0:0:1]:61796] logged in with entity id 34259 at ([world]93.39006744773536, 64.0, 414.8630459631374)
+[00:15:23] [Server thread/INFO]: OmkarSANAS has made the advancement [Tactical Fishing]
+[00:16:13] [Server thread/INFO]: watchtime issued server command: /gamemode survival
+[00:16:13] [Server thread/INFO]: [watchtime: Set own game mode to Survival Mode]
+[00:18:02] [Async Chat Thread - #8/INFO]: <OmkarSANAS> bhosadichya
+[00:18:04] [Async Chat Thread - #8/INFO]: <OmkarSANAS> zhop
+[00:18:08] [Async Chat Thread - #8/INFO]: <watchtime> ghapaghap
+[00:18:12] [Async Chat Thread - #8/INFO]: <watchtime> mc
+[00:18:14] [Async Chat Thread - #8/INFO]: <OmkarSANAS> ooh aah
+[00:18:18] [Async Chat Thread - #8/INFO]: <watchtime> sex on me
+[00:18:22] [Async Chat Thread - #8/INFO]: <watchtime> cumb
+[00:18:27] [Async Chat Thread - #8/INFO]: <OmkarSANAS> balls in your mouth
+[00:18:31] [Async Chat Thread - #8/INFO]: <watchtime> no pay no gay
+[00:18:51] [Server thread/INFO]: snypee tried to swim in lava
+[00:19:01] [Async Chat Thread - #8/INFO]: <OmkarSANAS> dumbass
+[00:25:25] [User Authenticator #14/INFO]: UUID of player cr0n0s69 is ace33f99-a894-3d26-814e-bb4eee675f63
+[00:25:25] [Server thread/INFO]: cr0n0s69 joined the game
+[00:25:25] [Server thread/INFO]: cr0n0s69[/[0:0:0:0:0:0:0:1]:52139] logged in with entity id 37785 at ([world]82.54034094033582, 85.0, 325.3126451379132)
+[00:27:08] [Server thread/INFO]: RohitSardeshmukh lost connection: Disconnected
+[00:27:08] [Server thread/INFO]: RohitSardeshmukh left the game
+[00:27:14] [Server thread/INFO]: snypee has made the advancement [Ol' Betsy]
+[00:27:14] [Server thread/INFO]: snypee has made the advancement [Take Aim]
+[00:27:46] [Server thread/INFO]: OmkarSANAS has made the advancement [Ol' Betsy]
+[00:32:49] [Server thread/INFO]: cr0n0s69 lost connection: Disconnected
+[00:32:49] [Server thread/INFO]: cr0n0s69 left the game
+[00:32:51] [Server thread/INFO]: OmkarSANAS lost connection: Disconnected
+[00:32:51] [Server thread/INFO]: OmkarSANAS left the game
+[00:33:00] [User Authenticator #15/INFO]: UUID of player snypee is b43ac269-6ae9-3fc6-9cfa-48dc4978aefc
+[00:33:00] [Server thread/INFO]: snypee lost connection: You logged in from another location
+[00:33:01] [Server thread/INFO]: snypee left the game
+[00:33:01] [Server thread/INFO]: snypee joined the game
+[00:33:01] [Server thread/INFO]: snypee[/[0:0:0:0:0:0:0:1]:50621] logged in with entity id 40303 at ([world]163.91386393492522, 73.0, 365.3931765882498)
+[00:33:02] [Async Chat Thread - #9/INFO]: <watchtime> cr0n0s69
+[00:33:09] [User Authenticator #15/INFO]: UUID of player OmkarSANAS is 0578c101-ef8a-3ea5-bece-979eaea41d7e
+[00:33:10] [Server thread/INFO]: OmkarSANAS joined the game
+[00:33:10] [Server thread/INFO]: OmkarSANAS[/127.0.0.1:50624] logged in with entity id 40432 at ([world]164.95832138936476, 73.0, 365.38922298841356)
+[00:33:12] [User Authenticator #15/INFO]: UUID of player cr0n0s69 is ace33f99-a894-3d26-814e-bb4eee675f63
+[00:33:12] [Server thread/INFO]: cr0n0s69 joined the game
+[00:33:12] [Server thread/INFO]: cr0n0s69[/[0:0:0:0:0:0:0:1]:50628] logged in with entity id 40436 at ([world]147.06460981051436, 69.0, 371.55543812071784)
+[00:33:57] [Server thread/WARN]: cr0n0s69 was kicked due to keepalive timeout!
+[00:33:57] [Server thread/INFO]: cr0n0s69 lost connection: Timed out
+[00:33:57] [Server thread/INFO]: cr0n0s69 left the game
+[00:34:02] [User Authenticator #15/INFO]: UUID of player cr0n0s69 is ace33f99-a894-3d26-814e-bb4eee675f63
+[00:34:02] [Server thread/INFO]: cr0n0s69 joined the game
+[00:34:02] [Server thread/INFO]: cr0n0s69[/[0:0:0:0:0:0:0:1]:50633] logged in with entity id 40564 at ([world]147.06460981051436, 69.0, 371.55543812071784)
+[00:36:30] [Server thread/INFO]: watchtime has made the advancement [Tactical Fishing]
+[00:39:21] [Server thread/INFO]: cr0n0s69 has made the advancement [The Parrots and the Bats]
+[00:42:08] [Server thread/INFO]: watchtime has made the advancement [Glow and Behold!]
+[00:44:45] [Async Chat Thread - #10/INFO]: <watchtime> 3 big ballz
+[00:44:46] [Server thread/INFO]: cr0n0s69 lost connection: Disconnected
+[00:44:46] [Server thread/INFO]: cr0n0s69 left the game
+[00:45:04] [Async Chat Thread - #10/INFO]: <OmkarSANAS> xD
+[00:45:07] [Async Chat Thread - #10/INFO]: <OmkarSANAS> sussy
+[00:45:11] [User Authenticator #16/INFO]: UUID of player cr0n0s69 is ace33f99-a894-3d26-814e-bb4eee675f63
+[00:45:11] [Server thread/INFO]: cr0n0s69 joined the game
+[00:45:11] [Server thread/INFO]: cr0n0s69[/[0:0:0:0:0:0:0:1]:49334] logged in with entity id 43103 at ([world]97.7831177091638, 85.0, 321.97387708796236)
+[00:45:16] [Async Chat Thread - #10/INFO]: <OmkarSANAS> wuv u
+[00:48:25] [User Authenticator #17/INFO]: UUID of player RohitSardeshmukh is ae640622-7e93-37c5-9dc3-158c765c9327
+[00:48:25] [Server thread/INFO]: RohitSardeshmukh joined the game
+[00:48:25] [Server thread/INFO]: RohitSardeshmukh[/[0:0:0:0:0:0:0:1]:49350] logged in with entity id 44157 at ([world]24.519069216148356, 64.0, 428.2227272290078)
+[00:50:56] [Server thread/INFO]: OmkarSANAS lost connection: Disconnected
+[00:50:56] [Server thread/INFO]: OmkarSANAS left the game
+[00:51:17] [Server thread/INFO]: watchtime lost connection: Disconnected
+[00:51:17] [Server thread/INFO]: watchtime left the game
+[00:51:17] [Server thread/INFO]: snypee lost connection: Disconnected
+[00:51:17] [Server thread/INFO]: snypee left the game
+[00:51:17] [Server thread/INFO]: cr0n0s69 lost connection: Disconnected
+[00:51:17] [Server thread/INFO]: cr0n0s69 left the game
+[00:51:17] [Server thread/INFO]: RohitSardeshmukh lost connection: Disconnected
+[00:51:17] [Server thread/INFO]: RohitSardeshmukh left the game
+[00:51:22] [Server thread/INFO]: Stopping the server
+[00:51:22] [Server thread/INFO]: Stopping server
+[00:51:22] [Server thread/INFO]: Saving players
+[00:51:22] [Server thread/INFO]: Saving worlds
+[00:51:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:51:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[00:51:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[00:51:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:51:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:51:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:51:25] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:51:29] [Server thread/INFO]: Flushing Chunk IO
+[00:51:29] [Server thread/INFO]: Closing Thread Pool
