@@ -1,139 +1,112 @@
-[19:08:22] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[19:08:23] [ServerMain/INFO]: Reloading ResourceManager: Default, bukkit
-[19:08:23] [Worker-Main-2/INFO]: Loaded 7 recipes
-[19:08:25] [Server thread/INFO]: Starting minecraft server version 1.18.1
-[19:08:25] [Server thread/INFO]: Loading properties
-[19:08:25] [Server thread/INFO]: This server is running Paper version git-Paper-168 (MC: 1.18.1) (Implementing API version 1.18.1-R0.1-SNAPSHOT) (Git: dcca6cb)
-[19:08:25] [Server thread/INFO]: Using 4 threads for Netty based IO
-[19:08:25] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[19:08:25] [Server thread/INFO]: Default game type: SURVIVAL
-[19:08:25] [Server thread/INFO]: Generating keypair
-[19:08:25] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:08:25] [Server thread/INFO]: Using default channel type
-[19:08:25] [Server thread/INFO]: Paper: Using Java 11 compression from Velocity.
-[19:08:25] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
-[19:08:25] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[19:08:25] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[19:08:25] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[19:08:25] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[19:08:25] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[19:08:25] [Server thread/INFO]: Preparing level "world"
-[19:08:26] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:08:27] [Server thread/INFO]: Time elapsed: 345 ms
-[19:08:27] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[19:08:27] [Server thread/INFO]: Time elapsed: 109 ms
-[19:08:27] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[19:08:27] [Server thread/INFO]: Time elapsed: 93 ms
-[19:08:27] [Server thread/INFO]: Running delayed init tasks
-[19:08:27] [Server thread/INFO]: Done (2.638s)! For help, type "help"
-[19:08:27] [Server thread/INFO]: Timings Reset
-[19:09:03] [User Authenticator #1/INFO]: UUID of player watchtime is c057e1a1-33de-3761-931c-ce2a12a5e0c1
-[19:09:03] [Server thread/INFO]: watchtime joined the game
-[19:09:03] [Server thread/INFO]: watchtime[/[0:0:0:0:0:0:0:1]:55385] logged in with entity id 90 at ([world]236.99712258190505, 14.0, -122.30000001192093)
-[19:39:16] [Server thread/INFO]: watchtime lost connection: Disconnected
-[19:39:16] [Server thread/INFO]: watchtime left the game
-[19:55:12] [Server thread/INFO]: Unknown command. Type "/help" for help.
-[19:55:16] [Server thread/INFO]: Unknown command. Type "/help" for help.
-[19:55:21] [Server thread/INFO]: --------- Help: Index ---------------------------
-[19:55:21] [Server thread/INFO]: Use /help [n] to get page n of help.
-[19:55:21] [Server thread/INFO]: Aliases: Lists command aliases
-[19:55:21] [Server thread/INFO]: Bukkit: All commands for Bukkit
-[19:55:21] [Server thread/INFO]: Minecraft: All commands for Minecraft
-[19:55:21] [Server thread/INFO]: /advancement: A Mojang provided command.
-[19:55:21] [Server thread/INFO]: /attribute: A Mojang provided command.
-[19:55:21] [Server thread/INFO]: /ban: A Mojang provided command.
-[19:55:21] [Server thread/INFO]: /ban-ip: A Mojang provided command.
-[19:55:21] [Server thread/INFO]: /banlist: A Mojang provided command.
-[19:55:21] [Server thread/INFO]: /bossbar: A Mojang provided command.
-[19:55:21] [Server thread/INFO]: /clear: A Mojang provided command.
-[19:55:21] [Server thread/INFO]: /clone: A Mojang provided command.
-[19:55:21] [Server thread/INFO]: /data: A Mojang provided command.
-[19:55:21] [Server thread/INFO]: /datapack: A Mojang provided command.
-[19:55:21] [Server thread/INFO]: /debug: A Mojang provided command.
-[19:55:21] [Server thread/INFO]: /defaultgamemode: A Mojang provided command.
-[19:55:21] [Server thread/INFO]: /deop: A Mojang provided command.
-[19:55:21] [Server thread/INFO]: /difficulty: A Mojang provided command.
-[19:55:21] [Server thread/INFO]: /effect: A Mojang provided command.
-[19:55:21] [Server thread/INFO]: /enchant: A Mojang provided command.
-[19:55:21] [Server thread/INFO]: /execute: A Mojang provided command.
-[19:55:21] [Server thread/INFO]: /experience: A Mojang provided command.
-[19:55:21] [Server thread/INFO]: /fill: A Mojang provided command.
-[19:55:21] [Server thread/INFO]: /forceload: A Mojang provided command.
-[19:55:21] [Server thread/INFO]: /function: A Mojang provided command.
-[19:55:21] [Server thread/INFO]: /gamemode: A Mojang provided command.
-[19:55:21] [Server thread/INFO]: /gamerule: A Mojang provided command.
-[19:55:21] [Server thread/INFO]: /give: A Mojang provided command.
-[19:55:21] [Server thread/INFO]: /help: Shows the help menu
-[19:55:21] [Server thread/INFO]: /item: A Mojang provided command.
-[19:55:21] [Server thread/INFO]: /jfr: A Mojang provided command.
-[19:55:21] [Server thread/INFO]: /kick: A Mojang provided command.
-[19:55:21] [Server thread/INFO]: /kill: A Mojang provided command.
-[19:55:21] [Server thread/INFO]: /list: A Mojang provided command.
-[19:55:21] [Server thread/INFO]: /locate: A Mojang provided command.
-[19:55:21] [Server thread/INFO]: /locatebiome: A Mojang provided command.
-[19:55:21] [Server thread/INFO]: /loot: A Mojang provided command.
-[19:55:21] [Server thread/INFO]: /me: A Mojang provided command.
-[19:55:21] [Server thread/INFO]: /minecraft:help: A Mojang provided command.
-[19:55:21] [Server thread/INFO]: /minecraft:reload: A Mojang provided command.
-[19:55:21] [Server thread/INFO]: /msg: A Mojang provided command.
-[19:55:21] [Server thread/INFO]: /mspt: View server tick times
-[19:55:21] [Server thread/INFO]: /op: A Mojang provided command.
-[19:55:21] [Server thread/INFO]: /paper: Paper related commands
-[19:55:21] [Server thread/INFO]: /pardon: A Mojang provided command.
-[19:55:21] [Server thread/INFO]: /pardon-ip: A Mojang provided command.
-[19:55:21] [Server thread/INFO]: /particle: A Mojang provided command.
-[19:55:21] [Server thread/INFO]: /perf: A Mojang provided command.
-[19:55:21] [Server thread/INFO]: /playsound: A Mojang provided command.
-[19:55:21] [Server thread/INFO]: /plugins: Gets a list of plugins running on the server
-[19:55:21] [Server thread/INFO]: /recipe: A Mojang provided command.
-[19:55:21] [Server thread/INFO]: /reload: Reloads the server configuration and plugins
-[19:55:21] [Server thread/INFO]: /restart: Restarts the server
-[19:55:21] [Server thread/INFO]: /save-all: A Mojang provided command.
-[19:55:21] [Server thread/INFO]: /save-off: A Mojang provided command.
-[19:55:21] [Server thread/INFO]: /save-on: A Mojang provided command.
-[19:55:21] [Server thread/INFO]: /say: A Mojang provided command.
-[19:55:21] [Server thread/INFO]: /schedule: A Mojang provided command.
-[19:55:21] [Server thread/INFO]: /scoreboard: A Mojang provided command.
-[19:55:21] [Server thread/INFO]: /seed: A Mojang provided command.
-[19:55:21] [Server thread/INFO]: /setblock: A Mojang provided command.
-[19:55:21] [Server thread/INFO]: /setidletimeout: A Mojang provided command.
-[19:55:21] [Server thread/INFO]: /setworldspawn: A Mojang provided command.
-[19:55:21] [Server thread/INFO]: /spawnpoint: A Mojang provided command.
-[19:55:21] [Server thread/INFO]: /spectate: A Mojang provided command.
-[19:55:21] [Server thread/INFO]: /spigot: Spigot related commands
-[19:55:21] [Server thread/INFO]: /spreadplayers: A Mojang provided command.
-[19:55:21] [Server thread/INFO]: /stop: A Mojang provided command.
-[19:55:21] [Server thread/INFO]: /stopsound: A Mojang provided command.
-[19:55:21] [Server thread/INFO]: /summon: A Mojang provided command.
-[19:55:21] [Server thread/INFO]: /tag: A Mojang provided command.
-[19:55:21] [Server thread/INFO]: /team: A Mojang provided command.
-[19:55:21] [Server thread/INFO]: /teammsg: A Mojang provided command.
-[19:55:21] [Server thread/INFO]: /teleport: A Mojang provided command.
-[19:55:21] [Server thread/INFO]: /tell: A Mojang provided command.
-[19:55:21] [Server thread/INFO]: /tellraw: A Mojang provided command.
-[19:55:21] [Server thread/INFO]: /time: A Mojang provided command.
-[19:55:21] [Server thread/INFO]: /timings: Manages Spigot Timings data to see performance of the server.
-[19:55:21] [Server thread/INFO]: /title: A Mojang provided command.
-[19:55:21] [Server thread/INFO]: /tm: A Mojang provided command.
-[19:55:21] [Server thread/INFO]: /tp: A Mojang provided command.
-[19:55:21] [Server thread/INFO]: /tps: Gets the current ticks per second for the server
-[19:55:21] [Server thread/INFO]: /trigger: A Mojang provided command.
-[19:55:21] [Server thread/INFO]: /version: Gets the version of this server including any plugins in use
-[19:55:21] [Server thread/INFO]: /w: A Mojang provided command.
-[19:55:21] [Server thread/INFO]: /weather: A Mojang provided command.
-[19:55:21] [Server thread/INFO]: /whitelist: A Mojang provided command.
-[19:55:21] [Server thread/INFO]: /worldborder: A Mojang provided command.
-[19:55:21] [Server thread/INFO]: /xp: A Mojang provided command.
-[19:55:46] [Server thread/INFO]: Stopping the server
-[19:55:46] [Server thread/INFO]: Stopping server
-[19:55:46] [Server thread/INFO]: Saving players
-[19:55:46] [Server thread/INFO]: Saving worlds
-[19:55:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[19:55:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[19:55:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[19:55:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[19:55:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19:55:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[19:55:47] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[19:55:48] [Server thread/INFO]: Flushing Chunk IO
-[19:55:48] [Server thread/INFO]: Closing Thread Pool
+[21:56:58] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[21:56:58] [ServerMain/INFO]: Reloading ResourceManager: Default, bukkit
+[21:56:59] [Worker-Main-1/INFO]: Loaded 7 recipes
+[21:57:00] [Server thread/INFO]: Starting minecraft server version 1.18.1
+[21:57:00] [Server thread/INFO]: Loading properties
+[21:57:00] [Server thread/INFO]: This server is running Paper version git-Paper-168 (MC: 1.18.1) (Implementing API version 1.18.1-R0.1-SNAPSHOT) (Git: dcca6cb)
+[21:57:00] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[21:57:00] [Server thread/INFO]: Using 4 threads for Netty based IO
+[21:57:00] [Server thread/INFO]: Default game type: SURVIVAL
+[21:57:00] [Server thread/INFO]: Generating keypair
+[21:57:00] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:57:00] [Server thread/INFO]: Using default channel type
+[21:57:00] [Server thread/INFO]: Paper: Using Java 11 compression from Velocity.
+[21:57:00] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
+[21:57:00] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[21:57:00] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:57:00] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:57:00] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:57:00] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:57:00] [Server thread/INFO]: Preparing level "world"
+[21:57:01] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:57:01] [Server thread/INFO]: Time elapsed: 247 ms
+[21:57:01] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[21:57:01] [Server thread/INFO]: Time elapsed: 50 ms
+[21:57:01] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[21:57:01] [Server thread/INFO]: Time elapsed: 49 ms
+[21:57:02] [Server thread/INFO]: Running delayed init tasks
+[21:57:02] [Server thread/INFO]: Done (1.803s)! For help, type "help"
+[21:57:02] [Server thread/INFO]: Timings Reset
+[22:00:01] [User Authenticator #1/INFO]: UUID of player N91Area is 37a2adee-8142-3385-95bc-a55aff328507
+[22:00:01] [Server thread/INFO]: N91Area joined the game
+[22:00:01] [Server thread/INFO]: N91Area[/[0:0:0:0:0:0:0:1]:28426] logged in with entity id 77 at ([world]8.5, 230.0, 4.5)
+[22:00:34] [Server thread/INFO]: N91Area lost connection: Disconnected
+[22:00:34] [Server thread/INFO]: N91Area left the game
+[22:04:19] [User Authenticator #2/INFO]: UUID of player snypee is b43ac269-6ae9-3fc6-9cfa-48dc4978aefc
+[22:04:19] [Server thread/INFO]: snypee joined the game
+[22:04:19] [Server thread/INFO]: snypee[/[0:0:0:0:0:0:0:1]:1138] logged in with entity id 526 at ([world]97.81384956472738, 65.0, 345.30000001192093)
+[22:05:17] [User Authenticator #2/INFO]: UUID of player cr0n0s69 is ace33f99-a894-3d26-814e-bb4eee675f63
+[22:05:17] [Server thread/INFO]: cr0n0s69 joined the game
+[22:05:17] [Server thread/INFO]: cr0n0s69[/127.0.0.1:1371] logged in with entity id 1073 at ([world]231.2888523351447, 62.9375, 392.6128395044237)
+[22:06:57] [User Authenticator #3/INFO]: UUID of player OmkarSANAS is 0578c101-ef8a-3ea5-bece-979eaea41d7e
+[22:06:57] [Server thread/INFO]: OmkarSANAS joined the game
+[22:06:57] [Server thread/INFO]: OmkarSANAS[/[0:0:0:0:0:0:0:1]:1731] logged in with entity id 1716 at ([world]236.309387217483, 14.0, -123.68961358994025)
+[22:07:22] [Async Chat Thread - #0/INFO]: <cr0n0s69> bruh
+[22:07:30] [Async Chat Thread - #0/INFO]: <cr0n0s69> who is N91Area
+[22:07:35] [Server thread/INFO]: snypee has made the advancement [Suit Up]
+[22:07:37] [Server thread/INFO]: snypee has made the advancement [Acquire Hardware]
+[22:07:41] [Server thread/INFO]: snypee has made the advancement [Diamonds!]
+[22:07:45] [Async Chat Thread - #0/INFO]: <cr0n0s69> sus
+[22:13:49] [Server thread/INFO]: OmkarSANAS lost connection: Disconnected
+[22:13:49] [Server thread/INFO]: OmkarSANAS left the game
+[22:13:50] [Async Chat Thread - #1/INFO]: <snypee> so jao bhadwo
+[22:14:17] [Server thread/INFO]: snypee lost connection: Disconnected
+[22:14:17] [Server thread/INFO]: snypee left the game
+[22:14:19] [User Authenticator #4/INFO]: UUID of player snypee is b43ac269-6ae9-3fc6-9cfa-48dc4978aefc
+[22:14:19] [Server thread/INFO]: snypee joined the game
+[22:14:19] [Server thread/INFO]: snypee[/[0:0:0:0:0:0:0:1]:3435] logged in with entity id 4213 at ([world]157.04483527865634, 81.0625, 385.69999998807907)
+[22:14:25] [User Authenticator #4/INFO]: UUID of player OmkarSANAS is 0578c101-ef8a-3ea5-bece-979eaea41d7e
+[22:14:25] [Server thread/INFO]: OmkarSANAS joined the game
+[22:14:25] [Server thread/INFO]: OmkarSANAS[/[0:0:0:0:0:0:0:1]:3461] logged in with entity id 4288 at ([world]241.30000001192093, 30.0, -123.30000001192093)
+[22:14:54] [Server thread/INFO]: snypee lost connection: Disconnected
+[22:14:54] [Server thread/INFO]: snypee left the game
+[22:14:58] [User Authenticator #4/INFO]: UUID of player snypee is b43ac269-6ae9-3fc6-9cfa-48dc4978aefc
+[22:14:58] [Server thread/INFO]: snypee joined the game
+[22:14:58] [Server thread/INFO]: snypee[/[0:0:0:0:0:0:0:1]:3624] logged in with entity id 4731 at ([world]157.04483527865634, 81.0625, 385.69999998807907)
+[22:15:22] [Server thread/INFO]: cr0n0s69 lost connection: Disconnected
+[22:15:22] [Server thread/INFO]: cr0n0s69 left the game
+[22:15:43] [Server thread/WARN]: snypee was kicked due to keepalive timeout!
+[22:15:43] [Server thread/INFO]: snypee lost connection: Timed out
+[22:15:43] [Server thread/INFO]: snypee left the game
+[22:16:38] [User Authenticator #5/INFO]: UUID of player snypee is b43ac269-6ae9-3fc6-9cfa-48dc4978aefc
+[22:16:38] [Server thread/INFO]: snypee joined the game
+[22:16:38] [Server thread/INFO]: snypee[/[0:0:0:0:0:0:0:1]:30863] logged in with entity id 5122 at ([world]157.04483527865634, 81.0625, 385.69999998807907)
+[22:17:23] [Server thread/WARN]: snypee was kicked due to keepalive timeout!
+[22:17:23] [Server thread/INFO]: snypee lost connection: Timed out
+[22:17:23] [Server thread/INFO]: snypee left the game
+[22:18:36] [User Authenticator #6/INFO]: UUID of player snypee is b43ac269-6ae9-3fc6-9cfa-48dc4978aefc
+[22:18:36] [Server thread/INFO]: snypee joined the game
+[22:18:36] [Server thread/INFO]: snypee[/[0:0:0:0:0:0:0:1]:31228] logged in with entity id 5884 at ([world]157.04483527865634, 81.0625, 385.69999998807907)
+[22:19:06] [Server thread/INFO]: snypee lost connection: Disconnected
+[22:19:06] [Server thread/INFO]: snypee left the game
+[22:19:41] [User Authenticator #7/INFO]: UUID of player snypee is b43ac269-6ae9-3fc6-9cfa-48dc4978aefc
+[22:19:41] [Server thread/INFO]: snypee joined the game
+[22:19:41] [Server thread/INFO]: snypee[/[0:0:0:0:0:0:0:1]:31442] logged in with entity id 6474 at ([world]157.04483527865634, 81.0625, 385.69999998807907)
+[22:20:05] [Server thread/INFO]: snypee lost connection: Disconnected
+[22:20:05] [Server thread/INFO]: snypee left the game
+[22:20:36] [User Authenticator #7/INFO]: UUID of player snypee is b43ac269-6ae9-3fc6-9cfa-48dc4978aefc
+[22:20:36] [Server thread/INFO]: snypee joined the game
+[22:20:36] [Server thread/INFO]: snypee[/[0:0:0:0:0:0:0:1]:31667] logged in with entity id 7016 at ([world]157.04483527865634, 81.0625, 385.69999998807907)
+[22:21:02] [Server thread/INFO]: snypee lost connection: Disconnected
+[22:21:02] [Server thread/INFO]: snypee left the game
+[22:21:07] [User Authenticator #7/INFO]: UUID of player snypee is b43ac269-6ae9-3fc6-9cfa-48dc4978aefc
+[22:21:07] [Server thread/INFO]: snypee joined the game
+[22:21:07] [Server thread/INFO]: snypee[/[0:0:0:0:0:0:0:1]:31804] logged in with entity id 7422 at ([world]157.04483527865634, 81.0625, 385.69999998807907)
+[22:21:52] [Server thread/WARN]: snypee was kicked due to keepalive timeout!
+[22:21:52] [Server thread/INFO]: snypee lost connection: Timed out
+[22:21:52] [Server thread/INFO]: snypee left the game
+[22:23:02] [Server thread/INFO]: Stopping the server
+[22:23:03] [Server thread/INFO]: Stopping server
+[22:23:03] [Server thread/INFO]: Saving players
+[22:23:03] [Server thread/INFO]: OmkarSANAS lost connection: Server closed
+[22:23:03] [Server thread/INFO]: OmkarSANAS left the game
+[22:23:03] [Server thread/INFO]: Saving worlds
+[22:23:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:23:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[22:23:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[22:23:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:23:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:23:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:23:05] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22:23:06] [Server thread/INFO]: Flushing Chunk IO
+[22:23:06] [Server thread/INFO]: Closing Thread Pool
