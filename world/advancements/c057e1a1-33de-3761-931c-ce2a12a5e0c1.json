@@ -467,6 +467,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_slab": {
+    "criteria": {
+      "has_polished_diorite": "2022-01-26 00:33:41 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2022-01-23 13:05:39 +0530"
@@ -548,6 +554,7 @@
       "minecraft:slime": "2022-01-25 14:53:05 +0530",
       "minecraft:witch": "2022-01-25 00:14:31 +0530",
       "minecraft:cave_spider": "2022-01-24 17:36:54 +0530",
+      "minecraft:enderman": "2022-01-26 02:35:46 +0530",
       "minecraft:zombie": "2022-01-22 12:49:34 +0530",
       "minecraft:drowned": "2022-01-22 23:26:44 +0530",
       "minecraft:zombie_villager": "2022-01-22 23:48:26 +0530"
@@ -632,6 +639,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2022-01-26 00:33:41 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2022-01-22 14:07:01 +0530"
@@ -641,6 +654,12 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2022-01-22 12:43:46 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs": {
+    "criteria": {
+      "has_polished_diorite": "2022-01-26 00:33:41 +0530"
     },
     "done": true
   },
@@ -791,6 +810,12 @@
   "minecraft:recipes/misc/leather": {
     "criteria": {
       "has_rabbit_hide": "2022-01-24 00:48:40 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2022-01-26 00:33:41 +0530"
     },
     "done": true
   },
@@ -1565,6 +1590,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2022-01-26 00:59:16 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2022-01-22 13:28:59 +0530"
@@ -1606,6 +1637,7 @@
       "cooked_cod": "2022-01-23 00:17:19 +0530",
       "golden_apple": "2022-01-23 00:24:36 +0530",
       "bread": "2022-01-25 00:10:15 +0530",
+      "rotten_flesh": "2022-01-26 02:18:02 +0530",
       "melon_slice": "2022-01-22 23:35:57 +0530",
       "cooked_chicken": "2022-01-22 15:53:07 +0530",
       "cooked_salmon": "2022-01-23 00:57:33 +0530",
@@ -1832,6 +1864,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2022-01-22 12:43:46 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2022-01-26 00:59:16 +0530"
     },
     "done": true
   },
