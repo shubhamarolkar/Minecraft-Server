@@ -1,0 +1,211 @@
+#################################
+# Traduction des chaînes de temps
+#################################
+TIME_STRINGS:
+  DAY: 'jour'
+  DAYS: 'jours'
+  HOUR: 'heure'
+  HOUR_PLURAL: 'heures'
+  MINUTE: 'minute'
+  MINUTE_PLURAL: 'minutes'
+  SECOND: 'seconde'
+  SECOND_PLURAL: 'secondes'
+  UNLIMITED: 'temps illimité'
+  LESS_THAN_ONE: 'moins d''un'
+
+
+## SIGN_TEXT and DATE_FORMAT have been moved to config.yml
+
+
+########################
+# Messages personnalisés
+########################
+# Variable substitutions:
+# Variable substitutions:
+# %EXPIRATION_DURATION%           expiration duration with seconds
+# %EXPIRATION_DURATION_MINUTES%   expiration duration without seconds
+# %PROTECTION_DURATION%           protection duration with seconds
+# %PROTECTION_DURATION_MINUTES%   protection duration without seconds
+
+# %PLAYER%        Player name of message recipient
+# %OWNER%         Chest owner name (only available in messages that reference a valid chest object)
+# %KILLER%        Chest killer name (only available in messages that reference a valid chest object)
+# %VIEWER%        Chest viewer name
+# %PLUGIN%        Protection plugin name
+# %LOCATION%      Chest location formatted: world [x, y, z]
+#   The following substitutions are available in all messages that support %LOCATION%
+# %WORLD%         World name of chest (or player if no chest)
+# %LOC_X%         Chest coordinates (or player if no chest)
+# %LOC_Y%         Chest coordinates (or player if no chest)
+# %LOC_Z%         Chest coordinates (or player if no chest)
+
+# %PAGE_NUMBER%   List page number (only available in LIST_HEADER and LIST_FOOTER messages)
+# %PAGE_TOTAL%    List total page count (only available in LIST_HEADER and LIST_FOOTER messages)
+# %ITEM_NUMBER%   List item number (only available in list item messages)
+
+
+MESSAGES:
+  CHEST_SUCCESS:
+    enabled: true
+    string: '&cUn coffre contenant votre inventaire a été placé. Vous avez %EXPIRATION_DURATION% avant sa disparition.'
+
+  DOUBLECHEST_PARTIAL_SUCCESS:
+    enabled: true
+    string: '&cSeul un coffre peut être placé à l''endroit de votre mort. Certains items ont donc été éparpillés à terre.'
+    # available subs: %PLAYER%, %EXPIRATION_DURATION%, %EXPIRATION_DURATION_MINUTES%, %LOCATION%
+
+  CHEST_DEPLOYED_PROTECTION_TIME:
+    enabled: true
+    string: '&cLe coffre de la mort est protégé du pillage pendant %PROTECTION_DURATION_MINUTES%.'
+    # available subs: %OWNER%, %PROTECTION_DURATION%, %PROTECTION_DURATION_MINUTES%, %LOCATION%
+
+  CHEST_ACCESSED_PROTECTION_TIME:
+    enabled: true
+    repeat-delay: 1
+    string: '&cLe coffre de la mort appartenant à %OWNER% est protégé du pillage pendant %PROTECTION_DURATION_MINUTES%.'
+    # available subs: %OWNER%, %PROTECTION_DURATION%, %PROTECTION_DURATION_MINUTES%, %LOCATION%
+
+  CHEST_DENIED_PLUGIN:
+    enabled: true
+    string: '&cL''apparition du coffre contenant l''inventaire de votre mort a été empéché par %PLUGIN%.'
+
+  CHEST_DENIED_BLOCK:
+    enabled: true
+    string: '&cImpossible de placer le coffre contenant l''inventaire lors de votre mort.'
+
+  CHEST_DENIED_PERMISSION:
+    enabled: false
+    string: '&cVous n''avez pas la permission pour les coffres de mort.'
+
+  CHEST_DENIED_ADJACENT:
+    enabled: true
+    string: '&cLe déploiement dans la poitrine de la mort a été empêché par une poitrine adjacente existante.'
+
+  CHEST_DENIED_SPAWN_RADIUS:
+    enabled: true
+    string: '&cLe déploiement de la salle de la mort a été empêché par la protection d''origine mondiale.'
+
+  CHEST_DENIED_WORLD_DISABLED:
+    enabled: true
+    string: '&cLes coffres à mort ne sont pas activés dans ce monde.'
+
+  CHEST_DENIED_VOID:
+    enabled: true
+    string: '&cLe coffre à mort ne peut pas être déployé dans le vide.'
+
+
+  INVENTORY_EMPTY:
+    enabled: true
+    string: '&cVous aviez votre inventaire vide, aucun coffre n''a donc été placé.'
+
+  INVENTORY_FULL:
+    enabled: true
+    string: '&cCertains articles n''ont pas pu être transférés car votre inventaire est plein.'
+
+  NO_CHEST_IN_INVENTORY:
+    enabled: true
+    string: '&cLors de votre mort, vous n''aviez pas de coffre dans votre inventaire.'
+
+  NOT_OWNER:
+    enabled: true
+    string: '&cCe coffre de joueur mort ne vous appartient pas.'
+
+  CHEST_EXPIRED:
+    enabled: true
+    string: '&cVotre coffre contenant l''inventaire lors de votre mort vient de disparaître.'
+
+  CREATIVE_MODE:
+    enabled: true
+    string: '&cVotre inventaire du mode créatif n''est pas sauvegardé dans un coffre lors de votre mort.'
+
+  NO_CREATIVE_ACCESS:
+    enabled: true
+    string: '&cImpossible d''accéder aux coffres de joueurs mort en mode créatif.'
+
+  CHEST_CURRENTLY_OPEN:
+    enabled: true
+    string: '&cLe coffre contenant votre inventaire lors de votre mort est en train d''être ouvert par un autre joueur!'
+
+
+  COMMAND_FAIL_ARGS_COUNT_OVER:
+    enabled: true
+    string: '&cTrop de paramètres!'
+
+  COMMAND_FAIL_HELP_PERMISSION:
+    enabled: true
+    string: '&cVous n''êtes pas autorisé à afficher l''aide de DeathChest!'
+
+  COMMAND_FAIL_LIST_PERMISSION:
+    enabled: true
+    string: '&cVous n''avez pas la permission de lister DeathChests!'
+
+  COMMAND_FAIL_LIST_OTHER_PERMISSION:
+    enabled: true
+    string: '&cVous n''avez pas la permission de lister les DeathChests des autres joueurs!'
+
+  COMMAND_FAIL_RELOAD_PERMISSION:
+    enabled: true
+    string: '&cVous n''êtes pas autorisé à recharger la configuration DeathChest!'
+
+  COMMAND_FAIL_STATUS_PERMISSION:
+    enabled: true
+    string: '&cVous n''êtes pas autorisé à afficher les paramètres de DeathChest!'
+
+  COMMAND_SUCCESS_RELOAD:
+    enabled: true
+    string: '&7Configuration de DeathChest rechargée.'
+
+
+  COMMAND_HELP_HELP:
+    enabled: true
+    string: '&eAffiche l''aide pour les commandes DeathChest.'
+
+  COMMAND_HELP_LIST:
+    enabled: true
+    string: '&eAffiche une liste de tous les coffres de la mort.'
+
+  COMMAND_HELP_RELOAD:
+    enabled: true
+    string: '&eRecharge la configuration.'
+
+  COMMAND_HELP_STATUS:
+    enabled: true
+    string: '&eAffiche les paramètres de configuration.'
+
+  COMMAND_HELP_INVALID:
+    enabled: true
+    string: '&eCe n''est pas une commande valide.'
+
+  COMMAND_HELP_USAGE:
+    enabled: true
+    string: '&eUtilisation de la commande:'
+
+
+  LIST_HEADER:
+    enabled: true
+    string: '&3Page &b%PAGE_NUMBER%&3 of &b%PAGE_TOTAL%'
+
+  LIST_FOOTER:
+    enabled: false
+    string: '&3Page &b%PAGE_NUMBER%&3 of &b%PAGE_TOTAL%'
+
+  LIST_ITEM:
+    enabled: true
+    string: "%ITEM_NUMBER%) &aLocation:&b %LOCATION% &aKiller:&b %KILLER%\n
+    &aExpiration time:&b %EXPIRATION_DURATION% \n
+    &aProtection time:&b %PROTECTION_DURATION%"
+
+  LIST_ITEM_ALL:
+    enabled: true
+    string: "%ITEM_NUMBER%) &aOwner:&b %OWNER% &aKiller:&b %KILLER% \n
+    &aLocation:&b %LOCATION% \n
+    &aExpiration time:&b %EXPIRATION_DURATION% \n
+    &aProtection time:&b %PROTECTION_DURATION%"
+
+  LIST_EMPTY:
+    enabled: true
+    string: '&bThere are no DeathChests to list!'
+
+  LIST_PLAYER_NOT_FOUND:
+    enabled: true
+    string: '&3That player could not be found!'
