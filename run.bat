@@ -1,2 +1,2 @@
-java -Xmx2048M -Xms2048M -jar paper.jar nogui
+java -Xmx4096M -Xms4096M -jar paper.jar nogui
 PAUSE
