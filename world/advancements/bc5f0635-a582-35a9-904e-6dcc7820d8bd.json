@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2022-01-28 15:53:11 +0530"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_boots": "2022-01-26 00:29:22 +0530"
@@ -268,6 +274,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2022-01-28 15:49:17 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2022-01-26 00:36:15 +0530"
@@ -286,6 +298,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2022-01-28 15:53:11 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2022-01-26 00:29:50 +0530"
@@ -296,6 +314,7 @@
     "criteria": {
       "cooked_beef": "2022-01-26 00:27:20 +0530",
       "baked_potato": "2022-01-26 00:41:41 +0530",
+      "potato": "2022-01-28 15:53:38 +0530",
       "melon_slice": "2022-01-26 00:25:43 +0530"
     },
     "done": false
@@ -315,6 +334,12 @@
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2022-01-26 00:29:50 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2022-01-28 15:49:17 +0530"
     },
     "done": true
   },
@@ -363,6 +388,12 @@
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2022-01-26 00:29:50 +0530"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2022-01-28 15:56:18 +0530"
     },
     "done": true
   },
@@ -429,6 +460,12 @@
   "minecraft:recipes/building_blocks/melon": {
     "criteria": {
       "has_melon": "2022-01-26 00:25:28 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2022-01-28 15:49:17 +0530"
     },
     "done": true
   },
