@@ -1,122 +1,357 @@
-[00:07:23] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.28690525666374356
-[00:07:23] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.3531303078646886
-[00:07:26] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.39551836374124605
-[00:07:26] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.466898223848375
-[00:07:26] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.319583737901894
-[00:07:26] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.38991251260361537
-[00:07:26] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.4613757870796178
-[00:07:26] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.5313920597470201
-[00:07:26] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 1.0906629758358974
-[00:07:27] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.4781008843279153
-[00:07:28] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.4137062842647481
-[00:07:28] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.4673203351997586
-[00:07:49] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.4578128960804406
-[00:13:03] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.30713692030406037
-[00:13:53] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.3432139269740446
-[00:13:53] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.26570075366186074
-[00:13:53] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.33611929423022957
-[00:13:53] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.4065371561144957
-[00:13:53] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.47695516368372637
-[00:14:17] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.2563923140330644
-[00:14:17] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.2770502618964201
-[00:14:17] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.35740563484387167
-[00:14:17] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.4316407879940698
-[00:14:17] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.504123656895672
-[00:14:18] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.2903283872121847
-[00:14:18] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.3605362396021974
-[00:14:19] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.4307603473708923
-[00:14:21] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.4366121459737542
-[00:14:21] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.2586653953377436
-[00:14:21] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.3234789524101416
-[00:14:21] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.3947242203956307
-[00:26:08] [Server thread/INFO]: RohitSardeshmukh lost connection: Disconnected
-[00:26:08] [Server thread/INFO]: RohitSardeshmukh left the game
-[00:29:10] [Server thread/WARN]: watchtime was kicked for floating too long!
-[00:29:10] [Server thread/INFO]: watchtime lost connection: Flying is not enabled on this server
-[00:29:10] [Server thread/INFO]: watchtime left the game
-[00:29:13] [User Authenticator #6/INFO]: UUID of player watchtime is c057e1a1-33de-3761-931c-ce2a12a5e0c1
-[00:29:13] [Server thread/INFO]: watchtime joined the game
-[00:29:13] [Server thread/INFO]: watchtime[/127.0.0.1:1120] logged in with entity id 21453 at ([world]98.6767578125, 85.77160001635552, 335.6982421875)
-[00:29:19] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.2871176958609567
-[00:29:19] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.6970007337502437
-[00:29:19] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 1.183699037634915
-[00:29:19] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 1.4704490131493446
-[00:29:19] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 1.7523139893781716
-[00:29:19] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 2.029820799189308
-[00:29:19] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 1.2730826015181833
-[00:29:19] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 1.7807498157632722
-[00:30:11] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.41799873917187824
-[00:30:11] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.4812560201741576
-[00:30:11] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.4835529367978495
-[00:30:14] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.30446840977023726
-[00:30:14] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.377680999055201
-[00:30:14] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.44902445996834217
-[00:30:15] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.42429906945133666
-[00:39:34] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.4343492315184676
-[00:41:25] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.27796387226305797
-[00:41:56] [Server thread/INFO]: OmkarSANAS lost connection: Disconnected
-[00:41:56] [Server thread/INFO]: OmkarSANAS left the game
-[00:42:06] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.27916550823164243
-[00:42:06] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.504044496214135
-[00:42:06] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.5222466437163007
-[00:42:06] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.5306833783582192
-[00:42:06] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.5351977068547171
-[00:42:06] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.5553144410865798
-[00:42:06] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.5662384423872595
-[00:42:06] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.5741656775269917
-[00:42:06] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.578451294608044
-[00:42:06] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.5807737919851093
-[00:42:06] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.3642504557131474
-[00:43:15] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.26874717898044764
-[00:43:15] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.6812956151927096
-[00:43:31] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.3754802696770696
-[00:44:05] [Server thread/INFO]: watchtime was killed by Witch using magic
-[00:44:06] [Server thread/INFO]: Attempt to teleport removed player watchtime restricted
-[00:44:06] [Server thread/INFO]: Attempt to teleport removed player watchtime restricted
-[00:45:57] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.3240231871882031
-[00:45:57] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.39940540913238465
-[00:45:57] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.4721586126072168
-[00:46:05] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.3319946198453607
-[00:46:05] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.8631647047908899
-[00:46:05] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.34457128089159805
-[00:46:06] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.3727154913083268
-[00:46:06] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.4341348048210989
-[00:46:06] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.4553197928000259
-[00:46:06] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.3138216829825069
-[00:46:06] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.38560794933943043
-[00:46:07] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.39043868876376564
-[00:46:07] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.46221252790502376
-[00:46:07] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.3210817220502804
-[00:46:07] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.39285556088520934
-[00:46:07] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.46462939972298045
-[00:46:07] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.39285806438181226
-[00:46:08] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.4641524589816868
-[00:46:22] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.3911303214619011
-[00:46:22] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.4744661478690091
-[00:52:06] [Server thread/INFO]: watchtime lost connection: Disconnected
-[00:52:06] [Server thread/INFO]: watchtime left the game
-[00:52:17] [Server thread/INFO]: Saving the game (this may take a moment!)
-[00:52:18] [Server thread/INFO]: Saved the game
-[00:52:21] [Server thread/INFO]: Stopping the server
-[00:52:21] [Server thread/INFO]: Stopping server
-[00:52:21] [Server thread/INFO]: [LaggRemover] Disabling LaggRemover v2.0.6
-[00:52:21] [Server thread/INFO]: [LaggRemover] LaggRemover has been disabled!
-[00:52:21] [Server thread/INFO]: [SinglePlayerSleep] Disabling SinglePlayerSleep v1.13_2.13.46
-[00:52:21] [Server thread/INFO]: **************************************
-[00:52:21] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.46 is DISABLED
-[00:52:21] [Server thread/INFO]: **************************************
-[00:52:21] [Server thread/INFO]: [SavageDeathChest] Disabling SavageDeathChest v1.18.5
-[00:52:21] [Server thread/INFO]: [SavageDeathChest] SQLite datastore connection closed.
-[00:52:21] [Server thread/INFO]: [BlockProt] Disabling BlockProt v1.0.4
-[00:52:21] [Server thread/INFO]: Saving players
-[00:52:21] [Server thread/INFO]: Saving worlds
-[00:52:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[00:52:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[00:52:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[00:52:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:52:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:52:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:52:24] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[00:52:26] [Server thread/INFO]: Flushing Chunk IO
-[00:52:26] [Server thread/INFO]: Closing Thread Pool
-[00:52:26] [Server thread/INFO]: Closing Server
+[11:07:40] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[11:07:41] [ServerMain/INFO]: Reloading ResourceManager: Default, bukkit
+[11:07:42] [Worker-Main-2/INFO]: Loaded 7 recipes
+[11:07:43] [Server thread/INFO]: Starting minecraft server version 1.18.1
+[11:07:43] [Server thread/INFO]: Loading properties
+[11:07:43] [Server thread/INFO]: This server is running Paper version git-Paper-168 (MC: 1.18.1) (Implementing API version 1.18.1-R0.1-SNAPSHOT) (Git: dcca6cb)
+[11:07:43] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[11:07:43] [Server thread/INFO]: Using 4 threads for Netty based IO
+[11:07:43] [Server thread/INFO]: Default game type: SURVIVAL
+[11:07:43] [Server thread/INFO]: Generating keypair
+[11:07:43] [Server thread/INFO]: Starting Minecraft server on *:25565
+[11:07:43] [Server thread/INFO]: Using default channel type
+[11:07:43] [Server thread/INFO]: Paper: Using Java 11 compression from Velocity.
+[11:07:43] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
+[11:07:44] [Server thread/INFO]: [BlockProt] Loading BlockProt v1.0.4
+[11:07:44] [Server thread/INFO]: [SavageDeathChest] Loading SavageDeathChest v1.18.5
+[11:07:44] [Server thread/INFO]: [SinglePlayerSleep] Loading SinglePlayerSleep v1.13_2.13.46
+[11:07:44] [Server thread/INFO]: [LaggRemover] Loading LaggRemover v2.0.6
+[11:07:44] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[11:07:44] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[11:07:44] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[11:07:44] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[11:07:44] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[11:07:44] [Server thread/INFO]: Preparing level "world"
+[11:07:46] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[11:07:46] [Server thread/INFO]: Time elapsed: 326 ms
+[11:07:46] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[11:07:47] [Server thread/INFO]: Time elapsed: 87 ms
+[11:07:47] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[11:07:47] [Server thread/INFO]: Time elapsed: 75 ms
+[11:07:47] [Server thread/INFO]: [BlockProt] Enabling BlockProt v1.0.4
+[11:07:47] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Spigot: v1_18_R1! Trying to find NMS support
+[11:07:47] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_18_R1' loaded!
+[11:07:47] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Gson: class com.google.gson.Gson
+[11:07:47] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'BlockProt' to create a bStats instance!
+[11:07:47] [Server thread/INFO]: [SavageDeathChest] Enabling SavageDeathChest v1.18.5
+[11:07:47] [Server thread/INFO]: [SavageDeathChest] Language file en-US.yml successfully loaded.
+[11:07:47] [Server thread/INFO]: [SavageDeathChest] Sound file sounds.yml successfully loaded.
+[11:07:47] [Server thread/INFO]: [SavageDeathChest] SQLite datastore initialized.
+[11:07:47] [Server thread/INFO]: [SinglePlayerSleep] Enabling SinglePlayerSleep v1.13_2.13.46
+[11:07:47] [Server thread/INFO]: **************************************
+[11:07:47] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.46 Loading...
+[11:07:47] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.46 plugins\SinglePlayerSleep\config.yml
+[11:07:47] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.46 config.yml has been updated
+[11:07:47] [Server thread/INFO]: Checking for updates...
+[11:07:48] [Thread-7/WARN]: [NBTAPI] [NBTAPI] The NBT-API at 'package de.sean.blockprot.bukkit.shaded.nbtapi' seems to be a future Version, not yet released on Spigot/CurseForge!
+[11:07:48] [Thread-7/WARN]: [NBTAPI] [NBTAPI] Current Version: '2.9.0-SNAPSHOT' Newest Version: 2.8.0'
+[11:07:48] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.46 New version available! v1.13_2.13.47
+[11:07:48] [Server thread/INFO]: https://spigotmc.org/resources/68139
+[11:07:48] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.46 plugins\SinglePlayerSleep\permissions.yml
+[11:07:48] [Server thread/INFO]: **************************************
+[11:07:48] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.46 is ENABLED
+[11:07:48] [Server thread/INFO]: **************************************
+[11:07:48] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.46 This server is running Paper version git-Paper-168 (MC: 1.18.1) (Implementing API version 1.18.1-R0.1-SNAPSHOT)
+[11:07:48] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.46 vardebug=false debug=false in plugins\SinglePlayerSleep/config.yml
+[11:07:48] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.46 jarfilename=D:\Games\Minecraft Server\Minecraft-Server\plugins\SinglePlayerSleep-1.13_2.13.46.jar
+[11:07:48] [Server thread/INFO]: [LaggRemover] Enabling LaggRemover v2.0.6
+[11:07:48] [Server thread/INFO]: [LaggRemover] [STDOUT] 
+    __                      ____                                         _    _____
+   / /   ____ _____ _____ _/ __ \___  ____ ___  ____ _   _____  _____   | |  / /__ \
+  / /   / __ `/ __ `/ __ `/ /_/ / _ \/ __ `__ \/ __ \ | / / _ \/ ___/   | | / /__/ /
+ / /___/ /_/ / /_/ / /_/ / _, _/  __/ / / / / / /_/ / |/ /  __/ /       | |/ // __/
+/_____/\__,_/\__, /\__, /_/ |_|\___/_/ /_/ /_/\____/|___/\___/_/        |___//____/
+            /____//____/
+
+[11:07:48] [Server thread/WARN]: Nag author(s): '[drew6017]' of 'LaggRemover' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
+[11:07:48] [Server thread/INFO]: [LaggRemover] Loaded 0 module(s)
+[11:07:48] [Server thread/INFO]: [LaggRemover] The LaggRemover AI is now active!
+[11:07:48] [Server thread/INFO]: [LaggRemover] LaggRemover has been enabled!
+[11:07:48] [Server thread/INFO]: Running delayed init tasks
+[11:07:48] [Server thread/INFO]: Done (5.734s)! For help, type "help"
+[11:07:48] [Server thread/INFO]: Timings Reset
+[11:07:49] [Craft Scheduler Thread - 2 - BlockProt/INFO]: BlockProt is up to date. (1.0.4)
+[11:19:22] [User Authenticator #1/INFO]: UUID of player sneebville is fa43f407-1bf0-3939-bd2a-15b537bec3bf
+[11:19:23] [Server thread/INFO]: sneebville joined the game
+[11:19:23] [Server thread/INFO]: sneebville[/[0:0:0:0:0:0:0:1]:5668] logged in with entity id 144 at ([world]97.55042717075034, 89.0, 211.33995223157444)
+[11:23:07] [User Authenticator #2/INFO]: UUID of player Sarvesh11d is d9eea3e2-7ea1-3bb5-8b55-017f5a3c7319
+[11:23:08] [Server thread/INFO]: Sarvesh11d joined the game
+[11:23:08] [Server thread/INFO]: Sarvesh11d[/[0:0:0:0:0:0:0:1]:5690] logged in with entity id 1242 at ([world]106.71507771799841, 85.0, 319.7053589802483)
+[11:24:34] [Server thread/INFO]: Sarvesh11d lost connection: Disconnected
+[11:24:34] [Server thread/INFO]: Sarvesh11d left the game
+[11:24:38] [User Authenticator #3/INFO]: UUID of player Sarvesh11d is d9eea3e2-7ea1-3bb5-8b55-017f5a3c7319
+[11:24:38] [Server thread/INFO]: Sarvesh11d joined the game
+[11:24:38] [Server thread/INFO]: Sarvesh11d[/[0:0:0:0:0:0:0:1]:5694] logged in with entity id 1549 at ([world]101.28746715946944, 85.0, 320.69000699750234)
+[11:24:42] [Server thread/INFO]: Sarvesh11d lost connection: Disconnected
+[11:24:42] [Server thread/INFO]: Sarvesh11d left the game
+[11:24:45] [User Authenticator #3/INFO]: UUID of player Sarvesh11d is d9eea3e2-7ea1-3bb5-8b55-017f5a3c7319
+[11:24:45] [Server thread/INFO]: Sarvesh11d joined the game
+[11:24:46] [Server thread/INFO]: Sarvesh11d[/[0:0:0:0:0:0:0:1]:5695] logged in with entity id 1628 at ([world]101.28746715946944, 85.0, 320.69000699750234)
+[11:24:50] [Server thread/INFO]: Sarvesh11d lost connection: Disconnected
+[11:24:50] [Server thread/INFO]: Sarvesh11d left the game
+[11:25:00] [User Authenticator #3/INFO]: UUID of player Sarvesh11d is d9eea3e2-7ea1-3bb5-8b55-017f5a3c7319
+[11:25:00] [Server thread/INFO]: Sarvesh11d joined the game
+[11:25:00] [Server thread/INFO]: Sarvesh11d[/[0:0:0:0:0:0:0:1]:5696] logged in with entity id 1768 at ([world]101.28746715946944, 85.0, 320.69000699750234)
+[11:25:02] [Server thread/INFO]: Sarvesh11d lost connection: Disconnected
+[11:25:02] [Server thread/INFO]: Sarvesh11d left the game
+[11:25:18] [User Authenticator #3/INFO]: UUID of player Sarvesh11d is d9eea3e2-7ea1-3bb5-8b55-017f5a3c7319
+[11:25:19] [Server thread/INFO]: Sarvesh11d joined the game
+[11:25:19] [Server thread/INFO]: Sarvesh11d[/[0:0:0:0:0:0:0:1]:5703] logged in with entity id 1886 at ([world]101.28746715946944, 85.0, 320.69000699750234)
+[11:29:59] [User Authenticator #4/INFO]: UUID of player Sarvesh11d is d9eea3e2-7ea1-3bb5-8b55-017f5a3c7319
+[11:29:59] [Server thread/INFO]: Sarvesh11d lost connection: You logged in from another location
+[11:29:59] [Server thread/INFO]: Sarvesh11d left the game
+[11:29:59] [Server thread/INFO]: Sarvesh11d joined the game
+[11:29:59] [Server thread/INFO]: Sarvesh11d[/[0:0:0:0:0:0:0:1]:5714] logged in with entity id 3013 at ([world]100.8934211291205, 85.0, 318.97539681671645)
+[11:30:27] [Async Chat Thread - #0/INFO]: <Sarvesh11d> ???
+[11:31:21] [User Authenticator #5/INFO]: UUID of player Sarvesh11d is d9eea3e2-7ea1-3bb5-8b55-017f5a3c7319
+[11:31:21] [Server thread/INFO]: Sarvesh11d lost connection: You logged in from another location
+[11:31:21] [Server thread/INFO]: Sarvesh11d left the game
+[11:31:21] [Server thread/INFO]: Sarvesh11d joined the game
+[11:31:21] [Server thread/INFO]: Sarvesh11d[/[0:0:0:0:0:0:0:1]:5718] logged in with entity id 3398 at ([world]123.9377176054083, 68.0, 331.4376321278364)
+[11:31:22] [Server thread/INFO]: Sarvesh11d lost connection: Disconnected
+[11:31:22] [Server thread/INFO]: Sarvesh11d left the game
+[11:31:25] [User Authenticator #5/INFO]: UUID of player Sarvesh11d is d9eea3e2-7ea1-3bb5-8b55-017f5a3c7319
+[11:31:25] [Server thread/INFO]: Sarvesh11d joined the game
+[11:31:25] [Server thread/INFO]: Sarvesh11d[/[0:0:0:0:0:0:0:1]:5719] logged in with entity id 3468 at ([world]123.9377176054083, 68.0, 331.4376321278364)
+[11:42:17] [Server thread/INFO]: Sarvesh11d lost connection: Disconnected
+[11:42:17] [Server thread/INFO]: Sarvesh11d left the game
+[11:43:20] [User Authenticator #6/INFO]: UUID of player RohitSardeshmukh is ae640622-7e93-37c5-9dc3-158c765c9327
+[11:43:21] [Server thread/INFO]: RohitSardeshmukh joined the game
+[11:43:21] [Server thread/INFO]: RohitSardeshmukh[/[0:0:0:0:0:0:0:1]:1093] logged in with entity id 6197 at ([world]165.75212958682917, 78.875, 390.9773238262505)
+[11:43:50] [User Authenticator #6/INFO]: UUID of player watchtime is c057e1a1-33de-3761-931c-ce2a12a5e0c1
+[11:43:50] [Server thread/INFO]: watchtime joined the game
+[11:43:50] [Server thread/INFO]: watchtime[/127.0.0.1:1108] logged in with entity id 6449 at ([world]96.93642649996086, 85.0, 315.77460242189306)
+[11:43:55] [Async Chat Thread - #1/INFO]: <sneebville> hater
+[11:43:56] [User Authenticator #6/INFO]: UUID of player Sarvesh11d is d9eea3e2-7ea1-3bb5-8b55-017f5a3c7319
+[11:43:56] [Server thread/INFO]: Sarvesh11d joined the game
+[11:43:56] [Server thread/INFO]: Sarvesh11d[/[0:0:0:0:0:0:0:1]:1110] logged in with entity id 6472 at ([world]101.41805143503512, 63.0, 407.3094087987114)
+[11:44:17] [Async Chat Thread - #1/INFO]: <watchtime> hello
+[11:44:38] [Async Chat Thread - #1/INFO]: <sneebville> hi
+[11:45:44] [Server thread/INFO]: Sarvesh11d lost connection: Disconnected
+[11:45:44] [Server thread/INFO]: Sarvesh11d left the game
+[11:45:46] [User Authenticator #7/INFO]: UUID of player Sarvesh11d is d9eea3e2-7ea1-3bb5-8b55-017f5a3c7319
+[11:45:46] [Server thread/INFO]: Sarvesh11d joined the game
+[11:45:47] [Server thread/INFO]: Sarvesh11d[/[0:0:0:0:0:0:0:1]:1119] logged in with entity id 7022 at ([world]76.1769718823908, 63.0, 426.3949252112113)
+[11:45:48] [Server thread/INFO]: Sarvesh11d lost connection: Disconnected
+[11:45:48] [Server thread/INFO]: Sarvesh11d left the game
+[11:46:01] [User Authenticator #7/INFO]: UUID of player Sarvesh11d is d9eea3e2-7ea1-3bb5-8b55-017f5a3c7319
+[11:46:01] [Server thread/INFO]: Sarvesh11d joined the game
+[11:46:01] [Server thread/INFO]: Sarvesh11d[/[0:0:0:0:0:0:0:1]:1125] logged in with entity id 7042 at ([world]76.1769718823908, 63.0, 426.3949252112113)
+[11:46:38] [Server thread/INFO]: Sarvesh11d lost connection: Disconnected
+[11:46:38] [Server thread/INFO]: Sarvesh11d left the game
+[11:46:51] [User Authenticator #7/INFO]: UUID of player Sarvesh11d is d9eea3e2-7ea1-3bb5-8b55-017f5a3c7319
+[11:46:51] [Server thread/INFO]: Sarvesh11d joined the game
+[11:46:51] [Server thread/INFO]: Sarvesh11d[/[0:0:0:0:0:0:0:1]:1132] logged in with entity id 7251 at ([world]78.01249998807907, 66.0, 408.2749542702086)
+[11:54:44] [Async Chat Thread - #2/INFO]: <watchtime> place saddle on horse
+[11:54:46] [Async Chat Thread - #2/INFO]: <watchtime> come
+[11:55:06] [Async Chat Thread - #2/INFO]: <sneebville> brb
+[11:55:10] [Async Chat Thread - #2/INFO]: <watchtime> ok
+[11:55:19] [Server thread/INFO]: Sarvesh11d has made the advancement [Sweet Dreams]
+[11:59:44] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.25600000561550473
+[12:00:26] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.3106978323984606
+[12:00:26] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.3824432004230971
+[12:00:26] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.4560806084452622
+[12:00:27] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.25363631633743466
+[12:00:27] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.4240515047307838
+[12:00:27] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.49853521784245913
+[12:00:27] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.2964701560026697
+[12:00:27] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.37095389048866423
+[12:00:27] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.44540777337849136
+[12:00:28] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.37070863083928884
+[12:00:28] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.4443385564970015
+[12:07:07] [Server thread/INFO]: sneebville lost connection: Disconnected
+[12:07:07] [Server thread/INFO]: sneebville left the game
+[12:08:08] [Server thread/INFO]: watchtime issued server command: /gamemode creative
+[12:08:08] [Server thread/INFO]: [watchtime: Set own game mode to Creative Mode]
+[12:12:29] [Server thread/INFO]: Sarvesh11d lost connection: Disconnected
+[12:12:29] [Server thread/INFO]: Sarvesh11d left the game
+[12:12:32] [User Authenticator #8/INFO]: UUID of player Sarvesh11d is d9eea3e2-7ea1-3bb5-8b55-017f5a3c7319
+[12:12:32] [Server thread/INFO]: Sarvesh11d joined the game
+[12:12:32] [Server thread/INFO]: Sarvesh11d[/[0:0:0:0:0:0:0:1]:1211] logged in with entity id 14554 at ([world]127.78623326542667, 79.0, 409.7360829651733)
+[12:23:58] [User Authenticator #9/INFO]: UUID of player Sarvesh11d is d9eea3e2-7ea1-3bb5-8b55-017f5a3c7319
+[12:23:59] [Server thread/INFO]: Sarvesh11d lost connection: You logged in from another location
+[12:23:59] [Server thread/INFO]: Sarvesh11d left the game
+[12:23:59] [Server thread/INFO]: Sarvesh11d joined the game
+[12:23:59] [Server thread/INFO]: Sarvesh11d[/[0:0:0:0:0:0:0:1]:17573] logged in with entity id 18574 at ([world]115.81077182848824, 77.0, 432.54377834751773)
+[12:23:59] [Server thread/INFO]: Sarvesh11d lost connection: Disconnected
+[12:23:59] [Server thread/INFO]: Sarvesh11d left the game
+[12:24:22] [User Authenticator #9/INFO]: UUID of player Sarvesh11d is d9eea3e2-7ea1-3bb5-8b55-017f5a3c7319
+[12:24:22] [Server thread/INFO]: Sarvesh11d joined the game
+[12:24:22] [Server thread/INFO]: Sarvesh11d[/[0:0:0:0:0:0:0:1]:17583] logged in with entity id 18689 at ([world]115.81077182848824, 77.0, 432.54377834751773)
+[12:25:23] [User Authenticator #10/INFO]: UUID of player Sarvesh11d is d9eea3e2-7ea1-3bb5-8b55-017f5a3c7319
+[12:25:23] [Server thread/INFO]: Sarvesh11d lost connection: You logged in from another location
+[12:25:23] [Server thread/INFO]: Sarvesh11d left the game
+[12:25:23] [Server thread/INFO]: Sarvesh11d joined the game
+[12:25:24] [Server thread/INFO]: Sarvesh11d[/[0:0:0:0:0:0:0:1]:17587] logged in with entity id 18990 at ([world]112.41197896167024, 77.0, 429.4978453211311)
+[12:28:07] [User Authenticator #11/INFO]: UUID of player sneebville is fa43f407-1bf0-3939-bd2a-15b537bec3bf
+[12:28:07] [Server thread/INFO]: sneebville joined the game
+[12:28:07] [Server thread/INFO]: sneebville[/[0:0:0:0:0:0:0:1]:17594] logged in with entity id 19809 at ([world]180.1448402545247, 76.0, 222.9160686091824)
+[12:29:14] [Async Chat Thread - #3/INFO]: <sneebville> gotiya
+[12:30:13] [Server thread/INFO]: watchtime issued server command: /gamemode survival
+[12:30:13] [Server thread/INFO]: [watchtime: Set own game mode to Survival Mode]
+[12:32:19] [Async Chat Thread - #4/INFO]: <sneebville> change song pls
+[12:32:50] [Server thread/INFO]: watchtime issued server command: /gamemode creative
+[12:32:50] [Server thread/INFO]: [watchtime: Set own game mode to Creative Mode]
+[12:34:22] [Async Chat Thread - #5/INFO]: <sneebville> why is there no fish in the water
+[12:34:30] [Async Chat Thread - #5/INFO]: <watchtime> which watewr
+[12:34:51] [Async Chat Thread - #5/INFO]: <sneebville> the one near ur houses
+[12:34:58] [Async Chat Thread - #5/INFO]: <watchtime> hunted to extinction
+[12:35:04] [Async Chat Thread - #5/INFO]: <sneebville> stares
+[12:35:07] [Async Chat Thread - #5/INFO]: <sneebville> gotiya
+[12:35:15] [Async Chat Thread - #5/INFO]: <watchtime> shut up
+[12:35:29] [Async Chat Thread - #5/INFO]: <sneebville> where to get fish now
+[12:36:12] [Async Chat Thread - #5/INFO]: <sneebville> any fish
+[12:36:31] [Async Chat Thread - #5/INFO]: <sneebville> near my horse
+[12:36:47] [Async Chat Thread - #5/INFO]: <sneebville> whos playlist is this
+[12:36:50] [Async Chat Thread - #5/INFO]: <watchtime> rohit
+[12:36:55] [Async Chat Thread - #5/INFO]: <sneebville> is he good
+[12:37:21] [Server thread/INFO]: sneebville has made the advancement [Tactical Fishing]
+[12:38:49] [Async Chat Thread - #6/INFO]: <sneebville> how to make fish fuck
+[12:38:55] [Async Chat Thread - #6/INFO]: <watchtime> you cant
+[12:38:58] [Async Chat Thread - #6/INFO]: <sneebville> man
+[12:41:14] [Async Chat Thread - #7/INFO]: <RohitSardeshmukh> servesh calling u noob
+[12:41:22] [Async Chat Thread - #7/INFO]: <Sarvesh11d> nope
+[12:41:23] [Async Chat Thread - #7/INFO]: <RohitSardeshmukh> sarvesh*
+[12:41:41] [Async Chat Thread - #7/INFO]: <sneebville> which is his house
+[12:42:16] [Async Chat Thread - #7/INFO]: <Sarvesh11d> they asked me to say that
+[12:42:30] [Async Chat Thread - #7/INFO]: <sneebville> which is rohits house
+[12:42:43] [Async Chat Thread - #7/INFO]: <Sarvesh11d> hahaha
+[12:43:45] [Async Chat Thread - #8/INFO]: <sneebville> where sarvesh
+[12:43:48] [Async Chat Thread - #8/INFO]: <sneebville> come out
+[12:44:01] [Async Chat Thread - #8/INFO]: <Sarvesh11d> m near lava
+[12:44:48] [Async Chat Thread - #8/INFO]: <sneebville> this house sucks
+[12:44:59] [Async Chat Thread - #8/INFO]: <sneebville> beside the lava
+[12:45:22] [Async Chat Thread - #8/INFO]: <watchtime> the black one?
+[12:45:29] [Async Chat Thread - #8/INFO]: <sneebville> no
+[12:45:38] [Async Chat Thread - #8/INFO]: <sneebville> it doesnt even have a house structure
+[12:45:40] [Server thread/INFO]: watchtime issued server command: /gamemode survival
+[12:45:40] [Server thread/INFO]: [watchtime: Set own game mode to Survival Mode]
+[12:45:42] [Async Chat Thread - #8/INFO]: <sneebville> embarrassing
+[12:46:20] [Async Chat Thread - #8/INFO]: <sneebville> who is listening to this song ?
+[12:46:24] [Async Chat Thread - #8/INFO]: <watchtime> us
+[12:46:33] [Async Chat Thread - #8/INFO]: <RohitSardeshmukh> sys
+[12:46:34] [Async Chat Thread - #8/INFO]: <watchtime> sus
+[12:46:36] [Async Chat Thread - #8/INFO]: <RohitSardeshmukh> sus
+[12:46:40] [Async Chat Thread - #8/INFO]: <sneebville> gotiya
+[12:46:43] [Async Chat Thread - #8/INFO]: <watchtime> sus admin
+[12:48:00] [Server thread/INFO]: watchtime issued server command: /spscancel
+[12:48:15] [Server thread/INFO]: RohitSardeshmukh issued server command: /spscancel
+[12:48:31] [Server thread/INFO]: sneebville issued server command: /spscancel
+[12:49:27] [Async Chat Thread - #9/INFO]: <sneebville> rainbow
+[12:49:34] [Async Chat Thread - #9/INFO]: <watchtime> exactly
+[12:49:50] [Server thread/INFO]: watchtime issued server command: /gamemode creative
+[12:49:50] [Server thread/INFO]: [watchtime: Set own game mode to Creative Mode]
+[12:51:01] [Async Chat Thread - #10/INFO]: <sneebville> rohit is one direction stan?
+[12:51:05] [Async Chat Thread - #10/INFO]: <watchtime> yes
+[12:52:56] [Async Chat Thread - #11/INFO]: <RohitSardeshmukh> zingur
+[12:53:02] [Async Chat Thread - #11/INFO]: <watchtime> niggur
+[12:53:05] [Async Chat Thread - #11/INFO]: <RohitSardeshmukh> zhingur
+[12:53:09] [Async Chat Thread - #11/INFO]: <sneebville> nigga cat
+[12:53:14] [Async Chat Thread - #11/INFO]: <watchtime> racis
+[12:53:17] [Async Chat Thread - #11/INFO]: <watchtime> banned
+[13:00:45] [Async Chat Thread - #12/INFO]: <sneebville> what r u guys doing
+[13:00:56] [Server thread/INFO]: RohitSardeshmukh lost connection: Disconnected
+[13:00:56] [Server thread/INFO]: RohitSardeshmukh left the game
+[13:01:14] [Async Chat Thread - #12/INFO]: <Sarvesh11d> destroying mountain
+[13:01:23] [Async Chat Thread - #12/INFO]: <sneebville> which
+[13:01:31] [Async Chat Thread - #12/INFO]: <Sarvesh11d> near lava
+[13:04:49] [Server thread/INFO]: watchtime issued server command: /gamemode survival
+[13:04:49] [Server thread/INFO]: [watchtime: Set own game mode to Survival Mode]
+[13:06:18] [Async Chat Thread - #13/INFO]: <watchtime> lets go nether come
+[13:06:31] [Async Chat Thread - #13/INFO]: <sneebville> im standing outside portal
+[13:08:18] [Async Chat Thread - #14/INFO]: <Sarvesh11d> help me cleaning this shit bro
+[13:08:25] [Async Chat Thread - #14/INFO]: <sneebville> wait
+[13:08:37] [Async Chat Thread - #14/INFO]: <sneebville> red
+[13:09:11] [Async Chat Thread - #14/INFO]: <sneebville> dont like the color
+[13:11:34] [Async Chat Thread - #15/INFO]: <sneebville> howto mine the yellow glowy one
+[13:11:41] [Async Chat Thread - #15/INFO]: <watchtime> axe
+[13:12:56] [User Authenticator #12/INFO]: UUID of player RohitSardeshmukh is ae640622-7e93-37c5-9dc3-158c765c9327
+[13:12:56] [Server thread/INFO]: RohitSardeshmukh joined the game
+[13:12:56] [Server thread/INFO]: RohitSardeshmukh[/[0:0:0:0:0:0:0:1]:31061] logged in with entity id 36276 at ([world]158.28470536896998, 85.0, 384.0223498510979)
+[13:13:02] [Server thread/INFO]: Sarvesh11d lost connection: Disconnected
+[13:13:02] [Server thread/INFO]: Sarvesh11d left the game
+[13:13:05] [User Authenticator #12/INFO]: UUID of player Sarvesh11d is d9eea3e2-7ea1-3bb5-8b55-017f5a3c7319
+[13:13:05] [Server thread/INFO]: Sarvesh11d joined the game
+[13:13:05] [Server thread/INFO]: Sarvesh11d[/[0:0:0:0:0:0:0:1]:31063] logged in with entity id 36318 at ([world]109.82414516344177, 82.33226489655115, 431.4886580894475)
+[13:14:06] [Server thread/INFO]: Sarvesh11d lost connection: Disconnected
+[13:14:06] [Server thread/INFO]: Sarvesh11d left the game
+[13:14:09] [User Authenticator #13/INFO]: UUID of player Sarvesh11d is d9eea3e2-7ea1-3bb5-8b55-017f5a3c7319
+[13:14:09] [Server thread/INFO]: Sarvesh11d joined the game
+[13:14:09] [Server thread/INFO]: Sarvesh11d[/[0:0:0:0:0:0:0:1]:31070] logged in with entity id 36655 at ([world]122.71860469275195, 77.0, 426.24800726200675)
+[13:18:14] [Async Chat Thread - #16/INFO]: <sneebville> home
+[13:18:33] [Async Chat Thread - #16/INFO]: <watchtime> did u get what u need
+[13:19:00] [Server thread/INFO]: watchtime issued server command: /gamemode creative
+[13:19:00] [Server thread/INFO]: [watchtime: Set own game mode to Creative Mode]
+[13:22:45] [Server thread/INFO]: Sarvesh11d was shot by watchtime
+[13:22:51] [Server thread/INFO]: Sarvesh11d lost connection: Disconnected
+[13:22:51] [Server thread/INFO]: Sarvesh11d left the game
+[13:22:55] [User Authenticator #14/INFO]: UUID of player Sarvesh11d is d9eea3e2-7ea1-3bb5-8b55-017f5a3c7319
+[13:22:55] [Server thread/INFO]: Sarvesh11d joined the game
+[13:22:55] [Server thread/INFO]: Sarvesh11d[/[0:0:0:0:0:0:0:1]:31102] logged in with entity id 40108 at ([world]108.5, 71.875, 418.5)
+[13:22:56] [Server thread/INFO]: Sarvesh11d lost connection: Disconnected
+[13:22:56] [Server thread/INFO]: Sarvesh11d left the game
+[13:23:42] [User Authenticator #14/INFO]: UUID of player Sarvesh11d is d9eea3e2-7ea1-3bb5-8b55-017f5a3c7319
+[13:23:42] [Server thread/INFO]: Sarvesh11d joined the game
+[13:23:42] [Server thread/INFO]: Sarvesh11d[/[0:0:0:0:0:0:0:1]:31119] logged in with entity id 40272 at ([world]108.5, 71.875, 418.5)
+[13:23:43] [Server thread/INFO]: Sarvesh11d lost connection: Disconnected
+[13:23:43] [Server thread/INFO]: Sarvesh11d left the game
+[13:23:46] [User Authenticator #14/INFO]: UUID of player Sarvesh11d is d9eea3e2-7ea1-3bb5-8b55-017f5a3c7319
+[13:23:46] [Server thread/INFO]: Sarvesh11d joined the game
+[13:23:46] [Server thread/INFO]: Sarvesh11d[/[0:0:0:0:0:0:0:1]:31120] logged in with entity id 40350 at ([world]108.5, 71.875, 418.5)
+[13:23:55] [Server thread/INFO]: Sarvesh11d lost connection: Disconnected
+[13:23:55] [Server thread/INFO]: Sarvesh11d left the game
+[13:23:58] [User Authenticator #14/INFO]: UUID of player Sarvesh11d is d9eea3e2-7ea1-3bb5-8b55-017f5a3c7319
+[13:23:58] [Server thread/INFO]: Sarvesh11d joined the game
+[13:23:58] [Server thread/INFO]: Sarvesh11d[/[0:0:0:0:0:0:0:1]:31121] logged in with entity id 40441 at ([world]108.5, 71.875, 418.5)
+[13:24:01] [Server thread/INFO]: Sarvesh11d lost connection: Disconnected
+[13:24:01] [Server thread/INFO]: Sarvesh11d left the game
+[13:24:05] [User Authenticator #14/INFO]: UUID of player Sarvesh11d is d9eea3e2-7ea1-3bb5-8b55-017f5a3c7319
+[13:24:05] [Server thread/INFO]: Sarvesh11d joined the game
+[13:24:05] [Server thread/INFO]: Sarvesh11d[/[0:0:0:0:0:0:0:1]:31122] logged in with entity id 40477 at ([world]108.5, 71.875, 418.5)
+[13:25:51] [Server thread/INFO]: RohitSardeshmukh lost connection: Disconnected
+[13:25:51] [Server thread/INFO]: RohitSardeshmukh left the game
+[13:25:53] [Server thread/INFO]: Sarvesh11d lost connection: Disconnected
+[13:25:53] [Server thread/INFO]: Sarvesh11d left the game
+[13:53:03] [User Authenticator #15/INFO]: UUID of player RohitSardeshmukh is ae640622-7e93-37c5-9dc3-158c765c9327
+[13:53:03] [Server thread/INFO]: RohitSardeshmukh joined the game
+[13:53:03] [Server thread/INFO]: RohitSardeshmukh[/[0:0:0:0:0:0:0:1]:31191] logged in with entity id 46651 at ([world]75.33371989846322, 65.0, 384.5636754696259)
+[14:01:26] [Server thread/WARN]: RohitSardeshmukh moved wrongly!
+[14:13:57] [Async Chat Thread - #17/INFO]: <sneebville> madhav let me in
+[14:14:22] [Async Chat Thread - #17/INFO]: <watchtime> what
+[14:14:26] [Async Chat Thread - #17/INFO]: <sneebville> ok
+[14:14:39] [Async Chat Thread - #17/INFO]: <watchtime> im renovating
+[14:20:35] [Server thread/INFO]: watchtime issued server command: /gamemode survival
+[14:20:35] [Server thread/INFO]: [watchtime: Set own game mode to Survival Mode]
+[14:23:36] [Async Chat Thread - #18/INFO]: <sneebville> wya
+[14:31:59] [Server thread/INFO]: sneebville lost connection: Disconnected
+[14:31:59] [Server thread/INFO]: sneebville left the game
+[14:34:04] [Server thread/INFO]: watchtime issued server command: /gamemode creative
+[14:34:04] [Server thread/INFO]: [watchtime: Set own game mode to Creative Mode]
+[14:50:53] [Server thread/INFO]: RohitSardeshmukh lost connection: Disconnected
+[14:50:54] [Server thread/INFO]: RohitSardeshmukh left the game
+[14:51:12] [Server thread/INFO]: watchtime lost connection: Disconnected
+[14:51:12] [Server thread/INFO]: watchtime left the game
+[14:51:32] [Server thread/INFO]: Saving the game (this may take a moment!)
+[14:51:32] [Server thread/INFO]: Saved the game
+[14:51:35] [Server thread/INFO]: Stopping the server
+[14:51:35] [Server thread/INFO]: Stopping server
+[14:51:35] [Server thread/INFO]: [LaggRemover] Disabling LaggRemover v2.0.6
+[14:51:35] [Server thread/INFO]: [LaggRemover] LaggRemover has been disabled!
+[14:51:35] [Server thread/INFO]: [SinglePlayerSleep] Disabling SinglePlayerSleep v1.13_2.13.46
+[14:51:35] [Server thread/INFO]: **************************************
+[14:51:35] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.46 is DISABLED
+[14:51:35] [Server thread/INFO]: **************************************
+[14:51:35] [Server thread/INFO]: [SavageDeathChest] Disabling SavageDeathChest v1.18.5
+[14:51:35] [Server thread/INFO]: [SavageDeathChest] SQLite datastore connection closed.
+[14:51:35] [Server thread/INFO]: [BlockProt] Disabling BlockProt v1.0.4
+[14:51:35] [Server thread/INFO]: Saving players
+[14:51:35] [Server thread/INFO]: Saving worlds
+[14:51:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[14:51:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[14:51:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[14:51:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14:51:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14:51:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14:51:35] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[14:51:37] [Server thread/INFO]: Flushing Chunk IO
+[14:51:37] [Server thread/INFO]: Closing Thread Pool
