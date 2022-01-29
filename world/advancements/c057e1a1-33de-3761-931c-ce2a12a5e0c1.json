@@ -215,6 +215,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_the_recipe": "2022-01-30 01:43:53 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2022-01-22 12:36:08 +0530"
@@ -1010,6 +1016,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2022-01-30 01:12:35 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_acacia_wood": {
     "criteria": {
       "has_log": "2022-01-26 15:55:12 +0530"
@@ -1367,6 +1379,12 @@
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2022-01-22 20:53:03 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2022-01-30 01:12:35 +0530"
     },
     "done": true
   },
@@ -2917,6 +2935,12 @@
   "minecraft:recipes/redstone/acacia_trapdoor": {
     "criteria": {
       "has_planks": "2022-01-22 12:34:42 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2022-01-30 01:12:35 +0530"
     },
     "done": true
   },
