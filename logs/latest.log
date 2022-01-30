@@ -1,89 +1,399 @@
-[00:02:13] [User Authenticator #2/INFO]: UUID of player DbaBlu is ff0bd1a6-70f0-331c-8949-21e78ff3f8fb
-[00:02:13] [Server thread/INFO]: DbaBlu joined the game
-[00:02:13] [Server thread/INFO]: DbaBlu[/[0:0:0:0:0:0:0:1]:10038] logged in with entity id 1176 at ([world]72.19004314645711, 72.0, 372.27692049980567)
-[00:03:10] [User Authenticator #2/INFO]: UUID of player RohitSardeshmukh is ae640622-7e93-37c5-9dc3-158c765c9327
-[00:03:10] [Server thread/INFO]: RohitSardeshmukh joined the game
-[00:03:10] [Server thread/INFO]: RohitSardeshmukh[/[0:0:0:0:0:0:0:1]:10044] logged in with entity id 1356 at ([world]155.5, 85.0, 385.5)
-[00:08:57] [Server thread/INFO]: DbaBlu has made the advancement [Acquire Hardware]
-[00:23:53] [Server thread/INFO]: watchtime lost connection: Disconnected
-[00:23:53] [Server thread/INFO]: watchtime left the game
-[00:23:53] [Server thread/INFO]: DbaBlu lost connection: Disconnected
-[00:23:53] [Server thread/INFO]: DbaBlu left the game
-[00:23:53] [Server thread/INFO]: RohitSardeshmukh lost connection: Disconnected
-[00:23:53] [Server thread/INFO]: RohitSardeshmukh left the game
-[00:24:11] [Server thread/INFO]: cr0n0s69 lost connection: Disconnected
-[00:24:11] [Server thread/INFO]: cr0n0s69 left the game
-[00:40:30] [User Authenticator #3/INFO]: UUID of player cr0n0s69 is ace33f99-a894-3d26-814e-bb4eee675f63
-[00:40:30] [Server thread/INFO]: cr0n0s69 joined the game
-[00:40:30] [Server thread/INFO]: cr0n0s69[/127.0.0.1:27535] logged in with entity id 8154 at ([world]98.1027029392462, 84.5, 303.91831407717535)
-[00:41:47] [User Authenticator #4/INFO]: UUID of player watchtime is c057e1a1-33de-3761-931c-ce2a12a5e0c1
-[00:41:47] [Server thread/INFO]: watchtime joined the game
-[00:41:47] [Server thread/INFO]: watchtime[/[0:0:0:0:0:0:0:1]:27548] logged in with entity id 8785 at ([world]-1.5144881500647562, 66.0, 108.77438742124527)
-[00:43:26] [User Authenticator #5/INFO]: UUID of player snypee is b43ac269-6ae9-3fc6-9cfa-48dc4978aefc
-[00:43:26] [Server thread/INFO]: snypee joined the game
-[00:43:26] [Server thread/INFO]: snypee[/[0:0:0:0:0:0:0:1]:27553] logged in with entity id 9229 at ([world]74.44097258370637, 66.0, 375.4129659103647)
-[00:48:20] [User Authenticator #6/INFO]: UUID of player DbaBlu is ff0bd1a6-70f0-331c-8949-21e78ff3f8fb
-[00:48:21] [Server thread/INFO]: DbaBlu joined the game
-[00:48:21] [Server thread/INFO]: DbaBlu[/[0:0:0:0:0:0:0:1]:17591] logged in with entity id 10691 at ([world]185.28645319001177, 76.0, 267.34137300082494)
-[00:55:29] [Server thread/INFO]: DbaBlu has made the advancement [Suit Up]
-[00:58:51] [Server thread/INFO]: DbaBlu has made the advancement [We Need to Go Deeper]
-[01:01:10] [Server thread/INFO]: watchtime issued server command: /spscancel
-[01:24:11] [Server thread/INFO]: snypee has made the advancement [A Terrible Fortress]
-[01:24:15] [Server thread/INFO]: DbaBlu has made the advancement [A Terrible Fortress]
-[01:25:40] [Server thread/INFO]: snypee has made the advancement [Into Fire]
-[01:28:39] [Server thread/INFO]: snypee has completed the challenge [Hot Tourist Destinations]
-[01:29:28] [Server thread/INFO]: DbaBlu has made the advancement [Not Today, Thank You]
-[01:31:19] [Server thread/INFO]: watchtime lost connection: Disconnected
-[01:31:19] [Server thread/INFO]: watchtime left the game
-[01:40:59] [Server thread/INFO]: DbaBlu has made the advancement [Diamonds!]
-[01:41:55] [Server thread/INFO]: cr0n0s69 lost connection: Disconnected
-[01:41:55] [Server thread/INFO]: cr0n0s69 left the game
-[01:42:29] [User Authenticator #7/INFO]: UUID of player watchtime is c057e1a1-33de-3761-931c-ce2a12a5e0c1
-[01:42:29] [Server thread/INFO]: watchtime joined the game
-[01:42:29] [Server thread/INFO]: watchtime[/[0:0:0:0:0:0:0:1]:1034] logged in with entity id 34517 at ([world]77.48750001192093, 85.0, 318.69999998807907)
-[01:46:55] [User Authenticator #8/INFO]: UUID of player cr0n0s69 is ace33f99-a894-3d26-814e-bb4eee675f63
-[01:46:55] [Server thread/INFO]: cr0n0s69 joined the game
-[01:46:55] [Server thread/INFO]: cr0n0s69[/127.0.0.1:1279] logged in with entity id 36550 at ([world]144.020881967115, 63.0, 292.3411813031883)
-[01:56:19] [Server thread/INFO]: DbaBlu was slain by Hoglin
-[01:57:48] [Server thread/INFO]: snypee was slain by Hoglin
-[01:57:57] [Server thread/INFO]: DbaBlu was slain by Hoglin
-[01:58:08] [Server thread/INFO]: snypee lost connection: Timed out
-[01:58:08] [Server thread/INFO]: snypee left the game
-[02:00:01] [Server thread/INFO]: DbaBlu was slain by Hoglin
-[02:00:59] [User Authenticator #9/INFO]: UUID of player snypee is b43ac269-6ae9-3fc6-9cfa-48dc4978aefc
-[02:00:59] [Server thread/INFO]: snypee joined the game
-[02:00:59] [Server thread/INFO]: snypee[/[0:0:0:0:0:0:0:1]:1338] logged in with entity id 41798 at ([world_nether]22.455648835340305, 45.5165035961521, 9.506507000423026)
-[02:01:00] [Server thread/INFO]: Skipping update from removed player 'EntityPlayer['snypee'/41798, uuid='b43ac269-6ae9-3fc6-9cfa-48dc4978aefc', l='ServerLevel[world_nether]', x=22.46, y=45.52, z=9.51, cpos=[1, 0], tl=2541858, v=false, removed=KILLED](snypee at 22.455648835340305,45.5165035961521,9.506507000423026)'
-[02:01:21] [Server thread/INFO]: snypee lost connection: Disconnected
-[02:01:21] [Server thread/INFO]: snypee left the game
-[02:01:38] [Server thread/INFO]: DbaBlu was slain by Hoglin
-[02:07:37] [Server thread/INFO]: watchtime lost connection: Disconnected
-[02:07:37] [Server thread/INFO]: watchtime left the game
-[02:08:29] [Server thread/INFO]: DbaBlu lost connection: Disconnected
-[02:08:29] [Server thread/INFO]: DbaBlu left the game
-[02:12:18] [Server thread/INFO]: cr0n0s69 lost connection: Disconnected
-[02:12:18] [Server thread/INFO]: cr0n0s69 left the game
-[02:12:29] [Server thread/INFO]: Saving the game (this may take a moment!)
-[02:12:30] [Server thread/INFO]: Saved the game
-[02:12:32] [Server thread/INFO]: Stopping the server
-[02:12:32] [Server thread/INFO]: Stopping server
-[02:12:32] [Server thread/INFO]: [LaggRemover] Disabling LaggRemover v2.0.6
-[02:12:32] [Server thread/INFO]: [LaggRemover] LaggRemover has been disabled!
-[02:12:32] [Server thread/INFO]: [SinglePlayerSleep] Disabling SinglePlayerSleep v1.13_2.13.46
-[02:12:32] [Server thread/INFO]: **************************************
-[02:12:32] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.46 is DISABLED
-[02:12:32] [Server thread/INFO]: **************************************
-[02:12:32] [Server thread/INFO]: [SavageDeathChest] Disabling SavageDeathChest v1.18.5
-[02:12:32] [Server thread/INFO]: [SavageDeathChest] SQLite datastore connection closed.
-[02:12:32] [Server thread/INFO]: [BlockProt] Disabling BlockProt v1.0.4
-[02:12:32] [Server thread/INFO]: Saving players
-[02:12:32] [Server thread/INFO]: Saving worlds
-[02:12:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[02:12:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[02:12:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[02:12:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[02:12:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[02:12:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[02:12:33] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[02:12:35] [Server thread/INFO]: Flushing Chunk IO
-[02:12:35] [Server thread/INFO]: Closing Thread Pool
+[12:43:49] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[12:43:50] [ServerMain/INFO]: Reloading ResourceManager: Default, bukkit
+[12:43:51] [Worker-Main-2/INFO]: Loaded 7 recipes
+[12:43:52] [Server thread/INFO]: Starting minecraft server version 1.18.1
+[12:43:52] [Server thread/INFO]: Loading properties
+[12:43:52] [Server thread/INFO]: This server is running Paper version git-Paper-168 (MC: 1.18.1) (Implementing API version 1.18.1-R0.1-SNAPSHOT) (Git: dcca6cb)
+[12:43:52] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[12:43:52] [Server thread/INFO]: Using 4 threads for Netty based IO
+[12:43:53] [Server thread/INFO]: Default game type: SURVIVAL
+[12:43:53] [Server thread/INFO]: Generating keypair
+[12:43:53] [Server thread/INFO]: Starting Minecraft server on *:25565
+[12:43:53] [Server thread/INFO]: Using default channel type
+[12:43:53] [Server thread/INFO]: Paper: Using Java 11 compression from Velocity.
+[12:43:53] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
+[12:43:54] [Server thread/INFO]: [BlockProt] Loading BlockProt v1.0.4
+[12:43:54] [Server thread/INFO]: [SavageDeathChest] Loading SavageDeathChest v1.18.5
+[12:43:54] [Server thread/INFO]: [SinglePlayerSleep] Loading SinglePlayerSleep v1.13_2.13.46
+[12:43:54] [Server thread/INFO]: [LaggRemover] Loading LaggRemover v2.0.6
+[12:43:54] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[12:43:54] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[12:43:54] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[12:43:54] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[12:43:54] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[12:43:54] [Server thread/INFO]: Preparing level "world"
+[12:43:55] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[12:43:55] [Server thread/INFO]: Time elapsed: 366 ms
+[12:43:55] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[12:43:55] [Server thread/INFO]: Time elapsed: 92 ms
+[12:43:55] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[12:43:56] [Server thread/INFO]: Time elapsed: 99 ms
+[12:43:56] [Server thread/INFO]: [BlockProt] Enabling BlockProt v1.0.4
+[12:43:56] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Spigot: v1_18_R1! Trying to find NMS support
+[12:43:56] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_18_R1' loaded!
+[12:43:56] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Gson: class com.google.gson.Gson
+[12:43:56] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'BlockProt' to create a bStats instance!
+[12:43:56] [Server thread/INFO]: [SavageDeathChest] Enabling SavageDeathChest v1.18.5
+[12:43:56] [Server thread/INFO]: [SavageDeathChest] Language file en-US.yml successfully loaded.
+[12:43:56] [Server thread/INFO]: [SavageDeathChest] Sound file sounds.yml successfully loaded.
+[12:43:57] [Server thread/INFO]: [SavageDeathChest] SQLite datastore initialized.
+[12:43:58] [Thread-7/WARN]: [NBTAPI] [NBTAPI] The NBT-API at 'package de.sean.blockprot.bukkit.shaded.nbtapi' seems to be a future Version, not yet released on Spigot/CurseForge!
+[12:43:58] [Thread-7/WARN]: [NBTAPI] [NBTAPI] Current Version: '2.9.0-SNAPSHOT' Newest Version: 2.8.0'
+[12:43:58] [Server thread/INFO]: [SinglePlayerSleep] Enabling SinglePlayerSleep v1.13_2.13.46
+[12:43:58] [Server thread/INFO]: **************************************
+[12:43:58] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.46 Loading...
+[12:43:58] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.46 plugins\SinglePlayerSleep\config.yml
+[12:43:58] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.46 config.yml has been updated
+[12:43:58] [Server thread/INFO]: Checking for updates...
+[12:43:59] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.46 New version available! v1.13_2.13.47
+[12:43:59] [Server thread/INFO]: https://spigotmc.org/resources/68139
+[12:43:59] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.46 plugins\SinglePlayerSleep\permissions.yml
+[12:43:59] [Server thread/INFO]: **************************************
+[12:43:59] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.46 is ENABLED
+[12:43:59] [Server thread/INFO]: **************************************
+[12:43:59] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.46 This server is running Paper version git-Paper-168 (MC: 1.18.1) (Implementing API version 1.18.1-R0.1-SNAPSHOT)
+[12:43:59] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.46 vardebug=false debug=false in plugins\SinglePlayerSleep/config.yml
+[12:43:59] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.46 jarfilename=D:\Games\Minecraft Server\Minecraft-Server\plugins\SinglePlayerSleep-1.13_2.13.46.jar
+[12:43:59] [Server thread/INFO]: [LaggRemover] Enabling LaggRemover v2.0.6
+[12:43:59] [Server thread/INFO]: [LaggRemover] [STDOUT] 
+    __                      ____                                         _    _____
+   / /   ____ _____ _____ _/ __ \___  ____ ___  ____ _   _____  _____   | |  / /__ \
+  / /   / __ `/ __ `/ __ `/ /_/ / _ \/ __ `__ \/ __ \ | / / _ \/ ___/   | | / /__/ /
+ / /___/ /_/ / /_/ / /_/ / _, _/  __/ / / / / / /_/ / |/ /  __/ /       | |/ // __/
+/_____/\__,_/\__, /\__, /_/ |_|\___/_/ /_/ /_/\____/|___/\___/_/        |___//____/
+            /____//____/
+
+[12:43:59] [Server thread/WARN]: Nag author(s): '[drew6017]' of 'LaggRemover' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
+[12:43:59] [Server thread/INFO]: [LaggRemover] Loaded 0 module(s)
+[12:43:59] [Server thread/INFO]: [LaggRemover] The LaggRemover AI is now active!
+[12:43:59] [Server thread/INFO]: [LaggRemover] LaggRemover has been enabled!
+[12:43:59] [Server thread/INFO]: Running delayed init tasks
+[12:43:59] [Server thread/INFO]: Done (6.832s)! For help, type "help"
+[12:43:59] [Server thread/INFO]: Timings Reset
+[12:44:00] [Craft Scheduler Thread - 2 - BlockProt/INFO]: BlockProt is up to date. (1.0.4)
+[12:45:33] [User Authenticator #1/INFO]: UUID of player Shade1912 is a2f8b888-396c-3ca0-a3bd-354e7b80661b
+[12:45:34] [Server thread/INFO]: Shade1912 joined the game
+[12:45:34] [Server thread/INFO]: Shade1912[/[0:0:0:0:0:0:0:1]:29198] logged in with entity id 184 at ([world]2255.7789902049544, 79.0, 1169.9654401852983)
+[12:47:02] [User Authenticator #2/INFO]: UUID of player watchtime is c057e1a1-33de-3761-931c-ce2a12a5e0c1
+[12:47:03] [Server thread/INFO]: watchtime joined the game
+[12:47:03] [Server thread/INFO]: watchtime[/127.0.0.1:1140] logged in with entity id 1345 at ([world]89.3629252165174, 82.5, 271.97057532722994)
+[12:47:42] [Server thread/INFO]: watchtime issued server command: /tp Shade1912 watchtime
+[12:47:42] [Server thread/INFO]: [watchtime: Teleported Shade1912 to watchtime]
+[12:49:09] [User Authenticator #3/INFO]: UUID of player cr0n0s69 is ace33f99-a894-3d26-814e-bb4eee675f63
+[12:49:09] [Server thread/INFO]: cr0n0s69 joined the game
+[12:49:09] [Server thread/INFO]: cr0n0s69[/[0:0:0:0:0:0:0:1]:1029] logged in with entity id 2417 at ([world]102.03048654619634, 86.0, 295.29411649248516)
+[13:17:04] [Server thread/INFO]: cr0n0s69 drowned whilst trying to escape Drowned
+[13:25:48] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.34052256503269973
+[13:25:59] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.35604606532626804
+[13:26:00] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.43098334352191614
+[13:26:02] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.2880898493146731
+[13:26:02] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.3595716632286212
+[13:26:02] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.43077467702002536
+[13:26:03] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.28620830161088406
+[13:26:03] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.3400653384155419
+[13:26:03] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.88470298703038
+[13:26:03] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.33557500172216237
+[13:26:04] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.2792097867177006
+[13:28:07] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.25409991614480987
+[13:28:07] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.32587375760482473
+[13:28:07] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.3976491658323198
+[13:28:07] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.4694286228561282
+[13:28:12] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.3330450214218956
+[13:28:13] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.257158921944324
+[13:28:13] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.3250460164094875
+[13:28:13] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.394217367858289
+[13:28:13] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.3320844285323119
+[13:28:13] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.4028233414193778
+[13:28:13] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.4741680864338491
+[13:28:13] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.5446723732350165
+[13:28:14] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.2500339344084068
+[13:28:14] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.32084860292110307
+[13:28:14] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.39111304148696036
+[13:28:14] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.46144354038477786
+[13:28:15] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.29943205592917366
+[13:28:18] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.29784757466688916
+[13:28:18] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.3701367754636067
+[13:28:18] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.43567398586725403
+[13:28:18] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.3221531203859058
+[13:28:20] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.2621603048833805
+[13:28:20] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.32588671214081444
+[13:29:36] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.355869457357187
+[13:29:36] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.4087629526492549
+[13:29:36] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.48250650029461895
+[13:29:39] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.30809343165805103
+[13:29:39] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.3798363847943165
+[13:29:39] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.45158754808525714
+[13:30:10] [Server thread/INFO]: cr0n0s69 lost connection: Disconnected
+[13:30:10] [Server thread/INFO]: cr0n0s69 left the game
+[13:31:44] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.4252511656903266
+[13:31:44] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.4969638024041103
+[13:31:48] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.30237726481644245
+[13:31:48] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.8264349773902211
+[13:31:48] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 1.3493755790556037
+[13:31:49] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.382451068794353
+[13:31:49] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.4258256584128617
+[13:31:49] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.48146089043234497
+[13:31:50] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.32053802770366246
+[13:31:50] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.32085650548151534
+[13:31:50] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.3096357581911775
+[13:31:50] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.37387246430353116
+[13:31:51] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.4386412640099593
+[13:31:51] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.2817427900196776
+[13:31:51] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.3527017704606692
+[13:31:51] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.42376097959737535
+[13:31:51] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.4949272795155366
+[13:31:51] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.3536319344876233
+[13:31:51] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.42330055908655595
+[13:31:51] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.43980433987121614
+[13:31:51] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.41592098881892603
+[13:31:51] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.41531872698038796
+[13:31:53] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.2794800192489788
+[13:31:53] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.3379317209752344
+[13:31:53] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.4173039011441233
+[13:31:53] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.49123403531012855
+[13:31:55] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.37258685064313113
+[13:31:55] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.31769318025664006
+[13:34:13] [User Authenticator #4/INFO]: UUID of player cr0n0s69 is ace33f99-a894-3d26-814e-bb4eee675f63
+[13:34:13] [Server thread/INFO]: cr0n0s69 joined the game
+[13:34:13] [Server thread/INFO]: cr0n0s69[/[0:0:0:0:0:0:0:1]:3463] logged in with entity id 16318 at ([world]144.46932273167923, 63.0, 290.9863839191891)
+[13:37:36] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.3563302753747166
+[13:37:36] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.4278441043835528
+[13:37:36] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.4992811544814515
+[13:37:39] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.25317776068607145
+[13:37:39] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.3313134529331023
+[13:37:39] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.40550624474803953
+[13:37:40] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.4218202223462697
+[13:37:40] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.4996333431700464
+[13:37:40] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.5654418015284364
+[13:37:40] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 1.1328251507396772
+[13:37:59] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.4182105222292307
+[13:38:29] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.35202702001697617
+[13:43:40] [User Authenticator #5/INFO]: UUID of player sneebville is fa43f407-1bf0-3939-bd2a-15b537bec3bf
+[13:43:41] [Server thread/INFO]: sneebville joined the game
+[13:43:41] [Server thread/INFO]: sneebville[/[0:0:0:0:0:0:0:1]:3471] logged in with entity id 22368 at ([world]124.5, 131.0, 177.5)
+[13:44:16] [Async Chat Thread - #0/INFO]: <cr0n0s69> new number who dis?
+[13:44:17] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.2605636514138041
+[13:55:57] [Server thread/WARN]: watchtime was kicked for floating too long!
+[13:55:57] [Server thread/INFO]: watchtime lost connection: Flying is not enabled on this server
+[13:55:57] [Server thread/INFO]: watchtime left the game
+[13:56:01] [User Authenticator #6/INFO]: UUID of player watchtime is c057e1a1-33de-3761-931c-ce2a12a5e0c1
+[13:56:01] [Server thread/INFO]: watchtime joined the game
+[13:56:01] [Server thread/INFO]: watchtime[/127.0.0.1:3484] logged in with entity id 39485 at ([world]1782.853573000725, 66.77160001635552, 508.05290608059846)
+[13:56:19] [Server thread/INFO]: watchtime lost connection: Disconnected
+[13:56:19] [Server thread/INFO]: watchtime left the game
+[13:56:20] [User Authenticator #6/INFO]: UUID of player watchtime is c057e1a1-33de-3761-931c-ce2a12a5e0c1
+[13:56:20] [Server thread/INFO]: watchtime joined the game
+[13:56:20] [Server thread/INFO]: watchtime[/127.0.0.1:3485] logged in with entity id 39801 at ([world]1782.853573000725, 66.8500000178814, 508.05290608059846)
+[14:01:32] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.3522642870850632
+[14:08:30] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.26177753850970475
+[14:08:37] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.25598367604743544
+[14:09:25] [Async Chat Thread - #1/INFO]: <cr0n0s69> come here
+[14:10:08] [Async Chat Thread - #1/INFO]: <watchtime> stop killing my cows
+[14:10:13] [Async Chat Thread - #1/INFO]: <watchtime> they're my pets now
+[14:10:18] [Async Chat Thread - #1/INFO]: <sneebville> i was only hitting them
+[14:10:27] [Async Chat Thread - #1/INFO]: <watchtime> sadist
+[14:10:38] [Async Chat Thread - #1/INFO]: <watchtime> arolkar is making map for u
+[14:10:52] [Async Chat Thread - #1/INFO]: <sneebville> i have red dust
+[14:10:57] [Async Chat Thread - #1/INFO]: <cr0n0s69> give
+[14:11:58] [Async Chat Thread - #2/INFO]: <sneebville> madv check whatsapp
+[14:12:15] [Async Chat Thread - #2/INFO]: <cr0n0s69> thats the map
+[14:12:20] [Async Chat Thread - #2/INFO]: <sneebville> thnk
+[14:12:26] [Async Chat Thread - #2/INFO]: <cr0n0s69> come here
+[14:12:27] [Async Chat Thread - #2/INFO]: <sneebville> do i throw it somewehre or
+[14:12:38] [Async Chat Thread - #2/INFO]: <cr0n0s69> no hold it and you will see th positions
+[14:12:49] [Async Chat Thread - #2/INFO]: <sneebville> damn
+[14:12:51] [Async Chat Thread - #2/INFO]: <cr0n0s69> look on the board thats our base
+[14:13:02] [Async Chat Thread - #2/INFO]: <cr0n0s69> where im facing
+[14:13:05] [Async Chat Thread - #2/INFO]: <sneebville> are the white things sheep
+[14:13:30] [Async Chat Thread - #2/INFO]: <watchtime> they're players
+[14:13:36] [Async Chat Thread - #2/INFO]: <cr0n0s69> no that is our position
+[14:13:46] [Async Chat Thread - #2/INFO]: <sneebville> which one am i
+[14:13:59] [Async Chat Thread - #2/INFO]: <cr0n0s69> on top left
+[14:14:30] [Async Chat Thread - #2/INFO]: <sneebville> i want to go villae
+[14:14:33] [Async Chat Thread - #2/FATAL]: Thread Async Chat Thread - #2 failed main thread check: getNearbyEntities
+java.lang.Throwable: null
+	at org.spigotmc.AsyncCatcher.catchOp(AsyncCatcher.java:15) ~[paper-1.18.1.jar:git-Paper-168]
+	at org.bukkit.craftbukkit.v1_18_R1.entity.CraftEntity.getNearbyEntities(CraftEntity.java:600) ~[paper-1.18.1.jar:git-Paper-168]
+	at drew6017.lr.main.Events.onChat(Events.java:83) ~[LaggRemover-2.0.6.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor31.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor.lambda$create$1(EventExecutor.java:75) ~[paper-api-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:76) ~[paper-api-1.18.1-R0.1-SNAPSHOT.jar:git-Paper-168]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-api-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.adventure.ChatProcessor.post(ChatProcessor.java:230) ~[paper-1.18.1.jar:git-Paper-168]
+	at io.papermc.paper.adventure.ChatProcessor.processingLegacyFirst(ChatProcessor.java:115) ~[paper-1.18.1.jar:git-Paper-168]
+	at io.papermc.paper.adventure.ChatProcessor.process(ChatProcessor.java:64) ~[paper-1.18.1.jar:git-Paper-168]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.chat(ServerGamePacketListenerImpl.java:2204) ~[?:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleChat(ServerGamePacketListenerImpl.java:2115) ~[?:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleChat(ServerGamePacketListenerImpl.java:2081) ~[?:?]
+	at net.minecraft.network.protocol.game.ServerboundChatPacket$1.run(ServerboundChatPacket.java:40) ~[?:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[14:14:33] [Async Chat Thread - #2/ERROR]: Could not pass event AsyncPlayerChatEvent to LaggRemover v2.0.6
+java.lang.IllegalStateException: Asynchronous getNearbyEntities!
+	at org.spigotmc.AsyncCatcher.catchOp(AsyncCatcher.java:16) ~[paper-1.18.1.jar:git-Paper-168]
+	at org.bukkit.craftbukkit.v1_18_R1.entity.CraftEntity.getNearbyEntities(CraftEntity.java:600) ~[paper-1.18.1.jar:git-Paper-168]
+	at drew6017.lr.main.Events.onChat(Events.java:83) ~[LaggRemover-2.0.6.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor31.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor.lambda$create$1(EventExecutor.java:75) ~[paper-api-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:76) ~[paper-api-1.18.1-R0.1-SNAPSHOT.jar:git-Paper-168]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-api-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.adventure.ChatProcessor.post(ChatProcessor.java:230) ~[paper-1.18.1.jar:git-Paper-168]
+	at io.papermc.paper.adventure.ChatProcessor.processingLegacyFirst(ChatProcessor.java:115) ~[paper-1.18.1.jar:git-Paper-168]
+	at io.papermc.paper.adventure.ChatProcessor.process(ChatProcessor.java:64) ~[paper-1.18.1.jar:git-Paper-168]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.chat(ServerGamePacketListenerImpl.java:2204) ~[?:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleChat(ServerGamePacketListenerImpl.java:2115) ~[?:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleChat(ServerGamePacketListenerImpl.java:2081) ~[?:?]
+	at net.minecraft.network.protocol.game.ServerboundChatPacket$1.run(ServerboundChatPacket.java:40) ~[?:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[14:14:33] [Async Chat Thread - #2/INFO]: <sneebville> village
+[14:14:44] [Async Chat Thread - #2/FATAL]: Thread Async Chat Thread - #2 failed main thread check: getNearbyEntities
+java.lang.Throwable: null
+	at org.spigotmc.AsyncCatcher.catchOp(AsyncCatcher.java:15) ~[paper-1.18.1.jar:git-Paper-168]
+	at org.bukkit.craftbukkit.v1_18_R1.entity.CraftEntity.getNearbyEntities(CraftEntity.java:600) ~[paper-1.18.1.jar:git-Paper-168]
+	at drew6017.lr.main.Events.onChat(Events.java:83) ~[LaggRemover-2.0.6.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor31.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor.lambda$create$1(EventExecutor.java:75) ~[paper-api-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:76) ~[paper-api-1.18.1-R0.1-SNAPSHOT.jar:git-Paper-168]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-api-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.adventure.ChatProcessor.post(ChatProcessor.java:230) ~[paper-1.18.1.jar:git-Paper-168]
+	at io.papermc.paper.adventure.ChatProcessor.processingLegacyFirst(ChatProcessor.java:115) ~[paper-1.18.1.jar:git-Paper-168]
+	at io.papermc.paper.adventure.ChatProcessor.process(ChatProcessor.java:64) ~[paper-1.18.1.jar:git-Paper-168]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.chat(ServerGamePacketListenerImpl.java:2204) ~[?:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleChat(ServerGamePacketListenerImpl.java:2115) ~[?:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleChat(ServerGamePacketListenerImpl.java:2081) ~[?:?]
+	at net.minecraft.network.protocol.game.ServerboundChatPacket$1.run(ServerboundChatPacket.java:40) ~[?:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[14:14:44] [Async Chat Thread - #2/ERROR]: Could not pass event AsyncPlayerChatEvent to LaggRemover v2.0.6
+java.lang.IllegalStateException: Asynchronous getNearbyEntities!
+	at org.spigotmc.AsyncCatcher.catchOp(AsyncCatcher.java:16) ~[paper-1.18.1.jar:git-Paper-168]
+	at org.bukkit.craftbukkit.v1_18_R1.entity.CraftEntity.getNearbyEntities(CraftEntity.java:600) ~[paper-1.18.1.jar:git-Paper-168]
+	at drew6017.lr.main.Events.onChat(Events.java:83) ~[LaggRemover-2.0.6.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor31.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor.lambda$create$1(EventExecutor.java:75) ~[paper-api-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:76) ~[paper-api-1.18.1-R0.1-SNAPSHOT.jar:git-Paper-168]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-api-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.adventure.ChatProcessor.post(ChatProcessor.java:230) ~[paper-1.18.1.jar:git-Paper-168]
+	at io.papermc.paper.adventure.ChatProcessor.processingLegacyFirst(ChatProcessor.java:115) ~[paper-1.18.1.jar:git-Paper-168]
+	at io.papermc.paper.adventure.ChatProcessor.process(ChatProcessor.java:64) ~[paper-1.18.1.jar:git-Paper-168]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.chat(ServerGamePacketListenerImpl.java:2204) ~[?:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleChat(ServerGamePacketListenerImpl.java:2115) ~[?:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleChat(ServerGamePacketListenerImpl.java:2081) ~[?:?]
+	at net.minecraft.network.protocol.game.ServerboundChatPacket$1.run(ServerboundChatPacket.java:40) ~[?:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[14:14:44] [Async Chat Thread - #2/INFO]: <watchtime> the red flag on map is village
+[14:14:48] [Async Chat Thread - #2/INFO]: <cr0n0s69> go towards the red marker
+[14:14:59] [Async Chat Thread - #2/FATAL]: Thread Async Chat Thread - #2 failed main thread check: getNearbyEntities
+java.lang.Throwable: null
+	at org.spigotmc.AsyncCatcher.catchOp(AsyncCatcher.java:15) ~[paper-1.18.1.jar:git-Paper-168]
+	at org.bukkit.craftbukkit.v1_18_R1.entity.CraftEntity.getNearbyEntities(CraftEntity.java:600) ~[paper-1.18.1.jar:git-Paper-168]
+	at drew6017.lr.main.Events.onChat(Events.java:83) ~[LaggRemover-2.0.6.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor31.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor.lambda$create$1(EventExecutor.java:75) ~[paper-api-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:76) ~[paper-api-1.18.1-R0.1-SNAPSHOT.jar:git-Paper-168]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-api-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.adventure.ChatProcessor.post(ChatProcessor.java:230) ~[paper-1.18.1.jar:git-Paper-168]
+	at io.papermc.paper.adventure.ChatProcessor.processingLegacyFirst(ChatProcessor.java:115) ~[paper-1.18.1.jar:git-Paper-168]
+	at io.papermc.paper.adventure.ChatProcessor.process(ChatProcessor.java:64) ~[paper-1.18.1.jar:git-Paper-168]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.chat(ServerGamePacketListenerImpl.java:2204) ~[?:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleChat(ServerGamePacketListenerImpl.java:2115) ~[?:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleChat(ServerGamePacketListenerImpl.java:2081) ~[?:?]
+	at net.minecraft.network.protocol.game.ServerboundChatPacket$1.run(ServerboundChatPacket.java:40) ~[?:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[14:14:59] [Async Chat Thread - #2/ERROR]: Could not pass event AsyncPlayerChatEvent to LaggRemover v2.0.6
+java.lang.IllegalStateException: Asynchronous getNearbyEntities!
+	at org.spigotmc.AsyncCatcher.catchOp(AsyncCatcher.java:16) ~[paper-1.18.1.jar:git-Paper-168]
+	at org.bukkit.craftbukkit.v1_18_R1.entity.CraftEntity.getNearbyEntities(CraftEntity.java:600) ~[paper-1.18.1.jar:git-Paper-168]
+	at drew6017.lr.main.Events.onChat(Events.java:83) ~[LaggRemover-2.0.6.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor31.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor.lambda$create$1(EventExecutor.java:75) ~[paper-api-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:76) ~[paper-api-1.18.1-R0.1-SNAPSHOT.jar:git-Paper-168]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-api-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.adventure.ChatProcessor.post(ChatProcessor.java:230) ~[paper-1.18.1.jar:git-Paper-168]
+	at io.papermc.paper.adventure.ChatProcessor.processingLegacyFirst(ChatProcessor.java:115) ~[paper-1.18.1.jar:git-Paper-168]
+	at io.papermc.paper.adventure.ChatProcessor.process(ChatProcessor.java:64) ~[paper-1.18.1.jar:git-Paper-168]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.chat(ServerGamePacketListenerImpl.java:2204) ~[?:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleChat(ServerGamePacketListenerImpl.java:2115) ~[?:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleChat(ServerGamePacketListenerImpl.java:2081) ~[?:?]
+	at net.minecraft.network.protocol.game.ServerboundChatPacket$1.run(ServerboundChatPacket.java:40) ~[?:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[14:14:59] [Async Chat Thread - #2/INFO]: <sneebville> do villagers hit u
+[14:15:07] [Async Chat Thread - #2/INFO]: <cr0n0s69> nah they chill
+[14:15:11] [Async Chat Thread - #2/INFO]: <cr0n0s69> you can trade with them
+[14:15:14] [Async Chat Thread - #2/INFO]: <sneebville> can i hit them
+[14:15:17] [Async Chat Thread - #2/INFO]: <cr0n0s69> for emeralds
+[14:15:25] [Async Chat Thread - #2/INFO]: <cr0n0s69> dont hit them neve hit them
+[14:15:29] [Async Chat Thread - #2/INFO]: <sneebville> why
+[14:15:32] [Async Chat Thread - #2/INFO]: <sneebville> now i want to
+[14:15:34] [Async Chat Thread - #2/INFO]: <watchtime> if u hit they wont trade
+[14:15:37] [Async Chat Thread - #2/INFO]: <cr0n0s69> they will increase trade price
+[14:15:38] [Async Chat Thread - #2/INFO]: <sneebville> whatever
+[14:15:41] [Async Chat Thread - #2/INFO]: <sneebville> gotiya
+[14:15:45] [Async Chat Thread - #2/INFO]: <cr0n0s69> bruh
+[14:15:57] [Server thread/INFO]: cr0n0s69 lost connection: Disconnected
+[14:15:57] [Server thread/INFO]: cr0n0s69 left the game
+[14:16:21] [Async Chat Thread - #2/INFO]: <sneebville> why he left
+[14:16:25] [Async Chat Thread - #2/INFO]: <watchtime> lunch
+[14:16:31] [Async Chat Thread - #2/INFO]: <sneebville> im also leaving
+[14:16:33] [Async Chat Thread - #2/INFO]: <sneebville> u come
+[14:16:36] [Async Chat Thread - #2/INFO]: <watchtime> ok
+[14:16:39] [Async Chat Thread - #2/INFO]: <sneebville> bye
+[14:16:42] [Async Chat Thread - #2/INFO]: <watchtime> bye
+[14:16:54] [Server thread/INFO]: sneebville lost connection: Disconnected
+[14:16:54] [Server thread/INFO]: sneebville left the game
+[14:18:55] [Server thread/INFO]: Shade1912 lost connection: Disconnected
+[14:18:55] [Server thread/INFO]: Shade1912 left the game
+[14:19:46] [Server thread/INFO]: watchtime lost connection: Disconnected
+[14:19:46] [Server thread/INFO]: watchtime left the game
+[14:19:59] [Server thread/INFO]: Saving the game (this may take a moment!)
+[14:19:59] [Server thread/INFO]: Saved the game
+[14:20:02] [Server thread/INFO]: Stopping the server
+[14:20:02] [Server thread/INFO]: Stopping server
+[14:20:02] [Server thread/INFO]: [LaggRemover] Disabling LaggRemover v2.0.6
+[14:20:02] [Server thread/INFO]: [LaggRemover] LaggRemover has been disabled!
+[14:20:02] [Server thread/INFO]: [SinglePlayerSleep] Disabling SinglePlayerSleep v1.13_2.13.46
+[14:20:02] [Server thread/INFO]: **************************************
+[14:20:02] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.46 is DISABLED
+[14:20:02] [Server thread/INFO]: **************************************
+[14:20:02] [Server thread/INFO]: [SavageDeathChest] Disabling SavageDeathChest v1.18.5
+[14:20:02] [Server thread/INFO]: [SavageDeathChest] SQLite datastore connection closed.
+[14:20:02] [Server thread/INFO]: [BlockProt] Disabling BlockProt v1.0.4
+[14:20:02] [Server thread/INFO]: Saving players
+[14:20:02] [Server thread/INFO]: Saving worlds
+[14:20:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[14:20:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[14:20:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[14:20:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14:20:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14:20:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14:20:03] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[14:20:07] [Server thread/INFO]: Flushing Chunk IO
+[14:20:07] [Server thread/INFO]: Closing Thread Pool
