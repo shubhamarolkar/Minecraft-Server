@@ -1,179 +1,178 @@
-[00:05:26] [Async Chat Thread - #4/INFO]: <cr0n0s69> behind diablo house
-[00:05:42] [Async Chat Thread - #4/INFO]: <cr0n0s69> shid
-[00:06:08] [Async Chat Thread - #4/INFO]: <cr0n0s69> afk
-[00:06:33] [Async Chat Thread - #4/INFO]: <OmkarSANAS> yaar
-[00:07:46] [Server thread/INFO]: cr0n0s69 lost connection: Disconnected
-[00:07:47] [Server thread/INFO]: cr0n0s69 left the game
-[00:10:24] [User Authenticator #6/INFO]: UUID of player cr0n0s69 is ace33f99-a894-3d26-814e-bb4eee675f63
-[00:10:24] [Server thread/INFO]: cr0n0s69 joined the game
-[00:10:24] [Server thread/INFO]: cr0n0s69[/[0:0:0:0:0:0:0:1]:53742] logged in with entity id 23010 at ([world]171.41428551662077, 63.0, 289.8745430240108)
-[00:12:40] [User Authenticator #7/INFO]: UUID of player RohitSardeshmukh is ae640622-7e93-37c5-9dc3-158c765c9327
-[00:12:40] [Server thread/INFO]: RohitSardeshmukh joined the game
-[00:12:40] [Server thread/INFO]: RohitSardeshmukh[/[0:0:0:0:0:0:0:1]:53752] logged in with entity id 23817 at ([world]151.73707728134727, 78.875, 392.30000001192093)
-[00:12:46] [Async Chat Thread - #5/INFO]: <snypee> cringe
-[00:24:39] [Server thread/INFO]: RohitSardeshmukh lost connection: Disconnected
-[00:24:39] [Server thread/INFO]: RohitSardeshmukh left the game
-[00:28:56] [User Authenticator #8/INFO]: UUID of player watchtime is c057e1a1-33de-3761-931c-ce2a12a5e0c1
-[00:28:56] [Server thread/INFO]: watchtime joined the game
-[00:28:56] [Server thread/INFO]: watchtime[/[0:0:0:0:0:0:0:1]:49535] logged in with entity id 29323 at ([world]94.54809166136484, 84.9375, 322.3095285614952)
-[00:30:46] [Server thread/INFO]: cr0n0s69 lost connection: Disconnected
-[00:30:46] [Server thread/INFO]: cr0n0s69 left the game
-[00:34:02] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.3038795751088088
-[00:34:02] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.3547853268688925
-[00:34:20] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.32105658556093886
-[00:34:20] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.38815827985607143
-[00:34:20] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.45717197544638566
-[00:34:20] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.39795752285618846
-[00:34:20] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.3986713984642165
-[00:34:20] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.4695137383700967
-[00:34:20] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.47003729875461886
-[00:34:23] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.39726296613363843
-[00:34:23] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.46837998047308815
-[00:34:24] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.46987074622683167
-[00:34:24] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.2757421192828531
-[00:34:24] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.4394077925878719
-[00:34:25] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.2998334163534935
-[00:34:25] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.36767492317690653
-[00:34:25] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.4373024389712725
-[00:34:25] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.3777081731779788
-[00:34:25] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.37827383530111547
-[00:34:25] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.449361928863965
-[00:34:25] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.52070473736336
-[00:34:27] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.3921886406594126
-[00:35:19] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.37121807295682174
-[00:35:19] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.9203874106253807
-[00:35:19] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 1.4762245830188476
-[00:35:47] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.295672471097447
-[00:35:47] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.36672689173738604
-[00:35:47] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.41205109484718605
-[00:35:47] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.2895004286541507
-[00:35:47] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.34641812166924524
-[00:35:48] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.41017518663349506
-[00:35:48] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.3867706400882014
-[00:35:48] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.4580539292456365
-[00:35:48] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.5294977382865795
-[00:35:48] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.4589632518816984
-[00:35:54] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.42454163775485654
-[00:35:54] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.984933232895969
-[00:35:54] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 1.552104168952937
-[00:35:54] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 2.1267247743355284
-[00:35:57] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.2933644594457405
-[00:35:57] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.3648200213556265
-[00:35:57] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.43642136997215175
-[00:35:57] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.3655529640917621
-[00:35:57] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.4372370401428043
-[00:35:58] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.4371725613444255
-[00:35:59] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.28064957366416365
-[00:35:59] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.3516201560526042
-[00:35:59] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.4227040165243352
-[00:35:59] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.35232294408257303
-[00:35:59] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.4228655957976457
-[00:35:59] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.49266313877114953
-[00:36:00] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.28351312630792336
-[00:36:00] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.33909871228223665
-[00:36:00] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.39749556658586016
-[00:36:00] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.4573966745218172
-[00:36:00] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.31984305976527594
-[00:36:00] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.29631859026284246
-[00:36:04] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.3121493547475893
-[00:36:05] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.33246485584555785
-[00:36:05] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.3763666635940126
-[00:36:08] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.296415126819511
-[00:36:08] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.3248554894690159
-[00:36:08] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.3720003650597903
-[00:36:08] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.42345475680554046
-[00:36:09] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.40515832519034234
-[00:36:40] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.29336468935946414
-[00:36:40] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.29555000546164933
-[00:36:40] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.8439181335462251
-[00:36:40] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.3400626917465246
-[00:37:27] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.5
-[00:37:27] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.5
-[00:37:27] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.5
-[00:41:40] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.4952405747255426
-[00:41:40] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.28462807095660025
-[00:41:40] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.35401883815418955
-[00:41:40] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.9244675049474296
-[00:41:40] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.3372085625046992
-[00:41:40] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.2859245567571804
-[00:41:40] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.39807385087138414
-[00:41:41] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.3864699657184332
-[00:41:47] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.5030632852580084
-[00:41:47] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 1.0556637604738341
-[00:41:47] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 1.607111802911021
-[00:41:49] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.25114188586471187
-[00:41:49] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.2994572064309864
-[00:41:49] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.375
-[00:41:55] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.3217677886234753
-[00:41:55] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.8745409231192411
-[00:41:55] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.43613941861207195
-[00:41:55] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.5663207702036459
-[00:41:55] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.5688475652493992
-[00:41:55] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.5701996028995211
-[00:41:55] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.5709230512893555
-[00:41:55] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.5713014077610978
-[00:41:55] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.5651537640846982
-[00:41:55] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.5274267820713305
-[00:41:55] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.2822155553307937
-[00:41:57] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.3473586775589581
-[00:41:57] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.37578717537837747
-[00:41:57] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.4243002400067155
-[00:41:57] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.47112718041015
-[00:42:04] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.2777199196033564
-[00:42:04] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.7264380382541447
-[00:42:04] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.315746691844801
-[00:42:04] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 1.3204567984784603
-[00:42:08] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.28581682786966667
-[00:42:08] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.2702916984782888
-[00:42:30] [Server thread/INFO]: OmkarSANAS lost connection: Disconnected
-[00:42:31] [Server thread/INFO]: OmkarSANAS left the game
-[00:42:45] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.5303436527078276
-[00:42:45] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 1.0763862059280882
-[00:42:45] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 1.6185791763998907
-[00:42:57] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.4132341245783735
-[00:42:57] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.9777515984364484
-[00:42:57] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 1.5425240137167293
-[00:42:57] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.25806218298941985
-[00:42:57] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.6077049363871332
-[00:42:58] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.9088180685245391
-[00:44:42] [Server thread/WARN]: watchtime was kicked for floating too long!
-[00:44:42] [Server thread/INFO]: watchtime lost connection: Flying is not enabled on this server
-[00:44:42] [Server thread/INFO]: watchtime left the game
-[00:44:46] [User Authenticator #9/INFO]: UUID of player watchtime is c057e1a1-33de-3761-931c-ce2a12a5e0c1
-[00:44:46] [Server thread/INFO]: watchtime joined the game
-[00:44:46] [Server thread/INFO]: watchtime[/[0:0:0:0:0:0:0:1]:56034] logged in with entity id 35069 at ([world]97.04243171121782, 85.77160001635552, 317.6089767608373)
-[00:46:23] [Server thread/INFO]: DeqthReaper lost connection: Disconnected
-[00:46:23] [Server thread/INFO]: DeqthReaper left the game
-[00:46:47] [Server thread/INFO]: watchtime lost connection: Disconnected
-[00:46:47] [Server thread/INFO]: watchtime left the game
-[00:46:48] [User Authenticator #10/INFO]: UUID of player watchtime is c057e1a1-33de-3761-931c-ce2a12a5e0c1
-[00:46:48] [Server thread/INFO]: watchtime joined the game
-[00:46:48] [Server thread/INFO]: watchtime[/[0:0:0:0:0:0:0:1]:57475] logged in with entity id 35630 at ([world]89.10788280313677, 68.0, 364.30682006521437)
-[00:49:22] [Server thread/INFO]: Saving the game (this may take a moment!)
-[00:49:22] [Server thread/INFO]: Saved the game
-[00:49:27] [Server thread/INFO]: Stopping the server
-[00:49:27] [Server thread/INFO]: Stopping server
-[00:49:27] [Server thread/INFO]: [LaggRemover] Disabling LaggRemover v2.0.6
-[00:49:27] [Server thread/INFO]: [LaggRemover] LaggRemover has been disabled!
-[00:49:27] [Server thread/INFO]: [SinglePlayerSleep] Disabling SinglePlayerSleep v1.13_2.13.46
-[00:49:27] [Server thread/INFO]: **************************************
-[00:49:27] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.46 is DISABLED
-[00:49:27] [Server thread/INFO]: **************************************
-[00:49:27] [Server thread/INFO]: [SavageDeathChest] Disabling SavageDeathChest v1.18.5
-[00:49:27] [Server thread/INFO]: [SavageDeathChest] SQLite datastore connection closed.
-[00:49:27] [Server thread/INFO]: [BlockProt] Disabling BlockProt v1.0.4
-[00:49:27] [Server thread/INFO]: Saving players
-[00:49:27] [Server thread/INFO]: snypee lost connection: Server closed
-[00:49:27] [Server thread/INFO]: snypee left the game
-[00:49:27] [Server thread/INFO]: watchtime lost connection: Server closed
-[00:49:27] [Server thread/INFO]: watchtime left the game
-[00:49:27] [Server thread/INFO]: Saving worlds
-[00:49:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[00:49:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[00:49:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[00:49:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:49:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:49:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:49:28] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[00:49:29] [Server thread/INFO]: Flushing Chunk IO
-[00:49:29] [Server thread/INFO]: Closing Thread Pool
+[13:40:37] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[13:40:38] [ServerMain/INFO]: Reloading ResourceManager: Default, bukkit
+[13:40:39] [Worker-Main-1/INFO]: Loaded 7 recipes
+[13:40:40] [Server thread/INFO]: Starting minecraft server version 1.18.1
+[13:40:40] [Server thread/INFO]: Loading properties
+[13:40:40] [Server thread/INFO]: This server is running Paper version git-Paper-168 (MC: 1.18.1) (Implementing API version 1.18.1-R0.1-SNAPSHOT) (Git: dcca6cb)
+[13:40:41] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[13:40:41] [Server thread/INFO]: Using 4 threads for Netty based IO
+[13:40:41] [Server thread/INFO]: Default game type: SURVIVAL
+[13:40:41] [Server thread/INFO]: Generating keypair
+[13:40:41] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:40:41] [Server thread/INFO]: Using default channel type
+[13:40:41] [Server thread/INFO]: Paper: Using Java 11 compression from Velocity.
+[13:40:41] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
+[13:40:42] [Server thread/INFO]: [BlockProt] Loading BlockProt v1.0.4
+[13:40:42] [Server thread/INFO]: [SavageDeathChest] Loading SavageDeathChest v1.18.5
+[13:40:42] [Server thread/INFO]: [SinglePlayerSleep] Loading SinglePlayerSleep v1.13_2.13.46
+[13:40:42] [Server thread/INFO]: [LaggRemover] Loading LaggRemover v2.0.6
+[13:40:42] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[13:40:42] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[13:40:42] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[13:40:42] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[13:40:42] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[13:40:42] [Server thread/INFO]: Preparing level "world"
+[13:40:44] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:40:44] [Server thread/INFO]: Time elapsed: 490 ms
+[13:40:44] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[13:40:44] [Server thread/INFO]: Time elapsed: 114 ms
+[13:40:44] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[13:40:44] [Server thread/INFO]: Time elapsed: 128 ms
+[13:40:44] [Server thread/INFO]: [BlockProt] Enabling BlockProt v1.0.4
+[13:40:44] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Spigot: v1_18_R1! Trying to find NMS support
+[13:40:44] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_18_R1' loaded!
+[13:40:44] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Gson: class com.google.gson.Gson
+[13:40:44] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'BlockProt' to create a bStats instance!
+[13:40:45] [Thread-6/WARN]: [NBTAPI] [NBTAPI] The NBT-API at 'package de.sean.blockprot.bukkit.shaded.nbtapi' seems to be a future Version, not yet released on Spigot/CurseForge!
+[13:40:45] [Thread-6/WARN]: [NBTAPI] [NBTAPI] Current Version: '2.9.0-SNAPSHOT' Newest Version: 2.8.0'
+[13:40:45] [Server thread/INFO]: [SavageDeathChest] Enabling SavageDeathChest v1.18.5
+[13:40:45] [Server thread/INFO]: [SavageDeathChest] Language file en-US.yml successfully loaded.
+[13:40:45] [Server thread/INFO]: [SavageDeathChest] Sound file sounds.yml successfully loaded.
+[13:40:46] [Server thread/INFO]: [SavageDeathChest] SQLite datastore initialized.
+[13:40:46] [Server thread/INFO]: [SinglePlayerSleep] Enabling SinglePlayerSleep v1.13_2.13.46
+[13:40:46] [Server thread/INFO]: **************************************
+[13:40:46] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.46 Loading...
+[13:40:46] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.46 plugins\SinglePlayerSleep\config.yml
+[13:40:46] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.46 config.yml has been updated
+[13:40:46] [Server thread/INFO]: Checking for updates...
+[13:40:47] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.46 New version available! v1.13_2.13.47
+[13:40:47] [Server thread/INFO]: https://spigotmc.org/resources/68139
+[13:40:47] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.46 plugins\SinglePlayerSleep\permissions.yml
+[13:40:47] [Server thread/INFO]: **************************************
+[13:40:47] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.46 is ENABLED
+[13:40:47] [Server thread/INFO]: **************************************
+[13:40:47] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.46 This server is running Paper version git-Paper-168 (MC: 1.18.1) (Implementing API version 1.18.1-R0.1-SNAPSHOT)
+[13:40:47] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.46 vardebug=false debug=false in plugins\SinglePlayerSleep/config.yml
+[13:40:47] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.46 jarfilename=E:\Project\MCServer\Minecraft-Server\plugins\SinglePlayerSleep-1.13_2.13.46.jar
+[13:40:47] [Server thread/INFO]: [LaggRemover] Enabling LaggRemover v2.0.6
+[13:40:47] [Server thread/INFO]: [LaggRemover] [STDOUT] 
+    __                      ____                                         _    _____
+   / /   ____ _____ _____ _/ __ \___  ____ ___  ____ _   _____  _____   | |  / /__ \
+  / /   / __ `/ __ `/ __ `/ /_/ / _ \/ __ `__ \/ __ \ | / / _ \/ ___/   | | / /__/ /
+ / /___/ /_/ / /_/ / /_/ / _, _/  __/ / / / / / /_/ / |/ /  __/ /       | |/ // __/
+/_____/\__,_/\__, /\__, /_/ |_|\___/_/ /_/ /_/\____/|___/\___/_/        |___//____/
+            /____//____/
+
+[13:40:47] [Server thread/WARN]: Nag author(s): '[drew6017]' of 'LaggRemover' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
+[13:40:47] [Server thread/INFO]: [LaggRemover] Loaded 0 module(s)
+[13:40:47] [Server thread/INFO]: [LaggRemover] The LaggRemover AI is now active!
+[13:40:47] [Server thread/INFO]: [LaggRemover] LaggRemover has been enabled!
+[13:40:47] [Server thread/INFO]: Running delayed init tasks
+[13:40:47] [Server thread/INFO]: Done (6.629s)! For help, type "help"
+[13:40:47] [Server thread/INFO]: Timings Reset
+[13:40:48] [Craft Scheduler Thread - 2 - BlockProt/INFO]: BlockProt is up to date. (1.0.4)
+[13:42:30] [User Authenticator #1/INFO]: UUID of player snypee is b43ac269-6ae9-3fc6-9cfa-48dc4978aefc
+[13:42:31] [Server thread/INFO]: snypee joined the game
+[13:42:31] [Server thread/INFO]: snypee[/[0:0:0:0:0:0:0:1]:63010] logged in with entity id 143 at ([world]74.20144608854167, 72.0, 371.2921824755692)
+[13:43:38] [User Authenticator #2/INFO]: UUID of player Whispering is 8817143b-1042-3da9-8237-879ef3eb44f2
+[13:43:38] [Server thread/INFO]: Whispering joined the game
+[13:43:38] [Server thread/INFO]: Whispering[/[0:0:0:0:0:0:0:1]:63096] logged in with entity id 852 at ([world]14.483145671936693, 87.0, 690.2524341049801)
+[13:46:01] [Server thread/WARN]: snypee was kicked due to keepalive timeout!
+[13:46:01] [Server thread/INFO]: snypee lost connection: Timed out
+[13:46:01] [Server thread/INFO]: snypee left the game
+[13:46:08] [Server thread/INFO]: Whispering lost connection: Disconnected
+[13:46:08] [Server thread/INFO]: Whispering left the game
+[13:46:12] [User Authenticator #3/INFO]: UUID of player snypee is b43ac269-6ae9-3fc6-9cfa-48dc4978aefc
+[13:46:12] [Server thread/INFO]: snypee joined the game
+[13:46:12] [Server thread/INFO]: snypee[/[0:0:0:0:0:0:0:1]:65084] logged in with entity id 2055 at ([world]55.277398448333635, 71.0, 431.2796607462165)
+[13:46:22] [Server thread/INFO]: snypee lost connection: Disconnected
+[13:46:22] [Server thread/INFO]: snypee left the game
+[13:46:25] [User Authenticator #3/INFO]: UUID of player snypee is b43ac269-6ae9-3fc6-9cfa-48dc4978aefc
+[13:46:26] [Server thread/INFO]: snypee joined the game
+[13:46:26] [Server thread/INFO]: snypee[/[0:0:0:0:0:0:0:1]:65414] logged in with entity id 2229 at ([world]55.277398448333635, 71.0, 431.2796607462165)
+[13:46:37] [User Authenticator #3/INFO]: UUID of player Whispering is 8817143b-1042-3da9-8237-879ef3eb44f2
+[13:46:37] [Server thread/INFO]: Whispering joined the game
+[13:46:37] [Server thread/INFO]: Whispering[/[0:0:0:0:0:0:0:1]:65432] logged in with entity id 2314 at ([world]67.03509291873286, 120.0, 603.9288395588536)
+[13:46:38] [Server thread/INFO]: Whispering lost connection: Disconnected
+[13:46:39] [Server thread/INFO]: Whispering left the game
+[13:46:51] [User Authenticator #3/INFO]: UUID of player Whispering is 8817143b-1042-3da9-8237-879ef3eb44f2
+[13:46:51] [Server thread/INFO]: Whispering joined the game
+[13:46:51] [Server thread/INFO]: Whispering[/[0:0:0:0:0:0:0:1]:65439] logged in with entity id 2484 at ([world]67.03509291873286, 120.0, 603.9288395588536)
+[13:56:38] [User Authenticator #4/INFO]: UUID of player Ac1d_uwu is 54d57c59-38d1-315c-8a76-c7890e88bcbf
+[13:56:38] [Server thread/INFO]: Ac1d_uwu joined the game
+[13:56:39] [Server thread/INFO]: Ac1d_uwu[/[0:0:0:0:0:0:0:1]:54842] logged in with entity id 4740 at ([world]88.3405901178041, 66.0, 375.52763096389253)
+[13:56:56] [Server thread/INFO]: Ac1d_uwu lost connection: Disconnected
+[13:56:57] [Server thread/INFO]: Ac1d_uwu left the game
+[13:57:25] [User Authenticator #4/INFO]: UUID of player Ac1d_uwu is 54d57c59-38d1-315c-8a76-c7890e88bcbf
+[13:57:25] [Server thread/INFO]: Ac1d_uwu joined the game
+[13:57:25] [Server thread/INFO]: Ac1d_uwu[/[0:0:0:0:0:0:0:1]:54855] logged in with entity id 4895 at ([world]88.3405901178041, 66.0, 375.52763096389253)
+[13:57:33] [Server thread/INFO]: Ac1d_uwu lost connection: Disconnected
+[13:57:34] [Server thread/INFO]: Ac1d_uwu left the game
+[14:15:06] [Server thread/WARN]: Boat (vehicle of Whispering) moved wrongly! 0.29030531211333255
+[14:15:06] [Server thread/WARN]: Boat (vehicle of Whispering) moved wrongly! 0.4772210559631276
+[14:15:06] [Server thread/WARN]: Boat (vehicle of Whispering) moved wrongly! 0.5861842363691494
+[14:15:06] [Server thread/WARN]: Boat (vehicle of Whispering) moved wrongly! 0.5751316062263072
+[14:15:06] [Server thread/WARN]: Boat (vehicle of Whispering) moved wrongly! 0.5662895019802363
+[14:15:38] [Server thread/INFO]: Whispering was slain by snypee
+[14:18:55] [Server thread/INFO]: Whispering tried to swim in lava
+[14:20:42] [Server thread/INFO]: Whispering drowned
+[14:27:25] [Server thread/INFO]: snypee lost connection: Timed out
+[14:27:25] [Server thread/INFO]: snypee left the game
+[14:27:49] [Server thread/INFO]: Whispering lost connection: Disconnected
+[14:27:49] [Server thread/INFO]: Whispering left the game
+[14:31:18] [User Authenticator #5/INFO]: UUID of player Whispering is 8817143b-1042-3da9-8237-879ef3eb44f2
+[14:31:18] [Server thread/INFO]: Whispering joined the game
+[14:31:18] [Server thread/INFO]: Whispering[/[0:0:0:0:0:0:0:1]:59884] logged in with entity id 10715 at ([world]4.580416605192919, 63.0, 344.82750777754404)
+[14:40:44] [User Authenticator #6/INFO]: UUID of player snypee is b43ac269-6ae9-3fc6-9cfa-48dc4978aefc
+[14:40:44] [Server thread/INFO]: snypee joined the game
+[14:40:44] [Server thread/INFO]: snypee[/[0:0:0:0:0:0:0:1]:50324] logged in with entity id 12606 at ([world]74.79718106061112, 72.0, 371.7335607388471)
+[14:41:02] [User Authenticator #6/INFO]: UUID of player OmkarSANAS is 0578c101-ef8a-3ea5-bece-979eaea41d7e
+[14:41:02] [Server thread/INFO]: OmkarSANAS joined the game
+[14:41:02] [Server thread/INFO]: OmkarSANAS[/127.0.0.1:50417] logged in with entity id 12813 at ([world]85.88998094783074, 86.0, 319.69220510488344)
+[14:44:51] [Server thread/INFO]: Whispering lost connection: Disconnected
+[14:44:51] [Server thread/INFO]: Whispering left the game
+[14:44:51] [Server thread/INFO]: snypee lost connection: Disconnected
+[14:44:51] [Server thread/INFO]: snypee left the game
+[14:45:29] [User Authenticator #7/INFO]: UUID of player snypee is b43ac269-6ae9-3fc6-9cfa-48dc4978aefc
+[14:45:29] [Server thread/INFO]: snypee joined the game
+[14:45:29] [Server thread/INFO]: snypee[/[0:0:0:0:0:0:0:1]:58838] logged in with entity id 14363 at ([world]71.00287183526729, 152.0, 496.657704437483)
+[14:45:36] [User Authenticator #7/INFO]: UUID of player Whispering is 8817143b-1042-3da9-8237-879ef3eb44f2
+[14:45:36] [Server thread/INFO]: Whispering joined the game
+[14:45:36] [Server thread/INFO]: Whispering[/[0:0:0:0:0:0:0:1]:62965] logged in with entity id 14478 at ([world]-69.45674363622409, 85.0, 362.95213763834687)
+[14:46:21] [Server thread/WARN]: Whispering was kicked due to keepalive timeout!
+[14:46:21] [Server thread/INFO]: Whispering lost connection: Timed out
+[14:46:21] [Server thread/INFO]: Whispering left the game
+[14:46:30] [User Authenticator #7/INFO]: UUID of player Whispering is 8817143b-1042-3da9-8237-879ef3eb44f2
+[14:46:30] [Server thread/INFO]: Whispering joined the game
+[14:46:30] [Server thread/INFO]: Whispering[/[0:0:0:0:0:0:0:1]:63012] logged in with entity id 14823 at ([world]-69.45674363622409, 85.0, 362.95213763834687)
+[14:47:01] [Server thread/INFO]: Whispering lost connection: Disconnected
+[14:47:01] [Server thread/INFO]: Whispering left the game
+[14:47:09] [Server thread/INFO]: snypee lost connection: Disconnected
+[14:47:09] [Server thread/INFO]: snypee left the game
+[14:47:13] [Server thread/INFO]: OmkarSANAS lost connection: Disconnected
+[14:47:13] [Server thread/INFO]: OmkarSANAS left the game
+[14:47:25] [Server thread/INFO]: Saving the game (this may take a moment!)
+[14:47:26] [Server thread/INFO]: Saved the game
+[14:47:31] [Server thread/INFO]: Stopping the server
+[14:47:31] [Server thread/INFO]: Stopping server
+[14:47:31] [Server thread/INFO]: [LaggRemover] Disabling LaggRemover v2.0.6
+[14:47:31] [Server thread/INFO]: [LaggRemover] LaggRemover has been disabled!
+[14:47:31] [Server thread/INFO]: [SinglePlayerSleep] Disabling SinglePlayerSleep v1.13_2.13.46
+[14:47:31] [Server thread/INFO]: **************************************
+[14:47:31] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.46 is DISABLED
+[14:47:31] [Server thread/INFO]: **************************************
+[14:47:31] [Server thread/INFO]: [SavageDeathChest] Disabling SavageDeathChest v1.18.5
+[14:47:31] [Server thread/INFO]: [SavageDeathChest] SQLite datastore connection closed.
+[14:47:31] [Server thread/INFO]: [BlockProt] Disabling BlockProt v1.0.4
+[14:47:31] [Server thread/INFO]: Saving players
+[14:47:31] [Server thread/INFO]: Saving worlds
+[14:47:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[14:47:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[14:47:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[14:47:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14:47:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14:47:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14:47:34] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[14:47:39] [Server thread/INFO]: Flushing Chunk IO
+[14:47:39] [Server thread/INFO]: Closing Thread Pool
+[14:47:39] [Server thread/INFO]: Closing Server
