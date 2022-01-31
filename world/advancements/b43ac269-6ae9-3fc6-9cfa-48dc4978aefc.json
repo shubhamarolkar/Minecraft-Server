@@ -1357,6 +1357,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2022-01-31 16:43:45 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2022-01-24 22:48:05 +0530"
@@ -1576,6 +1582,12 @@
   "minecraft:recipes/decorations/purple_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-01-24 22:41:20 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2022-01-31 16:43:45 +0530"
     },
     "done": true
   },
@@ -2195,6 +2207,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2022-01-31 16:06:53 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2022-01-22 20:41:54 +0530"
@@ -2253,7 +2271,8 @@
       "poisonous_potato": "2022-01-25 00:25:17 +0530",
       "bread": "2022-01-25 00:39:55 +0530",
       "melon_slice": "2022-01-26 00:13:07 +0530",
-      "cooked_salmon": "2022-01-25 19:47:56 +0530"
+      "cooked_salmon": "2022-01-25 19:47:56 +0530",
+      "carrot": "2022-01-31 16:20:28 +0530"
     },
     "done": false
   },
@@ -2506,6 +2525,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2022-01-24 22:07:37 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2022-01-31 16:06:53 +0530"
     },
     "done": true
   },
@@ -3526,6 +3551,12 @@
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2022-01-26 15:25:10 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2022-01-31 16:20:00 +0530"
     },
     "done": true
   },
