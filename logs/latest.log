@@ -1,61 +1,61 @@
-[19:22:39] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[19:22:40] [ServerMain/INFO]: Reloading ResourceManager: Default, bukkit
-[19:22:41] [Worker-Main-2/INFO]: Loaded 7 recipes
-[19:22:42] [Server thread/INFO]: Starting minecraft server version 1.18.1
-[19:22:42] [Server thread/INFO]: Loading properties
-[19:22:42] [Server thread/INFO]: This server is running Paper version git-Paper-168 (MC: 1.18.1) (Implementing API version 1.18.1-R0.1-SNAPSHOT) (Git: dcca6cb)
-[19:22:42] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[19:22:42] [Server thread/INFO]: Using 4 threads for Netty based IO
-[19:22:42] [Server thread/INFO]: Default game type: SURVIVAL
-[19:22:42] [Server thread/INFO]: Generating keypair
-[19:22:42] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:22:43] [Server thread/INFO]: Using default channel type
-[19:22:43] [Server thread/INFO]: Paper: Using Java 11 compression from Velocity.
-[19:22:43] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
-[19:22:43] [Server thread/INFO]: [BlockProt] Loading BlockProt v1.0.4
-[19:22:43] [Server thread/INFO]: [SavageDeathChest] Loading SavageDeathChest v1.18.5
-[19:22:43] [Server thread/INFO]: [SinglePlayerSleep] Loading SinglePlayerSleep v1.13_2.13.46
-[19:22:43] [Server thread/INFO]: [LaggRemover] Loading LaggRemover v2.0.6
-[19:22:43] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[19:22:43] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[19:22:43] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[19:22:43] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[19:22:43] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[19:22:43] [Server thread/INFO]: Preparing level "world"
-[19:22:45] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:22:45] [Server thread/INFO]: Time elapsed: 324 ms
-[19:22:45] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[19:22:45] [Server thread/INFO]: Time elapsed: 121 ms
-[19:22:45] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[19:22:46] [Server thread/INFO]: Time elapsed: 132 ms
-[19:22:46] [Server thread/INFO]: [BlockProt] Enabling BlockProt v1.0.4
-[19:22:46] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Spigot: v1_18_R1! Trying to find NMS support
-[19:22:46] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_18_R1' loaded!
-[19:22:46] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Gson: class com.google.gson.Gson
-[19:22:46] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'BlockProt' to create a bStats instance!
-[19:22:46] [Server thread/INFO]: [SavageDeathChest] Enabling SavageDeathChest v1.18.5
-[19:22:46] [Server thread/INFO]: [SavageDeathChest] Language file en-US.yml successfully loaded.
-[19:22:46] [Server thread/INFO]: [SavageDeathChest] Sound file sounds.yml successfully loaded.
-[19:22:46] [Server thread/INFO]: [SavageDeathChest] SQLite datastore initialized.
-[19:22:46] [Server thread/INFO]: [SinglePlayerSleep] Enabling SinglePlayerSleep v1.13_2.13.46
-[19:22:46] [Server thread/INFO]: **************************************
-[19:22:46] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.46 Loading...
-[19:22:47] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.46 plugins\SinglePlayerSleep\config.yml
-[19:22:47] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.46 config.yml has been updated
-[19:22:47] [Server thread/INFO]: Checking for updates...
-[19:22:47] [Thread-7/WARN]: [NBTAPI] [NBTAPI] The NBT-API at 'package de.sean.blockprot.bukkit.shaded.nbtapi' seems to be a future Version, not yet released on Spigot/CurseForge!
-[19:22:47] [Thread-7/WARN]: [NBTAPI] [NBTAPI] Current Version: '2.9.0-SNAPSHOT' Newest Version: 2.8.0'
-[19:22:48] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.46 New version available! v1.13_2.13.47
-[19:22:48] [Server thread/INFO]: https://spigotmc.org/resources/68139
-[19:22:48] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.46 plugins\SinglePlayerSleep\permissions.yml
-[19:22:48] [Server thread/INFO]: **************************************
-[19:22:48] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.46 is ENABLED
-[19:22:48] [Server thread/INFO]: **************************************
-[19:22:48] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.46 This server is running Paper version git-Paper-168 (MC: 1.18.1) (Implementing API version 1.18.1-R0.1-SNAPSHOT)
-[19:22:48] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.46 vardebug=false debug=false in plugins\SinglePlayerSleep/config.yml
-[19:22:48] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.46 jarfilename=D:\Games\Minecraft Server\Minecraft-Server\plugins\SinglePlayerSleep-1.13_2.13.46.jar
-[19:22:48] [Server thread/INFO]: [LaggRemover] Enabling LaggRemover v2.0.6
-[19:22:48] [Server thread/INFO]: [LaggRemover] [STDOUT] 
+[15:31:16] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[15:31:17] [ServerMain/INFO]: Reloading ResourceManager: Default, bukkit
+[15:31:18] [Worker-Main-1/INFO]: Loaded 7 recipes
+[15:31:20] [Server thread/INFO]: Starting minecraft server version 1.18.1
+[15:31:20] [Server thread/INFO]: Loading properties
+[15:31:20] [Server thread/INFO]: This server is running Paper version git-Paper-168 (MC: 1.18.1) (Implementing API version 1.18.1-R0.1-SNAPSHOT) (Git: dcca6cb)
+[15:31:20] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[15:31:20] [Server thread/INFO]: Using 4 threads for Netty based IO
+[15:31:20] [Server thread/INFO]: Default game type: SURVIVAL
+[15:31:20] [Server thread/INFO]: Generating keypair
+[15:31:20] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:31:21] [Server thread/INFO]: Using default channel type
+[15:31:21] [Server thread/INFO]: Paper: Using Java 11 compression from Velocity.
+[15:31:21] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
+[15:31:22] [Server thread/INFO]: [BlockProt] Loading BlockProt v1.0.4
+[15:31:22] [Server thread/INFO]: [SavageDeathChest] Loading SavageDeathChest v1.18.5
+[15:31:22] [Server thread/INFO]: [SinglePlayerSleep] Loading SinglePlayerSleep v1.13_2.13.46
+[15:31:22] [Server thread/INFO]: [LaggRemover] Loading LaggRemover v2.0.6
+[15:31:22] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[15:31:22] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15:31:22] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[15:31:22] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[15:31:22] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[15:31:22] [Server thread/INFO]: Preparing level "world"
+[15:31:23] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:31:23] [Server thread/INFO]: Time elapsed: 377 ms
+[15:31:23] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[15:31:24] [Server thread/INFO]: Time elapsed: 112 ms
+[15:31:24] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[15:31:24] [Server thread/INFO]: Time elapsed: 109 ms
+[15:31:24] [Server thread/INFO]: [BlockProt] Enabling BlockProt v1.0.4
+[15:31:24] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Spigot: v1_18_R1! Trying to find NMS support
+[15:31:24] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_18_R1' loaded!
+[15:31:24] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Gson: class com.google.gson.Gson
+[15:31:24] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'BlockProt' to create a bStats instance!
+[15:31:24] [Server thread/INFO]: [SavageDeathChest] Enabling SavageDeathChest v1.18.5
+[15:31:24] [Server thread/INFO]: [SavageDeathChest] Language file en-US.yml successfully loaded.
+[15:31:24] [Server thread/INFO]: [SavageDeathChest] Sound file sounds.yml successfully loaded.
+[15:31:25] [Thread-6/WARN]: [NBTAPI] [NBTAPI] The NBT-API at 'package de.sean.blockprot.bukkit.shaded.nbtapi' seems to be a future Version, not yet released on Spigot/CurseForge!
+[15:31:25] [Thread-6/WARN]: [NBTAPI] [NBTAPI] Current Version: '2.9.0-SNAPSHOT' Newest Version: 2.8.0'
+[15:31:25] [Server thread/INFO]: [SavageDeathChest] SQLite datastore initialized.
+[15:31:25] [Server thread/INFO]: [SinglePlayerSleep] Enabling SinglePlayerSleep v1.13_2.13.46
+[15:31:25] [Server thread/INFO]: **************************************
+[15:31:25] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.46 Loading...
+[15:31:25] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.46 plugins\SinglePlayerSleep\config.yml
+[15:31:25] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.46 config.yml has been updated
+[15:31:25] [Server thread/INFO]: Checking for updates...
+[15:31:26] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.46 New version available! v1.13_2.13.47
+[15:31:26] [Server thread/INFO]: https://spigotmc.org/resources/68139
+[15:31:26] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.46 plugins\SinglePlayerSleep\permissions.yml
+[15:31:26] [Server thread/INFO]: **************************************
+[15:31:26] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.46 is ENABLED
+[15:31:26] [Server thread/INFO]: **************************************
+[15:31:26] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.46 This server is running Paper version git-Paper-168 (MC: 1.18.1) (Implementing API version 1.18.1-R0.1-SNAPSHOT)
+[15:31:26] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.46 vardebug=false debug=false in plugins\SinglePlayerSleep/config.yml
+[15:31:26] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.46 jarfilename=E:\Project\MCServer\Minecraft-Server\plugins\SinglePlayerSleep-1.13_2.13.46.jar
+[15:31:26] [Server thread/INFO]: [LaggRemover] Enabling LaggRemover v2.0.6
+[15:31:26] [Server thread/INFO]: [LaggRemover] [STDOUT] 
     __                      ____                                         _    _____
    / /   ____ _____ _____ _/ __ \___  ____ ___  ____ _   _____  _____   | |  / /__ \
   / /   / __ `/ __ `/ __ `/ /_/ / _ \/ __ `__ \/ __ \ | / / _ \/ ___/   | | / /__/ /
@@ -63,274 +63,175 @@
 /_____/\__,_/\__, /\__, /_/ |_|\___/_/ /_/ /_/\____/|___/\___/_/        |___//____/
             /____//____/
 
-[19:22:48] [Server thread/WARN]: Nag author(s): '[drew6017]' of 'LaggRemover' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
-[19:22:48] [Server thread/INFO]: [LaggRemover] Loaded 0 module(s)
-[19:22:48] [Server thread/INFO]: [LaggRemover] The LaggRemover AI is now active!
-[19:22:48] [Server thread/INFO]: [LaggRemover] LaggRemover has been enabled!
-[19:22:48] [Server thread/INFO]: Running delayed init tasks
-[19:22:48] [Server thread/INFO]: Done (5.894s)! For help, type "help"
-[19:22:48] [Server thread/INFO]: Timings Reset
-[19:22:48] [Craft Scheduler Thread - 2 - BlockProt/INFO]: BlockProt is up to date. (1.0.4)
-[19:37:27] [User Authenticator #1/INFO]: UUID of player watchtime is c057e1a1-33de-3761-931c-ce2a12a5e0c1
-[19:37:28] [Server thread/INFO]: watchtime joined the game
-[19:37:28] [Server thread/INFO]: watchtime[/127.0.0.1:29172] logged in with entity id 143 at ([world]91.12386690974019, 92.73525539114875, 451.1796439857705)
-[19:37:35] [Server thread/WARN]: watchtime was kicked for floating too long!
-[19:37:35] [Server thread/INFO]: watchtime lost connection: Flying is not enabled on this server
-[19:37:35] [Server thread/INFO]: watchtime left the game
-[19:37:44] [User Authenticator #1/INFO]: UUID of player watchtime is c057e1a1-33de-3761-931c-ce2a12a5e0c1
-[19:37:44] [Server thread/INFO]: watchtime joined the game
-[19:37:44] [Server thread/INFO]: watchtime[/127.0.0.1:29176] logged in with entity id 648 at ([world]91.12386690974019, 92.43093856369121, 451.1796439857705)
-[19:39:36] [User Authenticator #2/INFO]: UUID of player snypee is b43ac269-6ae9-3fc6-9cfa-48dc4978aefc
-[19:39:36] [Server thread/INFO]: snypee joined the game
-[19:39:36] [Server thread/INFO]: snypee[/[0:0:0:0:0:0:0:1]:1033] logged in with entity id 1041 at ([world]58.53885931176588, 63.0, 392.19604822926317)
-[19:58:47] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.3377605080278272
-[19:58:47] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.765377038888289
-[19:58:47] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 1.4125523431332567
-[19:58:47] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 2.0246698161844847
-[19:58:47] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 2.6180285427416266
-[19:58:52] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.25404472433949365
-[19:58:52] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.32812900454490546
-[19:58:52] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.40039537511630385
-[19:58:52] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.44540373541300937
-[19:59:08] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.2552310143016143
-[19:59:42] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.2574640412360907
-[20:00:12] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.3024258377417084
-[20:00:12] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.8593693042811879
-[20:00:12] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.4163891124287602
-[20:00:12] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.9763575147658514
-[20:00:12] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.5412657939770043
-[20:00:12] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 1.1093075255336657
-[20:01:46] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.323259217333117
-[20:01:46] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.3495906609527992
-[20:01:56] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.46166471395527964
-[20:02:24] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.28260559999563384
-[20:02:24] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.5055393214581159
-[20:02:24] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.5207462016967384
-[20:02:24] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.5288831001199696
-[20:02:24] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.5332369922339808
-[20:02:24] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.5355666730969233
-[20:02:24] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.536813238877869
-[20:02:24] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.537480251373438
-[20:02:24] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.5378371564609665
-[20:02:24] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.5380281292574409
-[20:02:24] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.5356554341677224
-[20:02:24] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.4455278362806325
-[20:02:58] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.363133609846102
-[20:02:58] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.4345978600166518
-[20:02:59] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.29210541737631956
-[20:02:59] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.3638474956873665
-[20:02:59] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.43561750549821454
-[20:02:59] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.293987587927802
-[20:02:59] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.36563480119764336
-[20:03:00] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.4372826093751314
-[20:03:00] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.4732282567460402
-[20:03:00] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.49729978477290615
-[20:03:13] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.33624312898660946
-[20:03:14] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.36663038073243115
-[20:06:05] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.4490518592874082
-[20:06:07] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.311608537242023
-[20:06:08] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.38143189980536363
-[20:06:08] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.4512523933562136
-[20:06:08] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.3061595580209939
-[20:06:08] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.8765129825360987
-[20:06:09] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.2903210927899522
-[20:06:20] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.4191077324736625
-[20:06:22] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.3198062931257937
-[20:06:22] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.5205810028447218
-[20:06:26] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.27904830353776333
-[20:08:00] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.2656805124802588
-[20:08:25] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.39612604854445976
-[20:08:26] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.4679775439672369
-[20:08:26] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.2537309349851853
-[20:08:26] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.3251902546105896
-[20:08:26] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.3966460145645385
-[20:08:26] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.46810075534656903
-[20:08:26] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.2544917405775493
-[20:08:26] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.3261877400890114
-[20:08:27] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.3979699923988562
-[20:08:27] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.46955668140125795
-[20:08:27] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.25492739565032707
-[20:08:27] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.8262152583347273
-[20:08:42] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.48159786092168133
-[20:09:30] [Server thread/WARN]: watchtime was kicked for floating too long!
-[20:09:30] [Server thread/INFO]: watchtime lost connection: Flying is not enabled on this server
-[20:09:30] [Server thread/INFO]: watchtime left the game
-[20:09:33] [User Authenticator #3/INFO]: UUID of player watchtime is c057e1a1-33de-3761-931c-ce2a12a5e0c1
-[20:09:33] [Server thread/INFO]: watchtime joined the game
-[20:09:33] [Server thread/INFO]: watchtime[/127.0.0.1:31312] logged in with entity id 7472 at ([world]93.52918405081972, 83.03310780703816, 306.23926210650876)
-[20:09:41] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.31593097868415043
-[20:09:41] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.852781898562796
-[20:09:41] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 1.4036902861408294
-[20:09:55] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.43572177327084205
-[20:09:55] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.49654958289934825
-[20:09:56] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.34783067218282326
-[20:10:11] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.32881057440489414
-[20:10:11] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.5572606699825791
-[20:10:11] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.5622064652059251
-[20:10:11] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.5648528616214179
-[20:10:11] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.5662688955798956
-[20:10:11] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.5670265871184057
-[20:10:11] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.5674320127539225
-[20:10:11] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.5676489479281734
-[20:10:11] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.567765025614694
-[20:10:11] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.5678271364704095
-[20:10:11] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.30383297947358656
-[20:10:13] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.28635804746192406
-[20:10:13] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.2553741140863828
-[20:12:54] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.42448721982182747
-[20:12:59] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.27996247498001026
-[20:12:59] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.8502879344174232
-[20:12:59] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 1.4265902621021382
-[20:14:35] [Server thread/WARN]: watchtime was kicked for floating too long!
-[20:14:35] [Server thread/INFO]: watchtime lost connection: Flying is not enabled on this server
-[20:14:35] [Server thread/INFO]: watchtime left the game
-[20:14:37] [User Authenticator #4/INFO]: UUID of player watchtime is c057e1a1-33de-3761-931c-ce2a12a5e0c1
-[20:14:38] [Server thread/INFO]: watchtime joined the game
-[20:14:38] [Server thread/INFO]: watchtime[/127.0.0.1:31323] logged in with entity id 9561 at ([world]-274.6517591877308, 191.7716000163555, 91.31153571496581)
-[20:16:09] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.3480735704551421
-[20:16:09] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.34205274317204726
-[20:16:10] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.8813791930882928
-[20:16:10] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 1.4226315188186334
-[20:19:17] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.2701204254098002
-[20:21:09] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.41176247169029523
-[20:21:11] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.4574041433259026
-[20:21:22] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.46023155040035135
-[20:21:22] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.44016193637575896
-[20:21:22] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.4738551043433432
-[20:21:22] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.2662513336721304
-[20:21:22] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.33067089050959453
-[20:21:27] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.2561313042357938
-[20:21:27] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.32790027479870787
-[20:21:27] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.327900612913254
-[20:21:27] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.39966975705704044
-[20:21:28] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.47143263647222966
-[20:21:45] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.2592830734932505
-[20:22:08] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.26427284046371824
-[20:22:09] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.3193041732428554
-[20:22:09] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.703607398866609
-[20:22:09] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.40080141861569984
-[20:22:48] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.42979173248653524
-[20:26:06] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.33786167104045717
-[20:26:54] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.4504970802093453
-[20:27:35] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.30954230755008894
-[20:27:49] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.2833826978925913
-[20:27:52] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.3168662088112342
-[20:27:52] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.6683066819746841
-[20:27:52] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.9059035452431203
-[20:27:52] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 1.0825849626534705
-[20:27:53] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.2769409727570036
-[20:28:09] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.44021516518529324
-[20:30:49] [User Authenticator #5/INFO]: UUID of player Shade1912 is a2f8b888-396c-3ca0-a3bd-354e7b80661b
-[20:30:49] [Server thread/INFO]: Shade1912 joined the game
-[20:30:49] [Server thread/INFO]: Shade1912[/[0:0:0:0:0:0:0:1]:31363] logged in with entity id 14839 at ([world]190.58103997239544, 79.0, 392.2664381716534)
-[20:31:12] [Server thread/INFO]: Shade1912 lost connection: Disconnected
-[20:31:12] [Server thread/INFO]: Shade1912 left the game
-[20:32:48] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.3247113235312611
-[20:32:48] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.5520982269878658
-[20:32:48] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.5579374139272062
-[20:32:48] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.5610618464376103
-[20:32:48] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.5476405313289945
-[20:32:48] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.4407198110701529
-[20:32:48] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.28967979267686417
-[20:32:48] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.4937403457166596
-[20:32:48] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.6519877506901395
-[20:32:49] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.7945089323013548
-[20:32:49] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.8051613580270072
-[20:32:49] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.757023210046043
-[20:32:49] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.7390657842948514
-[20:32:49] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.7940540735586694
-[20:32:49] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.8880741605463527
-[20:32:49] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.26345322336220534
-[20:32:49] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.6016638425557517
-[20:32:49] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.7826336016939877
-[20:32:49] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.8794669116610976
-[20:32:54] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.2559836760474212
-[20:33:55] [User Authenticator #6/INFO]: UUID of player Shade1912 is a2f8b888-396c-3ca0-a3bd-354e7b80661b
-[20:33:55] [Server thread/INFO]: Shade1912 joined the game
-[20:33:55] [Server thread/INFO]: Shade1912[/[0:0:0:0:0:0:0:1]:1028] logged in with entity id 15836 at ([world]190.58103997239544, 79.0, 392.2664381716534)
-[20:34:40] [Server thread/WARN]: Shade1912 was kicked due to keepalive timeout!
-[20:34:40] [Server thread/INFO]: Shade1912 lost connection: Timed out
-[20:34:40] [Server thread/INFO]: Shade1912 left the game
-[20:36:45] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.400247164395779
-[20:36:45] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.46320854551228763
-[20:36:52] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.5370308448484025
-[20:36:53] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.2916965139744434
-[20:36:53] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.36144804072432635
-[20:36:53] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.43202970675849883
-[20:36:54] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.3658786913369454
-[20:36:54] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.43741198447861507
-[20:36:54] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.43794536153404806
-[20:36:55] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.29703717310292177
-[20:36:55] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.3686834561193564
-[20:36:55] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.4403559777369992
-[20:36:56] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.2987733070597187
-[20:36:57] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.26416705137785357
-[20:36:57] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.3376437141668589
-[20:44:10] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.3371628462160743
-[20:44:10] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.399609474184075
-[20:44:10] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.46543699549587814
-[20:44:14] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.29147791602474626
-[20:44:14] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.36364856606979856
-[20:44:14] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.4356601490110563
-[20:44:15] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.4940619392704946
-[20:44:15] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.48664959082489645
-[20:44:15] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.43776580152893985
-[20:46:24] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.26748041309818404
-[20:46:28] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.38454092376257165
-[20:46:28] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.9559561449114398
-[20:46:29] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.46154869593505055
-[20:46:29] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.26909320954314353
-[20:46:29] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.3386586020489517
-[20:46:29] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.34150586175206854
-[20:46:29] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.4123904378623138
-[20:46:30] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.41343448774603075
-[20:46:30] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.4851599681377934
-[20:46:30] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.27206159727228396
-[20:46:31] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.3437870082670429
-[20:46:31] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.41551241762209656
-[20:46:31] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.4872378273291247
-[20:46:31] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.41551241946120854
-[20:46:31] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.48723782959399387
-[20:46:31] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.27413947003896055
-[20:46:33] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.30272794619850174
-[20:46:33] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.3628514976654742
-[20:46:33] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.4357990883817138
-[20:49:11] [Server thread/INFO]: watchtime lost connection: Disconnected
-[20:49:11] [Server thread/INFO]: watchtime left the game
-[20:49:49] [User Authenticator #7/INFO]: UUID of player Shade1912 is a2f8b888-396c-3ca0-a3bd-354e7b80661b
-[20:49:49] [Server thread/INFO]: Shade1912 joined the game
-[20:49:49] [Server thread/INFO]: Shade1912[/[0:0:0:0:0:0:0:1]:28447] logged in with entity id 20459 at ([world]190.58103997239544, 79.0, 392.2664381716534)
-[20:50:09] [Server thread/INFO]: Shade1912 lost connection: Disconnected
-[20:50:09] [Server thread/INFO]: Shade1912 left the game
-[20:50:12] [User Authenticator #7/INFO]: UUID of player Shade1912 is a2f8b888-396c-3ca0-a3bd-354e7b80661b
-[20:50:12] [Server thread/INFO]: Shade1912 joined the game
-[20:50:12] [Server thread/INFO]: Shade1912[/[0:0:0:0:0:0:0:1]:28448] logged in with entity id 20535 at ([world]190.58103997239544, 79.0, 392.2664381716534)
-[20:53:29] [Server thread/INFO]: Shade1912 lost connection: Disconnected
-[20:53:29] [Server thread/INFO]: Shade1912 left the game
-[20:54:14] [Server thread/INFO]: snypee lost connection: Timed out
-[20:54:14] [Server thread/INFO]: snypee left the game
-[21:15:52] [Server thread/INFO]: Saving the game (this may take a moment!)
-[21:15:52] [Server thread/INFO]: Saved the game
-[21:15:56] [Server thread/INFO]: Stopping the server
-[21:15:57] [Server thread/INFO]: Stopping server
-[21:15:57] [Server thread/INFO]: [LaggRemover] Disabling LaggRemover v2.0.6
-[21:15:57] [Server thread/INFO]: [LaggRemover] LaggRemover has been disabled!
-[21:15:57] [Server thread/INFO]: [SinglePlayerSleep] Disabling SinglePlayerSleep v1.13_2.13.46
-[21:15:57] [Server thread/INFO]: **************************************
-[21:15:57] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.46 is DISABLED
-[21:15:57] [Server thread/INFO]: **************************************
-[21:15:57] [Server thread/INFO]: [SavageDeathChest] Disabling SavageDeathChest v1.18.5
-[21:15:57] [Server thread/INFO]: [SavageDeathChest] SQLite datastore connection closed.
-[21:15:57] [Server thread/INFO]: [BlockProt] Disabling BlockProt v1.0.4
-[21:15:57] [Server thread/INFO]: Saving players
-[21:15:57] [Server thread/INFO]: Saving worlds
-[21:15:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[21:15:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[21:15:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[21:15:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[21:15:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21:15:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[21:15:57] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[21:15:58] [Server thread/INFO]: Flushing Chunk IO
-[21:15:58] [Server thread/INFO]: Closing Thread Pool
-[21:15:58] [Server thread/INFO]: Closing Server
+[15:31:26] [Server thread/WARN]: Nag author(s): '[drew6017]' of 'LaggRemover' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
+[15:31:26] [Server thread/INFO]: [LaggRemover] Loaded 0 module(s)
+[15:31:26] [Server thread/INFO]: [LaggRemover] The LaggRemover AI is now active!
+[15:31:26] [Server thread/INFO]: [LaggRemover] LaggRemover has been enabled!
+[15:31:26] [Server thread/INFO]: Running delayed init tasks
+[15:31:26] [Server thread/INFO]: Done (6.019s)! For help, type "help"
+[15:31:26] [Server thread/INFO]: Timings Reset
+[15:31:27] [Craft Scheduler Thread - 2 - BlockProt/INFO]: BlockProt is up to date. (1.0.4)
+[15:34:51] [User Authenticator #1/INFO]: UUID of player OmkarSANAS is 0578c101-ef8a-3ea5-bece-979eaea41d7e
+[15:34:52] [Server thread/INFO]: OmkarSANAS joined the game
+[15:34:52] [Server thread/INFO]: OmkarSANAS[/127.0.0.1:54281] logged in with entity id 139 at ([world]75.30765902947877, 65.0625, 328.69999998807907)
+[15:40:11] [User Authenticator #2/INFO]: UUID of player snypee is b43ac269-6ae9-3fc6-9cfa-48dc4978aefc
+[15:40:11] [Server thread/INFO]: snypee joined the game
+[15:40:12] [Server thread/INFO]: snypee[/[0:0:0:0:0:0:0:1]:54310] logged in with entity id 1678 at ([world]76.5, 74.5625, 371.5)
+[16:06:33] [Server thread/INFO]: OmkarSANAS has made the advancement [Cover Me with Diamonds]
+[16:27:52] [User Authenticator #3/INFO]: UUID of player watchtime is c057e1a1-33de-3761-931c-ce2a12a5e0c1
+[16:27:52] [Server thread/INFO]: watchtime joined the game
+[16:27:53] [Server thread/INFO]: watchtime[/[0:0:0:0:0:0:0:1]:63949] logged in with entity id 12284 at ([world]81.79370344166847, 65.0, 325.45694306782934)
+[16:40:18] [User Authenticator #4/INFO]: UUID of player snypee is b43ac269-6ae9-3fc6-9cfa-48dc4978aefc
+[16:40:18] [Server thread/INFO]: snypee lost connection: You logged in from another location
+[16:40:18] [Server thread/INFO]: snypee left the game
+[16:40:18] [Server thread/INFO]: snypee joined the game
+[16:40:18] [Server thread/INFO]: snypee[/[0:0:0:0:0:0:0:1]:63997] logged in with entity id 14666 at ([world]247.69999998807907, 78.0, 238.69999998807907)
+[16:47:07] [Server thread/INFO]: watchtime issued server command: /tp watchtime OmkarSANAS
+[16:47:07] [Server thread/INFO]: [watchtime: Teleported watchtime to OmkarSANAS]
+[17:21:35] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.2649538059007739
+[17:21:35] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.6716116276644399
+[17:21:35] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 1.0
+[17:21:35] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 1.0
+[17:21:54] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.43194805770622224
+[17:21:58] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.3186834761276174
+[17:21:58] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.8243686007851068
+[17:21:58] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 1.0
+[17:21:58] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 1.0
+[17:21:58] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 1.0
+[17:21:59] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.47879139968524953
+[17:21:59] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.4776749243571601
+[17:21:59] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.47707752066921216
+[17:21:59] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.4767578618667443
+[17:21:59] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.953344680681596
+[17:21:59] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.4764952970880074
+[17:21:59] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.4764463256367293
+[17:22:05] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.3217146510562827
+[17:22:05] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.8567854711839118
+[17:22:05] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 1.391256884920054
+[17:22:05] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.534150683326942
+[17:22:05] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 1.0681297502065803
+[17:22:05] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.2857215522932677
+[17:22:05] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.4386054582522121
+[17:22:05] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.5204105881546042
+[17:22:05] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.5641828821470511
+[17:22:59] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.2655867111774626
+[17:22:59] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.6691119693199425
+[17:22:59] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 1.0
+[17:25:01] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.2719950842235493
+[17:25:01] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.7468020798462621
+[17:25:01] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 1.2512321221300604
+[17:25:01] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 1.7782384934270212
+[17:25:01] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 1.0125491851980115
+[17:25:01] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 1.429897294494964
+[17:25:01] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 1.8446115720000478
+[17:25:01] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.5689026493233074
+[17:25:01] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.5702340748513874
+[17:25:01] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.5709509765674656
+[17:25:02] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 1.1422866084896452
+[17:25:02] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.5715421597177188
+[17:25:02] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.5716526540276154
+[17:25:02] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.5717118071970764
+[17:25:02] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.571743467426959
+[17:25:02] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.571760410631753
+[17:25:02] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.5717694773033686
+[17:25:02] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.571774328899125
+[17:25:02] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.5618166626488172
+[17:25:02] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.567564175932219
+[17:25:02] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.36930129984255594
+[17:25:02] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.29182209239010604
+[17:25:02] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.5436700883451806
+[17:26:18] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.5390524106140688
+[17:26:18] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 1.1052452362854481
+[17:26:18] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 1.6715062354866959
+[17:28:30] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.42538346677740435
+[17:28:30] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.9878105510689039
+[17:28:30] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 1.5497139688258414
+[17:29:32] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.2718767374414534
+[17:32:00] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.3261272888908593
+[17:32:00] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.8583563477866676
+[17:32:00] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 1.386002062592155
+[17:32:05] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.31544144796103524
+[17:32:06] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.8270357187410582
+[17:32:06] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.3044477672658559
+[17:32:06] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.7575353838266922
+[17:32:06] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.4850986260485115
+[17:32:06] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.9026310904626769
+[17:32:06] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.36087053004067116
+[17:32:08] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.465510395762351
+[17:32:08] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.8187925612839138
+[17:32:08] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 1.0866768291176072
+[17:32:08] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 1.3103360703325393
+[17:32:08] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 1.6949708391731235
+[17:32:08] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 2.1626784922722493
+[17:32:08] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.5935659987571853
+[17:32:55] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.5225498224188243
+[17:33:22] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.2703188214097736
+[17:33:22] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.41828202633605827
+[17:33:22] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.4337218229368176
+[17:35:31] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.2562742220355574
+[17:35:31] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.32118817272854017
+[17:35:31] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.3892564051525511
+[17:35:31] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.45899740995694316
+[17:35:31] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.2936581993344589
+[17:35:31] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.32592345530885325
+[17:35:31] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.39468814006381336
+[17:35:34] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.3325333607738088
+[17:35:34] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.8840809109364329
+[17:35:34] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 1.441462086628576
+[17:35:41] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.2889722947533855
+[17:35:41] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.8450779546755385
+[17:35:41] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 1.402791103947159
+[17:36:33] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.3703732795068788
+[17:36:33] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.8952493961048873
+[17:36:33] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 1.3538282024105115
+[17:36:35] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.38074667253778216
+[17:36:35] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.5302730907121855
+[17:36:39] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.2744248487473442
+[17:36:39] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.27508732445465967
+[17:36:39] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.2865011064455416
+[17:36:39] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.31057793863942607
+[17:36:39] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.3492807011028276
+[17:36:40] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.36764728747158415
+[17:36:40] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.4146865697497333
+[17:36:42] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.3955989102856279
+[17:36:42] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.43044062607907563
+[17:36:46] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.25119111178577214
+[17:36:46] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.3212368269109902
+[17:36:46] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.39200873773529565
+[17:36:47] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.26005936162329135
+[17:37:00] [Server thread/INFO]: OmkarSANAS issued server command: /spscancel
+[17:47:23] [Server thread/INFO]: watchtime issued server command: /gamemode creative
+[17:47:23] [Server thread/INFO]: [watchtime: Set own game mode to Creative Mode]
+[17:51:00] [Server thread/INFO]: watchtime issued server command: /gamemode survival
+[17:51:00] [Server thread/INFO]: [watchtime: Set own game mode to Survival Mode]
+[17:54:17] [Server thread/INFO]: watchtime lost connection: Disconnected
+[17:54:17] [Server thread/INFO]: watchtime left the game
+[17:59:01] [Server thread/INFO]: snypee has made the advancement [Local Brewery]
+[17:59:42] [Server thread/INFO]: snypee lost connection: Timed out
+[17:59:42] [Server thread/INFO]: snypee left the game
+[18:00:53] [Server thread/INFO]: OmkarSANAS lost connection: Disconnected
+[18:00:53] [Server thread/INFO]: OmkarSANAS left the game
+[18:00:59] [Server thread/INFO]: Saving the game (this may take a moment!)
+[18:01:01] [Server thread/INFO]: Saved the game
+[18:01:04] [Server thread/INFO]: Stopping the server
+[18:01:04] [Server thread/INFO]: Stopping server
+[18:01:04] [Server thread/INFO]: [LaggRemover] Disabling LaggRemover v2.0.6
+[18:01:04] [Server thread/INFO]: [LaggRemover] LaggRemover has been disabled!
+[18:01:04] [Server thread/INFO]: [SinglePlayerSleep] Disabling SinglePlayerSleep v1.13_2.13.46
+[18:01:04] [Server thread/INFO]: **************************************
+[18:01:04] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.46 is DISABLED
+[18:01:04] [Server thread/INFO]: **************************************
+[18:01:04] [Server thread/INFO]: [SavageDeathChest] Disabling SavageDeathChest v1.18.5
+[18:01:04] [Server thread/INFO]: [SavageDeathChest] SQLite datastore connection closed.
+[18:01:04] [Server thread/INFO]: [BlockProt] Disabling BlockProt v1.0.4
+[18:01:04] [Server thread/INFO]: Saving players
+[18:01:04] [Server thread/INFO]: Saving worlds
+[18:01:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18:01:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[18:01:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[18:01:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:01:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:01:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:01:06] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18:01:10] [Server thread/INFO]: Flushing Chunk IO
+[18:01:10] [Server thread/INFO]: Closing Thread Pool
