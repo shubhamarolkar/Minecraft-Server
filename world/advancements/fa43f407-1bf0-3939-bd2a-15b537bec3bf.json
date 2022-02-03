@@ -167,6 +167,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2022-02-03 23:09:11 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
     "criteria": {
       "has_cobbled_deepslate": "2022-01-26 01:54:58 +0530"
@@ -1601,6 +1607,7 @@
       "cooked_porkchop": "2022-01-26 01:21:25 +0530",
       "cooked_beef": "2022-01-26 01:43:58 +0530",
       "baked_potato": "2022-01-26 18:35:42 +0530",
+      "pumpkin_pie": "2022-02-03 23:19:28 +0530",
       "bread": "2022-01-26 02:12:39 +0530",
       "melon_slice": "2022-01-27 00:38:39 +0530",
       "carrot": "2022-01-27 18:58:02 +0530"
@@ -1784,6 +1791,7 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:sheep": "2022-01-28 23:41:38 +0530",
+      "minecraft:cow": "2022-02-03 22:38:29 +0530",
       "minecraft:chicken": "2022-02-03 18:56:09 +0530"
     },
     "done": false

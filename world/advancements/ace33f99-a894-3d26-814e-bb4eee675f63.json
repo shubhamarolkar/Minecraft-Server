@@ -167,6 +167,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2022-02-03 23:00:45 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
     "criteria": {
       "has_cobbled_deepslate": "2022-01-23 13:40:24 +0530"
@@ -565,6 +571,7 @@
       "minecraft:slime": "2022-01-28 00:35:20 +0530",
       "minecraft:phantom": "2022-01-22 14:37:49 +0530",
       "minecraft:silverfish": "2022-01-27 15:29:15 +0530",
+      "minecraft:enderman": "2022-02-03 22:50:49 +0530",
       "minecraft:zombie": "2022-01-22 20:19:31 +0530"
     },
     "done": false
@@ -2063,6 +2070,12 @@
   "minecraft:recipes/building_blocks/deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2022-01-23 13:40:24 +0530"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2022-02-03 22:39:21 +0530"
     },
     "done": true
   },
