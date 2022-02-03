@@ -257,6 +257,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2022-02-04 00:00:58 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2022-01-26 19:12:17 +0530"
@@ -278,6 +284,12 @@
   "minecraft:recipes/decorations/gray_bed": {
     "criteria": {
       "has_gray_wool": "2022-01-28 13:44:53 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2022-02-04 00:16:40 +0530"
     },
     "done": true
   },
@@ -344,6 +356,12 @@
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_gravel": "2022-01-26 01:53:24 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2022-02-04 00:00:58 +0530"
     },
     "done": true
   },
@@ -458,6 +476,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2022-01-26 01:11:23 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2022-02-04 00:16:40 +0530"
     },
     "done": true
   },
@@ -935,6 +959,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2022-02-04 00:08:06 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_carpet": {
     "criteria": {
       "has_gray_wool": "2022-01-28 13:44:53 +0530"
@@ -986,6 +1016,12 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2022-01-26 01:47:36 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2022-02-04 00:00:58 +0530"
     },
     "done": true
   },
@@ -1123,15 +1159,24 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2022-02-04 00:22:04 +0530",
+      "minecraft:frozen_river": "2022-02-04 00:05:59 +0530",
+      "minecraft:sunflower_plains": "2022-02-03 23:48:46 +0530",
       "minecraft:savanna_plateau": "2022-01-26 01:13:19 +0530",
+      "minecraft:beach": "2022-02-03 23:54:08 +0530",
       "minecraft:stony_peaks": "2022-01-26 01:04:28 +0530",
       "minecraft:sparse_jungle": "2022-01-26 02:05:18 +0530",
       "minecraft:lukewarm_ocean": "2022-01-26 01:29:41 +0530",
       "minecraft:river": "2022-01-26 01:26:22 +0530",
       "minecraft:stony_shore": "2022-01-26 01:26:31 +0530",
+      "minecraft:snowy_plains": "2022-02-03 23:57:49 +0530",
       "minecraft:dripstone_caves": "2022-02-03 17:10:56 +0530",
+      "minecraft:cold_ocean": "2022-02-03 23:53:21 +0530",
       "minecraft:forest": "2022-01-26 02:07:49 +0530",
       "minecraft:jungle": "2022-01-27 14:25:34 +0530",
+      "minecraft:ocean": "2022-02-03 23:51:45 +0530",
+      "minecraft:snowy_beach": "2022-02-03 23:59:01 +0530",
+      "minecraft:flower_forest": "2022-02-03 23:52:18 +0530",
       "minecraft:savanna": "2022-01-26 01:14:56 +0530",
       "minecraft:plains": "2022-01-26 01:53:10 +0530"
     },
@@ -1251,6 +1296,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2022-02-04 00:16:40 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2022-01-26 02:05:04 +0530"
@@ -1295,6 +1346,12 @@
       "minecraft:warped_forest": "2022-01-26 19:09:25 +0530"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2022-02-04 00:00:58 +0530"
+    },
+    "done": true
   },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
@@ -1455,6 +1512,12 @@
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2022-01-28 00:26:02 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2022-02-04 00:00:58 +0530"
     },
     "done": true
   },
@@ -1662,6 +1725,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2022-02-04 00:00:58 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-01-28 00:28:13 +0530"
@@ -1779,6 +1848,12 @@
   "minecraft:recipes/building_blocks/acacia_slab": {
     "criteria": {
       "has_planks": "2022-01-26 01:16:11 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2022-02-04 00:00:58 +0530"
     },
     "done": true
   },
@@ -2102,6 +2177,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2022-02-04 00:24:16 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2022-01-26 01:20:06 +0530"
@@ -2129,6 +2210,12 @@
   "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
     "criteria": {
       "has_pink_tulip": "2022-01-28 14:56:10 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2022-02-04 00:00:58 +0530"
     },
     "done": true
   },
@@ -2324,6 +2411,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2022-02-04 00:00:58 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2022-01-26 14:20:49 +0530"
@@ -2339,6 +2432,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2022-01-26 01:54:58 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2022-02-04 00:00:58 +0530"
     },
     "done": true
   },
@@ -2363,6 +2462,12 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2022-01-26 01:58:16 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2022-02-04 00:00:58 +0530"
     },
     "done": true
   },
@@ -2441,6 +2546,12 @@
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2022-01-26 01:52:17 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2022-02-04 00:24:16 +0530"
     },
     "done": true
   },

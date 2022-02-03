@@ -1,396 +1,330 @@
-[21:29:40] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[21:29:40] [ServerMain/INFO]: Reloading ResourceManager: Default, bukkit
-[21:29:41] [Worker-Main-1/INFO]: Loaded 7 recipes
-[21:29:41] [Server thread/INFO]: Starting minecraft server version 1.18.1
-[21:29:41] [Server thread/INFO]: Loading properties
-[21:29:41] [Server thread/INFO]: This server is running Paper version git-Paper-168 (MC: 1.18.1) (Implementing API version 1.18.1-R0.1-SNAPSHOT) (Git: dcca6cb)
-[21:29:41] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[21:29:41] [Server thread/INFO]: Using 4 threads for Netty based IO
-[21:29:41] [Server thread/INFO]: Default game type: SURVIVAL
-[21:29:41] [Server thread/INFO]: Generating keypair
-[21:29:42] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:29:42] [Server thread/INFO]: Using default channel type
-[21:29:42] [Server thread/INFO]: Paper: Using Java 11 compression from Velocity.
-[21:29:42] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
-[21:29:42] [Server thread/INFO]: [BlockProt] Loading BlockProt v1.0.4
-[21:29:42] [Server thread/INFO]: [SavageDeathChest] Loading SavageDeathChest v1.18.5
-[21:29:42] [Server thread/INFO]: [SinglePlayerSleep] Loading SinglePlayerSleep v1.13_2.13.46
-[21:29:42] [Server thread/INFO]: [LaggRemover] Loading LaggRemover v2.0.6
-[21:29:42] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[21:29:42] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[21:29:42] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[21:29:42] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[21:29:42] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[21:29:42] [Server thread/INFO]: Preparing level "world"
-[21:29:43] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:29:43] [Server thread/INFO]: Time elapsed: 136 ms
-[21:29:43] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[21:29:43] [Server thread/INFO]: Time elapsed: 53 ms
-[21:29:43] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[21:29:43] [Server thread/INFO]: Time elapsed: 48 ms
-[21:29:43] [Server thread/INFO]: [BlockProt] Enabling BlockProt v1.0.4
-[21:29:43] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Spigot: v1_18_R1! Trying to find NMS support
-[21:29:43] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_18_R1' loaded!
-[21:29:43] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Gson: class com.google.gson.Gson
-[21:29:43] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'BlockProt' to create a bStats instance!
-[21:29:44] [Server thread/INFO]: [SavageDeathChest] Enabling SavageDeathChest v1.18.5
-[21:29:44] [Server thread/INFO]: [SavageDeathChest] Language file en-US.yml successfully loaded.
-[21:29:44] [Server thread/INFO]: [SavageDeathChest] Sound file sounds.yml successfully loaded.
-[21:29:44] [Server thread/INFO]: [SavageDeathChest] SQLite datastore initialized.
-[21:29:44] [Server thread/INFO]: [SinglePlayerSleep] Enabling SinglePlayerSleep v1.13_2.13.46
-[21:29:44] [Server thread/INFO]: **************************************
-[21:29:44] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.46 Loading...
-[21:29:44] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.46 plugins\SinglePlayerSleep\config.yml
-[21:29:44] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.46 config.yml has been updated
-[21:29:44] [Server thread/INFO]: Checking for updates...
-[21:29:44] [Thread-6/WARN]: [NBTAPI] [NBTAPI] The NBT-API at 'package de.sean.blockprot.bukkit.shaded.nbtapi' seems to be a future Version, not yet released on Spigot/CurseForge!
-[21:29:44] [Thread-6/WARN]: [NBTAPI] [NBTAPI] Current Version: '2.9.0-SNAPSHOT' Newest Version: 2.8.0'
-[21:29:44] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.46 New version available! v1.13_2.13.47
-[21:29:44] [Server thread/INFO]: https://spigotmc.org/resources/68139
-[21:29:44] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.46 plugins\SinglePlayerSleep\permissions.yml
-[21:29:44] [Server thread/INFO]: **************************************
-[21:29:44] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.46 is ENABLED
-[21:29:44] [Server thread/INFO]: **************************************
-[21:29:44] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.46 This server is running Paper version git-Paper-168 (MC: 1.18.1) (Implementing API version 1.18.1-R0.1-SNAPSHOT)
-[21:29:44] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.46 vardebug=false debug=false in plugins\SinglePlayerSleep/config.yml
-[21:29:44] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.46 jarfilename=F:\Minecraft\Github\Minecraft-Server\plugins\SinglePlayerSleep-1.13_2.13.46.jar
-[21:29:44] [Server thread/INFO]: [LaggRemover] Enabling LaggRemover v2.0.6
-[21:29:44] [Server thread/INFO]: [LaggRemover] [STDOUT] 
-    __                      ____                                         _    _____
-   / /   ____ _____ _____ _/ __ \___  ____ ___  ____ _   _____  _____   | |  / /__ \
-  / /   / __ `/ __ `/ __ `/ /_/ / _ \/ __ `__ \/ __ \ | / / _ \/ ___/   | | / /__/ /
- / /___/ /_/ / /_/ / /_/ / _, _/  __/ / / / / / /_/ / |/ /  __/ /       | |/ // __/
-/_____/\__,_/\__, /\__, /_/ |_|\___/_/ /_/ /_/\____/|___/\___/_/        |___//____/
-            /____//____/
-
-[21:29:44] [Server thread/WARN]: Nag author(s): '[drew6017]' of 'LaggRemover' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
-[21:29:44] [Server thread/INFO]: [LaggRemover] Loaded 0 module(s)
-[21:29:44] [Server thread/INFO]: [LaggRemover] The LaggRemover AI is now active!
-[21:29:44] [Server thread/INFO]: [LaggRemover] LaggRemover has been enabled!
-[21:29:45] [Server thread/INFO]: Running delayed init tasks
-[21:29:45] [Server thread/INFO]: Done (3.368s)! For help, type "help"
-[21:29:45] [Server thread/INFO]: Timings Reset
-[21:29:45] [Craft Scheduler Thread - 2 - BlockProt/INFO]: BlockProt is up to date. (1.0.4)
-[21:44:39] [User Authenticator #1/INFO]: UUID of player watchtime is c057e1a1-33de-3761-931c-ce2a12a5e0c1
-[21:44:39] [Server thread/INFO]: watchtime joined the game
-[21:44:39] [Server thread/INFO]: watchtime[/[0:0:0:0:0:0:0:1]:9123] logged in with entity id 181 at ([world]260.0484414078978, 80.0, 242.76784873842502)
-[21:45:21] [Server thread/INFO]: watchtime issued server command: /gamemode survival
-[21:45:21] [Server thread/INFO]: [watchtime: Set own game mode to Survival Mode]
-[21:47:27] [Server thread/WARN]: Donkey (vehicle of watchtime) moved wrongly! 0.37419926387803154
-[21:48:10] [Server thread/INFO]: watchtime issued server command: /gamemode creative
-[21:48:10] [Server thread/INFO]: [watchtime: Set own game mode to Creative Mode]
-[21:54:48] [User Authenticator #2/INFO]: UUID of player cr0n0s69 is ace33f99-a894-3d26-814e-bb4eee675f63
-[21:54:48] [Server thread/INFO]: cr0n0s69 joined the game
-[21:54:48] [Server thread/INFO]: cr0n0s69[/127.0.0.1:1066] logged in with entity id 2792 at ([world]103.8502800827635, 84.9375, 326.356210086381)
-[22:06:22] [User Authenticator #3/INFO]: UUID of player sneebville is fa43f407-1bf0-3939-bd2a-15b537bec3bf
-[22:06:22] [Server thread/INFO]: sneebville joined the game
-[22:06:22] [Server thread/INFO]: sneebville[/[0:0:0:0:0:0:0:1]:1103] logged in with entity id 4880 at ([world]157.360590532949, 117.0, 187.59618707828577)
-[22:06:31] [Async Chat Thread - #0/INFO]: <watchtime> discord
-[22:06:36] [Async Chat Thread - #0/INFO]: <cr0n0s69> not welcome in this part of town
-[22:07:12] [User Authenticator #3/INFO]: UUID of player OmkarSANAS is 0578c101-ef8a-3ea5-bece-979eaea41d7e
-[22:07:12] [Server thread/INFO]: OmkarSANAS joined the game
-[22:07:12] [Server thread/INFO]: OmkarSANAS[/[0:0:0:0:0:0:0:1]:1107] logged in with entity id 5048 at ([world]75.49140346103681, 69.0, 370.48750001192093)
-[22:17:25] [Server thread/INFO]: OmkarSANAS issued server command: /spscancel
-[22:17:52] [Async Chat Thread - #1/INFO]: <OmkarSANAS> oops
-[22:17:57] [Async Chat Thread - #1/INFO]: <OmkarSANAS> sorry
-[22:17:59] [Async Chat Thread - #1/INFO]: <cr0n0s69> oops moment
-[22:18:25] [Async Chat Thread - #1/INFO]: <OmkarSANAS> sorry :O
-[22:18:36] [Server thread/INFO]: sneebville issued server command: /spscancel
-[22:18:39] [Server thread/INFO]: sneebville issued server command: /spscancel
-[22:24:55] [Server thread/INFO]: cr0n0s69 issued server command: /gamemode creative
-[22:24:55] [Server thread/INFO]: [cr0n0s69: Set own game mode to Creative Mode]
-[22:35:07] [Server thread/INFO]: cr0n0s69 issued server command: /gamemode survival
-[22:35:07] [Server thread/INFO]: [cr0n0s69: Set own game mode to Survival Mode]
-[22:36:47] [Server thread/INFO]: sneebville lost connection: Disconnected
-[22:36:47] [Server thread/INFO]: sneebville left the game
-[22:36:52] [User Authenticator #4/INFO]: UUID of player sneebville is fa43f407-1bf0-3939-bd2a-15b537bec3bf
-[22:36:52] [Server thread/INFO]: sneebville joined the game
-[22:36:52] [Server thread/INFO]: sneebville[/[0:0:0:0:0:0:0:1]:1067] logged in with entity id 11680 at ([world]116.69999998807907, 77.0, 321.4768771092277)
-[22:39:21] [Server thread/INFO]: cr0n0s69 has made the advancement [What a Deal!]
-[22:42:05] [Server thread/INFO]: OmkarSANAS issued server command: /spscancel
-[22:42:14] [Async Chat Thread - #2/INFO]: <OmkarSANAS> wait let me sleep pls
-[22:42:18] [Server thread/INFO]: OmkarSANAS issued server command: /spscancel
-[22:42:19] [Server thread/INFO]: sneebville issued server command: /spscancel
-[22:42:21] [Async Chat Thread - #2/INFO]: <OmkarSANAS> pls
-[22:42:29] [Async Chat Thread - #2/INFO]: <OmkarSANAS> phantom killing me
-[22:42:42] [Async Chat Thread - #2/INFO]: <OmkarSANAS> next time lemme sleep
-[22:42:46] [Async Chat Thread - #2/INFO]: <sneebville> y
-[22:42:47] [Async Chat Thread - #2/INFO]: <OmkarSANAS> pls
-[22:42:49] [Async Chat Thread - #2/INFO]: <OmkarSANAS> phantom
-[22:42:51] [Async Chat Thread - #2/INFO]: <sneebville> no
-[22:42:52] [Async Chat Thread - #2/INFO]: <OmkarSANAS> killing me
-[22:42:56] [Async Chat Thread - #2/INFO]: <OmkarSANAS> >:(
-[22:42:59] [Async Chat Thread - #2/INFO]: <sneebville> then die
-[22:43:02] [Async Chat Thread - #2/INFO]: <OmkarSANAS> lmao
-[22:43:06] [Async Chat Thread - #2/INFO]: <OmkarSANAS> cool
-[22:53:01] [Async Chat Thread - #3/INFO]: <OmkarSANAS> where are you?
-[22:53:06] [Async Chat Thread - #3/INFO]: <sneebville> ur house
-[22:53:12] [Async Chat Thread - #3/INFO]: <OmkarSANAS> i have something for u
-[22:53:57] [Async Chat Thread - #3/INFO]: <OmkarSANAS> where u?
-[22:54:02] [Async Chat Thread - #3/INFO]: <sneebville> ur house
-[22:54:09] [Async Chat Thread - #3/INFO]: <OmkarSANAS> behind u
-[22:55:28] [Async Chat Thread - #4/INFO]: <OmkarSANAS> BBC
-[22:57:29] [Server thread/INFO]: watchtime issued server command: /kill sneebville
-[22:57:29] [Server thread/INFO]: sneebville fell out of the world
-[22:57:29] [Server thread/INFO]: [watchtime: Killed sneebville]
-[22:57:30] [Server thread/INFO]: Attempt to teleport removed player sneebville restricted
-[22:57:30] [Server thread/INFO]: Attempt to teleport removed player sneebville restricted
-[22:57:35] [Async Chat Thread - #5/INFO]: <OmkarSANAS> how
-[22:58:42] [Async Chat Thread - #6/INFO]: <watchtime> no horse
-[23:00:45] [Server thread/INFO]: cr0n0s69 has made the advancement [Cover Me with Diamonds]
-[23:07:31] [Server thread/INFO]: watchtime issued server command: /gamemode survival
-[23:07:31] [Server thread/INFO]: [watchtime: Set own game mode to Survival Mode]
-[23:09:11] [Server thread/INFO]: sneebville has made the advancement [Cover Me with Diamonds]
-[23:10:46] [Server thread/INFO]: watchtime issued server command: /tp sneebville watchtime
-[23:10:46] [Server thread/INFO]: [watchtime: Teleported sneebville to watchtime]
-[23:19:06] [Server thread/WARN]: Horse (vehicle of cr0n0s69) moved wrongly! 0.4213906588635723
-[23:19:06] [Server thread/WARN]: Horse (vehicle of cr0n0s69) moved wrongly! 0.48462680149998505
-[23:19:10] [Server thread/WARN]: Horse (vehicle of cr0n0s69) moved wrongly! 0.28294792068879815
-[23:19:10] [Server thread/WARN]: Horse (vehicle of cr0n0s69) moved wrongly! 0.33283215427502455
-[23:19:10] [Server thread/WARN]: Horse (vehicle of cr0n0s69) moved wrongly! 0.8815589855662438
-[23:19:10] [Server thread/WARN]: Horse (vehicle of cr0n0s69) moved wrongly! 0.3262452672604468
-[23:20:00] [Server thread/WARN]: Horse (vehicle of cr0n0s69) moved wrongly! 0.26067068739406807
-[23:20:00] [Server thread/WARN]: Horse (vehicle of cr0n0s69) moved wrongly! 0.3247142259130271
-[23:20:00] [Server thread/WARN]: Horse (vehicle of cr0n0s69) moved wrongly! 0.38283498976400665
-[23:20:00] [Server thread/WARN]: Horse (vehicle of cr0n0s69) moved wrongly! 0.4334777667935157
-[23:20:00] [Server thread/WARN]: Horse (vehicle of cr0n0s69) moved wrongly! 0.4633915680704348
-[23:20:01] [Server thread/WARN]: Horse (vehicle of cr0n0s69) moved wrongly! 0.4831171908356282
-[23:20:01] [Server thread/WARN]: Horse (vehicle of cr0n0s69) moved wrongly! 0.3029078929468909
-[23:20:01] [Server thread/WARN]: Horse (vehicle of cr0n0s69) moved wrongly! 0.3834006908148666
-[23:20:01] [Server thread/WARN]: Horse (vehicle of cr0n0s69) moved wrongly! 0.4491428281100269
-[23:20:01] [Server thread/WARN]: Horse (vehicle of cr0n0s69) moved wrongly! 0.3093239262688172
-[23:20:02] [Server thread/WARN]: Horse (vehicle of cr0n0s69) moved wrongly! 0.37093778237159825
-[23:20:02] [Server thread/WARN]: Horse (vehicle of cr0n0s69) moved wrongly! 0.37361960062753496
-[23:20:43] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.4355532802979667
-[23:20:51] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.36258371087777164
-[23:20:51] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.43470551599838814
-[23:20:51] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.4382556028882334
-[23:20:51] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.3064339416697379
-[23:20:51] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.38019467287303144
-[23:20:51] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.9540605972759693
-[23:20:51] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.2504951609111572
-[23:20:52] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.3248726280758092
-[23:20:52] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.3992995006765909
-[23:20:52] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.4735557909845056
-[23:20:52] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.3236320926428675
-[23:20:52] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.3967583506014165
-[23:20:52] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.4692449390908422
-[23:20:52] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.39361575400390336
-[23:20:52] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.4652654089512538
-[23:20:52] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.4650685848345262
-[23:20:53] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.2612749770558338
-[23:20:53] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.33545380364017774
-[23:20:53] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.40967634820799503
-[23:20:53] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.3356287945399288
-[23:20:53] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.40938763388076893
-[23:20:54] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.2825671374571641
-[23:20:54] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.34657071117777605
-[23:20:54] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.3963657784237711
-[23:20:55] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.441673546290815
-[23:20:55] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.4799869565058259
-[23:20:56] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.5256738417720186
-[23:20:56] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 1.0814372838015913
-[23:20:56] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 1.6441537817290595
-[23:21:18] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.4301776850828105
-[23:21:18] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.48592258126222987
-[23:21:18] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.4914081100428689
-[23:21:18] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.4957774603942653
-[23:21:20] [Server thread/WARN]: Horse (vehicle of cr0n0s69) moved wrongly! 0.48513492956139714
-[23:21:38] [Server thread/WARN]: Horse (vehicle of cr0n0s69) moved wrongly! 0.28341521116388435
-[23:21:38] [Server thread/WARN]: Horse (vehicle of cr0n0s69) moved wrongly! 0.3461876395288641
-[23:21:38] [Server thread/WARN]: Horse (vehicle of cr0n0s69) moved wrongly! 0.4089599658366865
-[23:21:38] [Server thread/WARN]: Horse (vehicle of cr0n0s69) moved wrongly! 0.9717322375357753
-[23:21:38] [Server thread/WARN]: Horse (vehicle of cr0n0s69) moved wrongly! 0.3461870613894291
-[23:21:38] [Server thread/WARN]: Horse (vehicle of cr0n0s69) moved wrongly! 0.4089592670248692
-[23:21:42] [Server thread/WARN]: Horse (vehicle of cr0n0s69) moved wrongly! 0.47289058191731215
-[23:21:43] [Server thread/WARN]: Horse (vehicle of cr0n0s69) moved wrongly! 0.29002571965394
-[23:21:43] [Server thread/WARN]: Horse (vehicle of cr0n0s69) moved wrongly! 0.3534527563430885
-[23:21:44] [Server thread/WARN]: Horse (vehicle of cr0n0s69) moved wrongly! 0.25348481566226155
-[23:21:45] [Server thread/WARN]: Horse (vehicle of cr0n0s69) moved wrongly! 0.300063115315254
-[23:21:45] [Server thread/WARN]: Horse (vehicle of cr0n0s69) moved wrongly! 0.33441227366826354
-[23:21:45] [Server thread/WARN]: Horse (vehicle of cr0n0s69) moved wrongly! 0.3947736947999232
-[23:21:45] [Server thread/WARN]: Horse (vehicle of cr0n0s69) moved wrongly! 0.4713966552892259
-[23:21:45] [Server thread/WARN]: Horse (vehicle of cr0n0s69) moved wrongly! 0.2541445795978632
-[23:21:45] [Server thread/WARN]: Horse (vehicle of cr0n0s69) moved wrongly! 0.3044477312039078
-[23:21:45] [Server thread/WARN]: Horse (vehicle of cr0n0s69) moved wrongly! 0.35513533514533435
-[23:21:45] [Server thread/WARN]: Horse (vehicle of cr0n0s69) moved wrongly! 0.4087334349607801
-[23:21:46] [Server thread/WARN]: Horse (vehicle of cr0n0s69) moved wrongly! 0.3175235062109891
-[23:21:46] [Server thread/WARN]: Horse (vehicle of cr0n0s69) moved wrongly! 0.39135519438633537
-[23:21:47] [Server thread/WARN]: Horse (vehicle of cr0n0s69) moved wrongly! 0.4576194351546974
-[23:22:15] [Async Chat Thread - #7/INFO]: <sneebville> brb
-[23:23:08] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.5306613111268138
-[23:23:08] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 1.080040183752721
-[23:23:12] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.36451166235433163
-[23:23:12] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.4111520664897057
-[23:23:20] [Server thread/WARN]: Horse (vehicle of cr0n0s69) moved wrongly! 0.33067090337812033
-[23:23:20] [Server thread/WARN]: Horse (vehicle of cr0n0s69) moved wrongly! 0.4012703056063742
-[23:23:20] [Server thread/WARN]: Horse (vehicle of cr0n0s69) moved wrongly! 0.4655794424384112
-[23:23:20] [Server thread/WARN]: Horse (vehicle of cr0n0s69) moved wrongly! 0.2788713488905046
-[23:23:22] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.2501499725606209
-[23:23:22] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.308665969423771
-[23:23:22] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.37122923212200476
-[23:23:22] [Server thread/WARN]: Horse (vehicle of cr0n0s69) moved wrongly! 0.2529519408611236
-[23:23:22] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.2727987422762226
-[23:23:23] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.8326376896059173
-[23:23:24] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.26444929123891825
-[23:23:24] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.33668636527801254
-[23:23:24] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.9098023494959193
-[23:23:24] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 1.4833886210269043
-[23:23:24] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 2.0572265339225737
-[23:23:24] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.34198256295536567
-[23:23:24] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.9160863509746946
-[23:23:24] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 1.4902011766251348
-[23:24:54] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.356356120101907
-[23:24:54] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.40259903058954194
-[23:24:54] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.46049225152620465
-[23:24:55] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.33223955671638805
-[23:24:55] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.5919906318430748
-[23:24:55] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.7309782532656328
-[23:28:15] [Async Chat Thread - #8/INFO]: <OmkarSANAS> hi
-[23:28:46] [Server thread/INFO]: Saving the game (this may take a moment!)
-[23:28:46] [Server thread/INFO]: Saved the game
-[23:29:03] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.2637941379867357
-[23:29:09] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.3161701310924627
-[23:29:09] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.35943466839417226
-[23:29:10] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.467221611353807
-[23:29:10] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 1.0116540940344976
-[23:29:10] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 1.5676982742218826
-[23:29:11] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.32990268863645156
-[23:29:11] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.36354780807630505
-[23:29:11] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.40061310658521165
-[23:29:11] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.4394453779481182
-[23:29:11] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.47922312125555777
-[23:29:11] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 1.0195067677498457
-[23:29:11] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.38487054536966525
-[23:29:11] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.4257109009934652
-[23:29:11] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.466563130152025
-[23:29:11] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.42629748851391014
-[23:29:11] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.4675304816664436
-[23:29:11] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.5089402934756038
-[23:29:12] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.4684813469760627
-[23:29:12] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.5101194060767966
-[23:29:12] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 1.0517184129941484
-[23:29:12] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.5099244319094964
-[23:29:12] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 1.0514804647804965
-[23:29:12] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 1.5930355810977517
-[23:29:19] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.26763601995929776
-[23:29:19] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.3080983043467995
-[23:29:19] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.34858032234183156
-[23:29:19] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.3082147332774525
-[23:29:19] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.3487184666515759
-[23:29:19] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.8892226631729727
-[23:29:19] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.3487211992355128
-[23:29:19] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.8892259054162537
-[23:29:19] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.3467732872224474
-[23:29:19] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 1.4297306224670479
-[23:29:19] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.8615962264590706
-[23:29:19] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 1.3977917018759598
-[23:29:28] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.3025474988864403
-[23:29:28] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.366418808440244
-[23:29:28] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.4319175817786345
-[23:29:29] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.26279749339533964
-[23:29:29] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.6890769306131119
-[23:29:29] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 1.1871917524871947
-[23:29:29] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.25782292424784714
-[23:29:29] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.29950995237595635
-[23:29:29] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.3412196059353505
-[23:29:29] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.2996401560411641
-[23:29:29] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.3413765287718036
-[23:29:29] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.38311347137096163
-[23:29:30] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.341379891014725
-[23:29:30] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.3831174607121568
-[23:29:30] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.4248550437843761
-[23:29:30] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.38311753962389616
-[23:29:30] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.42485513741409875
-[23:29:30] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.4665927355182049
-[23:29:30] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.424855139266171
-[23:29:30] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.46659273771571463
-[23:29:30] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.5083303361726195
-[23:29:30] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 1.050067934633475
-[23:29:31] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.46659273776010934
-[23:29:31] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.5083303362252991
-[23:29:31] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.7982033240815554
-[23:29:31] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.9533085804395682
-[23:29:31] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 1.0363023106515499
-[23:29:31] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 1.0807106009715142
-[23:29:31] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 1.1044725917159468
-[23:29:31] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 1.1171871592002987
-[23:29:31] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 1.1239904707600488
-[23:29:31] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 1.1276307871322757
-[23:29:31] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 1.1276307871322757
-[23:29:31] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 1.1276307871322757
-[23:29:31] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 1.3794953977412945
-[23:29:31] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.2661277398486135
-[23:29:31] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.26919955494935266
-[23:29:31] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.30413384185497705
-[23:29:31] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.3422311239481388
-[23:29:32] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.3820208617028271
-[23:29:32] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.42271619873807253
-[23:29:32] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.4638961038926368
-[23:29:32] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.32363162816304225
-[23:29:32] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.3653654790943932
-[23:29:32] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.40710107232902715
-[23:29:32] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.3653757587408535
-[23:29:32] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.40711326925170965
-[23:29:32] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.44885082065438553
-[23:29:33] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.40711351051474765
-[23:29:33] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.4488511069158392
-[23:29:33] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.4905887042766608
-[23:29:33] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.44885111257826793
-[23:29:33] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.49058871099521184
-[23:29:33] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.4905887111227969
-[23:29:33] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.42775474183559936
-[23:29:33] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.49776590109763674
-[23:29:34] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.2827519003831753
-[23:29:34] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.32448949884854983
-[23:29:34] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.36622709731393854
-[23:29:34] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.30581924186259357
-[23:29:34] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.3801680927136317
-[23:29:34] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.45451460148234446
-[23:29:34] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.3235501766831561
-[23:29:34] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.3533761922077332
-[23:29:35] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.2660930123209937
-[23:29:35] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.33298009475464596
-[23:29:35] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.9031124558844112
-[23:29:35] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 1.474941101276272
-[23:29:35] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 2.0476773945565014
-[23:29:35] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 2.6208993521252637
-[23:29:35] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.35270133762469413
-[23:29:35] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.926076146550713
-[23:29:35] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 1.497150725262884
-[23:29:36] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.30118403282477857
-[23:29:42] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.25747888485511794
-[23:29:42] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.29193142272163186
-[23:29:42] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.3377828050707876
-[23:29:43] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.3698571763392806
-[23:29:43] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.4377691374787105
-[23:29:51] [Server thread/INFO]: Stopping the server
-[23:29:51] [Server thread/INFO]: Stopping server
-[23:29:51] [Server thread/INFO]: [LaggRemover] Disabling LaggRemover v2.0.6
-[23:29:51] [Server thread/INFO]: [LaggRemover] LaggRemover has been disabled!
-[23:29:51] [Server thread/INFO]: [SinglePlayerSleep] Disabling SinglePlayerSleep v1.13_2.13.46
-[23:29:51] [Server thread/INFO]: **************************************
-[23:29:51] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.46 is DISABLED
-[23:29:51] [Server thread/INFO]: **************************************
-[23:29:51] [Server thread/INFO]: [SavageDeathChest] Disabling SavageDeathChest v1.18.5
-[23:29:51] [Server thread/INFO]: [SavageDeathChest] SQLite datastore connection closed.
-[23:29:51] [Server thread/INFO]: [BlockProt] Disabling BlockProt v1.0.4
-[23:29:51] [Server thread/INFO]: Saving players
-[23:29:51] [Server thread/INFO]: watchtime lost connection: Server closed
-[23:29:51] [Server thread/INFO]: watchtime left the game
-[23:29:51] [Server thread/INFO]: cr0n0s69 lost connection: Server closed
-[23:29:51] [Server thread/INFO]: cr0n0s69 left the game
-[23:29:51] [Server thread/INFO]: OmkarSANAS lost connection: Server closed
-[23:29:51] [Server thread/INFO]: OmkarSANAS left the game
-[23:29:51] [Server thread/INFO]: sneebville lost connection: Server closed
-[23:29:51] [Server thread/INFO]: sneebville left the game
-[23:29:51] [Server thread/INFO]: Saving worlds
-[23:29:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[23:29:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[23:29:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[23:29:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[23:29:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:29:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[23:29:52] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[23:29:54] [Server thread/INFO]: Flushing Chunk IO
-[23:29:54] [Server thread/INFO]: Closing Thread Pool
+[00:09:00] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.4115240699994514
+[00:10:36] [Async Chat Thread - #4/INFO]: <cr0n0s69> gn darlings its flying chappal tym
+[00:10:40] [Async Chat Thread - #4/INFO]: <OmkarSANAS> lmao
+[00:10:42] [Async Chat Thread - #4/INFO]: <OmkarSANAS> gn
+[00:10:46] [Async Chat Thread - #4/INFO]: <watchtime> capping
+[00:10:51] [Server thread/INFO]: cr0n0s69 lost connection: Disconnected
+[00:10:51] [Server thread/INFO]: cr0n0s69 left the game
+[00:12:47] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.3028482965148314
+[00:12:47] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.8387620696606427
+[00:12:47] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.5537284554826791
+[00:12:47] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 1.1170181053919006
+[00:12:47] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.5685065401967183
+[00:12:47] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.5712951999199635
+[00:12:47] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.5727913961103992
+[00:12:47] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.573593574350004
+[00:12:47] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.5740228186009436
+[00:12:47] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 1.1482753207019067
+[00:12:47] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.5743754034798328
+[00:12:47] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.5744411655097967
+[00:12:47] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.5744594915956293
+[00:12:47] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 1.1489287985848873
+[00:12:48] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.5744166087250228
+[00:12:48] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.5743170036726767
+[00:12:48] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.5741303764849051
+[00:12:48] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.5739608333335174
+[00:12:48] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 1.1479307648080521
+[00:12:48] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.5737089931876653
+[00:12:48] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.5732352613786134
+[00:12:48] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 1.145698597967339
+[00:12:48] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.5718796573999043
+[00:12:48] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.5715673423030694
+[00:12:48] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.5714002287218136
+[00:12:48] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 1.1427110382981027
+[00:12:48] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.5712629631743766
+[00:12:48] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.5712373615185697
+[00:12:48] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 1.1424610241015216
+[00:12:48] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.5712163325556503
+[00:12:48] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.5712124104043141
+[00:12:48] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.5712103117391507
+[00:12:48] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.5712091887853603
+[00:12:48] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.57120858791518
+[00:12:49] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.571208266401527
+[00:12:49] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.5712080943660567
+[00:12:49] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.5712080023131421
+[00:12:49] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.5712079530576375
+[00:12:49] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.5712079267018453
+[00:12:49] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.5712079125994478
+[00:12:49] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.5712079050535976
+[00:12:49] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.7656371495872918
+[00:13:49] [Server thread/WARN]: Boat (vehicle of watchtime) moved wrongly! 0.4238228996837279
+[00:13:49] [Server thread/WARN]: Boat (vehicle of watchtime) moved wrongly! 0.7473022513456726
+[00:13:50] [Server thread/WARN]: Boat (vehicle of watchtime) moved wrongly! 1.0762178528402728
+[00:13:50] [Server thread/WARN]: Boat (vehicle of watchtime) moved wrongly! 0.3439117050559162
+[00:13:50] [Server thread/WARN]: Boat (vehicle of watchtime) moved wrongly! 0.3175578766738454
+[00:13:50] [Server thread/WARN]: Boat (vehicle of watchtime) moved wrongly! 0.6820672029180059
+[00:13:50] [Server thread/WARN]: Boat (vehicle of watchtime) moved wrongly! 1.049489968609123
+[00:13:50] [Server thread/WARN]: Boat (vehicle of watchtime) moved wrongly! 0.31995203431756636
+[00:13:50] [Server thread/WARN]: Boat (vehicle of watchtime) moved wrongly! 0.3221069860633179
+[00:13:50] [Server thread/WARN]: Boat (vehicle of watchtime) moved wrongly! 0.32400368742651153
+[00:13:50] [Server thread/WARN]: Boat (vehicle of watchtime) moved wrongly! 0.3257534737651895
+[00:14:52] [Server thread/WARN]: Boat (vehicle of sneebville) moved wrongly! 0.9071893517958024
+[00:14:52] [Server thread/WARN]: Boat (vehicle of sneebville) moved wrongly! 0.9071893517958024
+[00:14:52] [Server thread/WARN]: Boat (vehicle of sneebville) moved wrongly! 0.9071893517958024
+[00:16:40] [Server thread/WARN]: Boat (vehicle of watchtime) moved wrongly! 0.30237130068786655
+[00:16:40] [Server thread/WARN]: Boat (vehicle of watchtime) moved wrongly! 0.48485873941939417
+[00:18:02] [Server thread/WARN]: Boat (vehicle of watchtime) moved wrongly! 0.4209577345115889
+[00:20:27] [Async Chat Thread - #5/INFO]: <OmkarSANAS> sleep
+[00:21:42] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.34197414475477217
+[00:21:42] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.8168157547598867
+[00:21:42] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.2923772254094956
+[00:21:43] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.4262779550573441
+[00:21:43] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.9709241928917436
+[00:21:43] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 1.5182269476646297
+[00:22:00] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.2500394965557007
+[00:22:00] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.617991894632155
+[00:22:00] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.9793728476822707
+[00:22:00] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.3372375515192516
+[00:22:00] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.6932207805086819
+[00:22:12] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.29122826449830974
+[00:22:12] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.8224824107850193
+[00:22:12] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 1.2088415716031307
+[00:22:12] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 1.523416650532008
+[00:22:16] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.408299178995299
+[00:22:16] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.9062315702457795
+[00:22:16] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 1.4040526700835754
+[00:22:16] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 1.9209284384956329
+[00:25:48] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.7552022908175786
+[00:25:48] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 1.1825710260116011
+[00:25:48] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 1.774521053182184
+[00:26:44] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.2785410595316762
+[00:26:44] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.764982569322342
+[00:26:44] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.25685953293702823
+[00:26:46] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.39758889991465196
+[00:26:46] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.8474696487364142
+[00:26:46] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 1.3068311730695565
+[00:26:59] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.253931888648367
+[00:27:00] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.6434438134875791
+[00:27:21] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.25536383802369755
+[00:27:21] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.647367774368206
+[00:27:22] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.45424445532604807
+[00:27:25] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.525450500848315
+[00:27:26] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.3136543968070242
+[00:27:26] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.7913361329045436
+[00:27:26] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 1.265550228823372
+[00:27:26] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.28097565351077947
+[00:27:26] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.6004916877541859
+[00:27:26] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.9174602960508764
+[00:27:26] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 1.0
+[00:27:29] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.3566503424399947
+[00:27:31] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.25680401856135404
+[00:27:31] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.49500782263456244
+[00:27:35] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.25700346843467514
+[00:27:39] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.33499706547956976
+[00:27:40] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.5484268066628033
+[00:27:40] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.5431286648525884
+[00:27:40] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.5402937348034698
+[00:27:40] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.5387768202566008
+[00:27:40] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.5379651495265989
+[00:27:40] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.5374797237573148
+[00:27:40] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.5370631183900514
+[00:27:40] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.536510620722936
+[00:27:40] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.5360422735120665
+[00:27:40] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.5357916702573675
+[00:27:40] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.5355988492621009
+[00:27:40] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.5353764317458172
+[00:27:40] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.5352574205673477
+[00:27:40] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.5350104846861541
+[00:27:40] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.5346258320092829
+[00:27:40] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.5342244915943297
+[00:27:40] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.5338764629760817
+[00:27:40] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.5336227294049536
+[00:27:40] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.5334869616299329
+[00:27:40] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.5334143150004707
+[00:27:41] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.5333754432374462
+[00:27:41] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.9271468259391327
+[00:27:41] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.5208933887286662
+[00:27:41] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.7124888158707563
+[00:27:41] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.6289886092330903
+[00:27:41] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.5842394611576083
+[00:27:41] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.5597153685313287
+[00:27:41] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.545237658369615
+[00:27:41] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.5360626373180253
+[00:27:41] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.5302851191144669
+[00:27:41] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.5260696219518195
+[00:27:41] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.5233881090032924
+[00:27:41] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.5218453913547592
+[00:27:41] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.5244558883306354
+[00:27:41] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.5292308001455694
+[00:27:41] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.5343914483858043
+[00:27:41] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.5372845714867367
+[00:27:41] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.5262304199187042
+[00:27:41] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.522987168509303
+[00:27:41] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.5225756535681398
+[00:27:42] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.5239910627238373
+[00:27:42] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.5254705825176984
+[00:27:42] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.5263805835255653
+[00:27:42] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.5302606661701361
+[00:27:42] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.8130995828639698
+[00:27:42] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.45993386605562137
+[00:27:42] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.6587739443916121
+[00:27:42] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.6011017139306887
+[00:27:42] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.7281715012134669
+[00:27:42] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.4144905428477159
+[00:27:42] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.6182475875868363
+[00:27:42] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.5794168684128636
+[00:27:42] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.5586393247838828
+[00:27:42] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.5475216754475127
+[00:27:42] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.5415728429496767
+[00:27:42] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.5385729966594113
+[00:27:42] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.5393334348390226
+[00:27:42] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.5401667550556795
+[00:27:42] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.5384474363978597
+[00:27:42] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.4983531634624683
+[00:27:43] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.47689951740829883
+[00:27:43] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.4654200991442963
+[00:27:43] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.4610791894033923
+[00:27:43] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.46333276586585725
+[00:27:43] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.4722451012440274
+[00:27:43] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.48149011107483375
+[00:27:43] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.5094932683413731
+[00:27:43] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.5244487511283182
+[00:27:43] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.5324203114974466
+[00:27:43] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.5365672272726556
+[00:27:43] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.8507436462532496
+[00:27:43] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.48031926006774484
+[00:27:43] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.6791475995766518
+[00:27:43] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.6141972108944742
+[00:27:43] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.5794435528816848
+[00:27:43] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.560847563392258
+[00:27:43] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.5395613213422621
+[00:27:43] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.5281714776231752
+[00:27:43] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.5223621856987393
+[00:27:43] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.5199568258631757
+[00:27:44] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.5189470275545887
+[00:27:44] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.5185444992868611
+[00:27:44] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.5183291144363125
+[00:27:44] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.518213866297117
+[00:27:44] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.5197613281320059
+[00:27:44] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.5235606261671819
+[00:27:44] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.5290372013591877
+[00:27:44] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.31367634954449386
+[00:27:45] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.35517652626811014
+[00:28:28] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.4041661726418091
+[00:28:28] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.9738506886040184
+[00:28:28] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.5438721687987217
+[00:29:54] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.34869935695913057
+[00:29:54] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.89467405838937
+[00:29:54] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 1.0
+[00:29:57] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.31552628018982887
+[00:29:57] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.42418632691638436
+[00:30:24] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.2538336733132951
+[00:30:24] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.29632268044397847
+[00:30:24] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.337919299131471
+[00:30:24] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.3792604174833514
+[00:30:25] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.420528383362182
+[00:30:25] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.4617754049072005
+[00:30:25] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.25056263720250627
+[00:30:25] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.2919023620663097
+[00:30:25] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.3333417362816249
+[00:30:25] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.2924091002485909
+[00:30:25] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.3337209530049279
+[00:30:25] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.3747617053291208
+[00:30:26] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.41598780879104424
+[00:30:26] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.4573426012572952
+[00:30:26] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.49881891073133033
+[00:30:32] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.2502180256168174
+[00:30:32] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.7386283647981884
+[00:30:43] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.2655263975761476
+[00:30:43] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.7497084001361778
+[00:30:43] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 1.269234525615699
+[00:30:43] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 1.8111519265738585
+[00:30:43] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 2.3663795841025146
+[00:30:44] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.5732996813931112
+[00:30:44] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 1.147164661557276
+[00:30:44] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 1.721332430097876
+[00:30:44] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.5743301587798709
+[00:30:44] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.5744169397004699
+[00:30:44] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.5744633812051996
+[00:30:44] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.5744882330646037
+[00:30:44] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 1.1489897643213465
+[00:30:44] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.5745086471611962
+[00:30:44] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.9745124406960128
+[00:30:44] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.4464198832700673
+[00:30:44] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.6586137026346204
+[00:30:44] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.6191438791048153
+[00:30:44] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 1.2145783220579576
+[00:30:44] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.5823656914769799
+[00:30:44] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.5737429139248604
+[00:30:44] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.5684796975731672
+[00:30:44] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.5656634554405855
+[00:30:45] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.5641565404252447
+[00:30:45] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.5633502202451837
+[00:30:45] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.5629187743931254
+[00:30:45] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.5626879163197884
+[00:30:45] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.5638235855392963
+[00:30:45] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.5660816587036948
+[00:30:45] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.5684207212093497
+[00:30:45] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 1.1393335022062274
+[00:30:45] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.5725431368749128
+[00:30:45] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.5734155077994956
+[00:30:45] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.306823205551666
+[00:30:48] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.31238204634991007
+[00:30:48] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.8108854820488318
+[00:30:48] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 1.3114883490182905
+[00:30:56] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.4533149096322262
+[00:31:07] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.32405364545917337
+[00:31:07] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.3679660201823367
+[00:31:07] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.4061152180485408
+[00:31:07] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.42733946009040835
+[00:31:07] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.42149143496524744
+[00:31:07] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.39055266292908186
+[00:31:07] [Server thread/WARN]: Camila Cabello (vehicle of OmkarSANAS) moved wrongly! 0.3258128280787247
+[00:31:19] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.3557409860277687
+[00:31:19] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.3586947183482039
+[00:31:20] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.25148180020610766
+[00:31:20] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.3119921761011142
+[00:31:20] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.37898301253974864
+[00:31:20] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.44944141420882033
+[00:31:21] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.4436796229636286
+[00:31:21] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.4929774756685106
+[00:31:21] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.273975887298036
+[00:31:21] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.3481653415763617
+[00:31:21] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.875
+[00:31:22] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.3252185594979409
+[00:31:22] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.38763609798297693
+[00:31:22] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 0.4510951697474468
+[00:31:22] [Server thread/WARN]: Horse (vehicle of watchtime) moved wrongly! 1.0165705357375003
+[00:31:37] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.26409456437241374
+[00:31:38] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.320880986812341
+[00:31:38] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.37545526988546385
+[00:31:38] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.30782929212341514
+[00:31:38] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.3599692790440656
+[00:31:38] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.41261737221623207
+[00:31:38] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.4696411634544404
+[00:31:38] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.29703266345373436
+[00:31:38] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.8651105130392978
+[00:31:38] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.875
+[00:31:38] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.875
+[00:31:38] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.875
+[00:31:38] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.875
+[00:31:38] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.875
+[00:31:39] [Server thread/WARN]: Horse (vehicle of sneebville) moved wrongly! 0.875
+[00:39:41] [Server thread/INFO]: sneebville lost connection: Disconnected
+[00:39:41] [Server thread/INFO]: sneebville left the game
+[00:39:50] [Server thread/INFO]: watchtime lost connection: Disconnected
+[00:39:50] [Server thread/INFO]: watchtime left the game
+[00:39:55] [Server thread/INFO]: OmkarSANAS lost connection: Disconnected
+[00:39:55] [Server thread/INFO]: OmkarSANAS left the game
+[00:43:09] [Server thread/INFO]: Stopping the server
+[00:43:09] [Server thread/INFO]: Stopping server
+[00:43:09] [Server thread/INFO]: [LaggRemover] Disabling LaggRemover v2.0.6
+[00:43:09] [Server thread/INFO]: [LaggRemover] LaggRemover has been disabled!
+[00:43:09] [Server thread/INFO]: [SinglePlayerSleep] Disabling SinglePlayerSleep v1.13_2.13.46
+[00:43:09] [Server thread/INFO]: **************************************
+[00:43:09] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.46 is DISABLED
+[00:43:09] [Server thread/INFO]: **************************************
+[00:43:09] [Server thread/INFO]: [SavageDeathChest] Disabling SavageDeathChest v1.18.5
+[00:43:09] [Server thread/INFO]: [SavageDeathChest] SQLite datastore connection closed.
+[00:43:09] [Server thread/INFO]: [BlockProt] Disabling BlockProt v1.0.4
+[00:43:09] [Server thread/INFO]: Saving players
+[00:43:09] [Server thread/INFO]: Saving worlds
+[00:43:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:43:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[00:43:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[00:43:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:43:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:43:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:43:11] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:43:14] [Server thread/INFO]: Flushing Chunk IO
+[00:43:14] [Server thread/INFO]: Closing Thread Pool
