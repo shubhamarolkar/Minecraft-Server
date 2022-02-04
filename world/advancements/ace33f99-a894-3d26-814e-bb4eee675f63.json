@@ -828,6 +828,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2022-02-05 02:01:02 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2022-01-28 01:26:07 +0530"
@@ -2599,6 +2605,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2022-01-22 12:33:42 +0530"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2022-02-05 01:32:54 +0530"
     },
     "done": true
   },

@@ -191,6 +191,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_stairs": {
+    "criteria": {
+      "has_polished_granite": "2022-02-05 01:23:51 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/copper_block": {
     "criteria": {
       "has_copper_ingot": "2022-01-25 18:35:31 +0530"
@@ -1647,6 +1653,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2022-02-05 01:23:51 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2022-01-30 01:12:35 +0530"
@@ -2276,6 +2288,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2022-01-24 17:15:29 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2022-02-05 00:30:25 +0530"
     },
     "done": true
   },
@@ -2926,6 +2944,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2022-02-05 01:23:51 +0530"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2022-01-25 16:44:33 +0530"
@@ -3523,6 +3547,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2022-01-22 12:55:16 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab": {
+    "criteria": {
+      "has_polished_granite": "2022-02-05 01:23:51 +0530"
     },
     "done": true
   },

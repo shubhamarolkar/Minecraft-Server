@@ -936,6 +936,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2022-02-05 02:02:37 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_bed": {
     "criteria": {
       "has_brown_wool": "2022-01-22 15:16:47 +0530"
@@ -2415,6 +2421,7 @@
       "suspicious_stew": "2022-01-24 00:53:35 +0530",
       "salmon": "2022-01-24 00:12:04 +0530",
       "melon_slice": "2022-01-25 00:27:21 +0530",
+      "beetroot": "2022-02-05 00:31:16 +0530",
       "cooked_rabbit": "2022-01-24 16:14:19 +0530",
       "cooked_chicken": "2022-01-22 12:59:05 +0530",
       "cooked_salmon": "2022-01-24 12:04:08 +0530"
@@ -3061,6 +3068,12 @@
   "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2022-02-03 15:00:42 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_pink_tulip": "2022-02-05 02:04:33 +0530"
     },
     "done": true
   },
