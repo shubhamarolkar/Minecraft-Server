@@ -365,6 +365,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2022-02-05 12:59:48 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2022-01-28 01:25:31 +0530"
@@ -900,6 +906,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2022-02-05 12:59:48 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2022-01-24 01:37:15 +0530"
@@ -1137,6 +1149,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2022-01-24 01:12:00 +0530",
+      "minecraft:deep_ocean": "2022-02-05 15:37:45 +0530",
       "minecraft:frozen_river": "2022-01-24 00:43:14 +0530",
       "minecraft:sunflower_plains": "2022-01-24 01:10:47 +0530",
       "minecraft:savanna_plateau": "2022-01-22 12:33:43 +0530",
@@ -1154,6 +1167,7 @@
       "minecraft:ocean": "2022-01-23 23:25:34 +0530",
       "minecraft:jungle": "2022-01-23 23:12:19 +0530",
       "minecraft:snowy_beach": "2022-02-03 23:58:54 +0530",
+      "minecraft:deep_lukewarm_ocean": "2022-02-05 15:06:51 +0530",
       "minecraft:flower_forest": "2022-01-23 23:50:41 +0530",
       "minecraft:savanna": "2022-01-22 12:33:58 +0530",
       "minecraft:plains": "2022-01-22 13:35:00 +0530"
@@ -1463,6 +1477,12 @@
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_gravel": "2022-01-22 14:01:42 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2022-02-05 12:59:48 +0530"
     },
     "done": true
   },
@@ -2200,6 +2220,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2022-02-05 13:48:05 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-01-22 20:39:37 +0530"
@@ -2617,6 +2643,12 @@
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2022-01-26 02:27:37 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2022-02-05 13:48:05 +0530"
     },
     "done": true
   },

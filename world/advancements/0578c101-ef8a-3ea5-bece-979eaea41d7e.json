@@ -731,6 +731,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2022-02-05 15:27:28 +0530"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2022-01-22 12:37:39 +0530"
@@ -816,11 +822,13 @@
       "minecraft:skeleton": "2022-01-23 13:32:28 +0530",
       "minecraft:ghast": "2022-01-26 17:00:41 +0530",
       "minecraft:hoglin": "2022-01-26 16:53:09 +0530",
+      "minecraft:vindicator": "2022-02-05 15:22:27 +0530",
       "minecraft:magma_cube": "2022-01-26 19:23:11 +0530",
       "minecraft:spider": "2022-01-23 15:43:08 +0530",
       "minecraft:piglin_brute": "2022-01-26 19:26:57 +0530",
       "minecraft:creeper": "2022-01-25 14:12:15 +0530",
       "minecraft:slime": "2022-01-25 14:25:16 +0530",
+      "minecraft:evoker": "2022-02-05 15:30:49 +0530",
       "minecraft:phantom": "2022-01-27 01:19:59 +0530",
       "minecraft:zombified_piglin": "2022-01-26 19:38:51 +0530",
       "minecraft:witch": "2022-01-24 17:10:21 +0530",
@@ -828,6 +836,7 @@
       "minecraft:piglin": "2022-01-25 16:54:43 +0530",
       "minecraft:enderman": "2022-01-24 17:14:45 +0530",
       "minecraft:silverfish": "2022-01-27 15:04:13 +0530",
+      "minecraft:vex": "2022-02-05 15:31:19 +0530",
       "minecraft:zombie": "2022-01-22 12:46:09 +0530",
       "minecraft:drowned": "2022-01-24 16:11:56 +0530",
       "minecraft:zombie_villager": "2022-01-25 14:55:35 +0530"
@@ -1248,6 +1257,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2022-02-05 15:26:42 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2022-02-05 15:27:28 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2022-01-26 15:14:36 +0530"
@@ -1371,6 +1392,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2022-01-23 16:12:18 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2022-02-05 15:26:42 +0530"
     },
     "done": true
   },
@@ -1515,6 +1542,12 @@
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2022-01-26 15:14:36 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2022-02-05 15:27:28 +0530"
     },
     "done": true
   },
@@ -1747,6 +1780,12 @@
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2022-01-22 12:36:01 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2022-02-05 15:26:42 +0530"
     },
     "done": true
   },
@@ -2174,6 +2213,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2022-02-05 15:27:28 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2022-01-22 12:34:56 +0530"
@@ -2479,6 +2524,12 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2022-01-24 15:35:22 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2022-02-05 15:27:28 +0530"
     },
     "done": true
   },
@@ -2987,6 +3038,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2022-02-05 15:27:28 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jack_o_lantern": {
     "criteria": {
       "has_carved_pumpkin": "2022-01-27 23:01:29 +0530"
@@ -3002,6 +3059,12 @@
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2022-01-22 13:21:03 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2022-02-05 15:26:51 +0530"
     },
     "done": true
   },
@@ -3074,6 +3137,12 @@
   "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
     "criteria": {
       "has_pink_tulip": "2022-02-05 02:04:33 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2022-02-05 15:27:28 +0530"
     },
     "done": true
   },
@@ -3665,6 +3734,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2022-02-05 15:27:28 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_stairs": {
     "criteria": {
       "has_planks": "2022-01-23 17:01:33 +0530"
@@ -3764,6 +3839,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2022-01-26 15:14:36 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2022-02-05 15:27:28 +0530"
     },
     "done": true
   },
