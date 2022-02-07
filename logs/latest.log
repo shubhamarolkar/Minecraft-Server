@@ -1,58 +1,58 @@
-[01:41:19] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[01:41:19] [ServerMain/INFO]: Reloading ResourceManager: Default, bukkit
-[01:41:20] [Worker-Main-1/INFO]: Loaded 7 recipes
-[01:41:21] [Server thread/INFO]: Starting minecraft server version 1.18.1
-[01:41:21] [Server thread/INFO]: Loading properties
-[01:41:21] [Server thread/INFO]: This server is running Paper version git-Paper-168 (MC: 1.18.1) (Implementing API version 1.18.1-R0.1-SNAPSHOT) (Git: dcca6cb)
-[01:41:21] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[01:41:21] [Server thread/INFO]: Using 4 threads for Netty based IO
-[01:41:21] [Server thread/INFO]: Default game type: SURVIVAL
-[01:41:21] [Server thread/INFO]: Generating keypair
-[01:41:21] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:41:21] [Server thread/INFO]: Using default channel type
-[01:41:21] [Server thread/INFO]: Paper: Using Java 11 compression from Velocity.
-[01:41:21] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
-[01:41:21] [Server thread/INFO]: [BlockProt] Loading BlockProt v1.0.4
-[01:41:21] [Server thread/INFO]: [SavageDeathChest] Loading SavageDeathChest v1.18.5
-[01:41:21] [Server thread/INFO]: [SinglePlayerSleep] Loading SinglePlayerSleep v1.13_2.13.47
-[01:41:21] [Server thread/INFO]: [LaggRemover] Loading LaggRemover v2.0.6
-[01:41:21] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[01:41:21] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:41:21] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:41:21] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:41:21] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:41:21] [Server thread/INFO]: Preparing level "world"
-[01:41:22] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:41:22] [Server thread/INFO]: Time elapsed: 159 ms
-[01:41:22] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[01:41:22] [Server thread/INFO]: Time elapsed: 54 ms
-[01:41:22] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[01:41:22] [Server thread/INFO]: Time elapsed: 50 ms
-[01:41:22] [Server thread/INFO]: [BlockProt] Enabling BlockProt v1.0.4
-[01:41:22] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Spigot: v1_18_R1! Trying to find NMS support
-[01:41:22] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_18_R1' loaded!
-[01:41:22] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Gson: class com.google.gson.Gson
-[01:41:22] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'BlockProt' to create a bStats instance!
-[01:41:23] [Server thread/INFO]: [SavageDeathChest] Enabling SavageDeathChest v1.18.5
-[01:41:23] [Server thread/INFO]: [SavageDeathChest] Language file en-US.yml successfully loaded.
-[01:41:23] [Server thread/INFO]: [SavageDeathChest] Sound file sounds.yml successfully loaded.
-[01:41:23] [Server thread/INFO]: [SavageDeathChest] SQLite datastore initialized.
-[01:41:23] [Thread-6/WARN]: [NBTAPI] [NBTAPI] The NBT-API at 'package de.sean.blockprot.bukkit.shaded.nbtapi' seems to be a future Version, not yet released on Spigot/CurseForge!
-[01:41:23] [Thread-6/WARN]: [NBTAPI] [NBTAPI] Current Version: '2.9.0-SNAPSHOT' Newest Version: 2.8.0'
-[01:41:24] [Server thread/INFO]: [SinglePlayerSleep] Enabling SinglePlayerSleep v1.13_2.13.47
-[01:41:24] [Server thread/INFO]: **************************************
-[01:41:24] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.47 Loading...
-[01:41:24] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.47 plugins\SinglePlayerSleep\config.yml
-[01:41:24] [Server thread/INFO]: Checking for updates...
-[01:41:24] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.47 plugins\SinglePlayerSleep\permissions.yml
-[01:41:24] [Server thread/INFO]: **************************************
-[01:41:24] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.47 is ENABLED
-[01:41:24] [Server thread/INFO]: **************************************
-[01:41:24] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.47 This server is running Paper version git-Paper-168 (MC: 1.18.1) (Implementing API version 1.18.1-R0.1-SNAPSHOT)
-[01:41:24] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.47 vardebug=false debug=false in plugins\SinglePlayerSleep/config.yml
-[01:41:24] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.47 jarfilename=F:\Minecraft\Github\Minecraft-Server\plugins\SinglePlayerSleep-1.13_2.13.47.jar
-[01:41:24] [Server thread/INFO]: [LaggRemover] Enabling LaggRemover v2.0.6
-[01:41:24] [Server thread/INFO]: [LaggRemover] [STDOUT] 
+[11:04:40] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[11:04:41] [ServerMain/INFO]: Reloading ResourceManager: Default, bukkit
+[11:04:41] [Worker-Main-1/INFO]: Loaded 7 recipes
+[11:04:42] [Server thread/INFO]: Starting minecraft server version 1.18.1
+[11:04:42] [Server thread/INFO]: Loading properties
+[11:04:42] [Server thread/INFO]: This server is running Paper version git-Paper-168 (MC: 1.18.1) (Implementing API version 1.18.1-R0.1-SNAPSHOT) (Git: dcca6cb)
+[11:04:42] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[11:04:42] [Server thread/INFO]: Using 4 threads for Netty based IO
+[11:04:42] [Server thread/INFO]: Default game type: SURVIVAL
+[11:04:42] [Server thread/INFO]: Generating keypair
+[11:04:42] [Server thread/INFO]: Starting Minecraft server on *:25565
+[11:04:42] [Server thread/INFO]: Using default channel type
+[11:04:42] [Server thread/INFO]: Paper: Using Java 11 compression from Velocity.
+[11:04:42] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
+[11:04:43] [Server thread/INFO]: [BlockProt] Loading BlockProt v1.0.4
+[11:04:43] [Server thread/INFO]: [SavageDeathChest] Loading SavageDeathChest v1.18.5
+[11:04:43] [Server thread/INFO]: [SinglePlayerSleep] Loading SinglePlayerSleep v1.13_2.13.47
+[11:04:43] [Server thread/INFO]: [LaggRemover] Loading LaggRemover v2.0.6
+[11:04:43] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[11:04:43] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[11:04:43] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[11:04:43] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[11:04:43] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[11:04:43] [Server thread/INFO]: Preparing level "world"
+[11:04:44] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[11:04:44] [Server thread/INFO]: Time elapsed: 161 ms
+[11:04:44] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[11:04:44] [Server thread/INFO]: Time elapsed: 62 ms
+[11:04:44] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[11:04:44] [Server thread/INFO]: Time elapsed: 62 ms
+[11:04:44] [Server thread/INFO]: [BlockProt] Enabling BlockProt v1.0.4
+[11:04:44] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Spigot: v1_18_R1! Trying to find NMS support
+[11:04:44] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_18_R1' loaded!
+[11:04:44] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Gson: class com.google.gson.Gson
+[11:04:44] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'BlockProt' to create a bStats instance!
+[11:04:44] [Server thread/INFO]: [SavageDeathChest] Enabling SavageDeathChest v1.18.5
+[11:04:45] [Server thread/INFO]: [SavageDeathChest] Language file en-US.yml successfully loaded.
+[11:04:45] [Server thread/INFO]: [SavageDeathChest] Sound file sounds.yml successfully loaded.
+[11:04:45] [Server thread/INFO]: [SavageDeathChest] SQLite datastore initialized.
+[11:04:45] [Server thread/INFO]: [SinglePlayerSleep] Enabling SinglePlayerSleep v1.13_2.13.47
+[11:04:45] [Server thread/INFO]: **************************************
+[11:04:45] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.47 Loading...
+[11:04:45] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.47 plugins\SinglePlayerSleep\config.yml
+[11:04:45] [Server thread/INFO]: Checking for updates...
+[11:04:45] [Thread-6/WARN]: [NBTAPI] [NBTAPI] The NBT-API at 'package de.sean.blockprot.bukkit.shaded.nbtapi' seems to be a future Version, not yet released on Spigot/CurseForge!
+[11:04:45] [Thread-6/WARN]: [NBTAPI] [NBTAPI] Current Version: '2.9.0-SNAPSHOT' Newest Version: 2.8.0'
+[11:04:45] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.47 plugins\SinglePlayerSleep\permissions.yml
+[11:04:45] [Server thread/INFO]: **************************************
+[11:04:45] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.47 is ENABLED
+[11:04:45] [Server thread/INFO]: **************************************
+[11:04:45] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.47 This server is running Paper version git-Paper-168 (MC: 1.18.1) (Implementing API version 1.18.1-R0.1-SNAPSHOT)
+[11:04:45] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.47 vardebug=false debug=false in plugins\SinglePlayerSleep/config.yml
+[11:04:45] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.47 jarfilename=F:\Minecraft\Github\Minecraft-Server\plugins\SinglePlayerSleep-1.13_2.13.47.jar
+[11:04:45] [Server thread/INFO]: [LaggRemover] Enabling LaggRemover v2.0.6
+[11:04:45] [Server thread/INFO]: [LaggRemover] [STDOUT] 
     __                      ____                                         _    _____
    / /   ____ _____ _____ _/ __ \___  ____ ___  ____ _   _____  _____   | |  / /__ \
   / /   / __ `/ __ `/ __ `/ /_/ / _ \/ __ `__ \/ __ \ | / / _ \/ ___/   | | / /__/ /
@@ -60,40 +60,40 @@
 /_____/\__,_/\__, /\__, /_/ |_|\___/_/ /_/ /_/\____/|___/\___/_/        |___//____/
             /____//____/
 
-[01:41:24] [Server thread/WARN]: Nag author(s): '[drew6017]' of 'LaggRemover' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
-[01:41:24] [Server thread/INFO]: [LaggRemover] Loaded 0 module(s)
-[01:41:24] [Server thread/INFO]: [LaggRemover] The LaggRemover AI is now active!
-[01:41:24] [Server thread/INFO]: [LaggRemover] LaggRemover has been enabled!
-[01:41:24] [Server thread/INFO]: Running delayed init tasks
-[01:41:24] [Server thread/INFO]: Done (3.900s)! For help, type "help"
-[01:41:24] [Server thread/INFO]: Timings Reset
-[01:41:25] [Craft Scheduler Thread - 2 - BlockProt/INFO]: BlockProt is up to date. (1.0.4)
-[01:41:32] [User Authenticator #1/INFO]: UUID of player cr0n0s69 is ace33f99-a894-3d26-814e-bb4eee675f63
-[01:41:32] [Server thread/INFO]: cr0n0s69 joined the game
-[01:41:32] [Server thread/INFO]: cr0n0s69[/127.0.0.1:1121] logged in with entity id 196 at ([world]97.91216343112261, 86.0, 299.42477365085887)
-[01:44:40] [Server thread/INFO]: cr0n0s69 lost connection: Disconnected
-[01:44:40] [Server thread/INFO]: cr0n0s69 left the game
-[01:44:51] [Server thread/INFO]: Saving the game (this may take a moment!)
-[01:44:52] [Server thread/INFO]: Saved the game
-[01:44:54] [Server thread/INFO]: Stopping the server
-[01:44:54] [Server thread/INFO]: Stopping server
-[01:44:54] [Server thread/INFO]: [LaggRemover] Disabling LaggRemover v2.0.6
-[01:44:54] [Server thread/INFO]: [LaggRemover] LaggRemover has been disabled!
-[01:44:54] [Server thread/INFO]: [SinglePlayerSleep] Disabling SinglePlayerSleep v1.13_2.13.47
-[01:44:54] [Server thread/INFO]: **************************************
-[01:44:54] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.47 is DISABLED
-[01:44:54] [Server thread/INFO]: **************************************
-[01:44:54] [Server thread/INFO]: [SavageDeathChest] Disabling SavageDeathChest v1.18.5
-[01:44:54] [Server thread/INFO]: [SavageDeathChest] SQLite datastore connection closed.
-[01:44:54] [Server thread/INFO]: [BlockProt] Disabling BlockProt v1.0.4
-[01:44:54] [Server thread/INFO]: Saving players
-[01:44:54] [Server thread/INFO]: Saving worlds
-[01:44:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[01:44:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[01:44:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[01:44:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:44:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:44:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:44:55] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[01:44:56] [Server thread/INFO]: Flushing Chunk IO
-[01:44:56] [Server thread/INFO]: Closing Thread Pool
+[11:04:45] [Server thread/WARN]: Nag author(s): '[drew6017]' of 'LaggRemover' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
+[11:04:45] [Server thread/INFO]: [LaggRemover] Loaded 0 module(s)
+[11:04:45] [Server thread/INFO]: [LaggRemover] The LaggRemover AI is now active!
+[11:04:45] [Server thread/INFO]: [LaggRemover] LaggRemover has been enabled!
+[11:04:46] [Server thread/INFO]: Running delayed init tasks
+[11:04:46] [Server thread/INFO]: Done (3.524s)! For help, type "help"
+[11:04:46] [Server thread/INFO]: Timings Reset
+[11:04:46] [Craft Scheduler Thread - 2 - BlockProt/INFO]: BlockProt is up to date. (1.0.4)
+[11:05:35] [User Authenticator #1/INFO]: UUID of player cr0n0s69 is ace33f99-a894-3d26-814e-bb4eee675f63
+[11:05:36] [Server thread/INFO]: cr0n0s69 joined the game
+[11:05:36] [Server thread/INFO]: cr0n0s69[/127.0.0.1:21658] logged in with entity id 171 at ([world]98.08264277557365, 86.0, 297.69425329773975)
+[11:07:03] [Server thread/INFO]: cr0n0s69 lost connection: Disconnected
+[11:07:03] [Server thread/INFO]: cr0n0s69 left the game
+[11:08:04] [Server thread/INFO]: Saving the game (this may take a moment!)
+[11:08:05] [Server thread/INFO]: Saved the game
+[11:08:08] [Server thread/INFO]: Stopping the server
+[11:08:08] [Server thread/INFO]: Stopping server
+[11:08:08] [Server thread/INFO]: [LaggRemover] Disabling LaggRemover v2.0.6
+[11:08:08] [Server thread/INFO]: [LaggRemover] LaggRemover has been disabled!
+[11:08:08] [Server thread/INFO]: [SinglePlayerSleep] Disabling SinglePlayerSleep v1.13_2.13.47
+[11:08:08] [Server thread/INFO]: **************************************
+[11:08:08] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.47 is DISABLED
+[11:08:08] [Server thread/INFO]: **************************************
+[11:08:08] [Server thread/INFO]: [SavageDeathChest] Disabling SavageDeathChest v1.18.5
+[11:08:08] [Server thread/INFO]: [SavageDeathChest] SQLite datastore connection closed.
+[11:08:08] [Server thread/INFO]: [BlockProt] Disabling BlockProt v1.0.4
+[11:08:08] [Server thread/INFO]: Saving players
+[11:08:08] [Server thread/INFO]: Saving worlds
+[11:08:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[11:08:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[11:08:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[11:08:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[11:08:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11:08:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11:08:09] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[11:08:10] [Server thread/INFO]: Flushing Chunk IO
+[11:08:10] [Server thread/INFO]: Closing Thread Pool
