@@ -858,7 +858,8 @@
       "minecraft:enderman": "2022-01-25 16:27:07 +0530",
       "minecraft:vex": "2022-02-05 15:47:02 +0530",
       "minecraft:zombie": "2022-01-25 13:26:07 +0530",
-      "minecraft:drowned": "2022-01-26 23:33:57 +0530"
+      "minecraft:drowned": "2022-01-26 23:33:57 +0530",
+      "minecraft:zombie_villager": "2022-02-08 23:43:59 +0530"
     },
     "done": false
   },
@@ -1922,6 +1923,12 @@
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2022-01-24 22:07:41 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2022-02-08 22:29:11 +0530"
     },
     "done": true
   },
