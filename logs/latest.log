@@ -1,24 +1,220 @@
-[00:02:23] [Server thread/INFO]: Saving the game (this may take a moment!)
-[00:02:23] [Server thread/INFO]: Saved the game
-[00:02:26] [Server thread/INFO]: Stopping the server
-[00:02:26] [Server thread/INFO]: Stopping server
-[00:02:26] [Server thread/INFO]: [LaggRemover] Disabling LaggRemover v2.0.6
-[00:02:26] [Server thread/INFO]: [LaggRemover] LaggRemover has been disabled!
-[00:02:26] [Server thread/INFO]: [SinglePlayerSleep] Disabling SinglePlayerSleep v1.13_2.13.47
-[00:02:26] [Server thread/INFO]: **************************************
-[00:02:26] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.47 is DISABLED
-[00:02:26] [Server thread/INFO]: **************************************
-[00:02:26] [Server thread/INFO]: [SavageDeathChest] Disabling SavageDeathChest v1.18.5
-[00:02:26] [Server thread/INFO]: [SavageDeathChest] SQLite datastore connection closed.
-[00:02:26] [Server thread/INFO]: [BlockProt] Disabling BlockProt v1.0.4
-[00:02:26] [Server thread/INFO]: Saving players
-[00:02:26] [Server thread/INFO]: Saving worlds
-[00:02:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[00:02:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[00:02:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[00:02:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:02:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:02:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:02:26] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[00:02:27] [Server thread/INFO]: Flushing Chunk IO
-[00:02:27] [Server thread/INFO]: Closing Thread Pool
+[00:00:22] [Async Chat Thread - #1/INFO]: <watchtime> i got netherite
+[00:00:31] [Async Chat Thread - #1/INFO]: <sneebville> noice\
+[00:00:35] [Async Chat Thread - #1/INFO]: <watchtime> ok
+[00:06:51] [Server thread/INFO]: watchtime issued server command: /gamemode creative
+[00:06:51] [Server thread/INFO]: [watchtime: Set own game mode to Creative Mode]
+[00:09:53] [Server thread/INFO]: watchtime issued server command: /gamemode survival
+[00:09:53] [Server thread/INFO]: [watchtime: Set own game mode to Survival Mode]
+[00:09:59] [Server thread/INFO]: watchtime issued server command: /gamemode creative
+[00:09:59] [Server thread/INFO]: [watchtime: Set own game mode to Creative Mode]
+[00:10:30] [Server thread/INFO]: watchtime issued server command: /gamemode survival
+[00:10:30] [Server thread/INFO]: [watchtime: Set own game mode to Survival Mode]
+[00:11:13] [Server thread/INFO]: watchtime issued server command: /gamemode creative
+[00:11:13] [Server thread/INFO]: [watchtime: Set own game mode to Creative Mode]
+[00:12:15] [Server thread/INFO]: watchtime issued server command: /gamemode survival
+[00:12:15] [Server thread/INFO]: [watchtime: Set own game mode to Survival Mode]
+[00:12:21] [Async Chat Thread - #2/INFO]: <watchtime> come see me
+[00:12:59] [Async Chat Thread - #2/INFO]: <watchtime> tysm
+[00:13:14] [Async Chat Thread - #2/INFO]: <watchtime> nicee
+[00:13:26] [Async Chat Thread - #2/INFO]: <sneebville> i need more fish .
+[00:13:32] [Async Chat Thread - #2/INFO]: <watchtime> collecting
+[00:13:35] [Async Chat Thread - #2/INFO]: <watchtime> i'll get
+[00:13:40] [Async Chat Thread - #2/INFO]: <sneebville> lets sleep
+[00:13:47] [Async Chat Thread - #2/INFO]: <watchtime> yes
+[00:13:50] [Async Chat Thread - #2/INFO]: <sneebville> i have an extra bucket
+[00:13:57] [Async Chat Thread - #2/INFO]: <watchtime> i have 4
+[00:14:01] [Async Chat Thread - #2/INFO]: <sneebville> ok
+[00:14:10] [Async Chat Thread - #2/INFO]: <watchtime> take this
+[00:14:43] [Server thread/INFO]: sneebville has made the advancement [Ice Bucket Challenge]
+[00:14:48] [Async Chat Thread - #2/INFO]: <watchtime> take mutton
+[00:14:52] [Async Chat Thread - #2/INFO]: <watchtime> mutton
+[00:14:57] [Async Chat Thread - #2/INFO]: <watchtime> mutton
+[00:15:07] [Async Chat Thread - #2/INFO]: <sneebville> yummy
+[00:15:24] [Async Chat Thread - #2/INFO]: <watchtime> u only have diamond boots?
+[00:15:30] [Async Chat Thread - #2/INFO]: <watchtime> tysm
+[00:15:31] [Async Chat Thread - #2/INFO]: <sneebville> yuh
+[00:15:40] [Async Chat Thread - #2/INFO]: <watchtime> use ur emeralds
+[00:15:46] [Async Chat Thread - #2/FATAL]: Thread Async Chat Thread - #2 failed main thread check: getNearbyEntities
+java.lang.Throwable: null
+	at org.spigotmc.AsyncCatcher.catchOp(AsyncCatcher.java:15) ~[paper-1.18.1.jar:git-Paper-168]
+	at org.bukkit.craftbukkit.v1_18_R1.entity.CraftEntity.getNearbyEntities(CraftEntity.java:600) ~[paper-1.18.1.jar:git-Paper-168]
+	at drew6017.lr.main.Events.onChat(Events.java:83) ~[LaggRemover-2.0.6.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor31.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor.lambda$create$1(EventExecutor.java:75) ~[paper-api-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:76) ~[paper-api-1.18.1-R0.1-SNAPSHOT.jar:git-Paper-168]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-api-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.adventure.ChatProcessor.post(ChatProcessor.java:230) ~[paper-1.18.1.jar:git-Paper-168]
+	at io.papermc.paper.adventure.ChatProcessor.processingLegacyFirst(ChatProcessor.java:115) ~[paper-1.18.1.jar:git-Paper-168]
+	at io.papermc.paper.adventure.ChatProcessor.process(ChatProcessor.java:64) ~[paper-1.18.1.jar:git-Paper-168]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.chat(ServerGamePacketListenerImpl.java:2204) ~[?:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleChat(ServerGamePacketListenerImpl.java:2115) ~[?:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleChat(ServerGamePacketListenerImpl.java:2081) ~[?:?]
+	at net.minecraft.network.protocol.game.ServerboundChatPacket$1.run(ServerboundChatPacket.java:40) ~[?:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[00:15:46] [Async Chat Thread - #2/ERROR]: Could not pass event AsyncPlayerChatEvent to LaggRemover v2.0.6
+java.lang.IllegalStateException: Asynchronous getNearbyEntities!
+	at org.spigotmc.AsyncCatcher.catchOp(AsyncCatcher.java:16) ~[paper-1.18.1.jar:git-Paper-168]
+	at org.bukkit.craftbukkit.v1_18_R1.entity.CraftEntity.getNearbyEntities(CraftEntity.java:600) ~[paper-1.18.1.jar:git-Paper-168]
+	at drew6017.lr.main.Events.onChat(Events.java:83) ~[LaggRemover-2.0.6.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor31.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor.lambda$create$1(EventExecutor.java:75) ~[paper-api-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:76) ~[paper-api-1.18.1-R0.1-SNAPSHOT.jar:git-Paper-168]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-api-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.adventure.ChatProcessor.post(ChatProcessor.java:230) ~[paper-1.18.1.jar:git-Paper-168]
+	at io.papermc.paper.adventure.ChatProcessor.processingLegacyFirst(ChatProcessor.java:115) ~[paper-1.18.1.jar:git-Paper-168]
+	at io.papermc.paper.adventure.ChatProcessor.process(ChatProcessor.java:64) ~[paper-1.18.1.jar:git-Paper-168]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.chat(ServerGamePacketListenerImpl.java:2204) ~[?:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleChat(ServerGamePacketListenerImpl.java:2115) ~[?:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleChat(ServerGamePacketListenerImpl.java:2081) ~[?:?]
+	at net.minecraft.network.protocol.game.ServerboundChatPacket$1.run(ServerboundChatPacket.java:40) ~[?:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[00:15:46] [Async Chat Thread - #2/INFO]: <watchtime> and get full set from villagers
+[00:15:51] [Async Chat Thread - #2/INFO]: <sneebville> sex?
+[00:15:54] [Async Chat Thread - #2/INFO]: <watchtime> yes
+[00:17:33] [Server thread/INFO]: sneebville lost connection: Timed out
+[00:17:33] [Server thread/INFO]: sneebville left the game
+[00:18:13] [User Authenticator #4/INFO]: UUID of player sneebville is fa43f407-1bf0-3939-bd2a-15b537bec3bf
+[00:18:13] [Server thread/INFO]: sneebville joined the game
+[00:18:13] [Server thread/INFO]: sneebville[/[0:0:0:0:0:0:0:1]:1069] logged in with entity id 14512 at ([world]138.53427261400722, 76.0, 212.1436561921659)
+[00:18:17] [Async Chat Thread - #3/INFO]: <watchtime> why uu left
+[00:18:30] [Async Chat Thread - #3/INFO]: <sneebville> it froze
+[00:18:38] [Async Chat Thread - #3/INFO]: <watchtime> my laptop is ass
+[00:18:42] [Async Chat Thread - #3/INFO]: <watchtime> sorry
+[00:18:47] [Async Chat Thread - #3/INFO]: <sneebville> hater damn
+[00:18:55] [Async Chat Thread - #3/INFO]: <watchtime> did sam leave
+[00:19:15] [Async Chat Thread - #3/INFO]: <sneebville> yes
+[00:19:19] [Async Chat Thread - #3/INFO]: <sneebville> i cant find salmons
+[00:19:25] [Server thread/INFO]: watchtime has completed the challenge [Cover Me in Debris]
+[00:19:47] [Server thread/INFO]: watchtime issued server command: /gamemode creative
+[00:19:47] [Server thread/INFO]: [watchtime: Set own game mode to Creative Mode]
+[00:26:30] [Server thread/INFO]: watchtime issued server command: /gamemode survival
+[00:26:30] [Server thread/INFO]: [watchtime: Set own game mode to Survival Mode]
+[00:26:31] [Server thread/INFO]: watchtime issued server command: /gamemode creative
+[00:26:31] [Server thread/INFO]: [watchtime: Set own game mode to Creative Mode]
+[00:27:00] [Server thread/INFO]: watchtime issued server command: /gamemode survival
+[00:27:00] [Server thread/INFO]: [watchtime: Set own game mode to Survival Mode]
+[00:27:01] [Server thread/INFO]: watchtime issued server command: /gamemode creative
+[00:27:01] [Server thread/INFO]: [watchtime: Set own game mode to Creative Mode]
+[00:34:08] [Server thread/INFO]: watchtime issued server command: /gamemode survival
+[00:34:08] [Server thread/INFO]: [watchtime: Set own game mode to Survival Mode]
+[00:34:47] [Server thread/INFO]: watchtime issued server command: /gamemode creative
+[00:34:47] [Server thread/INFO]: [watchtime: Set own game mode to Creative Mode]
+[00:36:23] [Server thread/INFO]: sneebville lost connection: Disconnected
+[00:36:23] [Server thread/INFO]: sneebville left the game
+[00:37:08] [Server thread/INFO]: watchtime issued server command: /gamemode survival
+[00:37:08] [Server thread/INFO]: [watchtime: Set own game mode to Survival Mode]
+[00:44:54] [Server thread/INFO]: watchtime issued server command: /gamemode creative
+[00:44:54] [Server thread/INFO]: [watchtime: Set own game mode to Creative Mode]
+[00:45:52] [Server thread/INFO]: watchtime issued server command: /gamemode survival
+[00:45:52] [Server thread/INFO]: [watchtime: Set own game mode to Survival Mode]
+[00:56:05] [Server thread/INFO]: watchtime issued server command: /gamemode creative
+[00:56:05] [Server thread/INFO]: [watchtime: Set own game mode to Creative Mode]
+[00:56:30] [Server thread/INFO]: watchtime issued server command: /gamemode survival
+[00:56:30] [Server thread/INFO]: [watchtime: Set own game mode to Survival Mode]
+[00:57:53] [Server thread/INFO]: watchtime issued server command: /gamemode creative
+[00:57:53] [Server thread/INFO]: [watchtime: Set own game mode to Creative Mode]
+[01:47:18] [Server thread/INFO]: watchtime issued server command: /gamemode survival
+[01:47:18] [Server thread/INFO]: [watchtime: Set own game mode to Survival Mode]
+[01:52:50] [Server thread/INFO]: watchtime issued server command: /gamemode creative
+[01:52:50] [Server thread/INFO]: [watchtime: Set own game mode to Creative Mode]
+[01:53:02] [Server thread/INFO]: watchtime issued server command: /gamemode survival
+[01:53:02] [Server thread/INFO]: [watchtime: Set own game mode to Survival Mode]
+[01:53:57] [Server thread/INFO]: watchtime issued server command: /gamemode creative
+[01:53:57] [Server thread/INFO]: [watchtime: Set own game mode to Creative Mode]
+[01:54:05] [Server thread/INFO]: watchtime issued server command: /gamemode survival
+[01:54:05] [Server thread/INFO]: [watchtime: Set own game mode to Survival Mode]
+[01:57:36] [Server thread/INFO]: watchtime issued server command: /gamemode creative
+[01:57:36] [Server thread/INFO]: [watchtime: Set own game mode to Creative Mode]
+[01:58:10] [Server thread/INFO]: watchtime issued server command: /gamemode survival
+[01:58:10] [Server thread/INFO]: [watchtime: Set own game mode to Survival Mode]
+[01:58:37] [Server thread/INFO]: watchtime issued server command: /gamemode creative
+[01:58:37] [Server thread/INFO]: [watchtime: Set own game mode to Creative Mode]
+[02:29:40] [Server thread/INFO]: watchtime issued server command: /gamemode survival
+[02:29:40] [Server thread/INFO]: [watchtime: Set own game mode to Survival Mode]
+[02:30:34] [Server thread/INFO]: watchtime issued server command: /gamemode creative
+[02:30:34] [Server thread/INFO]: [watchtime: Set own game mode to Creative Mode]
+[02:39:22] [User Authenticator #5/INFO]: UUID of player watchtime is c057e1a1-33de-3761-931c-ce2a12a5e0c1
+[02:39:22] [Server thread/INFO]: watchtime lost connection: You logged in from another location
+[02:39:22] [Server thread/INFO]: watchtime left the game
+[02:39:22] [Server thread/INFO]: watchtime joined the game
+[02:39:22] [Server thread/INFO]: watchtime[/[0:0:0:0:0:0:0:1]:21170] logged in with entity id 56359 at ([world]1801.5937310530694, 123.51422869461588, 624.539073832438)
+[02:39:24] [Server thread/WARN]: watchtime moved too quickly! 0.0,-11.2134039128713,0.0
+[02:39:32] [User Authenticator #5/INFO]: UUID of player watchtime is c057e1a1-33de-3761-931c-ce2a12a5e0c1
+[02:39:32] [Server thread/INFO]: watchtime lost connection: You logged in from another location
+[02:39:32] [Server thread/INFO]: watchtime left the game
+[02:39:32] [Server thread/INFO]: watchtime joined the game
+[02:39:32] [Server thread/INFO]: watchtime[/127.0.0.1:21172] logged in with entity id 56463 at ([world]1801.5937310530694, 106.19815888132375, 624.539073832438)
+[02:39:35] [Server thread/INFO]: watchtime lost connection: Disconnected
+[02:39:35] [Server thread/INFO]: watchtime left the game
+[02:39:36] [User Authenticator #5/INFO]: UUID of player watchtime is c057e1a1-33de-3761-931c-ce2a12a5e0c1
+[02:39:36] [Server thread/INFO]: watchtime joined the game
+[02:39:36] [Server thread/INFO]: watchtime[/127.0.0.1:21173] logged in with entity id 56515 at ([world]1801.5937310530694, 106.19815888132375, 624.539073832438)
+[02:43:04] [User Authenticator #6/INFO]: UUID of player watchtime is c057e1a1-33de-3761-931c-ce2a12a5e0c1
+[02:43:04] [Server thread/INFO]: watchtime lost connection: You logged in from another location
+[02:43:04] [Server thread/INFO]: watchtime left the game
+[02:43:04] [Server thread/INFO]: watchtime joined the game
+[02:43:04] [Server thread/INFO]: watchtime[/[0:0:0:0:0:0:0:1]:21185] logged in with entity id 59892 at ([world]666.3000000119209, 94.18882204193208, 143.69999998807907)
+[02:43:23] [User Authenticator #6/INFO]: UUID of player watchtime is c057e1a1-33de-3761-931c-ce2a12a5e0c1
+[02:43:23] [Server thread/INFO]: watchtime lost connection: You logged in from another location
+[02:43:23] [Server thread/INFO]: watchtime left the game
+[02:43:23] [Server thread/INFO]: watchtime joined the game
+[02:43:23] [Server thread/INFO]: watchtime[/127.0.0.1:21186] logged in with entity id 60008 at ([world]666.3000000119209, 90.12547698808508, 143.69999998807907)
+[02:45:30] [User Authenticator #7/INFO]: UUID of player watchtime is c057e1a1-33de-3761-931c-ce2a12a5e0c1
+[02:45:30] [Server thread/INFO]: watchtime lost connection: You logged in from another location
+[02:45:30] [Server thread/INFO]: watchtime left the game
+[02:45:30] [Server thread/INFO]: watchtime joined the game
+[02:45:30] [Server thread/INFO]: watchtime[/[0:0:0:0:0:0:0:1]:21193] logged in with entity id 62155 at ([world]435.5078595714376, 161.93406658295248, 504.91459691099726)
+[02:45:32] [User Authenticator #7/INFO]: UUID of player watchtime is c057e1a1-33de-3761-931c-ce2a12a5e0c1
+[02:45:32] [Server thread/INFO]: watchtime lost connection: You logged in from another location
+[02:45:32] [Server thread/INFO]: watchtime left the game
+[02:45:32] [Server thread/INFO]: watchtime joined the game
+[02:45:32] [Server thread/INFO]: watchtime[/127.0.0.1:21195] logged in with entity id 62225 at ([world]435.5078595714376, 135.15719794979825, 504.91459691099726)
+[03:03:32] [Server thread/INFO]: watchtime issued server command: /gamemode survival
+[03:03:32] [Server thread/INFO]: [watchtime: Set own game mode to Survival Mode]
+[03:03:56] [Server thread/INFO]: watchtime issued server command: /gamemode creative
+[03:03:56] [Server thread/INFO]: [watchtime: Set own game mode to Creative Mode]
+[03:05:59] [Server thread/INFO]: watchtime issued server command: /give watchtime minecraft:map#9 1
+[03:08:03] [Server thread/INFO]: watchtime lost connection: Disconnected
+[03:08:03] [Server thread/INFO]: watchtime left the game
+[03:11:39] [User Authenticator #8/INFO]: UUID of player watchtime is c057e1a1-33de-3761-931c-ce2a12a5e0c1
+[03:11:39] [Server thread/INFO]: watchtime joined the game
+[03:11:39] [Server thread/INFO]: watchtime[/127.0.0.1:21341] logged in with entity id 89191 at ([world]156.19415674103846, 66.0, 321.7207064716066)
+[03:12:14] [Server thread/INFO]: watchtime issued server command: /gamemode survival
+[03:12:14] [Server thread/INFO]: [watchtime: Set own game mode to Survival Mode]
+[03:12:16] [Server thread/INFO]: watchtime lost connection: Disconnected
+[03:12:16] [Server thread/INFO]: watchtime left the game
+[03:12:22] [Server thread/INFO]: Saving the game (this may take a moment!)
+[03:12:23] [Server thread/INFO]: Saved the game
+[03:12:25] [Server thread/INFO]: Stopping the server
+[03:12:25] [Server thread/INFO]: Stopping server
+[03:12:25] [Server thread/INFO]: [LaggRemover] Disabling LaggRemover v2.0.6
+[03:12:25] [Server thread/INFO]: [LaggRemover] LaggRemover has been disabled!
+[03:12:25] [Server thread/INFO]: [SinglePlayerSleep] Disabling SinglePlayerSleep v1.13_2.13.47
+[03:12:25] [Server thread/INFO]: **************************************
+[03:12:25] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.47 is DISABLED
+[03:12:25] [Server thread/INFO]: **************************************
+[03:12:25] [Server thread/INFO]: [SavageDeathChest] Disabling SavageDeathChest v1.18.5
+[03:12:25] [Server thread/INFO]: [SavageDeathChest] SQLite datastore connection closed.
+[03:12:25] [Server thread/INFO]: [BlockProt] Disabling BlockProt v1.0.4
+[03:12:25] [Server thread/INFO]: Saving players
+[03:12:25] [Server thread/INFO]: Saving worlds
+[03:12:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03:12:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[03:12:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[03:12:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:12:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:12:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:12:27] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[03:12:31] [Server thread/INFO]: Flushing Chunk IO
+[03:12:31] [Server thread/INFO]: Closing Thread Pool
+[03:12:31] [Server thread/INFO]: Closing Server
