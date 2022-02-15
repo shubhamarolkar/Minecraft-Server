@@ -1,106 +1,115 @@
-[20:03:00] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[20:03:01] [ServerMain/INFO]: Reloading ResourceManager: Default, bukkit
-[20:03:01] [Worker-Main-2/INFO]: Loaded 7 recipes
-[20:03:02] [Server thread/INFO]: Starting minecraft server version 1.18.1
-[20:03:02] [Server thread/INFO]: Loading properties
-[20:03:02] [Server thread/INFO]: This server is running Paper version git-Paper-168 (MC: 1.18.1) (Implementing API version 1.18.1-R0.1-SNAPSHOT) (Git: dcca6cb)
-[20:03:03] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[20:03:03] [Server thread/INFO]: Using 4 threads for Netty based IO
-[20:03:03] [Server thread/INFO]: Default game type: SURVIVAL
-[20:03:03] [Server thread/INFO]: Generating keypair
-[20:03:03] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:03:03] [Server thread/INFO]: Using default channel type
-[20:03:03] [Server thread/INFO]: Paper: Using Java 11 compression from Velocity.
-[20:03:03] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
-[20:03:04] [Server thread/INFO]: [BlockProt] Loading BlockProt v1.0.4
-[20:03:04] [Server thread/INFO]: [SavageDeathChest] Loading SavageDeathChest v1.18.5
-[20:03:04] [Server thread/INFO]: [SinglePlayerSleep] Loading SinglePlayerSleep v1.13_2.13.47
-[20:03:04] [Server thread/INFO]: [LaggRemover] Loading LaggRemover v2.0.6
-[20:03:04] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[20:03:04] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[20:03:04] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[20:03:04] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[20:03:04] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[20:03:04] [Server thread/INFO]: Preparing level "world"
-[20:03:05] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:03:06] [Server thread/INFO]: Time elapsed: 233 ms
-[20:03:06] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[20:03:06] [Server thread/INFO]: Time elapsed: 66 ms
-[20:03:06] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[20:03:06] [Server thread/INFO]: Time elapsed: 105 ms
-[20:03:06] [Server thread/INFO]: [BlockProt] Enabling BlockProt v1.0.4
-[20:03:06] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Spigot: v1_18_R1! Trying to find NMS support
-[20:03:06] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_18_R1' loaded!
-[20:03:06] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Gson: class com.google.gson.Gson
-[20:03:06] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'BlockProt' to create a bStats instance!
-[20:03:06] [Server thread/INFO]: [SavageDeathChest] Enabling SavageDeathChest v1.18.5
-[20:03:06] [Server thread/INFO]: [SavageDeathChest] Language file en-US.yml successfully loaded.
-[20:03:06] [Server thread/INFO]: [SavageDeathChest] Sound file sounds.yml successfully loaded.
-[20:03:06] [Server thread/INFO]: [SavageDeathChest] SQLite datastore initialized.
-[20:03:07] [Server thread/INFO]: [SinglePlayerSleep] Enabling SinglePlayerSleep v1.13_2.13.47
-[20:03:07] [Server thread/INFO]: **************************************
-[20:03:07] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.47 Loading...
-[20:03:07] [Thread-7/WARN]: [NBTAPI] [NBTAPI] The NBT-API at 'package de.sean.blockprot.bukkit.shaded.nbtapi' seems to be a future Version, not yet released on Spigot/CurseForge!
-[20:03:07] [Thread-7/WARN]: [NBTAPI] [NBTAPI] Current Version: '2.9.0-SNAPSHOT' Newest Version: 2.8.0'
-[20:03:07] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.47 plugins\SinglePlayerSleep\config.yml
-[20:03:07] [Server thread/INFO]: Checking for updates...
-[20:03:08] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.47 plugins\SinglePlayerSleep\permissions.yml
-[20:03:08] [Server thread/INFO]: **************************************
-[20:03:08] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.47 is ENABLED
-[20:03:08] [Server thread/INFO]: **************************************
-[20:03:08] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.47 This server is running Paper version git-Paper-168 (MC: 1.18.1) (Implementing API version 1.18.1-R0.1-SNAPSHOT)
-[20:03:08] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.47 vardebug=false debug=false in plugins\SinglePlayerSleep/config.yml
-[20:03:08] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.47 jarfilename=D:\Games\Minecraft Server\Minecraft-Server\plugins\SinglePlayerSleep-1.13_2.13.47.jar
-[20:03:08] [Server thread/INFO]: [LaggRemover] Enabling LaggRemover v2.0.6
-[20:03:08] [Server thread/INFO]: [LaggRemover] [STDOUT] 
-    __                      ____                                         _    _____
-   / /   ____ _____ _____ _/ __ \___  ____ ___  ____ _   _____  _____   | |  / /__ \
-  / /   / __ `/ __ `/ __ `/ /_/ / _ \/ __ `__ \/ __ \ | / / _ \/ ___/   | | / /__/ /
- / /___/ /_/ / /_/ / /_/ / _, _/  __/ / / / / / /_/ / |/ /  __/ /       | |/ // __/
-/_____/\__,_/\__, /\__, /_/ |_|\___/_/ /_/ /_/\____/|___/\___/_/        |___//____/
-            /____//____/
-
-[20:03:08] [Server thread/WARN]: Nag author(s): '[drew6017]' of 'LaggRemover' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
-[20:03:08] [Server thread/INFO]: [LaggRemover] Loaded 0 module(s)
-[20:03:08] [Server thread/INFO]: [LaggRemover] The LaggRemover AI is now active!
-[20:03:08] [Server thread/INFO]: [LaggRemover] LaggRemover has been enabled!
-[20:03:09] [Server thread/INFO]: Running delayed init tasks
-[20:03:09] [Server thread/INFO]: Done (6.141s)! For help, type "help"
-[20:03:09] [Server thread/INFO]: Timings Reset
-[20:03:09] [Craft Scheduler Thread - 2 - BlockProt/INFO]: BlockProt is up to date. (1.0.4)
-[20:05:44] [User Authenticator #1/INFO]: UUID of player sneebville is fa43f407-1bf0-3939-bd2a-15b537bec3bf
-[20:05:45] [Server thread/INFO]: sneebville joined the game
-[20:05:45] [Server thread/INFO]: sneebville[/127.0.0.1:5981] logged in with entity id 92 at ([world]158.4457231357746, 117.0, 183.02221112019436)
-[20:47:35] [Server thread/INFO]: sneebville drowned
-[20:48:57] [Server thread/INFO]: sneebville lost connection: Disconnected
-[20:48:57] [Server thread/INFO]: sneebville left the game
-[20:49:39] [User Authenticator #2/INFO]: UUID of player sneebville is fa43f407-1bf0-3939-bd2a-15b537bec3bf
-[20:49:39] [Server thread/INFO]: sneebville joined the game
-[20:49:39] [Server thread/INFO]: sneebville[/127.0.0.1:1529] logged in with entity id 7041 at ([world]157.0026504654435, 60.875, 292.5205948702694)
-[20:51:05] [Server thread/INFO]: sneebville lost connection: Disconnected
-[20:51:05] [Server thread/INFO]: sneebville left the game
-[21:00:29] [Server thread/INFO]: Saving the game (this may take a moment!)
-[21:00:29] [Server thread/INFO]: Saved the game
-[21:01:04] [Server thread/INFO]: Stopping the server
-[21:01:04] [Server thread/INFO]: Stopping server
-[21:01:04] [Server thread/INFO]: [LaggRemover] Disabling LaggRemover v2.0.6
-[21:01:04] [Server thread/INFO]: [LaggRemover] LaggRemover has been disabled!
-[21:01:04] [Server thread/INFO]: [SinglePlayerSleep] Disabling SinglePlayerSleep v1.13_2.13.47
-[21:01:04] [Server thread/INFO]: **************************************
-[21:01:04] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.47 is DISABLED
-[21:01:04] [Server thread/INFO]: **************************************
-[21:01:04] [Server thread/INFO]: [SavageDeathChest] Disabling SavageDeathChest v1.18.5
-[21:01:04] [Server thread/INFO]: [SavageDeathChest] SQLite datastore connection closed.
-[21:01:04] [Server thread/INFO]: [BlockProt] Disabling BlockProt v1.0.4
-[21:01:04] [Server thread/INFO]: Saving players
-[21:01:04] [Server thread/INFO]: Saving worlds
-[21:01:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[21:01:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[21:01:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[21:01:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[21:01:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21:01:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[21:01:05] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[21:01:06] [Server thread/INFO]: Flushing Chunk IO
-[21:01:06] [Server thread/INFO]: Closing Thread Pool
-[21:01:06] [Server thread/INFO]: Closing Server
+[00:00:10] [Server thread/INFO]: watchtime issued server command: /gamemode creative
+[00:00:10] [Server thread/INFO]: [watchtime: Set own game mode to Creative Mode]
+[00:01:25] [Server thread/INFO]: watchtime issued server command: /gamemode survival
+[00:01:25] [Server thread/INFO]: [watchtime: Set own game mode to Survival Mode]
+[00:14:09] [Server thread/INFO]: watchtime issued server command: /gamemode creative
+[00:14:09] [Server thread/INFO]: [watchtime: Set own game mode to Creative Mode]
+[00:14:10] [Server thread/INFO]: watchtime issued server command: /gamemode survival
+[00:14:10] [Server thread/INFO]: [watchtime: Set own game mode to Survival Mode]
+[00:16:24] [Server thread/INFO]: watchtime issued server command: /gamemode creative
+[00:16:24] [Server thread/INFO]: [watchtime: Set own game mode to Creative Mode]
+[00:16:25] [Server thread/INFO]: watchtime issued server command: /gamemode survival
+[00:16:25] [Server thread/INFO]: [watchtime: Set own game mode to Survival Mode]
+[00:31:24] [Server thread/INFO]: OmkarSANAS issued server command: /tp OmkarSANAS watchtime
+[00:31:24] [Server thread/INFO]: [OmkarSANAS: Teleported OmkarSANAS to watchtime]
+[00:31:24] [Server thread/WARN]: OmkarSANAS moved too quickly! 18.292595739659088,1.1767592750642386,68.74094371243606
+[00:32:35] [Server thread/INFO]: watchtime was burnt to a crisp whilst fighting OmkarSANAS
+[00:32:53] [Async Chat Thread - #3/INFO]: <OmkarSANAS> oops
+[00:32:55] [Async Chat Thread - #3/INFO]: <OmkarSANAS> my bad
+[00:34:00] [User Authenticator #4/INFO]: UUID of player snypee is b43ac269-6ae9-3fc6-9cfa-48dc4978aefc
+[00:34:00] [Server thread/INFO]: snypee joined the game
+[00:34:01] [Server thread/INFO]: snypee[/[0:0:0:0:0:0:0:1]:59142] logged in with entity id 14445 at ([world_nether]-28.30000001192093, 71.0, 399.30000001192093)
+[00:35:10] [Server thread/INFO]: watchtime issued server command: /tp snypee watchtime
+[00:35:10] [Server thread/INFO]: [watchtime: Teleported snypee to watchtime]
+[00:36:17] [Server thread/INFO]: OmkarSANAS lost connection: Disconnected
+[00:36:17] [Server thread/INFO]: OmkarSANAS left the game
+[00:37:41] [User Authenticator #5/INFO]: UUID of player OmkarSANAS is 0578c101-ef8a-3ea5-bece-979eaea41d7e
+[00:37:41] [Server thread/INFO]: OmkarSANAS joined the game
+[00:37:41] [Server thread/INFO]: OmkarSANAS[/127.0.0.1:59155] logged in with entity id 16049 at ([world]73.30000001192093, 73.0, 374.69999998807907)
+[00:39:38] [Server thread/INFO]: watchtime issued server command: /gamemode creative
+[00:39:38] [Server thread/INFO]: [watchtime: Set own game mode to Creative Mode]
+[00:39:39] [Server thread/INFO]: watchtime issued server command: /gamemode survival
+[00:39:39] [Server thread/INFO]: [watchtime: Set own game mode to Survival Mode]
+[00:40:37] [Server thread/INFO]: snypee lost connection: Disconnected
+[00:40:37] [Server thread/INFO]: snypee left the game
+[00:40:42] [Server thread/INFO]: OmkarSANAS lost connection: Disconnected
+[00:40:42] [Server thread/INFO]: OmkarSANAS left the game
+[00:46:31] [User Authenticator #6/INFO]: UUID of player snypee is b43ac269-6ae9-3fc6-9cfa-48dc4978aefc
+[00:46:31] [Server thread/INFO]: snypee joined the game
+[00:46:31] [Server thread/INFO]: snypee[/[0:0:0:0:0:0:0:1]:52847] logged in with entity id 17212 at ([world]72.99202780391978, 79.0, 373.3572803979239)
+[00:46:42] [Server thread/INFO]: watchtime issued server command: /gamemode creative
+[00:46:42] [Server thread/INFO]: [watchtime: Set own game mode to Creative Mode]
+[00:46:46] [Server thread/INFO]: watchtime issued server command: /gamemode survival
+[00:46:46] [Server thread/INFO]: [watchtime: Set own game mode to Survival Mode]
+[00:49:42] [Async Chat Thread - #4/INFO]: <watchtime> discord crash?
+[00:49:50] [Async Chat Thread - #4/INFO]: <snypee> nope
+[00:49:53] [Async Chat Thread - #4/INFO]: <snypee> tera hua?
+[00:49:58] [Async Chat Thread - #4/INFO]: <watchtime> yes
+[00:52:58] [Server thread/INFO]: watchtime lost connection: Disconnected
+[00:52:58] [Server thread/INFO]: watchtime left the game
+[00:59:24] [User Authenticator #7/INFO]: UUID of player watchtime is c057e1a1-33de-3761-931c-ce2a12a5e0c1
+[00:59:24] [Server thread/INFO]: watchtime joined the game
+[00:59:25] [Server thread/INFO]: watchtime[/[0:0:0:0:0:0:0:1]:55379] logged in with entity id 20508 at ([world]75.4477927108192, 72.0, 372.12756637633964)
+[00:59:32] [Async Chat Thread - #5/INFO]: <snypee> wya bruh
+[00:59:40] [Async Chat Thread - #5/INFO]: <snypee> got your 25 emeralds
+[00:59:44] [Async Chat Thread - #5/INFO]: <watchtime> bruh
+[01:00:03] [Async Chat Thread - #5/INFO]: <watchtime> near ur house only
+[01:00:09] [Async Chat Thread - #5/INFO]: <snypee> comingw
+[01:00:14] [Server thread/INFO]: Saving the game (this may take a moment!)
+[01:00:15] [Server thread/INFO]: Saved the game
+[01:00:22] [Server thread/INFO]: Saving the game (this may take a moment!)
+[01:00:22] [Server thread/INFO]: Saved the game
+[01:00:24] [Async Chat Thread - #5/INFO]: <watchtime> theres a problem w discord desktop
+[01:00:35] [Async Chat Thread - #5/INFO]: <snypee> wait
+[01:00:36] [Async Chat Thread - #5/INFO]: <watchtime> why this mf saved server
+[01:00:40] [Server thread/INFO]: You whisper to watchtime: lmao noob
+[01:00:48] [Async Chat Thread - #5/INFO]: <watchtime> call omkar randi
+[01:00:51] [Server thread/INFO]: You whisper to watchtime: gn
+[01:00:53] [Async Chat Thread - #5/INFO]: <snypee> try joining now
+[01:00:57] [Async Chat Thread - #5/INFO]: <snypee> XD
+[01:01:06] [Server thread/INFO]: You whisper to watchtime: stopping the server
+[01:01:34] [Async Chat Thread - #5/INFO]: <watchtime> still out
+[01:01:59] [Server thread/INFO]: You whisper to watchtime: krishna k eralds le
+[01:02:01] [Async Chat Thread - #5/INFO]: <snypee> bruh
+[01:02:05] [Async Chat Thread - #5/INFO]: <watchtime> bruh
+[01:02:11] [Async Chat Thread - #5/INFO]: <watchtime> kidhr
+[01:02:19] [Async Chat Thread - #5/INFO]: <snypee> discord chalu nai ho raha?
+[01:02:23] [Async Chat Thread - #5/INFO]: <watchtime> no
+[01:02:28] [Async Chat Thread - #5/INFO]: <watchtime> problem on their end
+[01:02:29] [Server thread/INFO]: You whisper to watchtime: randi
+[01:02:34] [Async Chat Thread - #5/INFO]: <snypee> F
+[01:02:40] [Async Chat Thread - #5/INFO]: <snypee> i am near my house
+[01:03:06] [Async Chat Thread - #5/INFO]: <watchtime> pleasure doing business
+[01:03:37] [Server thread/INFO]: snypee lost connection: Disconnected
+[01:03:37] [Server thread/INFO]: snypee left the game
+[01:03:57] [Server thread/INFO]: You whisper to watchtime: bruh?>
+[01:04:08] [Server thread/INFO]: watchtime issued server command: /gamemode creative
+[01:04:08] [Server thread/INFO]: [watchtime: Set own game mode to Creative Mode]
+[01:04:15] [Server thread/INFO]: watchtime issued server command: /gamemode survival
+[01:04:15] [Server thread/INFO]: [watchtime: Set own game mode to Survival Mode]
+[01:04:16] [Server thread/INFO]: watchtime lost connection: Disconnected
+[01:04:16] [Server thread/INFO]: watchtime left the game
+[01:04:54] [Server thread/INFO]: Saving the game (this may take a moment!)
+[01:04:54] [Server thread/INFO]: Saved the game
+[01:04:57] [Server thread/INFO]: Stopping the server
+[01:04:57] [Server thread/INFO]: Stopping server
+[01:04:57] [Server thread/INFO]: [LaggRemover] Disabling LaggRemover v2.0.6
+[01:04:57] [Server thread/INFO]: [LaggRemover] LaggRemover has been disabled!
+[01:04:57] [Server thread/INFO]: [SinglePlayerSleep] Disabling SinglePlayerSleep v1.13_2.13.47
+[01:04:57] [Server thread/INFO]: **************************************
+[01:04:57] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.47 is DISABLED
+[01:04:57] [Server thread/INFO]: **************************************
+[01:04:57] [Server thread/INFO]: [SavageDeathChest] Disabling SavageDeathChest v1.18.5
+[01:04:57] [Server thread/INFO]: [SavageDeathChest] SQLite datastore connection closed.
+[01:04:57] [Server thread/INFO]: [BlockProt] Disabling BlockProt v1.0.4
+[01:04:57] [Server thread/INFO]: Saving players
+[01:04:57] [Server thread/INFO]: Saving worlds
+[01:04:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:04:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[01:04:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[01:04:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:04:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:04:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:04:58] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[01:05:00] [Server thread/INFO]: Flushing Chunk IO
+[01:05:00] [Server thread/INFO]: Closing Thread Pool
