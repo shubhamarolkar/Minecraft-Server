@@ -1,115 +1,292 @@
-[00:00:10] [Server thread/INFO]: watchtime issued server command: /gamemode creative
-[00:00:10] [Server thread/INFO]: [watchtime: Set own game mode to Creative Mode]
-[00:01:25] [Server thread/INFO]: watchtime issued server command: /gamemode survival
-[00:01:25] [Server thread/INFO]: [watchtime: Set own game mode to Survival Mode]
-[00:14:09] [Server thread/INFO]: watchtime issued server command: /gamemode creative
-[00:14:09] [Server thread/INFO]: [watchtime: Set own game mode to Creative Mode]
-[00:14:10] [Server thread/INFO]: watchtime issued server command: /gamemode survival
-[00:14:10] [Server thread/INFO]: [watchtime: Set own game mode to Survival Mode]
-[00:16:24] [Server thread/INFO]: watchtime issued server command: /gamemode creative
-[00:16:24] [Server thread/INFO]: [watchtime: Set own game mode to Creative Mode]
-[00:16:25] [Server thread/INFO]: watchtime issued server command: /gamemode survival
-[00:16:25] [Server thread/INFO]: [watchtime: Set own game mode to Survival Mode]
-[00:31:24] [Server thread/INFO]: OmkarSANAS issued server command: /tp OmkarSANAS watchtime
-[00:31:24] [Server thread/INFO]: [OmkarSANAS: Teleported OmkarSANAS to watchtime]
-[00:31:24] [Server thread/WARN]: OmkarSANAS moved too quickly! 18.292595739659088,1.1767592750642386,68.74094371243606
-[00:32:35] [Server thread/INFO]: watchtime was burnt to a crisp whilst fighting OmkarSANAS
-[00:32:53] [Async Chat Thread - #3/INFO]: <OmkarSANAS> oops
-[00:32:55] [Async Chat Thread - #3/INFO]: <OmkarSANAS> my bad
-[00:34:00] [User Authenticator #4/INFO]: UUID of player snypee is b43ac269-6ae9-3fc6-9cfa-48dc4978aefc
-[00:34:00] [Server thread/INFO]: snypee joined the game
-[00:34:01] [Server thread/INFO]: snypee[/[0:0:0:0:0:0:0:1]:59142] logged in with entity id 14445 at ([world_nether]-28.30000001192093, 71.0, 399.30000001192093)
-[00:35:10] [Server thread/INFO]: watchtime issued server command: /tp snypee watchtime
-[00:35:10] [Server thread/INFO]: [watchtime: Teleported snypee to watchtime]
-[00:36:17] [Server thread/INFO]: OmkarSANAS lost connection: Disconnected
-[00:36:17] [Server thread/INFO]: OmkarSANAS left the game
-[00:37:41] [User Authenticator #5/INFO]: UUID of player OmkarSANAS is 0578c101-ef8a-3ea5-bece-979eaea41d7e
-[00:37:41] [Server thread/INFO]: OmkarSANAS joined the game
-[00:37:41] [Server thread/INFO]: OmkarSANAS[/127.0.0.1:59155] logged in with entity id 16049 at ([world]73.30000001192093, 73.0, 374.69999998807907)
-[00:39:38] [Server thread/INFO]: watchtime issued server command: /gamemode creative
-[00:39:38] [Server thread/INFO]: [watchtime: Set own game mode to Creative Mode]
-[00:39:39] [Server thread/INFO]: watchtime issued server command: /gamemode survival
-[00:39:39] [Server thread/INFO]: [watchtime: Set own game mode to Survival Mode]
-[00:40:37] [Server thread/INFO]: snypee lost connection: Disconnected
-[00:40:37] [Server thread/INFO]: snypee left the game
-[00:40:42] [Server thread/INFO]: OmkarSANAS lost connection: Disconnected
-[00:40:42] [Server thread/INFO]: OmkarSANAS left the game
-[00:46:31] [User Authenticator #6/INFO]: UUID of player snypee is b43ac269-6ae9-3fc6-9cfa-48dc4978aefc
-[00:46:31] [Server thread/INFO]: snypee joined the game
-[00:46:31] [Server thread/INFO]: snypee[/[0:0:0:0:0:0:0:1]:52847] logged in with entity id 17212 at ([world]72.99202780391978, 79.0, 373.3572803979239)
-[00:46:42] [Server thread/INFO]: watchtime issued server command: /gamemode creative
-[00:46:42] [Server thread/INFO]: [watchtime: Set own game mode to Creative Mode]
-[00:46:46] [Server thread/INFO]: watchtime issued server command: /gamemode survival
-[00:46:46] [Server thread/INFO]: [watchtime: Set own game mode to Survival Mode]
-[00:49:42] [Async Chat Thread - #4/INFO]: <watchtime> discord crash?
-[00:49:50] [Async Chat Thread - #4/INFO]: <snypee> nope
-[00:49:53] [Async Chat Thread - #4/INFO]: <snypee> tera hua?
-[00:49:58] [Async Chat Thread - #4/INFO]: <watchtime> yes
-[00:52:58] [Server thread/INFO]: watchtime lost connection: Disconnected
-[00:52:58] [Server thread/INFO]: watchtime left the game
-[00:59:24] [User Authenticator #7/INFO]: UUID of player watchtime is c057e1a1-33de-3761-931c-ce2a12a5e0c1
-[00:59:24] [Server thread/INFO]: watchtime joined the game
-[00:59:25] [Server thread/INFO]: watchtime[/[0:0:0:0:0:0:0:1]:55379] logged in with entity id 20508 at ([world]75.4477927108192, 72.0, 372.12756637633964)
-[00:59:32] [Async Chat Thread - #5/INFO]: <snypee> wya bruh
-[00:59:40] [Async Chat Thread - #5/INFO]: <snypee> got your 25 emeralds
-[00:59:44] [Async Chat Thread - #5/INFO]: <watchtime> bruh
-[01:00:03] [Async Chat Thread - #5/INFO]: <watchtime> near ur house only
-[01:00:09] [Async Chat Thread - #5/INFO]: <snypee> comingw
-[01:00:14] [Server thread/INFO]: Saving the game (this may take a moment!)
-[01:00:15] [Server thread/INFO]: Saved the game
-[01:00:22] [Server thread/INFO]: Saving the game (this may take a moment!)
-[01:00:22] [Server thread/INFO]: Saved the game
-[01:00:24] [Async Chat Thread - #5/INFO]: <watchtime> theres a problem w discord desktop
-[01:00:35] [Async Chat Thread - #5/INFO]: <snypee> wait
-[01:00:36] [Async Chat Thread - #5/INFO]: <watchtime> why this mf saved server
-[01:00:40] [Server thread/INFO]: You whisper to watchtime: lmao noob
-[01:00:48] [Async Chat Thread - #5/INFO]: <watchtime> call omkar randi
-[01:00:51] [Server thread/INFO]: You whisper to watchtime: gn
-[01:00:53] [Async Chat Thread - #5/INFO]: <snypee> try joining now
-[01:00:57] [Async Chat Thread - #5/INFO]: <snypee> XD
-[01:01:06] [Server thread/INFO]: You whisper to watchtime: stopping the server
-[01:01:34] [Async Chat Thread - #5/INFO]: <watchtime> still out
-[01:01:59] [Server thread/INFO]: You whisper to watchtime: krishna k eralds le
-[01:02:01] [Async Chat Thread - #5/INFO]: <snypee> bruh
-[01:02:05] [Async Chat Thread - #5/INFO]: <watchtime> bruh
-[01:02:11] [Async Chat Thread - #5/INFO]: <watchtime> kidhr
-[01:02:19] [Async Chat Thread - #5/INFO]: <snypee> discord chalu nai ho raha?
-[01:02:23] [Async Chat Thread - #5/INFO]: <watchtime> no
-[01:02:28] [Async Chat Thread - #5/INFO]: <watchtime> problem on their end
-[01:02:29] [Server thread/INFO]: You whisper to watchtime: randi
-[01:02:34] [Async Chat Thread - #5/INFO]: <snypee> F
-[01:02:40] [Async Chat Thread - #5/INFO]: <snypee> i am near my house
-[01:03:06] [Async Chat Thread - #5/INFO]: <watchtime> pleasure doing business
-[01:03:37] [Server thread/INFO]: snypee lost connection: Disconnected
-[01:03:37] [Server thread/INFO]: snypee left the game
-[01:03:57] [Server thread/INFO]: You whisper to watchtime: bruh?>
-[01:04:08] [Server thread/INFO]: watchtime issued server command: /gamemode creative
-[01:04:08] [Server thread/INFO]: [watchtime: Set own game mode to Creative Mode]
-[01:04:15] [Server thread/INFO]: watchtime issued server command: /gamemode survival
-[01:04:15] [Server thread/INFO]: [watchtime: Set own game mode to Survival Mode]
-[01:04:16] [Server thread/INFO]: watchtime lost connection: Disconnected
-[01:04:16] [Server thread/INFO]: watchtime left the game
-[01:04:54] [Server thread/INFO]: Saving the game (this may take a moment!)
-[01:04:54] [Server thread/INFO]: Saved the game
-[01:04:57] [Server thread/INFO]: Stopping the server
-[01:04:57] [Server thread/INFO]: Stopping server
-[01:04:57] [Server thread/INFO]: [LaggRemover] Disabling LaggRemover v2.0.6
-[01:04:57] [Server thread/INFO]: [LaggRemover] LaggRemover has been disabled!
-[01:04:57] [Server thread/INFO]: [SinglePlayerSleep] Disabling SinglePlayerSleep v1.13_2.13.47
-[01:04:57] [Server thread/INFO]: **************************************
-[01:04:57] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.47 is DISABLED
-[01:04:57] [Server thread/INFO]: **************************************
-[01:04:57] [Server thread/INFO]: [SavageDeathChest] Disabling SavageDeathChest v1.18.5
-[01:04:57] [Server thread/INFO]: [SavageDeathChest] SQLite datastore connection closed.
-[01:04:57] [Server thread/INFO]: [BlockProt] Disabling BlockProt v1.0.4
-[01:04:57] [Server thread/INFO]: Saving players
-[01:04:57] [Server thread/INFO]: Saving worlds
-[01:04:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[01:04:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[01:04:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[01:04:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:04:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:04:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:04:58] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[01:05:00] [Server thread/INFO]: Flushing Chunk IO
-[01:05:00] [Server thread/INFO]: Closing Thread Pool
+[16:08:40] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[16:08:40] [ServerMain/INFO]: Reloading ResourceManager: Default, bukkit
+[16:08:41] [Worker-Main-1/INFO]: Loaded 7 recipes
+[16:08:42] [Server thread/INFO]: Starting minecraft server version 1.18.1
+[16:08:42] [Server thread/INFO]: Loading properties
+[16:08:42] [Server thread/INFO]: This server is running Paper version git-Paper-168 (MC: 1.18.1) (Implementing API version 1.18.1-R0.1-SNAPSHOT) (Git: dcca6cb)
+[16:08:42] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[16:08:42] [Server thread/INFO]: Using 4 threads for Netty based IO
+[16:08:42] [Server thread/INFO]: Default game type: SURVIVAL
+[16:08:42] [Server thread/INFO]: Generating keypair
+[16:08:42] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:08:42] [Server thread/INFO]: Using default channel type
+[16:08:43] [Server thread/INFO]: Paper: Using Java 11 compression from Velocity.
+[16:08:43] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
+[16:08:43] [Server thread/INFO]: [BlockProt] Loading BlockProt v1.0.4
+[16:08:43] [Server thread/INFO]: [SavageDeathChest] Loading SavageDeathChest v1.18.5
+[16:08:43] [Server thread/INFO]: [SinglePlayerSleep] Loading SinglePlayerSleep v1.13_2.13.47
+[16:08:43] [Server thread/INFO]: [LaggRemover] Loading LaggRemover v2.0.6
+[16:08:43] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[16:08:43] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16:08:43] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[16:08:43] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16:08:43] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[16:08:43] [Server thread/INFO]: Preparing level "world"
+[16:08:44] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:08:44] [Server thread/INFO]: Time elapsed: 274 ms
+[16:08:44] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[16:08:44] [Server thread/INFO]: Time elapsed: 96 ms
+[16:08:44] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[16:08:45] [Server thread/INFO]: Time elapsed: 78 ms
+[16:08:45] [Server thread/INFO]: [BlockProt] Enabling BlockProt v1.0.4
+[16:08:45] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Spigot: v1_18_R1! Trying to find NMS support
+[16:08:45] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_18_R1' loaded!
+[16:08:45] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Gson: class com.google.gson.Gson
+[16:08:45] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'BlockProt' to create a bStats instance!
+[16:08:45] [Server thread/INFO]: [SavageDeathChest] Enabling SavageDeathChest v1.18.5
+[16:08:45] [Server thread/INFO]: [SavageDeathChest] Language file en-US.yml successfully loaded.
+[16:08:45] [Server thread/INFO]: [SavageDeathChest] Sound file sounds.yml successfully loaded.
+[16:08:45] [Thread-6/WARN]: [NBTAPI] [NBTAPI] The NBT-API at 'package de.sean.blockprot.bukkit.shaded.nbtapi' seems to be a future Version, not yet released on Spigot/CurseForge!
+[16:08:45] [Thread-6/WARN]: [NBTAPI] [NBTAPI] Current Version: '2.9.0-SNAPSHOT' Newest Version: 2.8.0'
+[16:08:45] [Server thread/INFO]: [SavageDeathChest] SQLite datastore initialized.
+[16:08:45] [Server thread/INFO]: [SinglePlayerSleep] Enabling SinglePlayerSleep v1.13_2.13.47
+[16:08:45] [Server thread/INFO]: **************************************
+[16:08:45] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.47 Loading...
+[16:08:45] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.47 plugins\SinglePlayerSleep\config.yml
+[16:08:45] [Server thread/INFO]: Checking for updates...
+[16:08:46] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.47 plugins\SinglePlayerSleep\permissions.yml
+[16:08:46] [Server thread/INFO]: **************************************
+[16:08:46] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.47 is ENABLED
+[16:08:46] [Server thread/INFO]: **************************************
+[16:08:46] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.47 This server is running Paper version git-Paper-168 (MC: 1.18.1) (Implementing API version 1.18.1-R0.1-SNAPSHOT)
+[16:08:46] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.47 vardebug=false debug=false in plugins\SinglePlayerSleep/config.yml
+[16:08:46] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.47 jarfilename=E:\Project\MCServer\Minecraft-Server\plugins\SinglePlayerSleep-1.13_2.13.47.jar
+[16:08:46] [Server thread/INFO]: [LaggRemover] Enabling LaggRemover v2.0.6
+[16:08:46] [Server thread/INFO]: [LaggRemover] [STDOUT] 
+    __                      ____                                         _    _____
+   / /   ____ _____ _____ _/ __ \___  ____ ___  ____ _   _____  _____   | |  / /__ \
+  / /   / __ `/ __ `/ __ `/ /_/ / _ \/ __ `__ \/ __ \ | / / _ \/ ___/   | | / /__/ /
+ / /___/ /_/ / /_/ / /_/ / _, _/  __/ / / / / / /_/ / |/ /  __/ /       | |/ // __/
+/_____/\__,_/\__, /\__, /_/ |_|\___/_/ /_/ /_/\____/|___/\___/_/        |___//____/
+            /____//____/
+
+[16:08:46] [Server thread/WARN]: Nag author(s): '[drew6017]' of 'LaggRemover' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
+[16:08:46] [Server thread/INFO]: [LaggRemover] Loaded 0 module(s)
+[16:08:46] [Server thread/INFO]: [LaggRemover] The LaggRemover AI is now active!
+[16:08:46] [Server thread/INFO]: [LaggRemover] LaggRemover has been enabled!
+[16:08:46] [Server thread/INFO]: Running delayed init tasks
+[16:08:46] [Server thread/INFO]: Done (4.318s)! For help, type "help"
+[16:08:46] [Server thread/INFO]: Timings Reset
+[16:08:46] [Craft Scheduler Thread - 2 - BlockProt/INFO]: BlockProt is up to date. (1.0.4)
+[16:09:17] [User Authenticator #1/INFO]: UUID of player watchtime is c057e1a1-33de-3761-931c-ce2a12a5e0c1
+[16:09:17] [Server thread/INFO]: watchtime joined the game
+[16:09:17] [Server thread/INFO]: watchtime[/[0:0:0:0:0:0:0:1]:57083] logged in with entity id 99 at ([world]74.39205877063472, 79.0, 371.8514552647219)
+[16:10:36] [User Authenticator #2/INFO]: UUID of player OmkarSANAS is 0578c101-ef8a-3ea5-bece-979eaea41d7e
+[16:10:36] [Server thread/INFO]: OmkarSANAS joined the game
+[16:10:36] [Server thread/INFO]: OmkarSANAS[/127.0.0.1:57127] logged in with entity id 727 at ([world]73.69999998807907, 73.0, 374.69999998807907)
+[16:28:41] [Server thread/INFO]: watchtime was slain by Piglin
+[16:29:26] [Server thread/INFO]: watchtime issued server command: /gamemode creative
+[16:29:26] [Server thread/INFO]: [watchtime: Set own game mode to Creative Mode]
+[16:29:40] [Server thread/INFO]: watchtime issued server command: /gamemode survival
+[16:29:40] [Server thread/INFO]: [watchtime: Set own game mode to Survival Mode]
+[16:30:41] [Server thread/INFO]: watchtime was slain by Hoglin
+[16:30:41] [Server thread/INFO]: watchtime issued server command: /gamemode creative
+[16:30:41] [Server thread/INFO]: [watchtime: Set own game mode to Creative Mode]
+[16:31:23] [Server thread/INFO]: watchtime issued server command: /gamemode survival
+[16:31:23] [Server thread/INFO]: [watchtime: Set own game mode to Survival Mode]
+[16:39:45] [Server thread/INFO]: OmkarSANAS issued server command: /gamemode spectator
+[16:39:45] [Server thread/INFO]: [OmkarSANAS: Set own game mode to Spectator Mode]
+[16:41:05] [Server thread/INFO]: watchtime issued server command: /gamemode spectator
+[16:41:05] [Server thread/INFO]: [watchtime: Set own game mode to Spectator Mode]
+[16:48:42] [Server thread/INFO]: OmkarSANAS issued server command: /tp OmkarSANAS watchtime
+[16:48:42] [Server thread/INFO]: [OmkarSANAS: Teleported OmkarSANAS to watchtime]
+[16:48:57] [Server thread/INFO]: watchtime issued server command: /gamemode survival
+[16:48:57] [Server thread/INFO]: [watchtime: Set own game mode to Survival Mode]
+[16:49:00] [Server thread/INFO]: OmkarSANAS issued server command: /gamemode survival
+[16:49:00] [Server thread/INFO]: [OmkarSANAS: Set own game mode to Survival Mode]
+[16:49:50] [Server thread/INFO]: OmkarSANAS issued server command: /gamemode spectator
+[16:49:50] [Server thread/INFO]: [OmkarSANAS: Set own game mode to Spectator Mode]
+[16:49:53] [Server thread/INFO]: watchtime issued server command: /gamemode spectator
+[16:49:53] [Server thread/INFO]: [watchtime: Set own game mode to Spectator Mode]
+[16:52:10] [Server thread/INFO]: OmkarSANAS issued server command: /tp OmkarSANAS watchtime
+[16:52:10] [Server thread/INFO]: [OmkarSANAS: Teleported OmkarSANAS to watchtime]
+[16:55:00] [Server thread/INFO]: watchtime issued server command: /gamemode survival
+[16:55:00] [Server thread/INFO]: [watchtime: Set own game mode to Survival Mode]
+[16:55:04] [Server thread/INFO]: watchtime issued server command: /gamemode spectator
+[16:55:04] [Server thread/INFO]: [watchtime: Set own game mode to Spectator Mode]
+[16:55:17] [Server thread/INFO]: watchtime issued server command: /tp OmkarSANAS watchtime
+[16:55:17] [Server thread/INFO]: [watchtime: Teleported OmkarSANAS to watchtime]
+[16:55:18] [Server thread/INFO]: OmkarSANAS issued server command: /tp OmkarSANAS watchtime
+[16:55:18] [Server thread/INFO]: [OmkarSANAS: Teleported OmkarSANAS to watchtime]
+[16:55:30] [Server thread/INFO]: OmkarSANAS issued server command: /gamemode survival
+[16:55:30] [Server thread/INFO]: [OmkarSANAS: Set own game mode to Survival Mode]
+[16:55:35] [Server thread/INFO]: OmkarSANAS issued server command: /gamemode spectator
+[16:55:35] [Server thread/INFO]: [OmkarSANAS: Set own game mode to Spectator Mode]
+[16:55:39] [Server thread/INFO]: OmkarSANAS issued server command: /gamemode survival
+[16:55:39] [Server thread/INFO]: [OmkarSANAS: Set own game mode to Survival Mode]
+[16:55:41] [Server thread/INFO]: watchtime issued server command: /gamemode survival
+[16:55:41] [Server thread/INFO]: [watchtime: Set own game mode to Survival Mode]
+[17:00:08] [Server thread/INFO]: OmkarSANAS issued server command: /tp OmkarSANAS watchtime
+[17:00:08] [Server thread/INFO]: [OmkarSANAS: Teleported OmkarSANAS to watchtime]
+[17:00:29] [Server thread/INFO]: watchtime was burnt to a crisp whilst fighting OmkarSANAS
+[17:00:43] [Server thread/INFO]: watchtime issued server command: /gamemode spectator
+[17:00:43] [Server thread/INFO]: [watchtime: Set own game mode to Spectator Mode]
+[17:00:45] [Server thread/INFO]: watchtime issued server command: /gamemode adventure
+[17:00:45] [Server thread/INFO]: [watchtime: Set own game mode to Adventure Mode]
+[17:00:47] [Server thread/INFO]: watchtime issued server command: /gamemode spectator
+[17:00:47] [Server thread/INFO]: [watchtime: Set own game mode to Spectator Mode]
+[17:00:50] [Server thread/INFO]: watchtime issued server command: /gamemode creative
+[17:00:50] [Server thread/INFO]: [watchtime: Set own game mode to Creative Mode]
+[17:00:54] [Server thread/INFO]: watchtime issued server command: /tp watchtime
+[17:00:54] [Server thread/INFO]: [watchtime: Teleported watchtime to watchtime]
+[17:00:59] [Server thread/INFO]: watchtime issued server command: /tp watchtime OmkarSANAS
+[17:00:59] [Server thread/INFO]: [watchtime: Teleported watchtime to OmkarSANAS]
+[17:01:20] [Server thread/INFO]: watchtime issued server command: /gamemode spectator
+[17:01:20] [Server thread/INFO]: [watchtime: Set own game mode to Spectator Mode]
+[17:01:22] [Server thread/INFO]: watchtime issued server command: /gamemode survival
+[17:01:22] [Server thread/INFO]: [watchtime: Set own game mode to Survival Mode]
+[17:08:26] [Server thread/INFO]: watchtime issued server command: /gamemode spectator
+[17:08:26] [Server thread/INFO]: [watchtime: Set own game mode to Spectator Mode]
+[17:08:37] [Server thread/INFO]: watchtime issued server command: /gamemode creative
+[17:08:37] [Server thread/INFO]: [watchtime: Set own game mode to Creative Mode]
+[17:08:41] [Server thread/INFO]: watchtime issued server command: /gamemode survival
+[17:08:41] [Server thread/INFO]: [watchtime: Set own game mode to Survival Mode]
+[17:10:00] [Server thread/INFO]: watchtime issued server command: /gamemode creative
+[17:10:00] [Server thread/INFO]: [watchtime: Set own game mode to Creative Mode]
+[17:10:11] [Server thread/INFO]: watchtime issued server command: /gamemode survival
+[17:10:11] [Server thread/INFO]: [watchtime: Set own game mode to Survival Mode]
+[17:10:41] [Server thread/INFO]: OmkarSANAS issued server command: /gamemode spectator
+[17:10:41] [Server thread/INFO]: [OmkarSANAS: Set own game mode to Spectator Mode]
+[17:10:46] [Server thread/INFO]: OmkarSANAS issued server command: /gamemode survival
+[17:10:46] [Server thread/INFO]: [OmkarSANAS: Set own game mode to Survival Mode]
+[17:12:34] [Server thread/INFO]: watchtime issued server command: /gamemode creative
+[17:12:34] [Server thread/INFO]: [watchtime: Set own game mode to Creative Mode]
+[17:12:35] [Server thread/INFO]: watchtime issued server command: /gamemode survival
+[17:12:35] [Server thread/INFO]: [watchtime: Set own game mode to Survival Mode]
+[17:12:37] [Server thread/INFO]: watchtime tried to swim in lava
+[17:12:41] [Async Chat Thread - #0/INFO]: <OmkarSANAS> xDDD
+[17:13:04] [Server thread/INFO]: watchtime issued server command: /tp watchtime OmkarSANAS
+[17:13:04] [Server thread/INFO]: [watchtime: Teleported watchtime to OmkarSANAS]
+[17:20:03] [Server thread/INFO]: watchtime was slain by Piglin
+[17:20:15] [Server thread/INFO]: watchtime issued server command: /tp watchtime OmkarSANAS
+[17:20:16] [Server thread/INFO]: [watchtime: Teleported watchtime to OmkarSANAS]
+[17:22:16] [Server thread/INFO]: watchtime issued server command: /spscancel
+[17:23:04] [Async Chat Thread - #1/INFO]: <OmkarSANAS> bruh lemme sleep
+[17:39:16] [Server thread/INFO]: watchtime issued server command: /gamemode creative
+[17:39:16] [Server thread/INFO]: [watchtime: Set own game mode to Creative Mode]
+[17:39:21] [Server thread/INFO]: watchtime issued server command: /gamemode spectator
+[17:39:21] [Server thread/INFO]: [watchtime: Set own game mode to Spectator Mode]
+[17:40:20] [Server thread/INFO]: watchtime issued server command: /gamemode creative
+[17:40:20] [Server thread/INFO]: [watchtime: Set own game mode to Creative Mode]
+[17:40:24] [Server thread/INFO]: watchtime issued server command: /gamemode spectator
+[17:40:24] [Server thread/INFO]: [watchtime: Set own game mode to Spectator Mode]
+[17:40:26] [Server thread/INFO]: OmkarSANAS issued server command: /gamemode spectator
+[17:40:26] [Server thread/INFO]: [OmkarSANAS: Set own game mode to Spectator Mode]
+[17:40:27] [Server thread/INFO]: OmkarSANAS issued server command: /gamemode survival
+[17:40:27] [Server thread/INFO]: [OmkarSANAS: Set own game mode to Survival Mode]
+[17:40:48] [Server thread/INFO]: watchtime issued server command: /gamemode creative
+[17:40:48] [Server thread/INFO]: [watchtime: Set own game mode to Creative Mode]
+[17:40:56] [Server thread/INFO]: watchtime issued server command: /gamemode spectator
+[17:40:56] [Server thread/INFO]: [watchtime: Set own game mode to Spectator Mode]
+[17:40:58] [Server thread/INFO]: watchtime issued server command: /gamemode creative
+[17:40:58] [Server thread/INFO]: [watchtime: Set own game mode to Creative Mode]
+[17:41:00] [Server thread/INFO]: watchtime issued server command: /gamemode survival
+[17:41:00] [Server thread/INFO]: [watchtime: Set own game mode to Survival Mode]
+[17:48:38] [Server thread/INFO]: OmkarSANAS issued server command: /spscancel
+[17:49:56] [Server thread/INFO]: watchtime issued server command: /gamemode creative
+[17:49:56] [Server thread/INFO]: [watchtime: Set own game mode to Creative Mode]
+[17:49:59] [Server thread/INFO]: watchtime issued server command: /gamemode spectator
+[17:49:59] [Server thread/INFO]: [watchtime: Set own game mode to Spectator Mode]
+[17:50:06] [Server thread/INFO]: watchtime issued server command: /gamemode creative
+[17:50:06] [Server thread/INFO]: [watchtime: Set own game mode to Creative Mode]
+[17:50:15] [Server thread/INFO]: watchtime issued server command: /gamemode survival
+[17:50:15] [Server thread/INFO]: [watchtime: Set own game mode to Survival Mode]
+[17:50:49] [Server thread/INFO]: watchtime issued server command: /gamemode spectator
+[17:50:49] [Server thread/INFO]: [watchtime: Set own game mode to Spectator Mode]
+[17:52:17] [Server thread/INFO]: watchtime issued server command: /gamemode survival
+[17:52:17] [Server thread/INFO]: [watchtime: Set own game mode to Survival Mode]
+[17:52:22] [Server thread/INFO]: watchtime issued server command: /gamemode spectator
+[17:52:22] [Server thread/INFO]: [watchtime: Set own game mode to Spectator Mode]
+[17:52:28] [Server thread/INFO]: watchtime issued server command: /gamemode survival
+[17:52:28] [Server thread/INFO]: [watchtime: Set own game mode to Survival Mode]
+[17:52:29] [Server thread/INFO]: watchtime issued server command: /gamemode spectator
+[17:52:29] [Server thread/INFO]: [watchtime: Set own game mode to Spectator Mode]
+[17:52:33] [Server thread/INFO]: watchtime issued server command: /gamemode survival
+[17:52:33] [Server thread/INFO]: [watchtime: Set own game mode to Survival Mode]
+[17:53:48] [Server thread/INFO]: watchtime lost connection: Disconnected
+[17:53:48] [Server thread/INFO]: watchtime left the game
+[18:26:55] [Server thread/INFO]: Villager EntityVillager['Librarian'/18366, uuid='300eef0d-37c9-404e-a130-ac52b9255acd', l='ServerLevel[world]', x=239.30, y=78.00, z=240.70, cpos=[14, 15], tl=904049, v=true] died, message: 'Librarian was slain by OmkarSANAS'
+[18:38:15] [User Authenticator #3/INFO]: UUID of player watchtime is c057e1a1-33de-3761-931c-ce2a12a5e0c1
+[18:38:16] [Server thread/INFO]: watchtime joined the game
+[18:38:16] [Server thread/INFO]: watchtime[/[0:0:0:0:0:0:0:1]:61789] logged in with entity id 36251 at ([world]241.27802579501412, 81.0, 239.8088047368553)
+[18:43:50] [Server thread/INFO]: watchtime issued server command: /gamemode spectator
+[18:43:50] [Server thread/INFO]: [watchtime: Set own game mode to Spectator Mode]
+[18:43:56] [Server thread/INFO]: watchtime issued server command: /gamemode creative
+[18:43:56] [Server thread/INFO]: [watchtime: Set own game mode to Creative Mode]
+[18:44:17] [Server thread/INFO]: watchtime issued server command: /gamemode survival
+[18:44:17] [Server thread/INFO]: [watchtime: Set own game mode to Survival Mode]
+[18:52:33] [Server thread/INFO]: watchtime issued server command: /tp watchtime OmkarSANAS
+[18:52:33] [Server thread/INFO]: [watchtime: Teleported watchtime to OmkarSANAS]
+[18:55:23] [Server thread/INFO]: OmkarSANAS issued server command: /gamemode spectator
+[18:55:23] [Server thread/INFO]: [OmkarSANAS: Set own game mode to Spectator Mode]
+[18:55:33] [Server thread/INFO]: watchtime issued server command: /gamemode creative
+[18:55:33] [Server thread/INFO]: [watchtime: Set own game mode to Creative Mode]
+[18:55:35] [Server thread/INFO]: OmkarSANAS issued server command: /gamemode survival
+[18:55:35] [Server thread/INFO]: [OmkarSANAS: Set own game mode to Survival Mode]
+[18:55:43] [Server thread/INFO]: watchtime issued server command: /gamemode spectator
+[18:55:43] [Server thread/INFO]: [watchtime: Set own game mode to Spectator Mode]
+[18:55:47] [Server thread/INFO]: watchtime issued server command: /gamemode survival
+[18:55:47] [Server thread/INFO]: [watchtime: Set own game mode to Survival Mode]
+[19:00:57] [User Authenticator #4/INFO]: UUID of player snypee is b43ac269-6ae9-3fc6-9cfa-48dc4978aefc
+[19:00:57] [Server thread/INFO]: snypee joined the game
+[19:00:57] [Server thread/INFO]: snypee[/[0:0:0:0:0:0:0:1]:56207] logged in with entity id 41003 at ([world]74.29842906020541, 66.0, 375.1107864066852)
+[19:16:09] [Server thread/INFO]: snypee lost connection: Disconnected
+[19:16:09] [Server thread/INFO]: snypee left the game
+[19:17:48] [Server thread/INFO]: watchtime issued server command: /gamemode spectator
+[19:17:48] [Server thread/INFO]: [watchtime: Set own game mode to Spectator Mode]
+[19:18:41] [Server thread/INFO]: watchtime issued server command: /gamemode survival
+[19:18:41] [Server thread/INFO]: [watchtime: Set own game mode to Survival Mode]
+[19:33:32] [Server thread/INFO]: OmkarSANAS issued server command: /gamemode spectator
+[19:33:32] [Server thread/INFO]: [OmkarSANAS: Set own game mode to Spectator Mode]
+[19:33:50] [Server thread/INFO]: OmkarSANAS issued server command: /gamemode survival
+[19:33:50] [Server thread/INFO]: [OmkarSANAS: Set own game mode to Survival Mode]
+[19:37:39] [Server thread/INFO]: watchtime issued server command: /gamemode spectator
+[19:37:39] [Server thread/INFO]: [watchtime: Set own game mode to Spectator Mode]
+[19:39:25] [Async Chat Thread - #2/INFO]: <OmkarSANAS> where u
+[19:39:28] [Server thread/INFO]: OmkarSANAS issued server command: /gamemode spectator
+[19:39:28] [Server thread/INFO]: [OmkarSANAS: Set own game mode to Spectator Mode]
+[19:42:12] [Server thread/INFO]: OmkarSANAS issued server command: /gamemode survival
+[19:42:12] [Server thread/INFO]: [OmkarSANAS: Set own game mode to Survival Mode]
+[19:42:29] [Server thread/INFO]: watchtime issued server command: /gamemode survival
+[19:42:29] [Server thread/INFO]: [watchtime: Set own game mode to Survival Mode]
+[19:43:45] [Server thread/INFO]: OmkarSANAS issued server command: /gamemode spectator
+[19:43:45] [Server thread/INFO]: [OmkarSANAS: Set own game mode to Spectator Mode]
+[19:44:17] [Server thread/INFO]: OmkarSANAS issued server command: /gamemode survival
+[19:44:17] [Server thread/INFO]: [OmkarSANAS: Set own game mode to Survival Mode]
+[19:44:39] [Server thread/INFO]: OmkarSANAS issued server command: /gamemode creative
+[19:44:39] [Server thread/INFO]: [OmkarSANAS: Set own game mode to Creative Mode]
+[19:44:43] [Server thread/INFO]: OmkarSANAS issued server command: /gamemode spectator
+[19:44:43] [Server thread/INFO]: [OmkarSANAS: Set own game mode to Spectator Mode]
+[19:44:54] [Server thread/INFO]: OmkarSANAS issued server command: /gamemode creative
+[19:44:54] [Server thread/INFO]: [OmkarSANAS: Set own game mode to Creative Mode]
+[19:44:59] [Server thread/INFO]: OmkarSANAS issued server command: /gamemode survival
+[19:44:59] [Server thread/INFO]: [OmkarSANAS: Set own game mode to Survival Mode]
+[19:46:16] [Server thread/INFO]: OmkarSANAS has made the advancement [The End?]
+[19:46:16] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[19:46:16] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
+[19:46:17] [Server thread/INFO]: watchtime has made the advancement [The End?]
+[19:50:41] [Server thread/INFO]: OmkarSANAS lost connection: Disconnected
+[19:50:41] [Server thread/INFO]: OmkarSANAS left the game
+[19:50:42] [Server thread/INFO]: watchtime lost connection: Disconnected
+[19:50:42] [Server thread/INFO]: watchtime left the game
+[19:57:17] [Server thread/INFO]: Stopping the server
+[19:57:17] [Server thread/INFO]: Stopping server
+[19:57:17] [Server thread/INFO]: [LaggRemover] Disabling LaggRemover v2.0.6
+[19:57:17] [Server thread/INFO]: [LaggRemover] LaggRemover has been disabled!
+[19:57:17] [Server thread/INFO]: [SinglePlayerSleep] Disabling SinglePlayerSleep v1.13_2.13.47
+[19:57:17] [Server thread/INFO]: **************************************
+[19:57:17] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.47 is DISABLED
+[19:57:17] [Server thread/INFO]: **************************************
+[19:57:17] [Server thread/INFO]: [SavageDeathChest] Disabling SavageDeathChest v1.18.5
+[19:57:17] [Server thread/INFO]: [SavageDeathChest] SQLite datastore connection closed.
+[19:57:17] [Server thread/INFO]: [BlockProt] Disabling BlockProt v1.0.4
+[19:57:17] [Server thread/INFO]: Saving players
+[19:57:17] [Server thread/INFO]: Saving worlds
+[19:57:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[19:57:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[19:57:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[19:57:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:57:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:57:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:57:18] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[19:57:21] [Server thread/INFO]: Flushing Chunk IO
