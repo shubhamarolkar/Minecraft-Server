@@ -1,221 +1,245 @@
-[00:06:55] [Server thread/INFO]: snypee lost connection: Timed out
-[00:06:55] [Server thread/INFO]: snypee left the game
-[00:08:17] [User Authenticator #3/INFO]: UUID of player snypee is b43ac269-6ae9-3fc6-9cfa-48dc4978aefc
-[00:08:17] [Server thread/INFO]: snypee joined the game
-[00:08:17] [Server thread/INFO]: snypee[/[0:0:0:0:0:0:0:1]:51668] logged in with entity id 7662 at ([world]679.6736838319457, 63.0, 1041.2923015916983)
-[00:25:46] [User Authenticator #4/INFO]: UUID of player watchtime is c057e1a1-33de-3761-931c-ce2a12a5e0c1
-[00:25:46] [Server thread/INFO]: watchtime joined the game
-[00:25:46] [Server thread/INFO]: watchtime[/[0:0:0:0:0:0:0:1]:54176] logged in with entity id 18651 at ([world_the_end]51.30000001192093, 53.0, 1.0697233675676732)
-[00:28:00] [User Authenticator #5/INFO]: UUID of player OmkarSANAS is 0578c101-ef8a-3ea5-bece-979eaea41d7e
-[00:28:00] [Server thread/INFO]: OmkarSANAS joined the game
-[00:28:00] [Server thread/INFO]: OmkarSANAS[/127.0.0.1:54180] logged in with entity id 20369 at ([world_the_end]51.30000001192093, 53.0, 1.699999988079071)
-[00:32:06] [User Authenticator #6/INFO]: UUID of player cr0n0s69 is ace33f99-a894-3d26-814e-bb4eee675f63
-[00:32:06] [Server thread/INFO]: cr0n0s69 joined the game
-[00:32:06] [Server thread/INFO]: cr0n0s69[/[0:0:0:0:0:0:0:1]:54201] logged in with entity id 24091 at ([world]86.68417186797625, 67.0, 370.1822552503962)
-[00:34:45] [Server thread/INFO]: snypee has made the advancement [Eye Spy]
-[00:35:01] [Server thread/INFO]: OmkarSANAS issued server command: /tp OmkarSANAS snypee
-[00:35:01] [Server thread/INFO]: [OmkarSANAS: Teleported OmkarSANAS to snypee]
-[00:35:06] [Server thread/INFO]: watchtime issued server command: /tp watchtime snypee
-[00:35:06] [Server thread/INFO]: [watchtime: Teleported watchtime to snypee]
-[00:35:14] [Server thread/INFO]: cr0n0s69 issued server command: /tp cr0n0s69 snypee
-[00:35:14] [Server thread/INFO]: [cr0n0s69: Teleported cr0n0s69 to snypee]
-[00:35:14] [Server thread/INFO]: cr0n0s69 has made the advancement [Eye Spy]
-[00:37:27] [Server thread/INFO]: snypee has made the advancement [The End?]
-[00:37:32] [Server thread/INFO]: cr0n0s69 has made the advancement [The End?]
-[00:38:41] [Server thread/INFO]: cr0n0s69 fell from a high place
-[00:39:08] [Server thread/INFO]: cr0n0s69 issued server command: /tp cr0n0s69 watchtime
-[00:39:08] [Server thread/INFO]: [cr0n0s69: Teleported cr0n0s69 to watchtime]
-[00:39:31] [Server thread/INFO]: cr0n0s69 fell from a high place
-[00:39:48] [Server thread/INFO]: cr0n0s69 issued server command: /tp cr0n0s69 watchtime
-[00:39:48] [Server thread/INFO]: [cr0n0s69: Teleported cr0n0s69 to watchtime]
-[00:41:05] [Server thread/INFO]: cr0n0s69 was slain by Ender Dragon
-[00:41:26] [Server thread/INFO]: cr0n0s69 issued server command: /tp cr0n0s69 watchtime
-[00:41:26] [Server thread/INFO]: [cr0n0s69: Teleported cr0n0s69 to watchtime]
-[00:42:09] [Server thread/INFO]: cr0n0s69 was slain by Enderman
-[00:42:32] [Server thread/INFO]: cr0n0s69 issued server command: /tp cr0n0s69 watchtime
-[00:42:32] [Server thread/INFO]: [cr0n0s69: Teleported cr0n0s69 to watchtime]
-[00:42:37] [Server thread/INFO]: watchtime has made the advancement [Free the End]
-[00:43:20] [Server thread/INFO]: watchtime issued server command: /tp watchtime cr0n0s69
-[00:43:20] [Server thread/INFO]: [watchtime: Teleported watchtime to cr0n0s69]
-[00:43:21] [Server thread/INFO]: Skipping update from removed player 'EntityPlayer['watchtime'/18651, uuid='c057e1a1-33de-3761-931c-ce2a12a5e0c1', l='ServerLevel[world_the_end]', x=0.26, y=61.68, z=-0.36, cpos=[0, -1], tl=6452123, v=false, removed=CHANGED_DIMENSION](watchtime at 0.256832542587489,61.67647087614427,-0.3638179890951263)'
-[00:43:38] [Server thread/INFO]: watchtime issued server command: /tp watchtime snypee
-[00:43:38] [Server thread/INFO]: [watchtime: Teleported watchtime to snypee]
-[00:44:43] [Server thread/INFO]: watchtime issued server command: /gamemode spectator
-[00:44:43] [Server thread/INFO]: [watchtime: Set own game mode to Spectator Mode]
-[00:45:13] [Server thread/INFO]: watchtime issued server command: /gamemode survival
-[00:45:13] [Server thread/INFO]: [watchtime: Set own game mode to Survival Mode]
-[00:46:28] [Server thread/INFO]: watchtime issued server command: /gamemode spectator
-[00:46:28] [Server thread/INFO]: [watchtime: Set own game mode to Spectator Mode]
-[00:46:56] [Server thread/INFO]: watchtime issued server command: /gamemode survival
-[00:46:56] [Server thread/INFO]: [watchtime: Set own game mode to Survival Mode]
-[00:47:16] [Server thread/INFO]: snypee has made the advancement [Remote Getaway]
-[00:47:25] [Server thread/INFO]: OmkarSANAS has made the advancement [Remote Getaway]
-[00:48:30] [Server thread/INFO]: watchtime has reached the goal [The Next Generation]
-[00:48:46] [Server thread/INFO]: watchtime issued server command: /tp watchtime OmkarSANAS
-[00:48:46] [Server thread/INFO]: [watchtime: Teleported watchtime to OmkarSANAS]
-[00:54:56] [Server thread/INFO]: watchtime issued server command: /tp watchtime OmkarSANAS
-[00:54:56] [Server thread/INFO]: [watchtime: Teleported watchtime to OmkarSANAS]
-[00:56:14] [Server thread/INFO]: watchtime issued server command: /tp watchtime snypee
-[00:56:14] [Server thread/INFO]: [watchtime: Teleported watchtime to snypee]
-[00:57:04] [Server thread/INFO]: watchtime issued server command: /tp watchtime OmkarSANAS
-[00:57:04] [Server thread/INFO]: [watchtime: Teleported watchtime to OmkarSANAS]
-[00:59:01] [Server thread/INFO]: watchtime issued server command: /gamemode creative
-[00:59:01] [Server thread/INFO]: [watchtime: Set own game mode to Creative Mode]
-[00:59:04] [Server thread/INFO]: watchtime issued server command: /gamemode survival
-[00:59:04] [Server thread/INFO]: [watchtime: Set own game mode to Survival Mode]
-[01:01:37] [Server thread/INFO]: watchtime issued server command: /tp watchtime OmkarSANAS
-[01:01:37] [Server thread/INFO]: [watchtime: Teleported watchtime to OmkarSANAS]
-[01:07:57] [Server thread/INFO]: OmkarSANAS issued server command: /tp OmkarSANAS watchtime
-[01:07:57] [Server thread/INFO]: [OmkarSANAS: Teleported OmkarSANAS to watchtime]
-[01:07:57] [Server thread/WARN]: OmkarSANAS moved too quickly! 22.240096678725422,6.0,16.023558518795994
-[01:08:08] [Server thread/INFO]: snypee fell out of the world
-[01:08:25] [Server thread/INFO]: OmkarSANAS issued server command: /tp snypee OmkarSANAS
-[01:08:25] [Server thread/INFO]: [OmkarSANAS: Teleported snypee to OmkarSANAS]
-[01:08:30] [Server thread/INFO]: watchtime issued server command: /gamemode creative
-[01:08:30] [Server thread/INFO]: [watchtime: Set own game mode to Creative Mode]
-[01:08:33] [Server thread/INFO]: watchtime issued server command: /gamemode spectator
-[01:08:33] [Server thread/INFO]: [watchtime: Set own game mode to Spectator Mode]
-[01:08:48] [Server thread/INFO]: OmkarSANAS issued server command: /gamemode creative
-[01:08:48] [Server thread/INFO]: [OmkarSANAS: Set own game mode to Creative Mode]
-[01:09:04] [Server thread/INFO]: snypee fell out of the world
-[01:09:43] [Server thread/INFO]: watchtime issued server command: /tp OmkarSANAS watchtime
-[01:09:43] [Server thread/INFO]: [watchtime: Teleported OmkarSANAS to watchtime]
-[01:09:43] [Server thread/WARN]: OmkarSANAS moved too quickly! 24.41669926343411,2.9643243329452247,370.0065411489926
-[01:09:45] [Server thread/INFO]: snypee lost connection: Timed out
-[01:09:45] [Server thread/INFO]: snypee left the game
-[01:10:01] [Server thread/INFO]: watchtime issued server command: /gamemode creative
-[01:10:01] [Server thread/INFO]: [watchtime: Set own game mode to Creative Mode]
-[01:11:11] [Server thread/INFO]: OmkarSANAS issued server command: /tp OmkarSANAS watchtime
-[01:11:11] [Server thread/INFO]: [OmkarSANAS: Teleported OmkarSANAS to watchtime]
-[01:11:17] [Server thread/INFO]: watchtime has made the advancement [The City at the End of the Game]
-[01:11:17] [Server thread/INFO]: watchtime issued server command: /gamemode spectator
-[01:11:17] [Server thread/INFO]: [watchtime: Set own game mode to Spectator Mode]
-[01:11:26] [Server thread/INFO]: watchtime issued server command: /gamemode survival
-[01:11:26] [Server thread/INFO]: [watchtime: Set own game mode to Survival Mode]
-[01:11:31] [Server thread/INFO]: OmkarSANAS issued server command: /gamemode survival
-[01:11:31] [Server thread/INFO]: [OmkarSANAS: Set own game mode to Survival Mode]
-[01:11:38] [Server thread/INFO]: OmkarSANAS has made the advancement [The City at the End of the Game]
-[01:13:02] [Server thread/INFO]: watchtime issued server command: /gamemode spectator
-[01:13:02] [Server thread/INFO]: [watchtime: Set own game mode to Spectator Mode]
-[01:13:03] [Server thread/INFO]: OmkarSANAS lost connection: Disconnected
-[01:13:03] [Server thread/INFO]: OmkarSANAS left the game
-[01:13:06] [Server thread/INFO]: watchtime issued server command: /gamemode survival
-[01:13:06] [Server thread/INFO]: [watchtime: Set own game mode to Survival Mode]
-[01:13:34] [User Authenticator #7/INFO]: UUID of player OmkarSANAS is 0578c101-ef8a-3ea5-bece-979eaea41d7e
-[01:13:35] [Server thread/INFO]: OmkarSANAS joined the game
-[01:13:35] [Server thread/INFO]: OmkarSANAS[/127.0.0.1:50323] logged in with entity id 39811 at ([world_the_end]-1204.417443446154, 90.64219816192184, 709.5832466702761)
-[01:14:25] [Server thread/INFO]: watchtime issued server command: /gamemode spectator
-[01:14:25] [Server thread/INFO]: [watchtime: Set own game mode to Spectator Mode]
-[01:14:44] [Server thread/INFO]: watchtime issued server command: /gamemode survival
-[01:14:44] [Server thread/INFO]: [watchtime: Set own game mode to Survival Mode]
-[01:20:40] [Server thread/INFO]: OmkarSANAS issued server command: /gamemode creative
-[01:20:40] [Server thread/INFO]: [OmkarSANAS: Set own game mode to Creative Mode]
-[01:20:47] [Server thread/INFO]: OmkarSANAS issued server command: /gamemode survival
-[01:20:47] [Server thread/INFO]: [OmkarSANAS: Set own game mode to Survival Mode]
-[01:22:30] [Server thread/INFO]: watchtime has made the advancement [Local Brewery]
-[01:22:40] [Server thread/INFO]: OmkarSANAS has reached the goal [Sky's the Limit]
-[01:29:32] [Server thread/INFO]: watchtime issued server command: /gamemode spectator
-[01:29:32] [Server thread/INFO]: [watchtime: Set own game mode to Spectator Mode]
-[01:30:12] [Server thread/INFO]: watchtime issued server command: /gamemode survival
-[01:30:12] [Server thread/INFO]: [watchtime: Set own game mode to Survival Mode]
-[01:30:13] [Server thread/INFO]: watchtime fell from a high place
-[01:30:32] [Server thread/INFO]: watchtime issued server command: /tp watchtime OmkarSANAS
-[01:30:32] [Server thread/INFO]: [watchtime: Teleported watchtime to OmkarSANAS]
-[01:30:37] [Server thread/INFO]: watchtime issued server command: /gamemode spectator
-[01:30:37] [Server thread/INFO]: [watchtime: Set own game mode to Spectator Mode]
-[01:30:40] [Server thread/INFO]: watchtime issued server command: /gamemode creative
-[01:30:40] [Server thread/INFO]: [watchtime: Set own game mode to Creative Mode]
-[01:31:19] [Server thread/INFO]: OmkarSANAS issued server command: /gamemode creative
-[01:31:19] [Server thread/INFO]: [OmkarSANAS: Set own game mode to Creative Mode]
-[01:31:29] [Server thread/INFO]: watchtime issued server command: /gamemode spectator
-[01:31:29] [Server thread/INFO]: [watchtime: Set own game mode to Spectator Mode]
-[01:31:30] [Server thread/INFO]: OmkarSANAS issued server command: /gamemode survival
-[01:31:30] [Server thread/INFO]: [OmkarSANAS: Set own game mode to Survival Mode]
-[01:31:32] [Server thread/INFO]: watchtime issued server command: /gamemode survival
-[01:31:32] [Server thread/INFO]: [watchtime: Set own game mode to Survival Mode]
-[01:31:34] [Server thread/INFO]: watchtime issued server command: /gamemode spectator
-[01:31:34] [Server thread/INFO]: [watchtime: Set own game mode to Spectator Mode]
-[01:32:21] [Server thread/INFO]: watchtime issued server command: /gamemode survival
-[01:32:21] [Server thread/INFO]: [watchtime: Set own game mode to Survival Mode]
-[01:32:26] [Server thread/INFO]: watchtime issued server command: /gamemode spectator
-[01:32:26] [Server thread/INFO]: [watchtime: Set own game mode to Spectator Mode]
-[01:33:53] [Server thread/INFO]: cr0n0s69 lost connection: Disconnected
-[01:33:53] [Server thread/INFO]: cr0n0s69 left the game
-[01:34:23] [User Authenticator #8/INFO]: UUID of player cr0n0s69 is ace33f99-a894-3d26-814e-bb4eee675f63
-[01:34:24] [Server thread/INFO]: cr0n0s69 joined the game
-[01:34:24] [Server thread/INFO]: cr0n0s69[/[0:0:0:0:0:0:0:1]:55694] logged in with entity id 45045 at ([world]102.08735300294542, 86.0, 294.4598791629961)
-[01:34:37] [Server thread/INFO]: OmkarSANAS issued server command: /gamemode creative
-[01:34:37] [Server thread/INFO]: [OmkarSANAS: Set own game mode to Creative Mode]
-[01:35:01] [Server thread/INFO]: OmkarSANAS issued server command: /gamemode survival
-[01:35:01] [Server thread/INFO]: [OmkarSANAS: Set own game mode to Survival Mode]
-[01:35:40] [Server thread/INFO]: OmkarSANAS issued server command: /gamemode creative
-[01:35:40] [Server thread/INFO]: [OmkarSANAS: Set own game mode to Creative Mode]
-[01:36:13] [Server thread/INFO]: OmkarSANAS issued server command: /tp OmkarSANAS watchtime
-[01:36:13] [Server thread/INFO]: [OmkarSANAS: Teleported OmkarSANAS to watchtime]
-[01:36:24] [Server thread/INFO]: watchtime issued server command: /gamemode survival
-[01:36:24] [Server thread/INFO]: [watchtime: Set own game mode to Survival Mode]
-[01:36:38] [Server thread/INFO]: watchtime has reached the goal [Sky's the Limit]
-[01:37:04] [Server thread/INFO]: OmkarSANAS issued server command: /give OmkarSANAS minecraft:dragon_head
-[01:37:04] [Server thread/INFO]: [OmkarSANAS: Gave 1 [Dragon Head] to OmkarSANAS]
-[01:37:08] [Server thread/INFO]: OmkarSANAS issued server command: /gamemode survival
-[01:37:08] [Server thread/INFO]: [OmkarSANAS: Set own game mode to Survival Mode]
-[01:38:03] [Server thread/INFO]: watchtime issued server command: /gamemode spectator
-[01:38:03] [Server thread/INFO]: [watchtime: Set own game mode to Spectator Mode]
-[01:38:11] [Server thread/INFO]: watchtime issued server command: /gamemode survival
-[01:38:11] [Server thread/INFO]: [watchtime: Set own game mode to Survival Mode]
-[01:38:13] [Server thread/INFO]: OmkarSANAS issued server command: /gamemode creative
-[01:38:13] [Server thread/INFO]: [OmkarSANAS: Set own game mode to Creative Mode]
-[01:38:21] [Server thread/INFO]: cr0n0s69 lost connection: Disconnected
-[01:38:21] [Server thread/INFO]: cr0n0s69 left the game
-[01:38:43] [User Authenticator #9/INFO]: UUID of player cr0n0s69 is ace33f99-a894-3d26-814e-bb4eee675f63
-[01:38:43] [Server thread/INFO]: cr0n0s69 joined the game
-[01:38:43] [Server thread/INFO]: cr0n0s69[/[0:0:0:0:0:0:0:1]:58541] logged in with entity id 46745 at ([world]98.36932418197436, 86.0, 299.1747283051241)
-[01:38:57] [Server thread/INFO]: watchtime issued server command: /gamemode spectator
-[01:38:57] [Server thread/INFO]: [watchtime: Set own game mode to Spectator Mode]
-[01:39:31] [Server thread/INFO]: watchtime issued server command: /gamemode survival
-[01:39:31] [Server thread/INFO]: [watchtime: Set own game mode to Survival Mode]
-[01:39:45] [Server thread/INFO]: OmkarSANAS issued server command: /gamemode survival
-[01:39:45] [Server thread/INFO]: [OmkarSANAS: Set own game mode to Survival Mode]
-[01:40:00] [Server thread/INFO]: watchtime issued server command: /tp watchtime cr0n0s69
-[01:40:00] [Server thread/INFO]: [watchtime: Teleported watchtime to cr0n0s69]
-[01:40:21] [Server thread/INFO]: OmkarSANAS issued server command: /tp OmkarSANAS watchtime
-[01:40:22] [Server thread/INFO]: [OmkarSANAS: Teleported OmkarSANAS to watchtime]
-[01:49:23] [Server thread/WARN]: watchtime moved wrongly!
-[01:51:05] [Server thread/INFO]: cr0n0s69 lost connection: Disconnected
-[01:51:05] [Server thread/INFO]: cr0n0s69 left the game
-[02:01:28] [Server thread/INFO]: watchtime fell from a high place
-[02:01:34] [Server thread/INFO]: watchtime issued server command: /tp watchtime omk
-[02:01:39] [Server thread/INFO]: watchtime issued server command: /tp watchtime OmkarSANAS
-[02:01:39] [Server thread/INFO]: [watchtime: Teleported watchtime to OmkarSANAS]
-[02:02:32] [Server thread/WARN]: watchtime moved wrongly!
-[02:07:07] [Server thread/INFO]: OmkarSANAS lost connection: Disconnected
-[02:07:07] [Server thread/INFO]: OmkarSANAS left the game
-[02:18:14] [User Authenticator #10/INFO]: UUID of player OmkarSANAS is 0578c101-ef8a-3ea5-bece-979eaea41d7e
-[02:18:14] [Server thread/INFO]: OmkarSANAS joined the game
-[02:18:14] [Server thread/INFO]: OmkarSANAS[/127.0.0.1:52560] logged in with entity id 56644 at ([world]173.1329479163194, 109.0, 525.8146351994794)
-[02:19:07] [Server thread/INFO]: watchtime lost connection: Disconnected
-[02:19:07] [Server thread/INFO]: watchtime left the game
-[02:26:26] [Server thread/INFO]: OmkarSANAS lost connection: Disconnected
-[02:26:26] [Server thread/INFO]: OmkarSANAS left the game
-[02:26:38] [Server thread/INFO]: Stopping the server
-[02:26:38] [Server thread/INFO]: Stopping server
-[02:26:38] [Server thread/INFO]: [LaggRemover] Disabling LaggRemover v2.0.6
-[02:26:38] [Server thread/INFO]: [LaggRemover] LaggRemover has been disabled!
-[02:26:38] [Server thread/INFO]: [SinglePlayerSleep] Disabling SinglePlayerSleep v1.13_2.13.47
-[02:26:38] [Server thread/INFO]: **************************************
-[02:26:38] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.47 is DISABLED
-[02:26:38] [Server thread/INFO]: **************************************
-[02:26:38] [Server thread/INFO]: [SavageDeathChest] Disabling SavageDeathChest v1.18.5
-[02:26:38] [Server thread/INFO]: [SavageDeathChest] SQLite datastore connection closed.
-[02:26:38] [Server thread/INFO]: [BlockProt] Disabling BlockProt v1.0.4
-[02:26:38] [Server thread/INFO]: Saving players
-[02:26:39] [Server thread/INFO]: Saving worlds
-[02:26:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[02:26:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[02:26:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[02:26:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[02:26:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[02:26:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[02:26:42] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[02:26:47] [Server thread/INFO]: Flushing Chunk IO
-[02:26:47] [Server thread/INFO]: Closing Thread Pool
+[15:57:12] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[15:57:12] [ServerMain/INFO]: Reloading ResourceManager: Default, bukkit
+[15:57:15] [Worker-Main-1/INFO]: Loaded 7 recipes
+[15:57:17] [Server thread/INFO]: Starting minecraft server version 1.18.1
+[15:57:17] [Server thread/INFO]: Loading properties
+[15:57:17] [Server thread/INFO]: This server is running Paper version git-Paper-168 (MC: 1.18.1) (Implementing API version 1.18.1-R0.1-SNAPSHOT) (Git: dcca6cb)
+[15:57:17] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[15:57:17] [Server thread/INFO]: Using 4 threads for Netty based IO
+[15:57:17] [Server thread/INFO]: Default game type: SURVIVAL
+[15:57:17] [Server thread/INFO]: Generating keypair
+[15:57:17] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:57:17] [Server thread/INFO]: Using default channel type
+[15:57:17] [Server thread/INFO]: Paper: Using Java 11 compression from Velocity.
+[15:57:17] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
+[15:57:18] [Server thread/INFO]: [BlockProt] Loading BlockProt v1.0.4
+[15:57:18] [Server thread/INFO]: [SavageDeathChest] Loading SavageDeathChest v1.18.5
+[15:57:18] [Server thread/INFO]: [SinglePlayerSleep] Loading SinglePlayerSleep v1.13_2.13.47
+[15:57:18] [Server thread/INFO]: [LaggRemover] Loading LaggRemover v2.0.6
+[15:57:18] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[15:57:18] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15:57:18] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[15:57:18] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[15:57:18] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[15:57:18] [Server thread/INFO]: Preparing level "world"
+[15:57:19] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:57:19] [Server thread/INFO]: Time elapsed: 415 ms
+[15:57:19] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[15:57:20] [Server thread/INFO]: Time elapsed: 123 ms
+[15:57:20] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[15:57:20] [Server thread/INFO]: Time elapsed: 112 ms
+[15:57:20] [Server thread/INFO]: [BlockProt] Enabling BlockProt v1.0.4
+[15:57:20] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Spigot: v1_18_R1! Trying to find NMS support
+[15:57:20] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_18_R1' loaded!
+[15:57:20] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Gson: class com.google.gson.Gson
+[15:57:20] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'BlockProt' to create a bStats instance!
+[15:57:20] [Server thread/INFO]: [SavageDeathChest] Enabling SavageDeathChest v1.18.5
+[15:57:20] [Server thread/INFO]: [SavageDeathChest] Language file en-US.yml successfully loaded.
+[15:57:20] [Server thread/INFO]: [SavageDeathChest] Sound file sounds.yml successfully loaded.
+[15:57:20] [Thread-6/WARN]: [NBTAPI] [NBTAPI] The NBT-API at 'package de.sean.blockprot.bukkit.shaded.nbtapi' seems to be a future Version, not yet released on Spigot/CurseForge!
+[15:57:20] [Thread-6/WARN]: [NBTAPI] [NBTAPI] Current Version: '2.9.0-SNAPSHOT' Newest Version: 2.8.0'
+[15:57:21] [Server thread/INFO]: [SavageDeathChest] SQLite datastore initialized.
+[15:57:21] [Server thread/INFO]: [SinglePlayerSleep] Enabling SinglePlayerSleep v1.13_2.13.47
+[15:57:21] [Server thread/INFO]: **************************************
+[15:57:21] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.47 Loading...
+[15:57:21] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.47 plugins\SinglePlayerSleep\config.yml
+[15:57:21] [Server thread/INFO]: Checking for updates...
+[15:57:22] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.47 plugins\SinglePlayerSleep\permissions.yml
+[15:57:22] [Server thread/INFO]: **************************************
+[15:57:22] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.47 is ENABLED
+[15:57:22] [Server thread/INFO]: **************************************
+[15:57:22] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.47 This server is running Paper version git-Paper-168 (MC: 1.18.1) (Implementing API version 1.18.1-R0.1-SNAPSHOT)
+[15:57:22] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.47 vardebug=false debug=false in plugins\SinglePlayerSleep/config.yml
+[15:57:22] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.47 jarfilename=E:\Project\MCServer\Minecraft-Server\plugins\SinglePlayerSleep-1.13_2.13.47.jar
+[15:57:22] [Server thread/INFO]: [LaggRemover] Enabling LaggRemover v2.0.6
+[15:57:22] [Server thread/INFO]: [LaggRemover] [STDOUT] 
+    __                      ____                                         _    _____
+   / /   ____ _____ _____ _/ __ \___  ____ ___  ____ _   _____  _____   | |  / /__ \
+  / /   / __ `/ __ `/ __ `/ /_/ / _ \/ __ `__ \/ __ \ | / / _ \/ ___/   | | / /__/ /
+ / /___/ /_/ / /_/ / /_/ / _, _/  __/ / / / / / /_/ / |/ /  __/ /       | |/ // __/
+/_____/\__,_/\__, /\__, /_/ |_|\___/_/ /_/ /_/\____/|___/\___/_/        |___//____/
+            /____//____/
+
+[15:57:22] [Server thread/WARN]: Nag author(s): '[drew6017]' of 'LaggRemover' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
+[15:57:22] [Server thread/INFO]: [LaggRemover] Loaded 0 module(s)
+[15:57:22] [Server thread/INFO]: [LaggRemover] The LaggRemover AI is now active!
+[15:57:22] [Server thread/INFO]: [LaggRemover] LaggRemover has been enabled!
+[15:57:22] [Server thread/INFO]: Running delayed init tasks
+[15:57:22] [Server thread/INFO]: Done (5.328s)! For help, type "help"
+[15:57:22] [Server thread/INFO]: Timings Reset
+[15:57:23] [Craft Scheduler Thread - 2 - BlockProt/INFO]: BlockProt is up to date. (1.0.4)
+[15:58:53] [User Authenticator #1/INFO]: UUID of player snypee is b43ac269-6ae9-3fc6-9cfa-48dc4978aefc
+[15:58:54] [Server thread/INFO]: snypee joined the game
+[15:58:54] [Server thread/INFO]: snypee[/[0:0:0:0:0:0:0:1]:62967] logged in with entity id 154 at ([world]2197.677546765373, -6.5, 1300.1375915324272)
+[16:00:20] [Server thread/INFO]: snypee fell out of the world
+[16:01:27] [User Authenticator #2/INFO]: UUID of player OmkarSANAS is 0578c101-ef8a-3ea5-bece-979eaea41d7e
+[16:01:27] [Server thread/INFO]: OmkarSANAS joined the game
+[16:01:27] [Server thread/INFO]: OmkarSANAS[/127.0.0.1:54281] logged in with entity id 1631 at ([world]236.8977565641383, 165.0, 285.4644133183386)
+[16:05:22] [User Authenticator #3/INFO]: UUID of player watchtime is c057e1a1-33de-3761-931c-ce2a12a5e0c1
+[16:05:23] [Server thread/INFO]: watchtime joined the game
+[16:05:23] [Server thread/INFO]: watchtime[/[0:0:0:0:0:0:0:1]:54300] logged in with entity id 2650 at ([world]64.47028707594231, 81.0, 269.8652394077868)
+[16:06:08] [Server thread/WARN]: watchtime was kicked due to keepalive timeout!
+[16:06:08] [Server thread/INFO]: watchtime lost connection: Timed out
+[16:06:08] [Server thread/INFO]: watchtime left the game
+[16:06:11] [User Authenticator #3/INFO]: UUID of player watchtime is c057e1a1-33de-3761-931c-ce2a12a5e0c1
+[16:06:11] [Server thread/INFO]: watchtime joined the game
+[16:06:11] [Server thread/INFO]: watchtime[/[0:0:0:0:0:0:0:1]:54303] logged in with entity id 2845 at ([world]64.47028707594231, 81.0, 269.8652394077868)
+[16:06:28] [Server thread/INFO]: watchtime issued server command: /gamemode creative
+[16:06:28] [Server thread/INFO]: [watchtime: Set own game mode to Creative Mode]
+[16:06:52] [Server thread/INFO]: watchtime issued server command: /gamemode spectator
+[16:06:52] [Server thread/INFO]: [watchtime: Set own game mode to Spectator Mode]
+[16:06:57] [Server thread/INFO]: watchtime issued server command: /gamemode creative
+[16:06:57] [Server thread/INFO]: [watchtime: Set own game mode to Creative Mode]
+[16:07:07] [Server thread/INFO]: watchtime issued server command: /gamemode survival
+[16:07:07] [Server thread/INFO]: [watchtime: Set own game mode to Survival Mode]
+[16:13:09] [Server thread/WARN]: Boat (vehicle of watchtime) moved wrongly! 0.41981120884135237
+[16:13:09] [Server thread/WARN]: Boat (vehicle of watchtime) moved wrongly! 0.9110090527430543
+[16:13:09] [Server thread/WARN]: Boat (vehicle of watchtime) moved wrongly! 0.9018288700478365
+[16:13:09] [Server thread/WARN]: Boat (vehicle of watchtime) moved wrongly! 0.4899999999999949
+[16:13:09] [Server thread/WARN]: Boat (vehicle of watchtime) moved wrongly! 0.48073100611371444
+[16:13:54] [Server thread/WARN]: watchtime moved wrongly!
+[16:26:13] [Server thread/INFO]: watchtime issued server command: /tp watchtime snypee
+[16:26:13] [Server thread/INFO]: [watchtime: Teleported watchtime to snypee]
+[16:26:21] [Server thread/INFO]: watchtime issued server command: /gamemode spectator
+[16:26:21] [Server thread/INFO]: [watchtime: Set own game mode to Spectator Mode]
+[16:26:33] [Async Chat Thread - #0/INFO]: <OmkarSANAS> retard
+[16:27:05] [Server thread/INFO]: watchtime issued server command: /gamemode survival
+[16:27:05] [Server thread/INFO]: [watchtime: Set own game mode to Survival Mode]
+[16:30:38] [Server thread/INFO]: watchtime tried to swim in lava
+[16:30:47] [Server thread/INFO]: watchtime issued server command: /gamemode spectator
+[16:30:47] [Server thread/INFO]: [watchtime: Set own game mode to Spectator Mode]
+[16:33:28] [Server thread/INFO]: watchtime issued server command: /gamemode survival
+[16:33:28] [Server thread/INFO]: [watchtime: Set own game mode to Survival Mode]
+[16:33:42] [Server thread/INFO]: watchtime issued server command: /gamemode spectator
+[16:33:42] [Server thread/INFO]: [watchtime: Set own game mode to Spectator Mode]
+[16:33:57] [Server thread/INFO]: watchtime issued server command: /gamemode survival
+[16:33:57] [Server thread/INFO]: [watchtime: Set own game mode to Survival Mode]
+[16:37:51] [Server thread/WARN]: snypee moved too quickly! -9.408380692915642,3.749187078744683,8.351051979884403
+[16:41:04] [Server thread/INFO]: snypee issued server command: /spscancel
+[16:42:09] [Server thread/INFO]: snypee fell from a high place
+[16:42:26] [Server thread/INFO]: watchtime lost connection: Disconnected
+[16:42:26] [Server thread/INFO]: watchtime left the game
+[16:47:13] [Server thread/WARN]: Camila Cabello (vehicle of snypee) moved wrongly! 0.2511501293326006
+[16:47:13] [Server thread/WARN]: Camila Cabello (vehicle of snypee) moved wrongly! 0.637222616062715
+[16:47:13] [Server thread/WARN]: Camila Cabello (vehicle of snypee) moved wrongly! 1.0956658059544822
+[16:47:14] [Server thread/WARN]: Camila Cabello (vehicle of snypee) moved wrongly! 0.25022743917566004
+[16:47:14] [Server thread/WARN]: Camila Cabello (vehicle of snypee) moved wrongly! 0.29119908732053545
+[16:47:14] [Server thread/WARN]: Camila Cabello (vehicle of snypee) moved wrongly! 0.33248084329682115
+[16:47:14] [Server thread/WARN]: Camila Cabello (vehicle of snypee) moved wrongly! 0.37392853179079566
+[16:47:14] [Server thread/WARN]: Camila Cabello (vehicle of snypee) moved wrongly! 0.4154650074666506
+[16:47:14] [Server thread/WARN]: Camila Cabello (vehicle of snypee) moved wrongly! 0.4570942535336826
+[16:47:16] [Server thread/WARN]: Camila Cabello (vehicle of snypee) moved wrongly! 0.26990812687705557
+[16:47:16] [Server thread/WARN]: Camila Cabello (vehicle of snypee) moved wrongly! 0.2523817986757422
+[16:47:16] [Server thread/WARN]: Camila Cabello (vehicle of snypee) moved wrongly! 0.25467177815431796
+[16:47:16] [Server thread/WARN]: Camila Cabello (vehicle of snypee) moved wrongly! 0.32809002504916407
+[16:47:26] [Server thread/WARN]: Camila Cabello (vehicle of snypee) moved wrongly! 0.2599121533773996
+[16:47:26] [Server thread/WARN]: Camila Cabello (vehicle of snypee) moved wrongly! 0.7952073520166323
+[16:47:26] [Server thread/WARN]: Camila Cabello (vehicle of snypee) moved wrongly! 1.3317743065892387
+[16:47:27] [Server thread/WARN]: Camila Cabello (vehicle of snypee) moved wrongly! 0.39040111281860845
+[16:47:27] [Server thread/WARN]: Camila Cabello (vehicle of snypee) moved wrongly! 0.432106186185365
+[16:47:27] [Server thread/WARN]: Camila Cabello (vehicle of snypee) moved wrongly! 0.4738055890578039
+[16:47:27] [Server thread/WARN]: Camila Cabello (vehicle of snypee) moved wrongly! 0.43206844706827496
+[16:47:27] [Server thread/WARN]: Camila Cabello (vehicle of snypee) moved wrongly! 0.4737590903104092
+[16:47:28] [Server thread/WARN]: Camila Cabello (vehicle of snypee) moved wrongly! 0.4737533600452366
+[16:47:28] [Server thread/WARN]: Camila Cabello (vehicle of snypee) moved wrongly! 0.2635996990802596
+[16:47:28] [Server thread/WARN]: Camila Cabello (vehicle of snypee) moved wrongly! 0.4186906961853083
+[16:47:28] [Server thread/WARN]: Camila Cabello (vehicle of snypee) moved wrongly! 0.3138365254544624
+[16:47:28] [Server thread/WARN]: Camila Cabello (vehicle of snypee) moved wrongly! 0.3179223652935548
+[16:47:28] [Server thread/WARN]: Camila Cabello (vehicle of snypee) moved wrongly! 0.3394898842331031
+[16:47:29] [Server thread/WARN]: Camila Cabello (vehicle of snypee) moved wrongly! 0.2624111521040504
+[16:47:29] [Server thread/WARN]: Camila Cabello (vehicle of snypee) moved wrongly! 0.25969430583052144
+[16:47:37] [Server thread/WARN]: Camila Cabello (vehicle of snypee) moved wrongly! 0.3732131213507728
+[16:47:48] [Server thread/WARN]: Camila Cabello (vehicle of snypee) moved wrongly! 0.34171466807922
+[16:47:48] [Server thread/WARN]: Camila Cabello (vehicle of snypee) moved wrongly! 0.3791145928260846
+[16:47:48] [Server thread/WARN]: Camila Cabello (vehicle of snypee) moved wrongly! 0.4185218959433996
+[16:47:49] [Server thread/WARN]: Camila Cabello (vehicle of snypee) moved wrongly! 0.3909581909326789
+[16:47:49] [Server thread/WARN]: Camila Cabello (vehicle of snypee) moved wrongly! 0.4325744658340511
+[16:47:49] [Server thread/WARN]: Camila Cabello (vehicle of snypee) moved wrongly! 0.4742378538541061
+[16:47:49] [Server thread/WARN]: Camila Cabello (vehicle of snypee) moved wrongly! 0.4328524347766063
+[16:47:49] [Server thread/WARN]: Camila Cabello (vehicle of snypee) moved wrongly! 0.4745676673075252
+[16:47:49] [Server thread/WARN]: Camila Cabello (vehicle of snypee) moved wrongly! 0.2644286875982971
+[16:47:51] [Server thread/WARN]: Camila Cabello (vehicle of snypee) moved wrongly! 0.31780420794886766
+[16:47:51] [Server thread/WARN]: Camila Cabello (vehicle of snypee) moved wrongly! 0.35905319161302884
+[16:47:51] [Server thread/WARN]: Camila Cabello (vehicle of snypee) moved wrongly! 0.4004395383506818
+[16:47:51] [Server thread/WARN]: Camila Cabello (vehicle of snypee) moved wrongly! 0.3598636382438798
+[16:47:51] [Server thread/WARN]: Camila Cabello (vehicle of snypee) moved wrongly! 0.40140114290871054
+[16:47:52] [Server thread/WARN]: Camila Cabello (vehicle of snypee) moved wrongly! 0.4429444385878014
+[16:47:52] [Server thread/WARN]: Camila Cabello (vehicle of snypee) moved wrongly! 0.4014578096506085
+[16:47:53] [Server thread/WARN]: Camila Cabello (vehicle of snypee) moved wrongly! 0.2874782887565459
+[16:47:53] [Server thread/WARN]: Camila Cabello (vehicle of snypee) moved wrongly! 0.32809193478848897
+[16:47:53] [Server thread/WARN]: Camila Cabello (vehicle of snypee) moved wrongly! 0.36908420561806565
+[16:47:54] [Server thread/WARN]: Camila Cabello (vehicle of snypee) moved wrongly! 0.4475086469015679
+[16:47:54] [Server thread/WARN]: Camila Cabello (vehicle of snypee) moved wrongly! 0.46405074789946354
+[16:47:54] [Server thread/WARN]: Camila Cabello (vehicle of snypee) moved wrongly! 0.4920370417113986
+[16:47:54] [Server thread/WARN]: Camila Cabello (vehicle of snypee) moved wrongly! 0.27504061143976344
+[16:47:54] [Server thread/WARN]: Camila Cabello (vehicle of snypee) moved wrongly! 0.4284813733232369
+[16:47:55] [Server thread/WARN]: Camila Cabello (vehicle of snypee) moved wrongly! 0.25022099460915115
+[16:47:55] [Server thread/WARN]: Camila Cabello (vehicle of snypee) moved wrongly! 0.4265595290847841
+[16:47:56] [Server thread/WARN]: Camila Cabello (vehicle of snypee) moved wrongly! 0.4597116655371849
+[16:47:57] [Server thread/WARN]: Camila Cabello (vehicle of snypee) moved wrongly! 0.498469057252521
+[16:47:57] [Server thread/WARN]: Camila Cabello (vehicle of snypee) moved wrongly! 0.5381203830972225
+[16:47:57] [Server thread/WARN]: Camila Cabello (vehicle of snypee) moved wrongly! 1.0782439853070542
+[16:48:20] [Server thread/WARN]: Camila Cabello (vehicle of snypee) moved wrongly! 0.32319577957662204
+[16:48:21] [Server thread/WARN]: Camila Cabello (vehicle of snypee) moved wrongly! 0.8645454941992625
+[16:48:21] [Server thread/WARN]: Camila Cabello (vehicle of snypee) moved wrongly! 0.875
+[16:48:35] [Server thread/WARN]: Camila Cabello (vehicle of snypee) moved wrongly! 0.31229125139378766
+[16:48:35] [Server thread/WARN]: Camila Cabello (vehicle of snypee) moved wrongly! 0.8521099129725371
+[16:48:35] [Server thread/WARN]: Camila Cabello (vehicle of snypee) moved wrongly! 1.3925664479178863
+[16:48:35] [Server thread/WARN]: Camila Cabello (vehicle of snypee) moved wrongly! 1.9336005000038199
+[16:48:36] [Server thread/WARN]: Camila Cabello (vehicle of snypee) moved wrongly! 2.4749612244838204
+[16:48:43] [Server thread/WARN]: Camila Cabello (vehicle of snypee) moved wrongly! 0.3999574826748997
+[16:48:43] [Server thread/WARN]: Camila Cabello (vehicle of snypee) moved wrongly! 0.9364424611531277
+[16:48:43] [Server thread/WARN]: Camila Cabello (vehicle of snypee) moved wrongly! 1.4738404827457359
+[16:48:44] [Server thread/WARN]: Camila Cabello (vehicle of snypee) moved wrongly! 0.356716062986969
+[16:48:44] [Server thread/WARN]: Camila Cabello (vehicle of snypee) moved wrongly! 0.8981831093509172
+[16:48:44] [Server thread/WARN]: Camila Cabello (vehicle of snypee) moved wrongly! 1.4396509632291838
+[16:48:51] [Server thread/WARN]: Camila Cabello (vehicle of snypee) moved wrongly! 0.3106343793175341
+[16:48:51] [Server thread/WARN]: Camila Cabello (vehicle of snypee) moved wrongly! 0.34864001434840475
+[16:48:51] [Server thread/WARN]: Camila Cabello (vehicle of snypee) moved wrongly! 0.3935111347421838
+[16:48:52] [Server thread/WARN]: Camila Cabello (vehicle of snypee) moved wrongly! 0.2693925655198086
+[16:48:52] [Server thread/WARN]: Camila Cabello (vehicle of snypee) moved wrongly! 0.3081113877502162
+[16:48:52] [Server thread/WARN]: Camila Cabello (vehicle of snypee) moved wrongly! 0.8482335341046792
+[16:48:53] [Server thread/WARN]: Camila Cabello (vehicle of snypee) moved wrongly! 0.31625461852388526
+[16:48:53] [Server thread/WARN]: Camila Cabello (vehicle of snypee) moved wrongly! 0.8573233929661228
+[16:48:53] [Server thread/WARN]: Camila Cabello (vehicle of snypee) moved wrongly! 1.3976173060560768
+[16:49:08] [Server thread/WARN]: Camila Cabello (vehicle of snypee) moved wrongly! 0.32122668211110295
+[16:49:08] [Server thread/WARN]: Camila Cabello (vehicle of snypee) moved wrongly! 0.3316194711604794
+[16:49:08] [Server thread/WARN]: Camila Cabello (vehicle of snypee) moved wrongly! 0.3528979565350596
+[16:49:08] [Server thread/WARN]: Camila Cabello (vehicle of snypee) moved wrongly! 0.3298277332314399
+[16:49:08] [Server thread/WARN]: Camila Cabello (vehicle of snypee) moved wrongly! 0.26324906712429197
+[16:49:09] [Server thread/WARN]: Camila Cabello (vehicle of snypee) moved wrongly! 0.39949752179609277
+[16:49:25] [User Authenticator #4/INFO]: UUID of player watchtime is c057e1a1-33de-3761-931c-ce2a12a5e0c1
+[16:49:25] [Server thread/INFO]: watchtime joined the game
+[16:49:26] [Server thread/INFO]: watchtime[/[0:0:0:0:0:0:0:1]:63332] logged in with entity id 13036 at ([world]224.1014951889532, 77.0, 289.12370002239356)
+[16:51:36] [Server thread/INFO]: snypee was shot by watchtime
+[16:55:58] [Server thread/INFO]: snypee was burnt to a crisp whilst fighting watchtime
+[16:56:10] [Server thread/INFO]: watchtime was slain by OmkarSANAS
+[16:57:38] [Server thread/INFO]: watchtime was burnt to a crisp whilst fighting OmkarSANAS
+[16:57:56] [Server thread/INFO]: watchtime lost connection: Disconnected
+[16:57:56] [Server thread/INFO]: watchtime left the game
+[16:58:16] [Server thread/INFO]: snypee lost connection: Timed out
+[16:58:16] [Server thread/INFO]: snypee left the game
+[17:00:44] [Server thread/INFO]: OmkarSANAS lost connection: Disconnected
+[17:00:44] [Server thread/INFO]: OmkarSANAS left the game
+[17:02:59] [Server thread/INFO]: Stopping the server
+[17:02:59] [Server thread/INFO]: Stopping server
+[17:02:59] [Server thread/INFO]: [LaggRemover] Disabling LaggRemover v2.0.6
+[17:02:59] [Server thread/INFO]: [LaggRemover] LaggRemover has been disabled!
+[17:02:59] [Server thread/INFO]: [SinglePlayerSleep] Disabling SinglePlayerSleep v1.13_2.13.47
+[17:02:59] [Server thread/INFO]: **************************************
+[17:02:59] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.47 is DISABLED
+[17:02:59] [Server thread/INFO]: **************************************
+[17:02:59] [Server thread/INFO]: [SavageDeathChest] Disabling SavageDeathChest v1.18.5
+[17:02:59] [Server thread/INFO]: [SavageDeathChest] SQLite datastore connection closed.
+[17:02:59] [Server thread/INFO]: [BlockProt] Disabling BlockProt v1.0.4
+[17:02:59] [Server thread/INFO]: Saving players
+[17:02:59] [Server thread/INFO]: Saving worlds
+[17:02:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17:03:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[17:03:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[17:03:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:03:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:03:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:03:02] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[17:03:03] [Server thread/INFO]: Flushing Chunk IO
+[17:03:03] [Server thread/INFO]: Closing Thread Pool
