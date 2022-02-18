@@ -981,6 +981,7 @@
       "minecraft:evoker": "2022-02-05 15:30:36 +0530",
       "minecraft:phantom": "2022-01-26 18:30:32 +0530",
       "minecraft:witch": "2022-01-25 00:14:31 +0530",
+      "minecraft:wither_skeleton": "2022-02-17 22:42:49 +0530",
       "minecraft:ender_dragon": "2022-02-17 00:42:37 +0530",
       "minecraft:shulker": "2022-02-17 01:14:06 +0530",
       "minecraft:cave_spider": "2022-01-24 17:36:54 +0530",
@@ -1320,6 +1321,12 @@
   "minecraft:recipes/redstone/jungle_pressure_plate": {
     "criteria": {
       "has_planks": "2022-01-24 15:47:19 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2022-02-17 22:51:29 +0530"
     },
     "done": true
   },
@@ -4105,6 +4112,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2022-02-17 22:51:29 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_slab": {
     "criteria": {
       "has_planks": "2022-01-24 15:47:19 +0530"
@@ -4150,6 +4163,12 @@
   "minecraft:recipes/decorations/blue_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2022-02-05 15:53:28 +0530"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2022-02-17 22:51:29 +0530"
     },
     "done": true
   },
