@@ -614,9 +614,16 @@
       "minecraft:phantom": "2022-01-22 14:37:49 +0530",
       "minecraft:silverfish": "2022-01-27 15:29:15 +0530",
       "minecraft:enderman": "2022-02-03 22:50:49 +0530",
-      "minecraft:zombie": "2022-01-22 20:19:31 +0530"
+      "minecraft:zombie": "2022-01-22 20:19:31 +0530",
+      "minecraft:zombie_villager": "2022-02-19 16:24:45 +0530"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2022-02-19 15:28:03 +0530"
+    },
+    "done": true
   },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
@@ -1020,6 +1027,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2022-02-19 15:28:03 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_gravel": "2022-01-22 14:01:42 +0530"
@@ -1206,6 +1219,7 @@
       "minecraft:deep_ocean": "2022-02-05 15:37:45 +0530",
       "minecraft:frozen_river": "2022-01-24 00:43:14 +0530",
       "minecraft:sunflower_plains": "2022-01-24 01:10:47 +0530",
+      "minecraft:birch_forest": "2022-02-19 16:29:19 +0530",
       "minecraft:savanna_plateau": "2022-01-22 12:33:43 +0530",
       "minecraft:beach": "2022-01-23 23:55:52 +0530",
       "minecraft:stony_peaks": "2022-01-22 12:32:47 +0530",

@@ -509,6 +509,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_white_dye": "2022-02-19 00:00:01 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2022-01-23 13:38:10 +0530"
@@ -680,6 +686,12 @@
   "minecraft:nether/return_to_sender": {
     "criteria": {
       "killed_ghast": "2022-01-26 17:00:41 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_candle": {
+    "criteria": {
+      "has_white_dye": "2022-02-19 00:00:01 +0530"
     },
     "done": true
   },
@@ -1170,6 +1182,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+    "criteria": {
+      "has_white_dye": "2022-02-19 00:00:01 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2022-01-23 16:36:12 +0530"
@@ -1272,9 +1290,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_white_dye": "2022-02-19 00:00:01 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2022-01-25 22:57:56 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_blue_dye": "2022-02-19 00:02:50 +0530"
     },
     "done": true
   },
@@ -1896,9 +1926,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_white_dye": "2022-02-19 00:00:01 +0530"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2022-01-24 01:11:19 +0530",
+      "minecraft:old_growth_pine_taiga": "2022-02-20 02:40:42 +0530",
+      "minecraft:mushroom_fields": "2022-02-20 02:44:21 +0530",
       "minecraft:taiga": "2022-01-24 00:50:45 +0530",
       "minecraft:deep_ocean": "2022-02-06 16:27:32 +0530",
       "minecraft:frozen_river": "2022-01-24 00:43:20 +0530",
@@ -1926,6 +1964,7 @@
       "minecraft:deep_lukewarm_ocean": "2022-02-03 15:06:49 +0530",
       "minecraft:flower_forest": "2022-01-23 23:50:42 +0530",
       "minecraft:old_growth_birch_forest": "2022-01-27 00:14:28 +0530",
+      "minecraft:meadow": "2022-02-20 02:25:27 +0530",
       "minecraft:savanna": "2022-01-22 12:34:14 +0530",
       "minecraft:plains": "2022-01-22 13:37:39 +0530"
     },
@@ -2081,6 +2120,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_blue_dye": "2022-02-19 00:02:50 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2022-01-22 12:36:01 +0530"
@@ -2138,6 +2183,12 @@
   "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2022-01-26 18:42:59 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
+    "criteria": {
+      "has_white_dye": "2022-02-19 00:00:01 +0530"
     },
     "done": true
   },
@@ -2337,9 +2388,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_white_dye": "2022-02-19 00:00:01 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
     "criteria": {
       "has_deepslate_tiles": "2022-01-25 16:46:55 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_candle": {
+    "criteria": {
+      "has_blue_dye": "2022-02-19 00:02:50 +0530"
     },
     "done": true
   },
@@ -2912,6 +2975,12 @@
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2022-01-23 15:43:10 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_white_dye": "2022-02-19 00:00:01 +0530"
     },
     "done": true
   },
@@ -3948,6 +4017,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/quartz_from_blasting": {
+    "criteria": {
+      "has_nether_quartz_ore": "2022-02-19 14:49:16 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2022-01-22 13:05:13 +0530"
@@ -3981,6 +4056,12 @@
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2022-01-22 12:34:07 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_blue_dye": "2022-02-19 00:02:50 +0530"
     },
     "done": true
   },
@@ -4329,6 +4410,12 @@
   "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
     "criteria": {
       "has_purpur_block": "2022-02-17 01:20:04 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz": {
+    "criteria": {
+      "has_nether_quartz_ore": "2022-02-19 14:49:16 +0530"
     },
     "done": true
   },
