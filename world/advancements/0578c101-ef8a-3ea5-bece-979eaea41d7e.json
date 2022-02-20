@@ -2802,6 +2802,7 @@
       "minecraft:zombified_piglin": "2022-01-26 19:38:51 +0530",
       "minecraft:witch": "2022-01-24 17:10:21 +0530",
       "minecraft:wither_skeleton": "2022-02-04 17:18:10 +0530",
+      "minecraft:husk": "2022-02-20 20:53:19 +0530",
       "minecraft:shulker": "2022-02-17 01:14:18 +0530",
       "minecraft:piglin": "2022-01-25 16:54:43 +0530",
       "minecraft:enderman": "2022-01-24 17:14:45 +0530",
@@ -3026,6 +3027,12 @@
   "minecraft:recipes/redstone/slime_block": {
     "criteria": {
       "has_slime_ball": "2022-01-25 14:25:17 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2022-02-20 21:04:54 +0530"
     },
     "done": true
   },
@@ -3399,6 +3406,7 @@
       "minecraft:jagged_peaks": "2022-01-27 00:24:47 +0530",
       "minecraft:cold_ocean": "2022-01-23 23:55:54 +0530",
       "minecraft:forest": "2022-01-22 15:06:37 +0530",
+      "minecraft:lush_caves": "2022-02-20 21:33:33 +0530",
       "minecraft:deep_cold_ocean": "2022-02-20 16:31:56 +0530",
       "minecraft:frozen_ocean": "2022-01-24 00:40:01 +0530",
       "minecraft:desert": "2022-02-20 17:08:26 +0530",
@@ -4270,6 +4278,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2022-02-20 21:04:54 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_fence_gate": {
     "criteria": {
       "has_planks": "2022-01-22 12:37:00 +0530"
@@ -4363,6 +4377,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2022-01-23 13:38:15 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2022-02-20 21:04:54 +0530"
     },
     "done": true
   },
