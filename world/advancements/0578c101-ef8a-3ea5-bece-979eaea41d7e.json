@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_blue_orchid": "2022-02-21 01:19:17 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2022-01-24 11:47:02 +0530"
@@ -1188,6 +1194,12 @@
   "minecraft:recipes/building_blocks/raw_iron_block": {
     "criteria": {
       "has_raw_iron": "2022-01-22 12:48:30 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2022-02-20 23:59:26 +0530"
     },
     "done": true
   },
@@ -2632,6 +2644,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2022-02-21 00:26:21 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2022-01-22 13:21:03 +0530"
@@ -3030,6 +3048,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2022-02-20 23:55:46 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/moss_carpet": {
     "criteria": {
       "has_moss_block": "2022-02-20 21:04:54 +0530"
@@ -3403,6 +3427,7 @@
       "minecraft:snowy_plains": "2022-01-24 00:36:36 +0530",
       "minecraft:dripstone_caves": "2022-01-22 12:42:07 +0530",
       "minecraft:grove": "2022-01-23 23:45:29 +0530",
+      "minecraft:swamp": "2022-02-21 00:55:07 +0530",
       "minecraft:jagged_peaks": "2022-01-27 00:24:47 +0530",
       "minecraft:cold_ocean": "2022-01-23 23:55:54 +0530",
       "minecraft:forest": "2022-01-22 15:06:37 +0530",
@@ -3414,6 +3439,7 @@
       "minecraft:jungle": "2022-01-24 01:34:58 +0530",
       "minecraft:old_growth_spruce_taiga": "2022-02-20 16:51:52 +0530",
       "minecraft:snowy_beach": "2022-02-03 23:58:31 +0530",
+      "minecraft:windswept_savanna": "2022-02-21 00:55:00 +0530",
       "minecraft:warm_ocean": "2022-02-20 17:19:20 +0530",
       "minecraft:deep_lukewarm_ocean": "2022-02-03 15:06:49 +0530",
       "minecraft:flower_forest": "2022-01-23 23:50:42 +0530",
@@ -3472,6 +3498,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2022-02-21 00:26:20 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2022-01-22 12:36:01 +0530"
@@ -3481,6 +3513,12 @@
   "minecraft:recipes/misc/netherite_ingot": {
     "criteria": {
       "has_netherite_scrap": "2022-02-15 23:33:46 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_orange_tulip": "2022-02-21 00:00:22 +0530"
     },
     "done": true
   },
@@ -3795,6 +3833,7 @@
       "poisonous_potato": "2022-01-31 17:49:13 +0530",
       "bread": "2022-01-23 16:47:40 +0530",
       "suspicious_stew": "2022-01-24 00:53:35 +0530",
+      "glow_berries": "2022-02-21 00:23:23 +0530",
       "salmon": "2022-01-24 00:12:04 +0530",
       "melon_slice": "2022-01-25 00:27:21 +0530",
       "beetroot": "2022-02-05 00:31:16 +0530",

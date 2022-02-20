@@ -2069,6 +2069,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2022-02-21 00:50:46 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2022-01-22 12:55:16 +0530"
@@ -2489,6 +2495,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2022-02-21 00:50:46 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
     "criteria": {
       "has_purpur_block": "2022-02-17 01:12:42 +0530"
@@ -2675,6 +2687,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2022-02-21 00:50:46 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2022-01-22 12:35:29 +0530"
@@ -2789,6 +2807,7 @@
       "minecraft:zombified_piglin": "2022-02-18 22:14:35 +0530",
       "minecraft:witch": "2022-01-25 00:14:31 +0530",
       "minecraft:wither_skeleton": "2022-02-17 22:42:49 +0530",
+      "minecraft:husk": "2022-02-21 01:11:45 +0530",
       "minecraft:ender_dragon": "2022-02-17 00:42:37 +0530",
       "minecraft:shulker": "2022-02-17 01:14:06 +0530",
       "minecraft:cave_spider": "2022-01-24 17:36:54 +0530",
@@ -3366,15 +3385,19 @@
       "minecraft:snowy_plains": "2022-01-24 00:36:31 +0530",
       "minecraft:dripstone_caves": "2022-01-22 12:36:25 +0530",
       "minecraft:grove": "2022-01-23 23:45:28 +0530",
+      "minecraft:swamp": "2022-02-21 01:17:29 +0530",
       "minecraft:cold_ocean": "2022-01-23 23:55:54 +0530",
       "minecraft:forest": "2022-01-22 13:36:05 +0530",
       "minecraft:lush_caves": "2022-02-16 17:34:26 +0530",
       "minecraft:deep_cold_ocean": "2022-02-20 16:30:42 +0530",
       "minecraft:frozen_ocean": "2022-01-24 00:40:25 +0530",
       "minecraft:desert": "2022-02-20 17:09:06 +0530",
+      "minecraft:windswept_forest": "2022-02-21 01:19:56 +0530",
       "minecraft:ocean": "2022-01-23 23:25:31 +0530",
       "minecraft:jungle": "2022-01-23 23:12:12 +0530",
+      "minecraft:old_growth_spruce_taiga": "2022-02-20 22:08:42 +0530",
       "minecraft:snowy_beach": "2022-02-03 23:58:50 +0530",
+      "minecraft:windswept_savanna": "2022-02-21 01:17:21 +0530",
       "minecraft:warm_ocean": "2022-02-20 17:20:22 +0530",
       "minecraft:deep_lukewarm_ocean": "2022-01-27 00:13:24 +0530",
       "minecraft:flower_forest": "2022-01-23 23:50:42 +0530",
