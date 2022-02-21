@@ -173,6 +173,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_terracotta": {
+    "criteria": {
+      "has_terracotta": "2022-02-21 20:55:33 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2022-01-22 14:27:56 +0530"
@@ -206,6 +212,12 @@
   "minecraft:recipes/redstone/dark_oak_door": {
     "criteria": {
       "has_planks": "2022-02-05 15:22:14 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2022-02-21 20:55:33 +0530"
     },
     "done": true
   },
@@ -1179,6 +1191,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_terracotta": {
+    "criteria": {
+      "has_terracotta": "2022-02-21 20:55:33 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2022-01-22 12:35:29 +0530"
@@ -1467,6 +1485,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/orange_terracotta": {
+    "criteria": {
+      "has_terracotta": "2022-02-21 20:55:33 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_sand": "2022-01-23 00:32:30 +0530"
@@ -1751,6 +1775,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_glazed_terracotta": {
+    "criteria": {
+      "has_red_terracotta": "2022-02-21 20:53:19 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2022-01-24 00:32:01 +0530"
@@ -1907,6 +1937,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_terracotta": {
+    "criteria": {
+      "has_terracotta": "2022-02-21 20:55:33 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_feather": "2022-01-22 12:45:50 +0530"
@@ -2018,6 +2054,12 @@
   "minecraft:recipes/building_blocks/cut_sandstone": {
     "criteria": {
       "has_sandstone": "2022-02-03 15:00:02 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_terracotta": {
+    "criteria": {
+      "has_terracotta": "2022-02-21 20:55:33 +0530"
     },
     "done": true
   },
@@ -2549,6 +2591,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pink_terracotta": {
+    "criteria": {
+      "has_terracotta": "2022-02-21 20:55:33 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2022-01-24 17:15:29 +0530"
@@ -2564,6 +2612,12 @@
   "minecraft:recipes/building_blocks/dripstone_block": {
     "criteria": {
       "has_pointed_dripstone": "2022-01-24 17:37:35 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_terracotta": {
+    "criteria": {
+      "has_terracotta": "2022-02-21 20:55:33 +0530"
     },
     "done": true
   },
@@ -2913,6 +2967,12 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2022-01-22 12:43:46 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_terracotta": {
+    "criteria": {
+      "has_terracotta": "2022-02-21 20:55:33 +0530"
     },
     "done": true
   },
@@ -3324,6 +3384,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2022-02-21 20:55:33 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2022-01-22 20:53:03 +0530"
@@ -3351,6 +3417,12 @@
   "minecraft:recipes/decorations/stonecutter": {
     "criteria": {
       "has_stone": "2022-01-23 00:43:29 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2022-02-21 20:55:33 +0530"
     },
     "done": true
   },
@@ -3386,13 +3458,16 @@
       "minecraft:dripstone_caves": "2022-01-22 12:36:25 +0530",
       "minecraft:grove": "2022-01-23 23:45:28 +0530",
       "minecraft:swamp": "2022-02-21 01:17:29 +0530",
+      "minecraft:jagged_peaks": "2022-02-21 20:37:16 +0530",
       "minecraft:cold_ocean": "2022-01-23 23:55:54 +0530",
       "minecraft:forest": "2022-01-22 13:36:05 +0530",
       "minecraft:lush_caves": "2022-02-16 17:34:26 +0530",
       "minecraft:deep_cold_ocean": "2022-02-20 16:30:42 +0530",
+      "minecraft:ice_spikes": "2022-02-21 16:18:55 +0530",
       "minecraft:frozen_ocean": "2022-01-24 00:40:25 +0530",
       "minecraft:desert": "2022-02-20 17:09:06 +0530",
       "minecraft:windswept_forest": "2022-02-21 01:19:56 +0530",
+      "minecraft:deep_frozen_ocean": "2022-02-21 20:40:56 +0530",
       "minecraft:ocean": "2022-01-23 23:25:31 +0530",
       "minecraft:jungle": "2022-01-23 23:12:12 +0530",
       "minecraft:old_growth_spruce_taiga": "2022-02-20 22:08:42 +0530",
@@ -3484,6 +3559,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2022-01-29 19:39:10 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2022-02-21 20:36:48 +0530"
     },
     "done": true
   },
@@ -3589,6 +3670,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/yellow_terracotta": {
+    "criteria": {
+      "has_terracotta": "2022-02-21 20:55:33 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_pillar": {
     "criteria": {
       "has_quartz_block": "2022-02-04 14:38:10 +0530"
@@ -3598,6 +3685,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2022-02-03 22:45:39 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_terracotta": {
+    "criteria": {
+      "has_terracotta": "2022-02-21 20:55:33 +0530"
     },
     "done": true
   },
@@ -3797,6 +3890,12 @@
       "carrot": "2022-01-24 01:02:15 +0530"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2022-02-21 20:55:33 +0530"
+    },
+    "done": true
   },
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
@@ -4356,6 +4455,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/green_terracotta": {
+    "criteria": {
+      "has_terracotta": "2022-02-21 20:55:33 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2022-02-04 17:31:35 +0530"
@@ -4365,6 +4470,12 @@
   "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2022-02-06 15:31:33 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_terracotta": {
+    "criteria": {
+      "has_terracotta": "2022-02-21 20:55:33 +0530"
     },
     "done": true
   },
