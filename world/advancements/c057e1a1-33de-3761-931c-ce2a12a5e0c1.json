@@ -137,6 +137,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2022-06-12 22:22:46 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2022-01-27 22:29:53 +0530"
@@ -4819,10 +4825,10 @@
   },
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
-      "textures/entity/cat/jellie.png": "2022-01-24 00:48:53 +0530",
-      "textures/entity/cat/british_shorthair.png": "2022-01-24 00:48:29 +0530",
-      "textures/entity/cat/red.png": "2022-01-24 00:40:12 +0530",
-      "textures/entity/cat/calico.png": "2022-01-24 00:02:10 +0530"
+      "minecraft:calico": "2022-01-24 00:02:10 +0530",
+      "minecraft:jellie": "2022-01-24 00:48:53 +0530",
+      "minecraft:british_shorthair": "2022-01-24 00:48:29 +0530",
+      "minecraft:red": "2022-01-24 00:40:12 +0530"
     },
     "done": false
   },
@@ -4886,5 +4892,5 @@
     },
     "done": true
   },
-  "DataVersion": 2865
+  "DataVersion": 3105
 }

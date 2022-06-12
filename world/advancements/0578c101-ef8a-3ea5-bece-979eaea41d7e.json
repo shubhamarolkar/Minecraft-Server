@@ -125,6 +125,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2022-06-12 22:16:04 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2022-02-20 15:49:57 +0530"
@@ -4819,7 +4825,7 @@
   },
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
-      "textures/entity/cat/persian.png": "2022-01-24 00:03:24 +0530"
+      "minecraft:persian": "2022-01-24 00:03:24 +0530"
     },
     "done": false
   },
@@ -4889,5 +4895,5 @@
     },
     "done": true
   },
-  "DataVersion": 2975
+  "DataVersion": 3105
 }
