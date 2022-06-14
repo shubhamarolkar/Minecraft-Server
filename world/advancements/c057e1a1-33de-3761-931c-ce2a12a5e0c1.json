@@ -361,6 +361,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2022-06-14 22:55:48 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2022-06-13 19:42:11 +0530"
@@ -613,6 +619,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2022-06-14 22:55:48 +0530"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2022-06-13 19:33:30 +0530"
@@ -738,7 +750,8 @@
       "minecraft:skeleton": "2022-06-14 00:11:20 +0530",
       "minecraft:spider": "2022-06-13 19:39:05 +0530",
       "minecraft:cave_spider": "2022-06-13 19:27:15 +0530",
-      "minecraft:zombie": "2022-06-13 19:31:03 +0530"
+      "minecraft:zombie": "2022-06-13 19:31:03 +0530",
+      "minecraft:drowned": "2022-06-14 22:51:56 +0530"
     },
     "done": false
   },
@@ -829,6 +842,12 @@
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2022-06-13 19:26:57 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2022-06-14 22:58:06 +0530"
     },
     "done": true
   },
@@ -1314,6 +1333,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:birch_forest": "2022-06-14 23:15:06 +0530",
       "minecraft:bamboo_jungle": "2022-06-13 19:38:19 +0530",
       "minecraft:wooded_badlands": "2022-06-13 19:20:52 +0530",
       "minecraft:badlands": "2022-06-13 19:45:00 +0530",
@@ -1327,7 +1347,9 @@
       "minecraft:lush_caves": "2022-06-13 23:52:33 +0530",
       "minecraft:desert": "2022-06-13 19:22:49 +0530",
       "minecraft:jungle": "2022-06-13 23:06:17 +0530",
+      "minecraft:ocean": "2022-06-14 22:58:48 +0530",
       "minecraft:warm_ocean": "2022-06-13 19:37:34 +0530",
+      "minecraft:deep_lukewarm_ocean": "2022-06-14 22:51:38 +0530",
       "minecraft:savanna": "2022-06-13 19:51:56 +0530",
       "minecraft:plains": "2022-06-13 19:44:14 +0530"
     },
@@ -1450,6 +1472,18 @@
   "minecraft:husbandry/fishy_business": {
     "criteria": {
       "cod": "2022-06-13 19:29:26 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2022-06-14 22:55:48 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2022-06-14 22:58:06 +0530"
     },
     "done": true
   },

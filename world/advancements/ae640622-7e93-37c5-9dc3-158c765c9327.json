@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2022-06-14 22:44:37 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2022-06-13 19:00:54 +0530"
@@ -92,6 +98,12 @@
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_sand": "2022-06-13 20:46:21 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2022-06-14 22:44:37 +0530"
     },
     "done": true
   },
@@ -170,6 +182,12 @@
   "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2022-06-13 18:31:14 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2022-06-14 22:44:37 +0530"
     },
     "done": true
   },
@@ -312,6 +330,12 @@
   "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2022-06-13 23:28:33 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2022-06-14 23:04:53 +0530"
     },
     "done": true
   },
@@ -501,6 +525,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2022-06-14 23:09:58 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2022-06-13 18:24:11 +0530"
@@ -516,6 +546,12 @@
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2022-06-13 20:46:21 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2022-06-14 22:44:05 +0530"
     },
     "done": true
   },
@@ -645,6 +681,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2022-06-14 22:44:37 +0530"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2022-06-13 19:05:27 +0530",
@@ -687,6 +729,12 @@
   "minecraft:recipes/brewing/glistering_melon_slice": {
     "criteria": {
       "has_melon": "2022-06-13 19:01:07 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2022-06-14 22:44:37 +0530"
     },
     "done": true
   },
@@ -783,6 +831,12 @@
   "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
       "has_white_wool": "2022-06-13 18:33:52 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2022-06-14 22:44:37 +0530"
     },
     "done": true
   },
@@ -900,6 +954,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2022-06-14 22:44:05 +0530"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2022-06-13 23:35:44 +0530"
@@ -957,6 +1017,12 @@
   "minecraft:recipes/misc/conduit": {
     "criteria": {
       "has_nautilus_core": "2022-06-13 20:32:37 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2022-06-14 22:44:37 +0530"
     },
     "done": true
   },
@@ -1104,6 +1170,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2022-06-14 22:44:37 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2022-06-13 19:13:15 +0530"
@@ -1208,6 +1280,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:deep_ocean": "2022-06-14 22:56:32 +0530",
       "minecraft:eroded_badlands": "2022-06-13 18:58:41 +0530",
       "minecraft:birch_forest": "2022-06-13 20:15:30 +0530",
       "minecraft:bamboo_jungle": "2022-06-13 18:33:59 +0530",
@@ -1221,10 +1294,13 @@
       "minecraft:stony_shore": "2022-06-13 19:06:48 +0530",
       "minecraft:dripstone_caves": "2022-06-13 18:48:36 +0530",
       "minecraft:forest": "2022-06-13 19:10:20 +0530",
+      "minecraft:lush_caves": "2022-06-14 23:09:31 +0530",
       "minecraft:desert": "2022-06-13 19:05:44 +0530",
       "minecraft:jungle": "2022-06-13 18:33:22 +0530",
       "minecraft:ocean": "2022-06-13 20:49:03 +0530",
       "minecraft:warm_ocean": "2022-06-13 19:10:00 +0530",
+      "minecraft:deep_lukewarm_ocean": "2022-06-14 22:50:40 +0530",
+      "minecraft:old_growth_birch_forest": "2022-06-14 23:00:55 +0530",
       "minecraft:savanna": "2022-06-13 18:58:49 +0530",
       "minecraft:plains": "2022-06-13 18:34:57 +0530"
     },
@@ -1287,6 +1363,12 @@
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2022-06-13 18:56:58 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2022-06-14 22:42:03 +0530"
     },
     "done": true
   },
@@ -1371,6 +1453,12 @@
   "minecraft:recipes/misc/stick_from_bamboo_item": {
     "criteria": {
       "has_bamboo": "2022-06-13 18:33:31 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2022-06-14 22:44:37 +0530"
     },
     "done": true
   },
