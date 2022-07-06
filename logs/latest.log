@@ -1,215 +1,28 @@
-[22:38:24] [ServerMain/INFO]: Building unoptimized datafixer
-[22:38:26] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[22:38:29] [ServerMain/INFO]: Loaded 7 recipes
-[22:38:30] [Server thread/INFO]: Starting minecraft server version 1.19
-[22:38:30] [Server thread/INFO]: Loading properties
-[22:38:30] [Server thread/INFO]: This server is running Paper version git-Paper-4 (MC: 1.19) (Implementing API version 1.19-R0.1-SNAPSHOT) (Git: 8b6f4dd)
-[22:38:30] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[22:38:30] [Server thread/INFO]: Using 4 threads for Netty based IO
-[22:38:31] [Server thread/INFO]: Default game type: SURVIVAL
-[22:38:31] [Server thread/INFO]: Generating keypair
-[22:38:31] [Server thread/INFO]: Starting Minecraft server on *:25565
-[22:38:31] [Server thread/INFO]: Using default channel type
-[22:38:31] [Server thread/INFO]: Paper: Using Java 11 compression from Velocity.
-[22:38:31] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
-[22:38:32] [Server thread/INFO]: [BlockProt] Loading BlockProt v1.1.1
-[22:38:32] [Server thread/INFO]: [BlockProt] Registered plugin integration for plugin with id 'towny'
-[22:38:32] [Server thread/INFO]: [BlockProt] Registered plugin integration for plugin with id 'placeholderapi'
-[22:38:32] [Server thread/INFO]: [SavageDeathChest] Loading SavageDeathChest v1.18.5
-[22:38:32] [Server thread/INFO]: [SinglePlayerSleep] Loading SinglePlayerSleep v1.13_2.13.47
-[22:38:32] [Server thread/INFO]: [LaggRemover] Loading LaggRemover v2.0.6
-[22:38:32] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[22:38:32] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[22:38:32] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[22:38:32] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[22:38:32] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[22:38:32] [Server thread/INFO]: Preparing level "world"
-[22:38:33] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[22:38:33] [Server thread/INFO]: Time elapsed: 426 ms
-[22:38:33] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[22:38:33] [Server thread/INFO]: Time elapsed: 122 ms
-[22:38:33] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[22:38:34] [Server thread/INFO]: Time elapsed: 111 ms
-[22:38:34] [Server thread/INFO]: [BlockProt] Enabling BlockProt v1.1.1
-[22:38:34] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Spigot: v1_19_R1! Trying to find NMS support
-[22:38:34] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_19_R1' loaded!
-[22:38:34] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Gson: class com.google.gson.Gson
-[22:38:34] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'BlockProt' to create a bStats instance!
-[22:38:34] [Server thread/WARN]: [BlockProt] At least 9 translations have not been found in config: translations_en.yml
-[22:38:34] [Server thread/INFO]: [SavageDeathChest] Enabling SavageDeathChest v1.18.5
-[22:38:34] [Thread-6/WARN]: [NBTAPI] [NBTAPI] The NBT-API located at 'package de.sean.blockprot.bukkit.shaded.nbtapi' seems to be outdated!
-[22:38:34] [Thread-6/WARN]: [NBTAPI] [NBTAPI] Current Version: '2.10.0-SNAPSHOT' Newest Version: 2.10.0'
-[22:38:34] [Thread-6/WARN]: [NBTAPI] [NBTAPI] Please update the NBTAPI or the plugin that contains the api(nag the mod author when the newest release has an old version, not the NBTAPI dev)!
-[22:38:34] [Server thread/INFO]: [SavageDeathChest] Language file en-US.yml successfully loaded.
-[22:38:34] [Server thread/INFO]: [SavageDeathChest] Sound file sounds.yml successfully loaded.
-[22:38:35] [Server thread/INFO]: [SavageDeathChest] SQLite datastore initialized.
-[22:38:35] [Server thread/INFO]: [SinglePlayerSleep] Enabling SinglePlayerSleep v1.13_2.13.47
-[22:38:35] [Server thread/INFO]: §a**************************************§r
-[22:38:35] [Server thread/INFO]: §eSinglePlayerSleep v1.13_2.13.47§r Loading...
-[22:38:35] [Server thread/INFO]: §eSinglePlayerSleep v1.13_2.13.47§r plugins\SinglePlayerSleep\config.yml
-[22:38:35] [Server thread/INFO]: Checking for updates...
-[22:38:36] [Server thread/INFO]: §eSinglePlayerSleep v1.13_2.13.47§r plugins\SinglePlayerSleep\permissions.yml
-[22:38:36] [Server thread/INFO]: §a**************************************§r
-[22:38:36] [Server thread/INFO]: §eSinglePlayerSleep v1.13_2.13.47§r is ENABLED
-[22:38:36] [Server thread/INFO]: §a**************************************§r
-[22:38:36] [Server thread/INFO]: §eSinglePlayerSleep v1.13_2.13.47§r This server is running Paper version git-Paper-4 (MC: 1.19) (Implementing API version 1.19-R0.1-SNAPSHOT)
-[22:38:36] [Server thread/INFO]: §eSinglePlayerSleep v1.13_2.13.47§r vardebug=false debug=false in plugins\SinglePlayerSleep/config.yml
-[22:38:36] [Server thread/INFO]: §eSinglePlayerSleep v1.13_2.13.47§r jarfilename=E:\Project\MCServer\Minecraft-Server\plugins\SinglePlayerSleep-1.13_2.13.47.jar
-[22:38:36] [Server thread/INFO]: [LaggRemover] Enabling LaggRemover v2.0.6
-[22:38:36] [Server thread/INFO]: [LaggRemover] [STDOUT] 
-    __                      ____                                         _    _____
-   / /   ____ _____ _____ _/ __ \___  ____ ___  ____ _   _____  _____   | |  / /__ \
-  / /   / __ `/ __ `/ __ `/ /_/ / _ \/ __ `__ \/ __ \ | / / _ \/ ___/   | | / /__/ /
- / /___/ /_/ / /_/ / /_/ / _, _/  __/ / / / / / /_/ / |/ /  __/ /       | |/ // __/
-/_____/\__,_/\__, /\__, /_/ |_|\___/_/ /_/ /_/\____/|___/\___/_/        |___//____/
-            /____//____/
-
-[22:38:36] [Server thread/WARN]: Nag author(s): '[drew6017]' of 'LaggRemover' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
-[22:38:36] [Server thread/INFO]: [LaggRemover] Loaded 0 module(s)
-[22:38:36] [Server thread/INFO]: [LaggRemover] The LaggRemover AI is now active!
-[22:38:36] [Server thread/INFO]: [LaggRemover] LaggRemover has been enabled!
-[22:38:36] [Server thread/INFO]: Running delayed init tasks
-[22:38:36] [Server thread/INFO]: Done (5.543s)! For help, type "help"
-[22:38:36] [Server thread/INFO]: Timings Reset
-[22:38:36] [Craft Scheduler Thread - 2 - BlockProt/INFO]: [BlockProt] BlockProt is up to date. (1.1.1)
-[22:39:40] [User Authenticator #1/INFO]: UUID of player RohitSardeshmukh is ae640622-7e93-37c5-9dc3-158c765c9327
-[22:39:40] [Server thread/INFO]: RohitSardeshmukh joined the game
-[22:39:41] [Server thread/INFO]: RohitSardeshmukh[/[0:0:0:0:0:0:0:1]:55013] logged in with entity id 56 at ([world]-66.32586094970014, 70.92159999847412, -2017.6450466984375)
-[22:40:11] [User Authenticator #1/INFO]: UUID of player OmkarSANAS is 0578c101-ef8a-3ea5-bece-979eaea41d7e
-[22:40:11] [Server thread/INFO]: OmkarSANAS joined the game
-[22:40:11] [Server thread/INFO]: OmkarSANAS[/127.0.0.1:55017] logged in with entity id 310 at ([world]243.05178489997365, 63.0, -1984.66186374587)
-[22:50:57] [User Authenticator #2/INFO]: UUID of player watchtime is c057e1a1-33de-3761-931c-ce2a12a5e0c1
-[22:50:57] [Server thread/INFO]: watchtime joined the game
-[22:50:57] [Server thread/INFO]: watchtime[/[0:0:0:0:0:0:0:1]:55073] logged in with entity id 5168 at ([world]-44.97840774127739, 62.45326897726106, -1947.8223658164563)
-[22:51:38] [Server thread/INFO]: watchtime issued server command: /tp watchtime OmkarSANAS
-[22:51:38] [Server thread/INFO]: [watchtime: Teleported watchtime to OmkarSANAS]
-[22:55:05] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-4 (MC: 1.19) ---
-[22:55:05] [Paper Watchdog Thread/ERROR]: The server has not responded for 10 seconds! Creating thread dump
-[22:55:05] [Paper Watchdog Thread/ERROR]: ------------------------------
-[22:55:05] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
-[22:55:05] [Paper Watchdog Thread/ERROR]: Ticking entity: minecraft:player, entity class: net.minecraft.server.level.EntityPlayer
-[22:55:05] [Paper Watchdog Thread/ERROR]: Entity status: removed: false, valid: true, alive: true, is passenger: false
-[22:55:05] [Paper Watchdog Thread/ERROR]: Entity UUID: 0578c101-ef8a-3ea5-bece-979eaea41d7e
-[22:55:05] [Paper Watchdog Thread/ERROR]: Position: world: 'world' at location (1111.7330402504012, 37.0, -2377.620266607487)
-[22:55:05] [Paper Watchdog Thread/ERROR]: Velocity: (0.0, -0.005, 0.0) (in blocks per tick)
-[22:55:05] [Paper Watchdog Thread/ERROR]: Entity AABB: AABB[1111.4330402384803, 37.0, -2377.920266619408] -> [1112.0330402623222, 38.799999952316284, -2377.320266595566]
-[22:55:05] [Paper Watchdog Thread/ERROR]: Total packets processed on the main thread for all players: 74286
-[22:55:05] [Paper Watchdog Thread/ERROR]: ------------------------------
-[22:55:05] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
-[22:55:05] [Paper Watchdog Thread/ERROR]: 	PID: 27 | Suspended: false | Native: false | State: RUNNABLE
-[22:55:05] [Paper Watchdog Thread/ERROR]: 	Stack:
-[22:55:05] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.2/java.util.HashMap.hash(HashMap.java:338)
-[22:55:05] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.2/java.util.HashMap.computeIfAbsent(HashMap.java:1191)
-[22:55:05] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.levelgen.NoiseChunk.wrap(NoiseChunk.java:335)
-[22:55:05] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.levelgen.NoiseChunk$$Lambda$6626/0x0000000801cddbf8.apply(Unknown Source)
-[22:55:05] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.levelgen.DensityFunction$SimpleFunction.mapAll(DensityFunction.java:107)
-[22:55:05] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.levelgen.DensityFunctions$HolderHolder.mapAll(DensityFunctions.java:584)
-[22:55:05] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.levelgen.DensityFunctions$ShiftedNoise.mapAll(DensityFunctions.java:1006)
-[22:55:05] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.levelgen.DensityFunctions$HolderHolder.mapAll(DensityFunctions.java:584)
-[22:55:05] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.levelgen.DensityFunctions$MarkerOrMarked.mapAll(DensityFunctions.java:735)
-[22:55:05] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.levelgen.DensityFunctions$HolderHolder.mapAll(DensityFunctions.java:584)
-[22:55:05] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.levelgen.NoiseRouter.mapAll(NoiseRouter.java:17)
-[22:55:05] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.levelgen.NoiseChunk.<init>(NoiseChunk.java:122)
-[22:55:05] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.levelgen.NoiseBasedChunkGenerator.iterateNoiseColumn(NoiseBasedChunkGenerator.java:174)
-[22:55:05] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.levelgen.NoiseBasedChunkGenerator.getBaseHeight(NoiseBasedChunkGenerator.java:124)
-[22:55:05] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.chunk.ChunkGenerator.getFirstOccupiedHeight(ChunkGenerator.java:905)
-[22:55:05] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.levelgen.structure.Structure.onTopOfChunkCenter(Structure.java:99)
-[22:55:05] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.levelgen.structure.structures.BuriedTreasureStructure.findGenerationPoint(BuriedTreasureStructure.java:20)
-[22:55:05] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.levelgen.structure.StructureCheck.canCreateStructure(StructureCheck.java:92)
-[22:55:05] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.levelgen.structure.StructureCheck.lambda$checkStart$1(StructureCheck.java:84)
-[22:55:05] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.levelgen.structure.StructureCheck$$Lambda$6917/0x0000000801d2d1f8.get(Unknown Source)
-[22:55:05] [Paper Watchdog Thread/ERROR]: 		it.unimi.dsi.fastutil.longs.Long2BooleanOpenHashMap.computeIfAbsent(Long2BooleanOpenHashMap.java:496)
-[22:55:05] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.levelgen.structure.StructureCheck.checkStart(StructureCheck.java:83)
-[22:55:05] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.StructureManager.checkStructurePresence(StructureManager.java:166)
-[22:55:05] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.chunk.ChunkGenerator.getStructureGeneratingAt(ChunkGenerator.java:480)
-[22:55:05] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.chunk.ChunkGenerator.getNearestGeneratedStructure(ChunkGenerator.java:450)
-[22:55:05] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.chunk.ChunkGenerator.findNearestMapStructure(ChunkGenerator.java:379)
-[22:55:05] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.findNearestMapFeature(ServerLevel.java:1905)
-[22:55:05] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.findNearestMapStructure(ServerLevel.java:1898)
-[22:55:05] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.storage.loot.functions.ExplorationMapFunction.run(ExplorationMapFunction.java:80)
-[22:55:05] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.storage.loot.functions.LootItemConditionalFunction.apply(LootItemConditionalFunction.java:30)
-[22:55:05] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.storage.loot.functions.ExplorationMapFunction.apply(ExplorationMapFunction.java:30)
-[22:55:05] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.storage.loot.functions.LootItemFunctions.lambda$compose$1(LootItemFunctions.java:58)
-[22:55:05] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.storage.loot.functions.LootItemFunctions$$Lambda$4233/0x00000008014c5f98.apply(Unknown Source)
-[22:55:05] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.storage.loot.functions.LootItemFunction.decorate(LootItemFunction.java:13)
-[22:55:05] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.storage.loot.functions.LootItemFunction$$Lambda$6184/0x0000000801c4c5d0.accept(Unknown Source)
-[22:55:05] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.storage.loot.entries.LootItem.createItemStack(LootItem.java:32)
-[22:55:05] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$1.createItemStack(LootPoolSingletonContainer.java:31)
-[22:55:05] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.storage.loot.LootPool.addRandomItem(LootPool.java:78)
-[22:55:05] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.storage.loot.LootPool.addRandomItems(LootPool.java:93)
-[22:55:05] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.storage.loot.LootTable.getRandomItemsRaw(LootTable.java:95)
-[22:55:05] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.storage.loot.LootTable.getRandomItems(LootTable.java:106)
-[22:55:05] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.storage.loot.LootTable.getRandomItems(LootTable.java:113)
-[22:55:05] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.storage.loot.LootTable.fillInventory(LootTable.java:141)
-[22:55:05] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.storage.loot.LootTable.fill(LootTable.java:136)
-[22:55:05] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.block.entity.RandomizableContainerBlockEntity.unpackLootTable(RandomizableContainerBlockEntity.java:85)
-[22:55:05] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.block.entity.RandomizableContainerBlockEntity.createMenu(RandomizableContainerBlockEntity.java:169)
-[22:55:05] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerPlayer.openMenu(ServerPlayer.java:1500)
-[22:55:05] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.block.ChestBlock.use(ChestBlock.java:269)
-[22:55:05] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase.use(BlockBehaviour.java:1052)
-[22:55:05] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerPlayerGameMode.useItemOn(ServerPlayerGameMode.java:571)
-[22:55:05] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.network.ServerGamePacketListenerImpl.handleUseItemOn(ServerGamePacketListenerImpl.java:1872)
-[22:55:05] [Paper Watchdog Thread/ERROR]: 		net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.handle(ServerboundUseItemOnPacket.java:37)
-[22:55:05] [Paper Watchdog Thread/ERROR]: 		net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.a(ServerboundUseItemOnPacket.java:9)
-[22:55:05] [Paper Watchdog Thread/ERROR]: 		net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$1(PacketUtils.java:51)
-[22:55:05] [Paper Watchdog Thread/ERROR]: 		net.minecraft.network.protocol.PlayerConnectionUtils$$Lambda$5738/0x0000000801ba8840.run(Unknown Source)
-[22:55:05] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.TickTask.run(TickTask.java:18)
-[22:55:05] [Paper Watchdog Thread/ERROR]: 		net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:153)
-[22:55:05] [Paper Watchdog Thread/ERROR]: 		net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24)
-[22:55:05] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1358)
-[22:55:05] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.d(MinecraftServer.java:183)
-[22:55:05] [Paper Watchdog Thread/ERROR]: 		net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:126)
-[22:55:05] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1335)
-[22:55:05] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1328)
-[22:55:05] [Paper Watchdog Thread/ERROR]: 		net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:136)
-[22:55:05] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1306)
-[22:55:05] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1191)
-[22:55:05] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:302)
-[22:55:05] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda$4333/0x0000000801505920.run(Unknown Source)
-[22:55:05] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.2/java.lang.Thread.run(Thread.java:833)
-[22:55:05] [Paper Watchdog Thread/ERROR]: ------------------------------
-[22:55:05] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
-[22:55:05] [Paper Watchdog Thread/ERROR]: ------------------------------
-[22:55:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14219ms or 284 ticks behind
-[22:55:09] [Server thread/WARN]: OmkarSANAS moved too quickly! 1.0664170585978354,9.956086666650123,-1.7532774189462543
-[22:59:55] [Server thread/INFO]: watchtime lost connection: Timed out
-[22:59:55] [Server thread/INFO]: watchtime left the game
-[23:04:06] [Server thread/INFO]: OmkarSANAS issued server command: /gamemode spectator
-[23:04:06] [Server thread/INFO]: [OmkarSANAS: Set own game mode to Spectator Mode]
-[23:04:19] [Server thread/INFO]: OmkarSANAS issued server command: /gamemode survival
-[23:04:19] [Server thread/INFO]: [OmkarSANAS: Set own game mode to Survival Mode]
-[23:14:39] [User Authenticator #3/INFO]: UUID of player watchtime is c057e1a1-33de-3761-931c-ce2a12a5e0c1
-[23:14:39] [Server thread/INFO]: watchtime joined the game
-[23:14:39] [Server thread/INFO]: watchtime[/[0:0:0:0:0:0:0:1]:55625] logged in with entity id 15684 at ([world]503.2105121940206, 62.073264324665075, -3152.4779981475817)
-[23:14:53] [Server thread/INFO]: watchtime issued server command: /gamemode creative
-[23:14:53] [Server thread/INFO]: [watchtime: Set own game mode to Creative Mode]
-[23:15:07] [Server thread/INFO]: watchtime lost connection: Disconnected
-[23:15:07] [Server thread/INFO]: watchtime left the game
-[23:19:30] [Server thread/INFO]: OmkarSANAS lost connection: Disconnected
-[23:19:30] [Server thread/INFO]: OmkarSANAS left the game
-[23:19:31] [Server thread/INFO]: RohitSardeshmukh lost connection: Disconnected
-[23:19:31] [Server thread/INFO]: RohitSardeshmukh left the game
-[23:20:03] [Server thread/INFO]: Stopping the server
-[23:20:03] [Server thread/INFO]: Stopping server
-[23:20:03] [Server thread/INFO]: [LaggRemover] Disabling LaggRemover v2.0.6
-[23:20:03] [Server thread/INFO]: [LaggRemover] LaggRemover has been disabled!
-[23:20:03] [Server thread/INFO]: [SinglePlayerSleep] Disabling SinglePlayerSleep v1.13_2.13.47
-[23:20:03] [Server thread/INFO]: §a**************************************§r
-[23:20:03] [Server thread/INFO]: §eSinglePlayerSleep v1.13_2.13.47§r is DISABLED
-[23:20:03] [Server thread/INFO]: §a**************************************§r
-[23:20:03] [Server thread/INFO]: [SavageDeathChest] Disabling SavageDeathChest v1.18.5
-[23:20:03] [Server thread/INFO]: [SavageDeathChest] SQLite datastore connection closed.
-[23:20:03] [Server thread/INFO]: [BlockProt] Disabling BlockProt v1.1.1
-[23:20:03] [Server thread/INFO]: [BlockProt] Saving statistic file...
-[23:20:03] [Server thread/INFO]: Saving players
-[23:20:03] [Server thread/INFO]: Saving worlds
-[23:20:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[23:20:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[23:20:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[23:20:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[23:20:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:20:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[23:20:07] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[23:20:16] [Server thread/INFO]: Flushing Chunk IO
-[23:20:16] [Server thread/INFO]: Closing Thread Pool
-[23:20:16] [Server thread/INFO]: Closing Server
+[00:00:15] [Server thread/INFO]: watchtime lost connection: Disconnected
+[00:00:15] [Server thread/INFO]: watchtime left the game
+[00:00:18] [Server thread/INFO]: snypee lost connection: Disconnected
+[00:00:18] [Server thread/INFO]: snypee left the game
+[00:00:25] [Server thread/INFO]: Stopping the server
+[00:00:25] [Server thread/INFO]: Stopping server
+[00:00:25] [Server thread/INFO]: [LaggRemover] Disabling LaggRemover v2.0.6
+[00:00:25] [Server thread/INFO]: [LaggRemover] LaggRemover has been disabled!
+[00:00:25] [Server thread/INFO]: [SinglePlayerSleep] Disabling SinglePlayerSleep v1.13_2.13.47
+[00:00:25] [Server thread/INFO]: §a**************************************§r
+[00:00:25] [Server thread/INFO]: §eSinglePlayerSleep v1.13_2.13.47§r is DISABLED
+[00:00:25] [Server thread/INFO]: §a**************************************§r
+[00:00:25] [Server thread/INFO]: [SavageDeathChest] Disabling SavageDeathChest v1.18.5
+[00:00:25] [Server thread/INFO]: [SavageDeathChest] SQLite datastore connection closed.
+[00:00:25] [Server thread/INFO]: [BlockProt] Disabling BlockProt v1.1.1
+[00:00:25] [Server thread/INFO]: [BlockProt] Saving statistic file...
+[00:00:25] [Server thread/INFO]: Saving players
+[00:00:25] [Server thread/INFO]: Saving worlds
+[00:00:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:00:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[00:00:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[00:00:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:00:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:00:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:00:34] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:00:45] [Server thread/INFO]: Flushing Chunk IO
+[00:00:45] [Server thread/INFO]: Closing Thread Pool
+[00:00:45] [Server thread/INFO]: Closing Server
