@@ -4649,8 +4649,10 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2022-07-07 22:31:20 +0530",
       "minecraft:mushroom_fields": "2022-06-16 22:24:44 +0530",
       "minecraft:deep_ocean": "2022-06-14 23:05:49 +0530",
+      "minecraft:sunflower_plains": "2022-07-07 22:27:52 +0530",
       "minecraft:bamboo_jungle": "2022-06-13 19:37:32 +0530",
       "minecraft:wooded_badlands": "2022-06-13 18:14:39 +0530",
       "minecraft:badlands": "2022-06-13 18:25:04 +0530",
@@ -4664,6 +4666,7 @@
       "minecraft:river": "2022-06-13 19:13:06 +0530",
       "minecraft:stony_shore": "2022-06-13 19:52:03 +0530",
       "minecraft:dripstone_caves": "2022-06-13 18:31:37 +0530",
+      "minecraft:grove": "2022-07-07 22:31:45 +0530",
       "minecraft:forest": "2022-06-13 19:30:07 +0530",
       "minecraft:lush_caves": "2022-06-13 23:58:26 +0530",
       "minecraft:desert": "2022-06-13 19:26:34 +0530",
@@ -4672,6 +4675,8 @@
       "minecraft:windswept_savanna": "2022-07-07 19:52:30 +0530",
       "minecraft:warm_ocean": "2022-06-13 19:30:29 +0530",
       "minecraft:deep_lukewarm_ocean": "2022-06-14 22:50:41 +0530",
+      "minecraft:flower_forest": "2022-07-07 22:27:14 +0530",
+      "minecraft:frozen_peaks": "2022-07-07 22:31:50 +0530",
       "minecraft:old_growth_birch_forest": "2022-06-14 23:00:20 +0530",
       "minecraft:deep_dark": "2022-07-07 18:55:40 +0530",
       "minecraft:savanna": "2022-06-13 19:06:30 +0530",
