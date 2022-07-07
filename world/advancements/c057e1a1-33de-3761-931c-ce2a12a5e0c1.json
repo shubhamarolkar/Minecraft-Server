@@ -1481,6 +1481,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2022-07-07 18:55:51 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dried_kelp_block": {
     "criteria": {
       "has_the_recipe": "2022-07-06 21:15:11 +0530"
@@ -3300,6 +3306,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2022-07-07 19:19:51 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
     "criteria": {
       "has_cobbled_deepslate": "2022-06-13 23:31:33 +0530"
@@ -4619,6 +4631,7 @@
       "minecraft:beach": "2022-06-13 19:38:05 +0530",
       "minecraft:dark_forest": "2022-06-16 22:11:53 +0530",
       "minecraft:stony_peaks": "2022-06-16 22:45:46 +0530",
+      "minecraft:mangrove_swamp": "2022-07-07 19:51:07 +0530",
       "minecraft:sparse_jungle": "2022-06-13 19:40:05 +0530",
       "minecraft:lukewarm_ocean": "2022-06-13 19:37:54 +0530",
       "minecraft:river": "2022-06-13 19:30:02 +0530",
@@ -4629,6 +4642,7 @@
       "minecraft:desert": "2022-06-13 19:22:49 +0530",
       "minecraft:jungle": "2022-06-13 23:06:17 +0530",
       "minecraft:ocean": "2022-06-14 22:58:48 +0530",
+      "minecraft:windswept_savanna": "2022-07-07 20:08:33 +0530",
       "minecraft:warm_ocean": "2022-06-13 19:37:34 +0530",
       "minecraft:deep_lukewarm_ocean": "2022-06-14 22:51:38 +0530",
       "minecraft:deep_dark": "2022-07-06 13:39:04 +0530",
@@ -5636,6 +5650,12 @@
   "minecraft:recipes/building_blocks/deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2022-06-13 23:31:33 +0530"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2022-07-07 19:21:44 +0530"
     },
     "done": true
   },

@@ -1481,6 +1481,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2022-07-07 18:59:38 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dried_kelp_block": {
     "criteria": {
       "has_the_recipe": "2022-07-06 21:15:11 +0530"
@@ -3308,6 +3314,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2022-07-07 19:16:54 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
     "criteria": {
       "has_cobbled_deepslate": "2022-06-13 23:27:16 +0530"
@@ -3566,6 +3578,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2022-07-07 18:56:13 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/brick": {
     "criteria": {
       "has_clay_ball": "2022-06-16 22:31:37 +0530"
@@ -3701,6 +3719,12 @@
   "minecraft:recipes/redstone/mangrove_button": {
     "criteria": {
       "has_the_recipe": "2022-07-06 21:15:11 +0530"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2022-07-07 18:10:48 +0530"
     },
     "done": true
   },
@@ -3864,6 +3888,7 @@
     "criteria": {
       "minecraft:pillager": "2022-07-06 15:49:59 +0530",
       "minecraft:skeleton": "2022-06-13 18:24:33 +0530",
+      "minecraft:ghast": "2022-07-07 18:10:48 +0530",
       "minecraft:magma_cube": "2022-07-07 16:59:29 +0530",
       "minecraft:spider": "2022-06-13 18:36:18 +0530",
       "minecraft:creeper": "2022-06-13 23:58:51 +0530",
@@ -3871,6 +3896,7 @@
       "minecraft:witch": "2022-06-16 23:09:30 +0530",
       "minecraft:husk": "2022-07-06 22:35:25 +0530",
       "minecraft:piglin": "2022-07-07 15:05:43 +0530",
+      "minecraft:enderman": "2022-07-07 19:00:46 +0530",
       "minecraft:zombie": "2022-06-13 18:21:15 +0530",
       "minecraft:drowned": "2022-06-13 20:07:00 +0530",
       "minecraft:zombie_villager": "2022-06-13 18:35:45 +0530"
@@ -4632,6 +4658,7 @@
       "minecraft:beach": "2022-06-13 19:21:38 +0530",
       "minecraft:dark_forest": "2022-06-13 20:45:58 +0530",
       "minecraft:stony_peaks": "2022-06-16 22:33:24 +0530",
+      "minecraft:mangrove_swamp": "2022-07-07 19:51:07 +0530",
       "minecraft:sparse_jungle": "2022-06-13 19:34:40 +0530",
       "minecraft:lukewarm_ocean": "2022-06-13 19:22:46 +0530",
       "minecraft:river": "2022-06-13 19:13:06 +0530",
@@ -4642,9 +4669,11 @@
       "minecraft:desert": "2022-06-13 19:26:34 +0530",
       "minecraft:jungle": "2022-06-13 19:34:30 +0530",
       "minecraft:ocean": "2022-06-13 20:49:12 +0530",
+      "minecraft:windswept_savanna": "2022-07-07 19:52:30 +0530",
       "minecraft:warm_ocean": "2022-06-13 19:30:29 +0530",
       "minecraft:deep_lukewarm_ocean": "2022-06-14 22:50:41 +0530",
       "minecraft:old_growth_birch_forest": "2022-06-14 23:00:20 +0530",
+      "minecraft:deep_dark": "2022-07-07 18:55:40 +0530",
       "minecraft:savanna": "2022-06-13 19:06:30 +0530",
       "minecraft:plains": "2022-06-13 19:21:36 +0530"
     },

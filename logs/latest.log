@@ -1,64 +1,64 @@
-[14:10:22] [ServerMain/INFO]: Building unoptimized datafixer
-[14:10:23] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[14:10:25] [ServerMain/INFO]: Loaded 7 recipes
-[14:10:26] [Server thread/INFO]: Starting minecraft server version 1.19
-[14:10:26] [Server thread/INFO]: Loading properties
-[14:10:26] [Server thread/INFO]: This server is running Paper version git-Paper-20 (MC: 1.19) (Implementing API version 1.19-R0.1-SNAPSHOT) (Git: 2dcfb2b)
-[14:10:26] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[14:10:26] [Server thread/INFO]: Using 4 threads for Netty based IO
-[14:10:26] [Server thread/INFO]: Default game type: SURVIVAL
-[14:10:26] [Server thread/INFO]: Generating keypair
-[14:10:26] [Server thread/INFO]: Starting Minecraft server on *:25565
-[14:10:26] [Server thread/INFO]: Using default channel type
-[14:10:26] [Server thread/INFO]: Paper: Using Java 11 compression from Velocity.
-[14:10:26] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
-[14:10:27] [Server thread/INFO]: [BlockProt] Loading BlockProt v1.1.1
-[14:10:27] [Server thread/INFO]: [BlockProt] Registered plugin integration for plugin with id 'towny'
-[14:10:27] [Server thread/INFO]: [BlockProt] Registered plugin integration for plugin with id 'placeholderapi'
-[14:10:27] [Server thread/INFO]: [SavageDeathChest] Loading SavageDeathChest v1.18.5
-[14:10:27] [Server thread/INFO]: [SinglePlayerSleep] Loading SinglePlayerSleep v1.13_2.13.47
-[14:10:27] [Server thread/INFO]: [LaggRemover] Loading LaggRemover v2.0.6
-[14:10:27] [Server thread/INFO]: [RHLeafDecay] Loading RHLeafDecay v1.19_R1
-[14:10:27] [Server thread/INFO]: [TeaksTweaks] Loading TeaksTweaks v1.7.2-beta
-[14:10:27] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[14:10:27] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[14:10:27] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[14:10:27] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[14:10:27] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[14:10:27] [Server thread/INFO]: Preparing level "world"
-[14:10:28] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[14:10:28] [Server thread/INFO]: Time elapsed: 245 ms
-[14:10:28] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[14:10:28] [Server thread/INFO]: Time elapsed: 105 ms
-[14:10:28] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[14:10:28] [Server thread/INFO]: Time elapsed: 89 ms
-[14:10:28] [Server thread/INFO]: [BlockProt] Enabling BlockProt v1.1.1
-[14:10:28] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Spigot: v1_19_R1! Trying to find NMS support
-[14:10:28] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_19_R1' loaded!
-[14:10:28] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Gson: class com.google.gson.Gson
-[14:10:28] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'BlockProt' to create a bStats instance!
-[14:10:28] [Server thread/WARN]: [BlockProt] At least 9 translations have not been found in config: translations_en.yml
-[14:10:28] [Server thread/INFO]: [SavageDeathChest] Enabling SavageDeathChest v1.18.5
-[14:10:28] [Server thread/INFO]: [SavageDeathChest] Language file en-US.yml successfully loaded.
-[14:10:28] [Server thread/INFO]: [SavageDeathChest] Sound file sounds.yml successfully loaded.
-[14:10:28] [Thread-7/WARN]: [NBTAPI] [NBTAPI] The NBT-API located at 'package de.sean.blockprot.bukkit.shaded.nbtapi' seems to be outdated!
-[14:10:28] [Thread-7/WARN]: [NBTAPI] [NBTAPI] Current Version: '2.10.0-SNAPSHOT' Newest Version: 2.10.0'
-[14:10:28] [Thread-7/WARN]: [NBTAPI] [NBTAPI] Please update the NBTAPI or the plugin that contains the api(nag the mod author when the newest release has an old version, not the NBTAPI dev)!
-[14:10:29] [Server thread/INFO]: [SavageDeathChest] SQLite datastore initialized.
-[14:10:29] [Server thread/INFO]: [SinglePlayerSleep] Enabling SinglePlayerSleep v1.13_2.13.47
-[14:10:29] [Server thread/INFO]: §a**************************************§r
-[14:10:29] [Server thread/INFO]: §eSinglePlayerSleep v1.13_2.13.47§r Loading...
-[14:10:29] [Server thread/INFO]: §eSinglePlayerSleep v1.13_2.13.47§r plugins\SinglePlayerSleep\config.yml
-[14:10:29] [Server thread/INFO]: Checking for updates...
-[14:10:29] [Server thread/INFO]: §eSinglePlayerSleep v1.13_2.13.47§r plugins\SinglePlayerSleep\permissions.yml
-[14:10:29] [Server thread/INFO]: §a**************************************§r
-[14:10:29] [Server thread/INFO]: §eSinglePlayerSleep v1.13_2.13.47§r is ENABLED
-[14:10:29] [Server thread/INFO]: §a**************************************§r
-[14:10:29] [Server thread/INFO]: §eSinglePlayerSleep v1.13_2.13.47§r This server is running Paper version git-Paper-20 (MC: 1.19) (Implementing API version 1.19-R0.1-SNAPSHOT)
-[14:10:29] [Server thread/INFO]: §eSinglePlayerSleep v1.13_2.13.47§r vardebug=false debug=false in plugins\SinglePlayerSleep/config.yml
-[14:10:29] [Server thread/INFO]: §eSinglePlayerSleep v1.13_2.13.47§r jarfilename=D:\Games\Minecraft Server\Minecraft-Server\plugins\SinglePlayerSleep-1.13_2.13.47.jar
-[14:10:29] [Server thread/INFO]: [LaggRemover] Enabling LaggRemover v2.0.6
-[14:10:29] [Server thread/INFO]: [LaggRemover] [STDOUT] 
+[17:53:53] [ServerMain/INFO]: Building unoptimized datafixer
+[17:53:54] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[17:53:56] [ServerMain/INFO]: Loaded 7 recipes
+[17:53:57] [Server thread/INFO]: Starting minecraft server version 1.19
+[17:53:57] [Server thread/INFO]: Loading properties
+[17:53:57] [Server thread/INFO]: This server is running Paper version git-Paper-20 (MC: 1.19) (Implementing API version 1.19-R0.1-SNAPSHOT) (Git: 2dcfb2b)
+[17:53:57] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[17:53:57] [Server thread/INFO]: Using 4 threads for Netty based IO
+[17:53:57] [Server thread/INFO]: Default game type: SURVIVAL
+[17:53:57] [Server thread/INFO]: Generating keypair
+[17:53:57] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:53:58] [Server thread/INFO]: Using default channel type
+[17:53:58] [Server thread/INFO]: Paper: Using Java 11 compression from Velocity.
+[17:53:58] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
+[17:53:58] [Server thread/INFO]: [BlockProt] Loading BlockProt v1.1.1
+[17:53:58] [Server thread/INFO]: [BlockProt] Registered plugin integration for plugin with id 'towny'
+[17:53:58] [Server thread/INFO]: [BlockProt] Registered plugin integration for plugin with id 'placeholderapi'
+[17:53:58] [Server thread/INFO]: [SavageDeathChest] Loading SavageDeathChest v1.18.5
+[17:53:58] [Server thread/INFO]: [SinglePlayerSleep] Loading SinglePlayerSleep v1.13_2.13.47
+[17:53:58] [Server thread/INFO]: [LaggRemover] Loading LaggRemover v2.0.6
+[17:53:58] [Server thread/INFO]: [RHLeafDecay] Loading RHLeafDecay v1.19_R1
+[17:53:58] [Server thread/INFO]: [TeaksTweaks] Loading TeaksTweaks v1.7.2-beta
+[17:53:58] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[17:53:58] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:53:58] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:53:58] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:53:58] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:53:58] [Server thread/INFO]: Preparing level "world"
+[17:53:59] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:53:59] [Server thread/INFO]: Time elapsed: 275 ms
+[17:53:59] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[17:53:59] [Server thread/INFO]: Time elapsed: 104 ms
+[17:53:59] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[17:53:59] [Server thread/INFO]: Time elapsed: 84 ms
+[17:53:59] [Server thread/INFO]: [BlockProt] Enabling BlockProt v1.1.1
+[17:53:59] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Spigot: v1_19_R1! Trying to find NMS support
+[17:53:59] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_19_R1' loaded!
+[17:53:59] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Gson: class com.google.gson.Gson
+[17:53:59] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'BlockProt' to create a bStats instance!
+[17:54:00] [Server thread/WARN]: [BlockProt] At least 9 translations have not been found in config: translations_en.yml
+[17:54:00] [Server thread/INFO]: [SavageDeathChest] Enabling SavageDeathChest v1.18.5
+[17:54:00] [Server thread/INFO]: [SavageDeathChest] Language file en-US.yml successfully loaded.
+[17:54:00] [Server thread/INFO]: [SavageDeathChest] Sound file sounds.yml successfully loaded.
+[17:54:00] [Thread-7/WARN]: [NBTAPI] [NBTAPI] The NBT-API located at 'package de.sean.blockprot.bukkit.shaded.nbtapi' seems to be outdated!
+[17:54:00] [Thread-7/WARN]: [NBTAPI] [NBTAPI] Current Version: '2.10.0-SNAPSHOT' Newest Version: 2.10.0'
+[17:54:00] [Thread-7/WARN]: [NBTAPI] [NBTAPI] Please update the NBTAPI or the plugin that contains the api(nag the mod author when the newest release has an old version, not the NBTAPI dev)!
+[17:54:00] [Server thread/INFO]: [SavageDeathChest] SQLite datastore initialized.
+[17:54:00] [Server thread/INFO]: [SinglePlayerSleep] Enabling SinglePlayerSleep v1.13_2.13.47
+[17:54:00] [Server thread/INFO]: §a**************************************§r
+[17:54:00] [Server thread/INFO]: §eSinglePlayerSleep v1.13_2.13.47§r Loading...
+[17:54:00] [Server thread/INFO]: §eSinglePlayerSleep v1.13_2.13.47§r plugins\SinglePlayerSleep\config.yml
+[17:54:00] [Server thread/INFO]: Checking for updates...
+[17:54:01] [Server thread/INFO]: §eSinglePlayerSleep v1.13_2.13.47§r plugins\SinglePlayerSleep\permissions.yml
+[17:54:01] [Server thread/INFO]: §a**************************************§r
+[17:54:01] [Server thread/INFO]: §eSinglePlayerSleep v1.13_2.13.47§r is ENABLED
+[17:54:01] [Server thread/INFO]: §a**************************************§r
+[17:54:01] [Server thread/INFO]: §eSinglePlayerSleep v1.13_2.13.47§r This server is running Paper version git-Paper-20 (MC: 1.19) (Implementing API version 1.19-R0.1-SNAPSHOT)
+[17:54:01] [Server thread/INFO]: §eSinglePlayerSleep v1.13_2.13.47§r vardebug=false debug=false in plugins\SinglePlayerSleep/config.yml
+[17:54:01] [Server thread/INFO]: §eSinglePlayerSleep v1.13_2.13.47§r jarfilename=D:\Games\Minecraft Server\Minecraft-Server\plugins\SinglePlayerSleep-1.13_2.13.47.jar
+[17:54:01] [Server thread/INFO]: [LaggRemover] Enabling LaggRemover v2.0.6
+[17:54:01] [Server thread/INFO]: [LaggRemover] [STDOUT] 
     __                      ____                                         _    _____
    / /   ____ _____ _____ _/ __ \___  ____ ___  ____ _   _____  _____   | |  / /__ \
   / /   / __ `/ __ `/ __ `/ /_/ / _ \/ __ `__ \/ __ \ | / / _ \/ ___/   | | / /__/ /
@@ -66,192 +66,199 @@
 /_____/\__,_/\__, /\__, /_/ |_|\___/_/ /_/ /_/\____/|___/\___/_/        |___//____/
             /____//____/
 
-[14:10:29] [Server thread/WARN]: Nag author(s): '[drew6017]' of 'LaggRemover' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
-[14:10:29] [Server thread/INFO]: [LaggRemover] Loaded 0 module(s)
-[14:10:29] [Server thread/INFO]: [LaggRemover] The LaggRemover AI is now active!
-[14:10:29] [Server thread/INFO]: [LaggRemover] LaggRemover has been enabled!
-[14:10:29] [Server thread/INFO]: [RHLeafDecay] Enabling RHLeafDecay v1.19_R1
-[14:10:29] [Server thread/INFO]: [RHLeafDecay] The plugin has been loaded!
-[14:10:29] [Server thread/INFO]: [RHLeafDecay] You are using version 1.19_R1 /w ? by X0R3
-[14:10:29] [Server thread/INFO]: [RHLeafDecay] Info:
-[14:10:29] [Server thread/INFO]: [RHLeafDecay] If you want your server be presented on the plugin page, then please contact me! :)
-[14:10:29] [Server thread/INFO]: [TeaksTweaks] Enabling TeaksTweaks v1.7.2-beta
-[14:10:29] [Server thread/INFO]: [TT] Teaks Tweaks Started!
-[14:10:29] [Server thread/INFO]: Running delayed init tasks
-[14:10:29] [Server thread/INFO]: Done (3.952s)! For help, type "help"
-[14:10:29] [Server thread/INFO]: Timings Reset
-[14:10:30] [Craft Scheduler Thread - 2 - BlockProt/WARN]: [BlockProt] BlockProt is outdated. Current: 1.1.1 / Newest: 1.1.2
-[14:12:14] [User Authenticator #1/INFO]: UUID of player watchtime is c057e1a1-33de-3761-931c-ce2a12a5e0c1
-[14:12:15] [Server thread/INFO]: watchtime joined the game
-[14:12:15] [Server thread/INFO]: watchtime[/127.0.0.1:27394] logged in with entity id 272 at ([world]783.1879581651673, 106.0, -1137.370314245661)
-[14:12:47] [User Authenticator #1/INFO]: UUID of player OmkarSANAS is 0578c101-ef8a-3ea5-bece-979eaea41d7e
-[14:12:47] [Server thread/INFO]: OmkarSANAS joined the game
-[14:12:47] [Server thread/INFO]: OmkarSANAS[/[0:0:0:0:0:0:0:1]:27408] logged in with entity id 669 at ([world]880.2467117419468, 110.0, -1216.6439807582599)
-[14:21:22] [User Authenticator #2/INFO]: UUID of player cr0n0s69 is ace33f99-a894-3d26-814e-bb4eee675f63
-[14:21:22] [Server thread/INFO]: cr0n0s69 joined the game
-[14:21:22] [Server thread/INFO]: cr0n0s69[/[0:0:0:0:0:0:0:1]:27512] logged in with entity id 1727 at ([world]847.5, 108.0, -1199.5)
-[14:23:20] [User Authenticator #3/INFO]: UUID of player RohitSardeshmukh is ae640622-7e93-37c5-9dc3-158c765c9327
-[14:23:20] [Server thread/INFO]: RohitSardeshmukh joined the game
-[14:23:20] [Server thread/INFO]: RohitSardeshmukh[/[0:0:0:0:0:0:0:1]:27518] logged in with entity id 2025 at ([world]568.9774920084959, 70.0, -1030.2093633344273)
-[14:25:55] [Server thread/INFO]: cr0n0s69 lost connection: Disconnected
-[14:25:55] [Server thread/INFO]: cr0n0s69 left the game
-[14:26:36] [User Authenticator #4/INFO]: UUID of player maDKal is 9b9ec121-a2c4-343f-b573-34879922fd17
-[14:26:36] [Server thread/INFO]: maDKal joined the game
-[14:26:36] [Server thread/INFO]: maDKal[/[0:0:0:0:0:0:0:1]:27531] logged in with entity id 2663 at ([world]820.2288229698125, 64.0, -1052.8668060150674)
-[14:31:03] [User Authenticator #5/INFO]: UUID of player Ac1d_uwu is 54d57c59-38d1-315c-8a76-c7890e88bcbf
-[14:31:03] [Server thread/INFO]: Ac1d_uwu joined the game
-[14:31:03] [Server thread/INFO]: Ac1d_uwu[/[0:0:0:0:0:0:0:1]:27567] logged in with entity id 3305 at ([world]804.9884045140092, 69.0, -757.5881575328766)
-[14:39:41] [Server thread/INFO]: OmkarSANAS issued server command: /recipe give @a *
-[14:39:41] [Server thread/INFO]: [OmkarSANAS: Unlocked 1089 recipes for 5 players]
-[14:43:47] [Server thread/INFO]: Ac1d_uwu lost connection: Disconnected
-[14:43:47] [Server thread/INFO]: Ac1d_uwu left the game
-[14:58:45] [Server thread/INFO]: maDKal has made the advancement [Those Were the Days]
-[14:58:52] [Server thread/INFO]: maDKal has made the advancement [War Pigs]
-[14:58:59] [Server thread/INFO]: maDKal has made the advancement [Hidden in the Depths]
-[15:23:25] [Server thread/INFO]: OmkarSANAS lost connection: Disconnected
-[15:23:25] [Server thread/INFO]: OmkarSANAS left the game
-[15:28:02] [Server thread/INFO]: maDKal burned to death
-[15:30:45] [Server thread/INFO]: RohitSardeshmukh lost connection: Timed out
-[15:30:45] [Server thread/INFO]: RohitSardeshmukh left the game
-[15:31:05] [Server thread/INFO]: maDKal was shot by Piglin
-[15:33:32] [User Authenticator #6/INFO]: UUID of player RohitSardeshmukh is ae640622-7e93-37c5-9dc3-158c765c9327
-[15:33:32] [Server thread/INFO]: RohitSardeshmukh joined the game
-[15:33:32] [Server thread/INFO]: RohitSardeshmukh[/[0:0:0:0:0:0:0:1]:1089] logged in with entity id 21251 at ([world]854.1808821672871, 105.0, -1189.8382362375949)
-[15:34:23] [Server thread/INFO]: maDKal issued server command: /deathchest help
-[15:34:32] [Server thread/INFO]: maDKal issued server command: /deathchest list @a
-[15:34:44] [Async Chat Thread - #0/INFO]: <maDKal> madhav
-[15:34:44] [User Authenticator #7/INFO]: UUID of player OmkarSANAS is 0578c101-ef8a-3ea5-bece-979eaea41d7e
-[15:34:45] [Server thread/INFO]: OmkarSANAS joined the game
-[15:34:45] [Server thread/INFO]: OmkarSANAS[/[0:0:0:0:0:0:0:1]:1094] logged in with entity id 21581 at ([world_nether]195.30000001192093, 96.0, -313.4056837965821)
-[15:34:54] [Async Chat Thread - #0/INFO]: <maDKal> death chest cords
-[15:35:05] [Async Chat Thread - #0/INFO]: <OmkarSANAS> xD
-[15:35:07] [Server thread/INFO]: watchtime issued server command: /deathchest list maDKal
-[15:35:10] [Server thread/INFO]: OmkarSANAS issued server command: /deathchest list maDKal
-[15:35:16] [Async Chat Thread - #0/INFO]: <OmkarSANAS> 190 67 -454
-[15:35:23] [Async Chat Thread - #0/INFO]: <watchtime> 190, 67, -454
-[15:36:13] [Server thread/INFO]: maDKal lost connection: Disconnected
-[15:36:13] [Server thread/INFO]: maDKal left the game
-[15:46:57] [User Authenticator #8/INFO]: UUID of player maDKal is 9b9ec121-a2c4-343f-b573-34879922fd17
-[15:46:57] [Server thread/INFO]: maDKal joined the game
-[15:46:57] [Server thread/INFO]: maDKal[/[0:0:0:0:0:0:0:1]:1085] logged in with entity id 25220 at ([world_nether]189.52390556845276, 66.0, -455.6881157036922)
-[15:57:46] [Server thread/INFO]: OmkarSANAS has made the advancement [Enchanter]
-[16:06:10] [Async Chat Thread - #1/INFO]: <RohitSardeshmukh> T
-[16:11:43] [Server thread/INFO]: watchtime issued server command: /gamemode survival
-[16:11:43] [Server thread/INFO]: [watchtime: Set own game mode to Survival Mode]
-[16:11:44] [Server thread/INFO]: watchtime issued server command: /gamemode creative
-[16:11:44] [Server thread/INFO]: [watchtime: Set own game mode to Creative Mode]
-[16:11:44] [Server thread/INFO]: watchtime issued server command: /gamemode survival
-[16:11:44] [Server thread/INFO]: [watchtime: Set own game mode to Survival Mode]
-[16:11:44] [Server thread/INFO]: watchtime issued server command: /gamemode creative
-[16:11:44] [Server thread/INFO]: [watchtime: Set own game mode to Creative Mode]
-[16:11:45] [Server thread/INFO]: watchtime issued server command: /gamemode survival
-[16:11:45] [Server thread/INFO]: [watchtime: Set own game mode to Survival Mode]
-[16:25:02] [User Authenticator #9/INFO]: UUID of player Whispering is 8817143b-1042-3da9-8237-879ef3eb44f2
-[16:25:02] [Server thread/INFO]: Whispering joined the game
-[16:25:02] [Server thread/INFO]: Whispering[/[0:0:0:0:0:0:0:1]:6712] logged in with entity id 36798 at ([world]919.036812883788, 69.0, -1119.052945331393)
-[16:25:58] [Server thread/WARN]: Whispering moved too quickly! -10.155266360335418,1.252203340253729,-1.148472865156009
-[16:26:32] [Async Chat Thread - #2/INFO]: <OmkarSANAS> kay pahije jhatu
-[16:26:40] [Async Chat Thread - #2/INFO]: <Whispering> lova tap
-[16:26:51] [Async Chat Thread - #2/INFO]: <OmkarSANAS> ?
-[16:27:11] [Async Chat Thread - #2/INFO]: <OmkarSANAS> jaa na lavdya
-[16:27:21] [Async Chat Thread - #2/INFO]: <Whispering> tujhya aai la bol lavdya
-[16:27:38] [Async Chat Thread - #2/INFO]: <watchtime> ghar dekh
-[16:27:52] [Async Chat Thread - #2/INFO]: <Whispering> wait aaya mai 10 min mai
-[16:27:53] [Server thread/INFO]: Whispering lost connection: Disconnected
-[16:27:53] [Server thread/INFO]: Whispering left the game
-[16:41:21] [Server thread/INFO]: maDKal lost connection: Disconnected
-[16:41:21] [Server thread/INFO]: maDKal left the game
-[16:42:44] [User Authenticator #10/INFO]: UUID of player maDKal is 9b9ec121-a2c4-343f-b573-34879922fd17
-[16:42:44] [Server thread/INFO]: maDKal joined the game
-[16:42:44] [Server thread/INFO]: maDKal[/[0:0:0:0:0:0:0:1]:1029] logged in with entity id 42674 at ([world_nether]-17.226703180030086, 71.0, -311.620400594211)
-[16:44:07] [Server thread/INFO]: maDKal was slain by Piglin Brute
-[16:45:46] [Server thread/INFO]: OmkarSANAS issued server command: /give OmkarSANAS minecraft:emerald 9
-[16:45:46] [Server thread/INFO]: [OmkarSANAS: Gave 9 [Emerald] to OmkarSANAS]
-[16:45:59] [Server thread/INFO]: OmkarSANAS has made the advancement [What a Deal!]
-[16:46:43] [Server thread/INFO]: OmkarSANAS issued server command: /deathchest list maDKal
-[16:46:50] [Async Chat Thread - #3/INFO]: <OmkarSANAS> 2 55 -301
-[16:48:05] [Server thread/INFO]: RohitSardeshmukh has made the advancement [Best Friends Forever]
-[16:53:33] [Server thread/INFO]: OmkarSANAS has made the advancement [Those Were the Days]
-[16:59:07] [User Authenticator #11/INFO]: UUID of player Whispering is 8817143b-1042-3da9-8237-879ef3eb44f2
-[16:59:07] [Server thread/INFO]: Whispering joined the game
-[16:59:07] [Server thread/INFO]: Whispering[/[0:0:0:0:0:0:0:1]:1125] logged in with entity id 47137 at ([world]827.4392738110305, 103.0, -1180.4331608085247)
-[16:59:46] [Server thread/INFO]: Whispering fell from a high place
-[17:02:39] [Server thread/INFO]: OmkarSANAS fell from a high place
-[17:03:15] [Server thread/INFO]: Whispering has made the advancement [Suit Up]
-[17:03:22] [Server thread/INFO]: maDKal lost connection: Disconnected
-[17:03:22] [Server thread/INFO]: maDKal left the game
-[17:04:05] [Server thread/INFO]: Whispering has made the advancement [A Seedy Place]
-[17:04:46] [User Authenticator #12/INFO]: UUID of player maDKal is 9b9ec121-a2c4-343f-b573-34879922fd17
-[17:04:46] [Server thread/INFO]: maDKal joined the game
-[17:04:46] [Server thread/INFO]: maDKal[/[0:0:0:0:0:0:0:1]:1152] logged in with entity id 49132 at ([world_nether]66.30000001192093, 96.0, -307.49957451481754)
-[17:04:57] [Server thread/INFO]: OmkarSANAS issued server command: /deathchest list OmkarSANAS\
-[17:05:01] [Server thread/INFO]: OmkarSANAS issued server command: /deathchest list OmkarSANAS
-[17:05:10] [Async Chat Thread - #4/INFO]: <OmkarSANAS> 191 47 -335
-[17:10:33] [Server thread/INFO]: Whispering lost connection: Disconnected
-[17:10:33] [Server thread/INFO]: Whispering left the game
-[17:11:10] [User Authenticator #13/INFO]: UUID of player Whispering is 8817143b-1042-3da9-8237-879ef3eb44f2
-[17:11:10] [Server thread/INFO]: Whispering joined the game
-[17:11:10] [Server thread/INFO]: Whispering[/[0:0:0:0:0:0:0:1]:1191] logged in with entity id 51153 at ([world]744.9742482257054, 98.0, -1092.9615492661956)
-[17:11:55] [Server thread/WARN]: Whispering was kicked due to keepalive timeout!
-[17:11:55] [Server thread/INFO]: Whispering lost connection: Timed out
-[17:11:55] [Server thread/INFO]: Whispering left the game
-[17:12:06] [User Authenticator #13/INFO]: UUID of player Whispering is 8817143b-1042-3da9-8237-879ef3eb44f2
-[17:12:07] [Server thread/INFO]: Whispering joined the game
-[17:12:07] [Server thread/INFO]: Whispering[/[0:0:0:0:0:0:0:1]:1200] logged in with entity id 51525 at ([world]725.7942368912927, 96.0, -1074.300000011921)
-[17:12:46] [Server thread/INFO]: Whispering was slain by Zombie
-[17:12:52] [Server thread/WARN]: Whispering was kicked due to keepalive timeout!
-[17:12:52] [Server thread/INFO]: Whispering lost connection: Timed out
-[17:12:52] [Server thread/INFO]: Whispering left the game
-[17:12:58] [User Authenticator #13/INFO]: UUID of player Whispering is 8817143b-1042-3da9-8237-879ef3eb44f2
-[17:12:58] [Server thread/INFO]: Whispering joined the game
-[17:12:58] [Server thread/INFO]: Whispering[/[0:0:0:0:0:0:0:1]:1205] logged in with entity id 51809 at ([world]728.934592286913, 95.0, -1075.300000011921)
-[17:13:11] [Server thread/INFO]: Whispering lost connection: Disconnected
-[17:13:11] [Server thread/INFO]: Whispering left the game
-[17:13:53] [User Authenticator #13/INFO]: UUID of player Whispering is 8817143b-1042-3da9-8237-879ef3eb44f2
-[17:13:53] [Server thread/INFO]: Whispering joined the game
-[17:13:53] [Server thread/INFO]: Whispering[/[0:0:0:0:0:0:0:1]:1212] logged in with entity id 52152 at ([world]938.5, 74.0, -1141.5)
-[17:24:45] [Server thread/INFO]: Whispering lost connection: Disconnected
-[17:24:45] [Server thread/INFO]: Whispering left the game
-[17:28:30] [Server thread/INFO]: watchtime was slain by Zombie
-[17:28:42] [Async Chat Thread - #5/INFO]: <OmkarSANAS> really nigga
-[17:32:11] [Server thread/INFO]: maDKal lost connection: Disconnected
-[17:32:11] [Server thread/INFO]: maDKal left the game
-[17:32:35] [Async Chat Thread - #6/INFO]: <OmkarSANAS> rohit where
-[17:36:43] [Server thread/INFO]: watchtime lost connection: Disconnected
-[17:36:43] [Server thread/INFO]: watchtime left the game
-[17:40:26] [Async Chat Thread - #7/INFO]: <RohitSardeshmukh> sanas ahes?
-[17:44:42] [Server thread/INFO]: Saving the game (this may take a moment!)
-[17:44:42] [Server thread/INFO]: Saved the game
-[17:44:48] [Server thread/INFO]: Stopping the server
-[17:44:48] [Server thread/INFO]: Stopping server
-[17:44:48] [Server thread/INFO]: [TeaksTweaks] Disabling TeaksTweaks v1.7.2-beta
-[17:44:48] [Server thread/INFO]: [TT] Teaks Tweaks Shutting Down...
-[17:44:48] [Server thread/INFO]: [RHLeafDecay] Disabling RHLeafDecay v1.19_R1
-[17:44:48] [Server thread/INFO]: [RHLeafDecay] Cleaned up scheduledBlocks...
-[17:44:48] [Server thread/INFO]: [RHLeafDecay] The plugin has been unloaded!
-[17:44:48] [Server thread/INFO]: [LaggRemover] Disabling LaggRemover v2.0.6
-[17:44:48] [Server thread/INFO]: [LaggRemover] LaggRemover has been disabled!
-[17:44:48] [Server thread/INFO]: [SinglePlayerSleep] Disabling SinglePlayerSleep v1.13_2.13.47
-[17:44:48] [Server thread/INFO]: §a**************************************§r
-[17:44:48] [Server thread/INFO]: §eSinglePlayerSleep v1.13_2.13.47§r is DISABLED
-[17:44:48] [Server thread/INFO]: §a**************************************§r
-[17:44:48] [Server thread/INFO]: [SavageDeathChest] Disabling SavageDeathChest v1.18.5
-[17:44:48] [Server thread/INFO]: [SavageDeathChest] SQLite datastore connection closed.
-[17:44:48] [Server thread/INFO]: [BlockProt] Disabling BlockProt v1.1.1
-[17:44:48] [Server thread/INFO]: [BlockProt] Saving statistic file...
-[17:44:48] [Server thread/INFO]: Saving players
-[17:44:49] [Server thread/INFO]: RohitSardeshmukh lost connection: Server closed
-[17:44:49] [Server thread/INFO]: RohitSardeshmukh left the game
-[17:44:49] [Server thread/INFO]: OmkarSANAS lost connection: Server closed
-[17:44:49] [Server thread/INFO]: OmkarSANAS left the game
-[17:44:49] [Server thread/INFO]: Saving worlds
-[17:44:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[17:44:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[17:44:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[17:44:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[17:44:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17:44:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[17:44:54] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[17:44:57] [Server thread/INFO]: Flushing Chunk IO
-[17:44:57] [Server thread/INFO]: Closing Thread Pool
-[17:44:57] [Server thread/INFO]: Closing Server
+[17:54:01] [Server thread/WARN]: Nag author(s): '[drew6017]' of 'LaggRemover' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
+[17:54:01] [Server thread/INFO]: [LaggRemover] Loaded 0 module(s)
+[17:54:01] [Server thread/INFO]: [LaggRemover] The LaggRemover AI is now active!
+[17:54:01] [Server thread/INFO]: [LaggRemover] LaggRemover has been enabled!
+[17:54:01] [Server thread/INFO]: [RHLeafDecay] Enabling RHLeafDecay v1.19_R1
+[17:54:01] [Server thread/INFO]: [RHLeafDecay] The plugin has been loaded!
+[17:54:01] [Server thread/INFO]: [RHLeafDecay] You are using version 1.19_R1 /w ? by X0R3
+[17:54:01] [Server thread/INFO]: [RHLeafDecay] Info:
+[17:54:01] [Server thread/INFO]: [RHLeafDecay] If you want your server be presented on the plugin page, then please contact me! :)
+[17:54:01] [Server thread/INFO]: [TeaksTweaks] Enabling TeaksTweaks v1.7.2-beta
+[17:54:01] [Server thread/INFO]: [TT] Teaks Tweaks Started!
+[17:54:01] [Server thread/INFO]: Running delayed init tasks
+[17:54:01] [Server thread/INFO]: Done (4.449s)! For help, type "help"
+[17:54:01] [Server thread/INFO]: Timings Reset
+[17:54:01] [Craft Scheduler Thread - 2 - BlockProt/WARN]: [BlockProt] BlockProt is outdated. Current: 1.1.1 / Newest: 1.1.2
+[17:54:59] [User Authenticator #1/INFO]: UUID of player watchtime is c057e1a1-33de-3761-931c-ce2a12a5e0c1
+[17:54:59] [Server thread/INFO]: watchtime joined the game
+[17:54:59] [Server thread/INFO]: watchtime[/127.0.0.1:20930] logged in with entity id 254 at ([world]638.6673793513093, -32.0, -899.1429340129408)
+[17:55:21] [User Authenticator #1/INFO]: UUID of player OmkarSANAS is 0578c101-ef8a-3ea5-bece-979eaea41d7e
+[17:55:22] [Server thread/INFO]: OmkarSANAS joined the game
+[17:55:22] [Server thread/INFO]: OmkarSANAS[/[0:0:0:0:0:0:0:1]:20934] logged in with entity id 590 at ([world]882.1194731513448, 116.0, -1195.1482837909443)
+[17:55:29] [Server thread/INFO]: watchtime lost connection: Disconnected
+[17:55:29] [Server thread/INFO]: watchtime left the game
+[17:57:10] [User Authenticator #2/INFO]: UUID of player maDKal is 9b9ec121-a2c4-343f-b573-34879922fd17
+[17:57:10] [Server thread/INFO]: maDKal joined the game
+[17:57:10] [Server thread/INFO]: maDKal[/[0:0:0:0:0:0:0:1]:20961] logged in with entity id 1127 at ([world]819.5816483485291, 86.0, -1109.2474552411866)
+[18:09:04] [User Authenticator #3/INFO]: UUID of player Whispering is 8817143b-1042-3da9-8237-879ef3eb44f2
+[18:09:04] [Server thread/INFO]: Whispering joined the game
+[18:09:04] [Server thread/INFO]: Whispering[/[0:0:0:0:0:0:0:1]:1044] logged in with entity id 5044 at ([world]938.5, 74.0, -1141.5)
+[18:10:48] [Server thread/INFO]: OmkarSANAS has completed the challenge [Return to Sender]
+[18:14:37] [User Authenticator #4/INFO]: UUID of player Whispering is 8817143b-1042-3da9-8237-879ef3eb44f2
+[18:14:37] [Server thread/INFO]: Whispering lost connection: You logged in from another location
+[18:14:37] [Server thread/INFO]: Whispering left the game
+[18:14:37] [Server thread/INFO]: Whispering joined the game
+[18:14:37] [Server thread/INFO]: Whispering[/[0:0:0:0:0:0:0:1]:1073] logged in with entity id 7386 at ([world]976.0529557214859, 68.94602408668781, -743.3080117848716)
+[18:14:43] [Server thread/INFO]: maDKal has made the advancement [Take Aim]
+[18:17:29] [Server thread/INFO]: OmkarSANAS fell from a high place
+[18:17:55] [Server thread/INFO]: Whispering has made the advancement [Not Today, Thank You]
+[18:20:19] [Server thread/INFO]: OmkarSANAS issued server command: /deathchest list OmkarSANAS
+[18:20:25] [Async Chat Thread - #0/INFO]: <OmkarSANAS> 191 70 -472
+[18:20:40] [Server thread/INFO]: OmkarSANAS issued server command: /tp OmkarSANAS 191 70 -472
+[18:20:40] [Server thread/INFO]: [OmkarSANAS: Teleported OmkarSANAS to 191.500000, 70.000000, -471.500000]
+[18:22:54] [Server thread/INFO]: OmkarSANAS issued server command: /xp 22 @s
+[18:22:55] [User Authenticator #5/INFO]: UUID of player watchtime is c057e1a1-33de-3761-931c-ce2a12a5e0c1
+[18:22:56] [Server thread/INFO]: watchtime joined the game
+[18:22:56] [Server thread/INFO]: watchtime[/127.0.0.1:1127] logged in with entity id 10752 at ([world]635.4561085479287, -32.0, -902.72756191152)
+[18:23:40] [Server thread/INFO]: OmkarSANAS issued server command: /xp add OmkarSANAS 22 levels
+[18:23:40] [Server thread/INFO]: [OmkarSANAS: Gave 22 experience levels to OmkarSANAS]
+[18:24:30] [Server thread/INFO]: OmkarSANAS issued server command: /tp OmkarSANAS watchtime\
+[18:24:38] [Server thread/INFO]: OmkarSANAS issued server command: /tp OmkarSANAS watchtime
+[18:24:38] [Server thread/INFO]: [OmkarSANAS: Teleported OmkarSANAS to watchtime]
+[18:26:45] [Server thread/INFO]: OmkarSANAS issued server command: /tp OmkarSANAS watchtime
+[18:26:45] [Server thread/INFO]: [OmkarSANAS: Teleported OmkarSANAS to watchtime]
+[18:46:25] [Server thread/INFO]: maDKal lost connection: Disconnected
+[18:46:25] [Server thread/INFO]: maDKal left the game
+[18:54:05] [Server thread/INFO]: watchtime was slain by Zombie
+[18:54:23] [Server thread/INFO]: watchtime issued server command: /tp watchtime OmkarSANAS
+[18:54:23] [Server thread/INFO]: [watchtime: Teleported watchtime to OmkarSANAS]
+[18:54:23] [Server thread/WARN]: watchtime moved too quickly! -61.33679586941162,-115.0,59.1002652135885
+[18:55:51] [Server thread/INFO]: watchtime has completed the challenge [It Spreads]
+[18:56:13] [Server thread/INFO]: OmkarSANAS has made the advancement [Sneak 100]
+[18:59:38] [Server thread/INFO]: OmkarSANAS has completed the challenge [It Spreads]
+[19:07:21] [Server thread/INFO]: Whispering has made the advancement [The Parrots and the Bats]
+[19:09:23] [Server thread/INFO]: Whispering lost connection: Disconnected
+[19:09:23] [Server thread/INFO]: Whispering left the game
+[19:15:05] [Async Chat Thread - #1/INFO]: <watchtime> why mute
+[19:16:54] [Server thread/INFO]: OmkarSANAS has made the advancement [Cover Me with Diamonds]
+[19:19:51] [Server thread/INFO]: watchtime has made the advancement [Cover Me with Diamonds]
+[19:21:44] [Server thread/INFO]: watchtime has made the advancement [What a Deal!]
+[19:39:07] [User Authenticator #6/INFO]: UUID of player Ac1d_uwu is 54d57c59-38d1-315c-8a76-c7890e88bcbf
+[19:39:07] [Server thread/INFO]: Ac1d_uwu joined the game
+[19:39:07] [Server thread/INFO]: Ac1d_uwu[/[0:0:0:0:0:0:0:1]:23273] logged in with entity id 27938 at ([world]824.5214166257083, 73.0, -1042.516942561727)
+[19:43:32] [Server thread/WARN]: Boat (vehicle of watchtime) moved wrongly! 2.7494420647182563
+[19:56:28] [Server thread/INFO]: Villager EntityVillager['Villager'/38562, uuid='ffffffff-bb8b-4f25-bfff-fffff4e00986', l='ServerLevel[world]', x=2351.49, y=68.06, z=-959.70, cpos=[146, -60], tl=6716, v=true] died, message: 'Villager was slain by Zombie'
+[19:58:23] [Server thread/INFO]: Ac1d_uwu lost connection: Timed out
+[19:58:23] [Server thread/INFO]: Ac1d_uwu left the game
+[19:58:35] [User Authenticator #7/INFO]: UUID of player Ac1d_uwu is 54d57c59-38d1-315c-8a76-c7890e88bcbf
+[19:58:35] [Server thread/INFO]: Ac1d_uwu joined the game
+[19:58:35] [Server thread/INFO]: Ac1d_uwu[/[0:0:0:0:0:0:0:1]:10650] logged in with entity id 41542 at ([world]189.30000001192093, -25.0, 169.30000001192093)
+[20:00:23] [Server thread/INFO]: OmkarSANAS lost connection: Disconnected
+[20:00:23] [Server thread/INFO]: OmkarSANAS left the game
+[20:33:34] [Server thread/INFO]: Ac1d_uwu drowned
+[20:34:09] [Async Chat Thread - #2/INFO]: <Ac1d_uwu> dead
+[20:34:13] [Async Chat Thread - #2/INFO]: <Ac1d_uwu> me dead
+[20:34:17] [Async Chat Thread - #2/INFO]: <Ac1d_uwu> no quards
+[20:34:25] [Server thread/INFO]: Ac1d_uwu lost connection: Disconnected
+[20:34:25] [Server thread/INFO]: Ac1d_uwu left the game
+[20:50:04] [Server thread/INFO]: Villager EntityVillager['Villager'/38564, uuid='00000000-3365-4931-8000-00002192d0fc', l='ServerLevel[world]', x=2326.70, y=72.00, z=-926.52, cpos=[145, -58], tl=71037, v=true] died, message: 'Villager was slain by Zombie'
+[20:57:04] [User Authenticator #8/INFO]: UUID of player Whispering is 8817143b-1042-3da9-8237-879ef3eb44f2
+[20:57:05] [Server thread/INFO]: Whispering joined the game
+[20:57:05] [Server thread/INFO]: Whispering[/[0:0:0:0:0:0:0:1]:1260] logged in with entity id 54322 at ([world]919.5574556705166, 69.0, -1129.650692566926)
+[20:57:35] [Async Chat Thread - #3/INFO]: <Whispering> ayo
+[21:16:57] [Server thread/INFO]: Whispering lost connection: Disconnected
+[21:16:57] [Server thread/INFO]: Whispering left the game
+[21:41:09] [Server thread/INFO]: watchtime lost connection: Disconnected
+[21:41:09] [Server thread/INFO]: watchtime left the game
+[21:59:59] [User Authenticator #9/INFO]: UUID of player snypee is b43ac269-6ae9-3fc6-9cfa-48dc4978aefc
+[21:59:59] [Server thread/INFO]: snypee joined the game
+[21:59:59] [Server thread/INFO]: snypee[/[0:0:0:0:0:0:0:1]:25200] logged in with entity id 63347 at ([world]827.5194518424161, 109.0, -1255.1603966282908)
+[22:00:19] [User Authenticator #9/INFO]: UUID of player OmkarSANAS is 0578c101-ef8a-3ea5-bece-979eaea41d7e
+[22:00:19] [Server thread/INFO]: OmkarSANAS joined the game
+[22:00:19] [Server thread/INFO]: OmkarSANAS[/[0:0:0:0:0:0:0:1]:25204] logged in with entity id 63709 at ([world]2232.6744325314453, 67.0, -960.9840488904066)
+[22:00:44] [Server thread/WARN]: snypee was kicked due to keepalive timeout!
+[22:00:44] [Server thread/INFO]: snypee lost connection: Timed out
+[22:00:44] [Server thread/INFO]: snypee left the game
+[22:00:55] [User Authenticator #9/INFO]: UUID of player snypee is b43ac269-6ae9-3fc6-9cfa-48dc4978aefc
+[22:00:55] [Server thread/INFO]: snypee joined the game
+[22:00:55] [Server thread/INFO]: snypee[/[0:0:0:0:0:0:0:1]:25207] logged in with entity id 64234 at ([world]819.7156334859759, 109.96526579491122, -1250.3907236376183)
+[22:01:19] [Server thread/INFO]: snypee issued server command: /gamemode creative
+[22:01:19] [Server thread/INFO]: [snypee: Set own game mode to Creative Mode]
+[22:01:23] [Server thread/INFO]: snypee lost connection: Disconnected
+[22:01:23] [Server thread/INFO]: snypee left the game
+[22:01:24] [User Authenticator #9/INFO]: UUID of player snypee is b43ac269-6ae9-3fc6-9cfa-48dc4978aefc
+[22:01:25] [Server thread/INFO]: snypee joined the game
+[22:01:25] [Server thread/INFO]: snypee[/[0:0:0:0:0:0:0:1]:25211] logged in with entity id 64805 at ([world]818.5, 109.0, -1248.5)
+[22:01:36] [Server thread/INFO]: snypee issued server command: /gamemode survival
+[22:01:36] [Server thread/INFO]: [snypee: Set own game mode to Survival Mode]
+[22:01:50] [Server thread/INFO]: snypee lost connection: Disconnected
+[22:01:50] [Server thread/INFO]: snypee left the game
+[22:02:12] [User Authenticator #9/INFO]: UUID of player maDKal is 9b9ec121-a2c4-343f-b573-34879922fd17
+[22:02:12] [Server thread/INFO]: maDKal joined the game
+[22:02:12] [Server thread/INFO]: maDKal[/[0:0:0:0:0:0:0:1]:25222] logged in with entity id 65267 at ([world]817.2375000119209, 64.0, -1045.471976091152)
+[22:02:46] [User Authenticator #9/INFO]: UUID of player snypee is b43ac269-6ae9-3fc6-9cfa-48dc4978aefc
+[22:02:46] [Server thread/INFO]: snypee joined the game
+[22:02:46] [Server thread/INFO]: snypee[/[0:0:0:0:0:0:0:1]:25229] logged in with entity id 65877 at ([world]821.6317868339752, 107.0, -1247.5634807622316)
+[22:03:26] [Server thread/INFO]: snypee lost connection: Disconnected
+[22:03:26] [Server thread/INFO]: snypee left the game
+[22:07:14] [User Authenticator #10/INFO]: UUID of player snypee is b43ac269-6ae9-3fc6-9cfa-48dc4978aefc
+[22:07:14] [Server thread/INFO]: snypee joined the game
+[22:07:14] [Server thread/INFO]: snypee[/[0:0:0:0:0:0:0:1]:1031] logged in with entity id 68100 at ([world]800.718303061684, 128.0, -1264.9185881769165)
+[22:07:21] [User Authenticator #10/INFO]: UUID of player watchtime is c057e1a1-33de-3761-931c-ce2a12a5e0c1
+[22:07:21] [Server thread/INFO]: watchtime joined the game
+[22:07:21] [Server thread/INFO]: watchtime[/127.0.0.1:1032] logged in with entity id 68189 at ([world]2233.4080862057135, 64.0, -956.3000000119209)
+[22:07:56] [Server thread/INFO]: snypee lost connection: Disconnected
+[22:07:56] [Server thread/INFO]: snypee left the game
+[22:07:59] [User Authenticator #10/INFO]: UUID of player snypee is b43ac269-6ae9-3fc6-9cfa-48dc4978aefc
+[22:07:59] [Server thread/INFO]: snypee joined the game
+[22:07:59] [Server thread/INFO]: snypee[/[0:0:0:0:0:0:0:1]:1043] logged in with entity id 68886 at ([world]818.9503024051915, 110.0, -1251.20443535169)
+[22:08:21] [Server thread/INFO]: snypee lost connection: Disconnected
+[22:08:21] [Server thread/INFO]: snypee left the game
+[22:15:21] [User Authenticator #11/INFO]: UUID of player snypee is b43ac269-6ae9-3fc6-9cfa-48dc4978aefc
+[22:15:21] [Server thread/INFO]: snypee joined the game
+[22:15:21] [Server thread/INFO]: snypee[/[0:0:0:0:0:0:0:1]:1081] logged in with entity id 73087 at ([world]820.7539181272095, 107.0, -1231.04134893911)
+[22:15:45] [User Authenticator #11/INFO]: UUID of player RohitSardeshmukh is ae640622-7e93-37c5-9dc3-158c765c9327
+[22:15:45] [Server thread/INFO]: RohitSardeshmukh joined the game
+[22:15:45] [Server thread/INFO]: RohitSardeshmukh[/[0:0:0:0:0:0:0:1]:1083] logged in with entity id 73455 at ([world]801.5256702129165, 96.41396036057075, -1168.6411794240792)
+[22:16:08] [Server thread/INFO]: snypee lost connection: Disconnected
+[22:16:08] [Server thread/INFO]: snypee left the game
+[22:16:14] [User Authenticator #11/INFO]: UUID of player snypee is b43ac269-6ae9-3fc6-9cfa-48dc4978aefc
+[22:16:14] [Server thread/INFO]: snypee joined the game
+[22:16:14] [Server thread/INFO]: snypee[/[0:0:0:0:0:0:0:1]:1090] logged in with entity id 73655 at ([world]890.7743922847437, 97.0, -1189.699999988079)
+[22:16:59] [Server thread/WARN]: snypee was kicked due to keepalive timeout!
+[22:16:59] [Server thread/INFO]: snypee lost connection: Timed out
+[22:16:59] [Server thread/INFO]: snypee left the game
+[22:17:07] [Server thread/WARN]: Boat (vehicle of maDKal) moved wrongly! 0.36915104387590797
+[22:18:03] [Server thread/INFO]: watchtime lost connection: Disconnected
+[22:18:03] [Server thread/INFO]: watchtime left the game
+[22:18:05] [User Authenticator #12/INFO]: UUID of player Ac1d_uwu is 54d57c59-38d1-315c-8a76-c7890e88bcbf
+[22:18:05] [Server thread/INFO]: Ac1d_uwu joined the game
+[22:18:05] [Server thread/INFO]: Ac1d_uwu[/[0:0:0:0:0:0:0:1]:1116] logged in with entity id 75168 at ([world]567.2319830517778, 67.0, -867.1729455141985)
+[22:18:11] [Server thread/INFO]: Saving the game (this may take a moment!)
+[22:18:13] [Server thread/INFO]: Saved the game
+[22:18:27] [Server thread/INFO]: Stopping server
+[22:18:27] [Server thread/INFO]: [TeaksTweaks] Disabling TeaksTweaks v1.7.2-beta
+[22:18:27] [Server thread/INFO]: [TT] Teaks Tweaks Shutting Down...
+[22:18:27] [Server thread/INFO]: [RHLeafDecay] Disabling RHLeafDecay v1.19_R1
+[22:18:27] [Server thread/INFO]: [RHLeafDecay] Cleaned up scheduledBlocks...
+[22:18:27] [Server thread/INFO]: [RHLeafDecay] The plugin has been unloaded!
+[22:18:27] [Server thread/INFO]: [LaggRemover] Disabling LaggRemover v2.0.6
+[22:18:27] [Server thread/INFO]: [LaggRemover] LaggRemover has been disabled!
+[22:18:27] [Server thread/INFO]: [SinglePlayerSleep] Disabling SinglePlayerSleep v1.13_2.13.47
+[22:18:27] [Server thread/INFO]: §a**************************************§r
+[22:18:27] [Server thread/INFO]: §eSinglePlayerSleep v1.13_2.13.47§r is DISABLED
+[22:18:27] [Server thread/INFO]: §a**************************************§r
+[22:18:27] [Server thread/INFO]: [SavageDeathChest] Disabling SavageDeathChest v1.18.5
+[22:18:27] [Server thread/INFO]: [SavageDeathChest] SQLite datastore connection closed.
+[22:18:27] [Server thread/INFO]: [BlockProt] Disabling BlockProt v1.1.1
+[22:18:27] [Server thread/INFO]: [BlockProt] Saving statistic file...
+[22:18:27] [Server thread/INFO]: Saving players
+[22:18:27] [Server thread/INFO]: OmkarSANAS lost connection: Server closed
+[22:18:27] [Server thread/INFO]: OmkarSANAS left the game
+[22:18:27] [Server thread/INFO]: maDKal lost connection: Server closed
+[22:18:27] [Server thread/INFO]: maDKal left the game
+[22:18:27] [Server thread/INFO]: RohitSardeshmukh lost connection: Server closed
+[22:18:27] [Server thread/INFO]: RohitSardeshmukh left the game
+[22:18:27] [Server thread/INFO]: Ac1d_uwu lost connection: Server closed
+[22:18:27] [Server thread/INFO]: Ac1d_uwu left the game
+[22:18:27] [Server thread/INFO]: Saving worlds
+[22:18:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:18:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[22:18:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[22:18:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:18:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:18:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:18:42] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22:18:47] [Server thread/INFO]: Flushing Chunk IO

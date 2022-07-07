@@ -1103,6 +1103,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2022-07-07 18:17:55 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_wool": {
     "criteria": {
       "has_white_wool": "2022-07-06 15:48:26 +0530"
@@ -2068,6 +2074,12 @@
       "has_the_recipe": "2022-07-06 21:15:11 +0530"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:sheep": "2022-07-07 19:07:21 +0530"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
@@ -3813,7 +3825,8 @@
     "criteria": {
       "minecraft:skeleton": "2022-07-07 17:12:45 +0530",
       "minecraft:creeper": "2022-07-06 15:43:53 +0530",
-      "minecraft:zombie": "2022-07-06 19:10:15 +0530"
+      "minecraft:zombie": "2022-07-06 19:10:15 +0530",
+      "minecraft:drowned": "2022-07-07 19:03:18 +0530"
     },
     "done": false
   },
@@ -6414,6 +6427,12 @@
   "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
     "criteria": {
       "has_the_recipe": "2022-07-06 21:15:11 +0530"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2022-07-07 19:07:21 +0530"
     },
     "done": true
   },

@@ -2924,6 +2924,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2022-07-07 18:14:43 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
       "has_iron_block": "2022-07-06 23:12:53 +0530"
@@ -3871,7 +3877,8 @@
       "minecraft:piglin": "2022-07-06 22:48:33 +0530",
       "minecraft:enderman": "2022-07-06 22:48:21 +0530",
       "minecraft:zombie": "2022-07-06 14:37:09 +0530",
-      "minecraft:drowned": "2022-07-06 14:33:30 +0530"
+      "minecraft:drowned": "2022-07-06 14:33:30 +0530",
+      "minecraft:zombie_villager": "2022-07-07 18:19:11 +0530"
     },
     "done": false
   },
@@ -4623,6 +4630,7 @@
     "criteria": {
       "minecraft:wooded_badlands": "2022-07-06 13:23:32 +0530",
       "minecraft:savanna_plateau": "2022-07-06 13:26:20 +0530",
+      "minecraft:beach": "2022-07-07 22:14:48 +0530",
       "minecraft:stony_peaks": "2022-07-06 13:27:00 +0530",
       "minecraft:mangrove_swamp": "2022-07-06 17:31:46 +0530",
       "minecraft:sparse_jungle": "2022-07-06 22:07:26 +0530",
