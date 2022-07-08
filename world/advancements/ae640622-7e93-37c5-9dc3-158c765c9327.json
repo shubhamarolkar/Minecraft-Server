@@ -593,6 +593,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2022-07-09 00:33:45 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smelting": {
     "criteria": {
       "has_the_recipe": "2022-07-06 21:15:11 +0530"
@@ -3826,7 +3832,9 @@
       "minecraft:skeleton": "2022-06-13 19:05:27 +0530",
       "minecraft:spider": "2022-06-13 23:21:42 +0530",
       "minecraft:creeper": "2022-06-13 23:35:23 +0530",
-      "minecraft:zombie": "2022-06-13 18:40:09 +0530"
+      "minecraft:slime": "2022-07-09 00:08:03 +0530",
+      "minecraft:zombie": "2022-06-13 18:40:09 +0530",
+      "minecraft:drowned": "2022-07-08 23:34:23 +0530"
     },
     "done": false
   },
@@ -5595,6 +5603,12 @@
   "minecraft:recipes/building_blocks/deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2022-06-13 23:28:33 +0530"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2022-07-08 22:47:40 +0530"
     },
     "done": true
   },
