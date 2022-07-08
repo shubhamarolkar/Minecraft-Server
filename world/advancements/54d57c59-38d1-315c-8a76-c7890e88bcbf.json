@@ -1559,6 +1559,12 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:soul_sand_valley": "2022-07-08 00:08:26 +0530"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/prismarine": {
     "criteria": {
       "has_the_recipe": "2022-07-06 21:15:11 +0530"
@@ -1742,6 +1748,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_the_recipe": "2022-07-06 21:15:11 +0530"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2022-07-08 00:08:25 +0530"
     },
     "done": true
   },
@@ -2324,6 +2336,12 @@
   "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
       "has_the_recipe": "2022-07-06 21:15:11 +0530"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2022-07-08 00:08:25 +0530"
     },
     "done": true
   },

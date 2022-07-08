@@ -2838,6 +2838,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2022-07-07 23:09:45 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_rabbit": {
     "criteria": {
       "has_the_recipe": "2022-07-06 21:15:11 +0530"
@@ -3872,7 +3878,10 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2022-07-08 01:06:15 +0530",
       "minecraft:skeleton": "2022-06-14 00:11:20 +0530",
+      "minecraft:ravager": "2022-07-08 01:08:16 +0530",
+      "minecraft:vindicator": "2022-07-08 01:06:20 +0530",
       "minecraft:spider": "2022-06-13 19:39:05 +0530",
       "minecraft:creeper": "2022-06-16 22:14:09 +0530",
       "minecraft:cave_spider": "2022-06-13 19:27:15 +0530",
@@ -3958,6 +3967,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_slab": {
     "criteria": {
       "has_the_recipe": "2022-07-06 21:15:11 +0530"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2022-07-08 01:06:20 +0530"
     },
     "done": true
   },
@@ -4625,6 +4640,7 @@
     "criteria": {
       "minecraft:snowy_slopes": "2022-07-07 22:33:29 +0530",
       "minecraft:deep_ocean": "2022-07-07 22:32:24 +0530",
+      "minecraft:sunflower_plains": "2022-07-07 23:10:49 +0530",
       "minecraft:birch_forest": "2022-06-14 23:15:06 +0530",
       "minecraft:bamboo_jungle": "2022-06-13 19:38:19 +0530",
       "minecraft:wooded_badlands": "2022-06-13 19:20:52 +0530",
@@ -4647,6 +4663,7 @@
       "minecraft:windswept_savanna": "2022-07-07 20:08:33 +0530",
       "minecraft:warm_ocean": "2022-06-13 19:37:34 +0530",
       "minecraft:deep_lukewarm_ocean": "2022-06-14 22:51:38 +0530",
+      "minecraft:flower_forest": "2022-07-07 23:10:45 +0530",
       "minecraft:frozen_peaks": "2022-07-07 22:34:01 +0530",
       "minecraft:deep_dark": "2022-07-06 13:39:04 +0530",
       "minecraft:savanna": "2022-06-13 19:51:56 +0530",
@@ -4705,6 +4722,12 @@
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_stone": "2022-07-06 17:37:52 +0530"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "melon_stem": "2022-07-08 01:17:57 +0530"
     },
     "done": true
   },
@@ -5047,6 +5070,12 @@
   "minecraft:recipes/redstone/redstone": {
     "criteria": {
       "has_the_recipe": "2022-07-06 21:15:11 +0530"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2022-07-08 01:08:31 +0530"
     },
     "done": true
   },
