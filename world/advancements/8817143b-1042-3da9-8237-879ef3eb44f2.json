@@ -917,6 +917,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2022-07-08 19:24:58 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_copper_block": {
     "criteria": {
       "has_raw_copper": "2022-07-06 19:58:08 +0530"
@@ -3527,6 +3533,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2022-07-08 19:32:08 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/brick": {
     "criteria": {
       "has_the_recipe": "2022-07-06 21:15:11 +0530"
@@ -3825,6 +3837,7 @@
     "criteria": {
       "minecraft:skeleton": "2022-07-07 17:12:45 +0530",
       "minecraft:creeper": "2022-07-06 15:43:53 +0530",
+      "minecraft:enderman": "2022-07-08 20:25:45 +0530",
       "minecraft:zombie": "2022-07-06 19:10:15 +0530",
       "minecraft:drowned": "2022-07-07 19:03:18 +0530"
     },
@@ -4572,10 +4585,12 @@
     "criteria": {
       "minecraft:wooded_badlands": "2022-07-06 14:50:56 +0530",
       "minecraft:savanna_plateau": "2022-07-06 14:52:25 +0530",
+      "minecraft:stony_peaks": "2022-07-08 19:18:30 +0530",
       "minecraft:river": "2022-07-06 14:52:13 +0530",
       "minecraft:dripstone_caves": "2022-07-06 20:15:30 +0530",
       "minecraft:forest": "2022-07-06 15:49:30 +0530",
       "minecraft:desert": "2022-07-06 14:52:18 +0530",
+      "minecraft:deep_dark": "2022-07-08 19:28:16 +0530",
       "minecraft:savanna": "2022-07-06 14:52:20 +0530",
       "minecraft:plains": "2022-07-06 15:54:26 +0530"
     },
