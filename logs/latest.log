@@ -1,60 +1,60 @@
-[18:31:49] [ServerMain/INFO]: Building unoptimized datafixer
-[18:31:51] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[18:31:55] [ServerMain/INFO]: Loaded 7 recipes
-[18:31:57] [Server thread/INFO]: Starting minecraft server version 1.19
-[18:31:57] [Server thread/INFO]: Loading properties
-[18:31:57] [Server thread/INFO]: This server is running Paper version git-Paper-20 (MC: 1.19) (Implementing API version 1.19-R0.1-SNAPSHOT) (Git: 2dcfb2b)
-[18:31:57] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[18:31:57] [Server thread/INFO]: Using 4 threads for Netty based IO
-[18:31:58] [Server thread/INFO]: Default game type: SURVIVAL
-[18:31:58] [Server thread/INFO]: Generating keypair
-[18:31:58] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:31:59] [Server thread/INFO]: Using default channel type
-[18:31:59] [Server thread/INFO]: Paper: Using Java 11 compression from Velocity.
-[18:31:59] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
-[18:32:00] [Server thread/INFO]: [Graves] Loading Graves v4.8
-[18:32:00] [Server thread/INFO]: [BlockProt] Loading BlockProt v1.1.2
-[18:32:00] [Server thread/INFO]: [BlockProt] Registered plugin integration for plugin with id 'towny'
-[18:32:00] [Server thread/INFO]: [BlockProt] Registered plugin integration for plugin with id 'placeholderapi'
-[18:32:00] [Server thread/INFO]: [SinglePlayerSleep] Loading SinglePlayerSleep v1.13_2.13.47
-[18:32:00] [Server thread/INFO]: [LaggRemover] Loading LaggRemover v2.0.6
-[18:32:00] [Server thread/INFO]: [RHLeafDecay] Loading RHLeafDecay v1.19_R1
-[18:32:00] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[18:32:00] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[18:32:00] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[18:32:00] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[18:32:00] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[18:32:00] [Server thread/INFO]: Preparing level "world"
-[18:32:02] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:32:02] [Server thread/INFO]: Time elapsed: 385 ms
-[18:32:02] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[18:32:03] [Server thread/INFO]: Time elapsed: 132 ms
-[18:32:03] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[18:32:03] [Server thread/INFO]: Time elapsed: 120 ms
-[18:32:03] [Server thread/INFO]: [Graves] Enabling Graves v4.8
-[18:32:03] [Server thread/INFO]: [BlockProt] Enabling BlockProt v1.1.2
-[18:32:03] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Spigot: v1_19_R1! Trying to find NMS support
-[18:32:03] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_19_R1' loaded!
-[18:32:03] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Gson: class com.google.gson.Gson
-[18:32:03] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'Graves' to create a bStats instance!
-[18:32:04] [Server thread/WARN]: [BlockProt] At least 9 translations have not been found in config: translations_en.yml
-[18:32:04] [Server thread/INFO]: [SinglePlayerSleep] Enabling SinglePlayerSleep v1.13_2.13.47
-[18:32:04] [Server thread/INFO]: §a**************************************§r
-[18:32:04] [Server thread/INFO]: §eSinglePlayerSleep v1.13_2.13.47§r Loading...
-[18:32:04] [Server thread/INFO]: §eSinglePlayerSleep v1.13_2.13.47§r plugins\SinglePlayerSleep\config.yml
-[18:32:04] [Server thread/INFO]: Checking for updates...
-[18:32:04] [Thread-6/WARN]: [NBTAPI] [NBTAPI] The NBT-API located at 'package de.sean.blockprot.bukkit.shaded.nbtapi' seems to be outdated!
-[18:32:04] [Thread-6/WARN]: [NBTAPI] [NBTAPI] Current Version: '2.10.0-SNAPSHOT' Newest Version: 2.10.0'
-[18:32:04] [Thread-6/WARN]: [NBTAPI] [NBTAPI] Please update the NBTAPI or the plugin that contains the api(nag the mod author when the newest release has an old version, not the NBTAPI dev)!
-[18:32:04] [Server thread/INFO]: §eSinglePlayerSleep v1.13_2.13.47§r plugins\SinglePlayerSleep\permissions.yml
-[18:32:04] [Server thread/INFO]: §a**************************************§r
-[18:32:04] [Server thread/INFO]: §eSinglePlayerSleep v1.13_2.13.47§r is ENABLED
-[18:32:04] [Server thread/INFO]: §a**************************************§r
-[18:32:04] [Server thread/INFO]: §eSinglePlayerSleep v1.13_2.13.47§r This server is running Paper version git-Paper-20 (MC: 1.19) (Implementing API version 1.19-R0.1-SNAPSHOT)
-[18:32:04] [Server thread/INFO]: §eSinglePlayerSleep v1.13_2.13.47§r vardebug=false debug=false in plugins\SinglePlayerSleep/config.yml
-[18:32:04] [Server thread/INFO]: §eSinglePlayerSleep v1.13_2.13.47§r jarfilename=E:\Project\MCServer\Minecraft-Server\plugins\SinglePlayerSleep-1.13_2.13.47.jar
-[18:32:04] [Server thread/INFO]: [LaggRemover] Enabling LaggRemover v2.0.6
-[18:32:05] [Server thread/INFO]: [LaggRemover] [STDOUT] 
+[22:10:32] [ServerMain/INFO]: Building unoptimized datafixer
+[22:10:35] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[22:10:38] [ServerMain/INFO]: Loaded 7 recipes
+[22:10:40] [Server thread/INFO]: Starting minecraft server version 1.19
+[22:10:40] [Server thread/INFO]: Loading properties
+[22:10:40] [Server thread/INFO]: This server is running Paper version git-Paper-20 (MC: 1.19) (Implementing API version 1.19-R0.1-SNAPSHOT) (Git: 2dcfb2b)
+[22:10:40] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[22:10:40] [Server thread/INFO]: Using 4 threads for Netty based IO
+[22:10:41] [Server thread/INFO]: Default game type: SURVIVAL
+[22:10:41] [Server thread/INFO]: Generating keypair
+[22:10:41] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:10:41] [Server thread/INFO]: Using default channel type
+[22:10:41] [Server thread/INFO]: Paper: Using Java 11 compression from Velocity.
+[22:10:41] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
+[22:10:42] [Server thread/INFO]: [Graves] Loading Graves v4.8
+[22:10:42] [Server thread/INFO]: [BlockProt] Loading BlockProt v1.1.2
+[22:10:42] [Server thread/INFO]: [BlockProt] Registered plugin integration for plugin with id 'towny'
+[22:10:42] [Server thread/INFO]: [BlockProt] Registered plugin integration for plugin with id 'placeholderapi'
+[22:10:42] [Server thread/INFO]: [SinglePlayerSleep] Loading SinglePlayerSleep v1.13_2.13.47
+[22:10:42] [Server thread/INFO]: [LaggRemover] Loading LaggRemover v2.0.6
+[22:10:42] [Server thread/INFO]: [RHLeafDecay] Loading RHLeafDecay v1.19_R1
+[22:10:42] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[22:10:42] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:10:42] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:10:42] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:10:42] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:10:42] [Server thread/INFO]: Preparing level "world"
+[22:10:44] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:10:45] [Server thread/INFO]: Time elapsed: 443 ms
+[22:10:45] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[22:10:45] [Server thread/INFO]: Time elapsed: 156 ms
+[22:10:45] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[22:10:45] [Server thread/INFO]: Time elapsed: 189 ms
+[22:10:45] [Server thread/INFO]: [Graves] Enabling Graves v4.8
+[22:10:46] [Server thread/INFO]: [BlockProt] Enabling BlockProt v1.1.2
+[22:10:46] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Spigot: v1_19_R1! Trying to find NMS support
+[22:10:46] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_19_R1' loaded!
+[22:10:46] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Gson: class com.google.gson.Gson
+[22:10:46] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'Graves' to create a bStats instance!
+[22:10:46] [Server thread/WARN]: [BlockProt] At least 9 translations have not been found in config: translations_en.yml
+[22:10:46] [Server thread/INFO]: [SinglePlayerSleep] Enabling SinglePlayerSleep v1.13_2.13.47
+[22:10:46] [Server thread/INFO]: §a**************************************§r
+[22:10:46] [Server thread/INFO]: §eSinglePlayerSleep v1.13_2.13.47§r Loading...
+[22:10:46] [Server thread/INFO]: §eSinglePlayerSleep v1.13_2.13.47§r plugins\SinglePlayerSleep\config.yml
+[22:10:46] [Server thread/INFO]: Checking for updates...
+[22:10:47] [Thread-6/WARN]: [NBTAPI] [NBTAPI] The NBT-API located at 'package de.sean.blockprot.bukkit.shaded.nbtapi' seems to be outdated!
+[22:10:47] [Thread-6/WARN]: [NBTAPI] [NBTAPI] Current Version: '2.10.0-SNAPSHOT' Newest Version: 2.10.0'
+[22:10:47] [Thread-6/WARN]: [NBTAPI] [NBTAPI] Please update the NBTAPI or the plugin that contains the api(nag the mod author when the newest release has an old version, not the NBTAPI dev)!
+[22:10:47] [Server thread/INFO]: §eSinglePlayerSleep v1.13_2.13.47§r plugins\SinglePlayerSleep\permissions.yml
+[22:10:47] [Server thread/INFO]: §a**************************************§r
+[22:10:47] [Server thread/INFO]: §eSinglePlayerSleep v1.13_2.13.47§r is ENABLED
+[22:10:47] [Server thread/INFO]: §a**************************************§r
+[22:10:47] [Server thread/INFO]: §eSinglePlayerSleep v1.13_2.13.47§r This server is running Paper version git-Paper-20 (MC: 1.19) (Implementing API version 1.19-R0.1-SNAPSHOT)
+[22:10:47] [Server thread/INFO]: §eSinglePlayerSleep v1.13_2.13.47§r vardebug=false debug=false in plugins\SinglePlayerSleep/config.yml
+[22:10:47] [Server thread/INFO]: §eSinglePlayerSleep v1.13_2.13.47§r jarfilename=E:\Project\MCServer\Minecraft-Server\plugins\SinglePlayerSleep-1.13_2.13.47.jar
+[22:10:47] [Server thread/INFO]: [LaggRemover] Enabling LaggRemover v2.0.6
+[22:10:47] [Server thread/INFO]: [LaggRemover] [STDOUT] 
     __                      ____                                         _    _____
    / /   ____ _____ _____ _/ __ \___  ____ ___  ____ _   _____  _____   | |  / /__ \
   / /   / __ `/ __ `/ __ `/ /_/ / _ \/ __ `__ \/ __ \ | / / _ \/ ___/   | | / /__/ /
@@ -62,110 +62,59 @@
 /_____/\__,_/\__, /\__, /_/ |_|\___/_/ /_/ /_/\____/|___/\___/_/        |___//____/
             /____//____/
 
-[18:32:05] [Server thread/WARN]: Nag author(s): '[drew6017]' of 'LaggRemover' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
-[18:32:05] [Server thread/INFO]: [LaggRemover] Loaded 0 module(s)
-[18:32:05] [Server thread/INFO]: [LaggRemover] The LaggRemover AI is now active!
-[18:32:05] [Server thread/INFO]: [LaggRemover] LaggRemover has been enabled!
-[18:32:05] [Server thread/INFO]: [RHLeafDecay] Enabling RHLeafDecay v1.19_R1
-[18:32:05] [Server thread/INFO]: [RHLeafDecay] The plugin has been loaded!
-[18:32:05] [Server thread/INFO]: [RHLeafDecay] You are using version 1.19_R1 /w ? by X0R3
-[18:32:05] [Server thread/INFO]: [RHLeafDecay] Info:
-[18:32:05] [Server thread/INFO]: [RHLeafDecay] If you want your server be presented on the plugin page, then please contact me! :)
-[18:32:05] [Server thread/INFO]: Running delayed init tasks
-[18:32:06] [Server thread/INFO]: Done (8.930s)! For help, type "help"
-[18:32:06] [Server thread/INFO]: Timings Reset
-[18:32:06] [Craft Scheduler Thread - 1 - BlockProt/INFO]: [BlockProt] BlockProt is up to date. (1.1.2)
-[18:32:23] [User Authenticator #1/INFO]: UUID of player Shade1912 is a2f8b888-396c-3ca0-a3bd-354e7b80661b
-[18:32:23] [Server thread/INFO]: Shade1912 joined the game
-[18:32:23] [Server thread/INFO]: Shade1912[/[0:0:0:0:0:0:0:1]:61631] logged in with entity id 269 at ([world]867.3000000119209, 79.0, -1146.123184662328)
-[18:33:02] [Server thread/INFO]: Shade1912 issued server command: /gamemode spectator
-[18:33:02] [Server thread/INFO]: [Shade1912: Set own game mode to Spectator Mode]
-[18:33:49] [Server thread/INFO]: Shade1912 issued server command: /gamemode creative
-[18:33:49] [Server thread/INFO]: [Shade1912: Set own game mode to Creative Mode]
-[18:39:07] [User Authenticator #2/INFO]: UUID of player RohitSardeshmukh is ae640622-7e93-37c5-9dc3-158c765c9327
-[18:39:07] [Server thread/INFO]: RohitSardeshmukh joined the game
-[18:39:07] [Server thread/INFO]: RohitSardeshmukh[/[0:0:0:0:0:0:0:1]:64874] logged in with entity id 1783 at ([world]871.7153223601381, 108.5, -1190.7613091288013)
-[18:39:32] [Server thread/INFO]: Shade1912 issued server command: /gamemode spectator
-[18:39:32] [Server thread/INFO]: [Shade1912: Set own game mode to Spectator Mode]
-[18:39:44] [Server thread/INFO]: Shade1912 issued server command: /gamemode survival
-[18:39:44] [Server thread/INFO]: [Shade1912: Set own game mode to Survival Mode]
-[18:42:50] [Server thread/INFO]: Shade1912 lost connection: Disconnected
-[18:42:50] [Server thread/INFO]: Shade1912 left the game
-[18:42:55] [User Authenticator #3/INFO]: UUID of player Shade1912 is a2f8b888-396c-3ca0-a3bd-354e7b80661b
-[18:42:55] [Server thread/INFO]: Shade1912 joined the game
-[18:42:55] [Server thread/INFO]: Shade1912[/[0:0:0:0:0:0:0:1]:64890] logged in with entity id 2701 at ([world]918.3637031585616, 69.0, -1108.5934814789202)
-[18:43:16] [Server thread/INFO]: Shade1912 lost connection: Disconnected
-[18:43:16] [Server thread/INFO]: Shade1912 left the game
-[18:43:18] [User Authenticator #3/INFO]: UUID of player Shade1912 is a2f8b888-396c-3ca0-a3bd-354e7b80661b
-[18:43:18] [Server thread/INFO]: Shade1912 joined the game
-[18:43:18] [Server thread/INFO]: Shade1912[/[0:0:0:0:0:0:0:1]:64891] logged in with entity id 2766 at ([world]918.3637031585616, 69.0, -1108.5968104659282)
-[18:43:38] [Server thread/INFO]: Shade1912 issued server command: /gamemode spectator
-[18:43:38] [Server thread/INFO]: [Shade1912: Set own game mode to Spectator Mode]
-[18:47:51] [Server thread/WARN]: Ghodu (vehicle of RohitSardeshmukh) moved wrongly! 0.40244650540296334
-[18:47:51] [Server thread/WARN]: Ghodu (vehicle of RohitSardeshmukh) moved wrongly! 0.9722431425099103
-[18:47:51] [Server thread/WARN]: Ghodu (vehicle of RohitSardeshmukh) moved wrongly! 1.5418828259749944
-[18:52:44] [Server thread/INFO]: Shade1912 issued server command: /gamerule se
-[18:52:56] [Server thread/INFO]: Shade1912 issued server command: /gamerule sendCommandFeedback false
-[18:52:56] [Server thread/INFO]: [Shade1912: Gamerule sendCommandFeedback is now set to: false]
-[18:53:00] [Server thread/INFO]: Shade1912 issued server command: /gamemode creative
-[18:53:00] [Server thread/INFO]: [Shade1912: Set own game mode to Creative Mode]
-[18:54:24] [Server thread/INFO]: Shade1912 issued server command: /gamemode spectator
-[18:54:24] [Server thread/INFO]: [Shade1912: Set own game mode to Spectator Mode]
-[18:55:09] [Server thread/INFO]: Saving the game (this may take a moment!)
-[18:55:11] [Server thread/INFO]: Saved the game
-[18:55:36] [Server thread/INFO]: Shade1912 issued server command: /gamemode survival
-[18:55:36] [Server thread/INFO]: [Shade1912: Set own game mode to Survival Mode]
-[18:56:30] [Server thread/INFO]: Shade1912 issued server command: /gamemode spectator
-[18:56:30] [Server thread/INFO]: [Shade1912: Set own game mode to Spectator Mode]
-[18:56:33] [Server thread/INFO]: Shade1912 issued server command: /gamemode spectator
-[18:58:25] [User Authenticator #4/INFO]: UUID of player OmkarSANAS is 0578c101-ef8a-3ea5-bece-979eaea41d7e
-[18:58:26] [Server thread/INFO]: OmkarSANAS joined the game
-[18:58:26] [Server thread/INFO]: OmkarSANAS[/127.0.0.1:65273] logged in with entity id 7667 at ([world]881.3865799302719, 116.0, -1201.9029807023069)
-[19:01:35] [Server thread/WARN]: Boat (vehicle of RohitSardeshmukh) moved wrongly! 0.5776651628054879
-[19:01:35] [Server thread/WARN]: Boat (vehicle of RohitSardeshmukh) moved wrongly! 0.8997811896904295
-[19:01:35] [Server thread/WARN]: Boat (vehicle of RohitSardeshmukh) moved wrongly! 1.2345920536217818
-[19:03:20] [Server thread/INFO]: Villager EntityVillager['Villager'/7725, uuid='00000000-26f8-4fb9-bfff-ffffcb494dd8', l='ServerLevel[world]', x=937.60, y=99.05, z=-1451.70, cpos=[58, -91], tl=1702149, v=true] died, message: 'Villager was slain by Zombie'
-[19:03:56] [Server thread/INFO]: Shade1912 issued server command: /gamemode creative
-[19:03:56] [Server thread/INFO]: [Shade1912: Set own game mode to Creative Mode]
-[19:04:04] [Server thread/INFO]: Shade1912 has made the advancement [Ice Bucket Challenge]
-[19:04:11] [Server thread/INFO]: Shade1912 issued server command: /gamemode spectator
-[19:04:11] [Server thread/INFO]: [Shade1912: Set own game mode to Spectator Mode]
-[19:05:43] [Server thread/WARN]: Boat (vehicle of RohitSardeshmukh) moved wrongly! 0.3284601933054105
-[19:05:43] [Server thread/WARN]: Boat (vehicle of RohitSardeshmukh) moved wrongly! 0.3284601933054105
-[19:09:33] [Server thread/INFO]: Shade1912 issued server command: /gamemode creative
-[19:09:33] [Server thread/INFO]: [Shade1912: Set own game mode to Creative Mode]
-[19:13:38] [Server thread/INFO]: Shade1912 issued server command: /gamemode spectator
-[19:13:38] [Server thread/INFO]: [Shade1912: Set own game mode to Spectator Mode]
-[19:26:18] [Server thread/INFO]: Shade1912 issued server command: /gamemode creative
-[19:26:18] [Server thread/INFO]: [Shade1912: Set own game mode to Creative Mode]
-[19:27:11] [Server thread/INFO]: Shade1912 issued server command: /gamemode spectator
-[19:27:11] [Server thread/INFO]: [Shade1912: Set own game mode to Spectator Mode]
-[19:27:30] [Server thread/INFO]: Shade1912 issued server command: /gamemode creative
-[19:27:30] [Server thread/INFO]: [Shade1912: Set own game mode to Creative Mode]
-[19:32:17] [Server thread/INFO]: OmkarSANAS issued server command: /gamemode creative
-[19:32:17] [Server thread/INFO]: [OmkarSANAS: Set own game mode to Creative Mode]
-[19:33:46] [Server thread/INFO]: OmkarSANAS issued server command: /gamemode survival
-[19:33:46] [Server thread/INFO]: [OmkarSANAS: Set own game mode to Survival Mode]
-[19:49:14] [Server thread/INFO]: OmkarSANAS has made the advancement [A Terrible Fortress]
-[19:49:56] [Server thread/INFO]: OmkarSANAS has made the advancement [Into Fire]
-[19:51:13] [Server thread/INFO]: OmkarSANAS issued server command: /give OmkarSANAS minecraft:coal 15
-[19:51:13] [Server thread/INFO]: [OmkarSANAS: Gave 15 [Coal] to OmkarSANAS]
-[19:56:50] [Server thread/INFO]: OmkarSANAS has made the advancement [Ice Bucket Challenge]
-[19:57:02] [Server thread/INFO]: Shade1912 issued server command: /gamemode spectator
-[19:57:02] [Server thread/INFO]: [Shade1912: Set own game mode to Spectator Mode]
-[19:57:07] [Server thread/INFO]: Shade1912 issued server command: /gamemode creative
-[19:57:07] [Server thread/INFO]: [Shade1912: Set own game mode to Creative Mode]
-[19:58:33] [Server thread/INFO]: OmkarSANAS has completed the challenge [Hot Tourist Destinations]
-[20:01:14] [Server thread/INFO]: OmkarSANAS lost connection: Disconnected
-[20:01:14] [Server thread/INFO]: OmkarSANAS left the game
-[20:01:28] [Server thread/INFO]: Shade1912 issued server command: /save
-[20:01:29] [Server thread/INFO]: Saving the game (this may take a moment!)
-[20:01:29] [Server thread/INFO]: Saved the game
-[20:01:34] [Server thread/INFO]: Shade1912 issued server command: /save-all
-[20:01:34] [Server thread/INFO]: [Shade1912: Saved the game]
-[20:01:37] [Server thread/INFO]: Shade1912 issued server command: /gamemode spectator
-[20:01:37] [Server thread/INFO]: [Shade1912: Set own game mode to Spectator Mode]
-[20:01:39] [Server thread/INFO]: Shade1912 issued server command: /gamemode creative
-[20:01:39] [Server thread/INFO]: [Shade1912: Set own game mode to Creative Mode]
-[20:01:43] [Server thread/INFO]: Shade1912 lost connection: Disconnected
-[20:01:43] [Server thread/INFO]: Shade1912 left the game
+[22:10:47] [Server thread/WARN]: Nag author(s): '[drew6017]' of 'LaggRemover' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
+[22:10:47] [Server thread/INFO]: [LaggRemover] Loaded 0 module(s)
+[22:10:47] [Server thread/INFO]: [LaggRemover] The LaggRemover AI is now active!
+[22:10:47] [Server thread/INFO]: [LaggRemover] LaggRemover has been enabled!
+[22:10:47] [Server thread/INFO]: [RHLeafDecay] Enabling RHLeafDecay v1.19_R1
+[22:10:48] [Server thread/INFO]: [RHLeafDecay] The plugin has been loaded!
+[22:10:48] [Server thread/INFO]: [RHLeafDecay] You are using version 1.19_R1 /w ? by X0R3
+[22:10:48] [Server thread/INFO]: [RHLeafDecay] Info:
+[22:10:48] [Server thread/INFO]: [RHLeafDecay] If you want your server be presented on the plugin page, then please contact me! :)
+[22:10:48] [Server thread/INFO]: Running delayed init tasks
+[22:10:48] [Craft Scheduler Thread - 1 - BlockProt/INFO]: [BlockProt] BlockProt is up to date. (1.1.2)
+[22:10:48] [Server thread/INFO]: Done (8.094s)! For help, type "help"
+[22:10:48] [Server thread/INFO]: Timings Reset
+[22:13:58] [User Authenticator #1/INFO]: UUID of player OmkarSANAS is 0578c101-ef8a-3ea5-bece-979eaea41d7e
+[22:13:59] [Server thread/INFO]: OmkarSANAS joined the game
+[22:13:59] [Server thread/INFO]: OmkarSANAS[/[0:0:0:0:0:0:0:1]:58642] logged in with entity id 248 at ([world_nether]453.56793826045845, 60.0, -238.47763927660347)
+[22:31:01] [User Authenticator #2/INFO]: UUID of player RohitSardeshmukh is ae640622-7e93-37c5-9dc3-158c765c9327
+[22:31:01] [Server thread/INFO]: RohitSardeshmukh joined the game
+[22:31:01] [Server thread/INFO]: RohitSardeshmukh[/[0:0:0:0:0:0:0:1]:55252] logged in with entity id 3093 at ([world]44.30000001192093, 63.0, -2104.912890992464)
+[22:40:54] [Server thread/INFO]: RohitSardeshmukh lost connection: Disconnected
+[22:40:54] [Server thread/INFO]: RohitSardeshmukh left the game
+[23:03:15] [Server thread/INFO]: OmkarSANAS lost connection: Disconnected
+[23:03:15] [Server thread/INFO]: OmkarSANAS left the game
+[23:03:35] [User Authenticator #3/INFO]: UUID of player OmkarSANAS is 0578c101-ef8a-3ea5-bece-979eaea41d7e
+[23:03:35] [Server thread/INFO]: OmkarSANAS joined the game
+[23:03:35] [Server thread/INFO]: OmkarSANAS[/[0:0:0:0:0:0:0:1]:61969] logged in with entity id 12122 at ([world]882.3968622224054, 116.0, -1192.2503970023802)
+[23:05:36] [Server thread/INFO]: OmkarSANAS lost connection: Disconnected
+[23:05:36] [Server thread/INFO]: OmkarSANAS left the game
+[23:05:51] [Server thread/INFO]: Saving the game (this may take a moment!)
+[23:05:52] [Server thread/INFO]: Saved the game
+[23:07:20] [Server thread/INFO]: Stopping the server
+[23:07:21] [Server thread/INFO]: Stopping server
+[23:07:21] [Server thread/INFO]: [RHLeafDecay] Disabling RHLeafDecay v1.19_R1
+[23:07:21] [Server thread/INFO]: [RHLeafDecay] Cleaned up scheduledBlocks...
+[23:07:21] [Server thread/INFO]: [RHLeafDecay] The plugin has been unloaded!
+[23:07:21] [Server thread/INFO]: [LaggRemover] Disabling LaggRemover v2.0.6
+[23:07:21] [Server thread/INFO]: [LaggRemover] LaggRemover has been disabled!
+[23:07:21] [Server thread/INFO]: [SinglePlayerSleep] Disabling SinglePlayerSleep v1.13_2.13.47
+[23:07:21] [Server thread/INFO]: §a**************************************§r
+[23:07:21] [Server thread/INFO]: §eSinglePlayerSleep v1.13_2.13.47§r is DISABLED
+[23:07:21] [Server thread/INFO]: §a**************************************§r
+[23:07:21] [Server thread/INFO]: [BlockProt] Disabling BlockProt v1.1.2
+[23:07:21] [Server thread/INFO]: [BlockProt] Saving statistic file...
+[23:07:21] [Server thread/INFO]: [Graves] Disabling Graves v4.8
+[23:07:21] [Server thread/INFO]: Saving players
+[23:07:21] [Server thread/INFO]: Saving worlds
+[23:07:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23:07:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[23:07:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[23:07:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:07:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:07:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:07:23] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[23:07:26] [Server thread/INFO]: Flushing Chunk IO
+[23:07:26] [Server thread/INFO]: Closing Thread Pool
+[23:07:26] [Server thread/INFO]: Closing Server
