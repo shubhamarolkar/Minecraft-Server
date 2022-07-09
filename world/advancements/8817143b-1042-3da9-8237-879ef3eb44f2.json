@@ -1499,6 +1499,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "salmon": "2022-07-09 15:01:13 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
     "criteria": {
       "has_the_recipe": "2022-07-06 21:15:11 +0530"
@@ -1564,6 +1570,14 @@
       "has_the_recipe": "2022-07-06 21:15:11 +0530"
     },
     "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2022-07-09 14:10:31 +0530",
+      "minecraft:soul_sand_valley": "2022-07-09 14:07:03 +0530",
+      "minecraft:basalt_deltas": "2022-07-09 14:06:25 +0530"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/prismarine": {
     "criteria": {
@@ -1748,6 +1762,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_the_recipe": "2022-07-06 21:15:11 +0530"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2022-07-09 14:06:24 +0530"
     },
     "done": true
   },
@@ -2083,7 +2103,8 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "minecraft:sheep": "2022-07-07 19:07:21 +0530"
+      "minecraft:sheep": "2022-07-07 19:07:21 +0530",
+      "minecraft:cow": "2022-07-09 14:56:57 +0530"
     },
     "done": false
   },
@@ -2339,6 +2360,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2022-07-09 14:06:24 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-07-06 16:06:24 +0530"
@@ -2528,6 +2555,12 @@
   "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_the_recipe": "2022-07-06 21:15:11 +0530"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tactical_fishing": {
+    "criteria": {
+      "salmon_bucket": "2022-07-09 16:25:50 +0530"
     },
     "done": true
   },
@@ -2894,6 +2927,12 @@
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2022-07-06 14:53:46 +0530"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2022-07-09 17:05:51 +0530"
     },
     "done": true
   },
@@ -3272,6 +3311,12 @@
   "minecraft:recipes/decorations/mud_brick_wall": {
     "criteria": {
       "has_the_recipe": "2022-07-06 21:15:11 +0530"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2022-07-09 13:57:52 +0530"
     },
     "done": true
   },
@@ -3836,7 +3881,11 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2022-07-07 17:12:45 +0530",
+      "minecraft:magma_cube": "2022-07-09 14:16:43 +0530",
+      "minecraft:spider": "2022-07-09 14:50:16 +0530",
       "minecraft:creeper": "2022-07-06 15:43:53 +0530",
+      "minecraft:zombified_piglin": "2022-07-09 14:12:27 +0530",
+      "minecraft:piglin": "2022-07-09 14:15:53 +0530",
       "minecraft:enderman": "2022-07-08 20:25:45 +0530",
       "minecraft:zombie": "2022-07-06 19:10:15 +0530",
       "minecraft:drowned": "2022-07-07 19:03:18 +0530"
@@ -3876,6 +3925,12 @@
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_the_recipe": "2022-07-06 21:15:11 +0530"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2022-07-09 15:41:49 +0530"
     },
     "done": true
   },
@@ -5168,8 +5223,10 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2022-07-09 15:40:59 +0530",
       "cooked_mutton": "2022-07-06 16:41:18 +0530",
       "cooked_beef": "2022-07-06 20:06:54 +0530",
+      "baked_potato": "2022-07-09 16:04:38 +0530",
       "apple": "2022-07-06 16:31:41 +0530",
       "bread": "2022-07-06 17:29:02 +0530",
       "rotten_flesh": "2022-07-06 15:01:02 +0530",
