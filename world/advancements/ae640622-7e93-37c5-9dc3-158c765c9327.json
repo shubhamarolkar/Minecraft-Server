@@ -1571,6 +1571,13 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2022-07-09 13:58:51 +0530",
+      "minecraft:basalt_deltas": "2022-07-09 13:58:12 +0530"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/prismarine": {
     "criteria": {
       "has_the_recipe": "2022-07-06 21:15:11 +0530"
@@ -1754,6 +1761,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_the_recipe": "2022-07-06 21:15:11 +0530"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2022-07-09 13:58:12 +0530"
     },
     "done": true
   },
@@ -2339,6 +2352,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2022-07-09 13:58:12 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_the_recipe": "2022-07-06 21:15:11 +0530"
@@ -2897,6 +2916,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2022-07-09 14:02:22 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
       "has_the_recipe": "2022-07-06 21:15:11 +0530"
@@ -3272,6 +3297,12 @@
   "minecraft:recipes/decorations/mud_brick_wall": {
     "criteria": {
       "has_the_recipe": "2022-07-06 21:15:11 +0530"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2022-07-09 13:41:59 +0530"
     },
     "done": true
   },
@@ -3671,6 +3702,12 @@
     },
     "done": true
   },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2022-07-09 14:02:30 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_candle": {
     "criteria": {
       "has_the_recipe": "2022-07-06 21:15:11 +0530"
@@ -3830,11 +3867,14 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2022-06-13 19:05:27 +0530",
+      "minecraft:ghast": "2022-07-09 14:02:30 +0530",
       "minecraft:spider": "2022-06-13 23:21:42 +0530",
       "minecraft:creeper": "2022-06-13 23:35:23 +0530",
       "minecraft:slime": "2022-07-09 00:08:03 +0530",
+      "minecraft:zombified_piglin": "2022-07-09 14:21:12 +0530",
       "minecraft:zombie": "2022-06-13 18:40:09 +0530",
-      "minecraft:drowned": "2022-07-08 23:34:23 +0530"
+      "minecraft:drowned": "2022-07-08 23:34:23 +0530",
+      "minecraft:zombie_villager": "2022-07-09 13:05:39 +0530"
     },
     "done": false
   },
@@ -3871,6 +3911,12 @@
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_the_recipe": "2022-07-06 21:15:11 +0530"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2022-07-09 14:32:12 +0530"
     },
     "done": true
   },
@@ -5181,8 +5227,10 @@
       "bread": "2022-06-13 19:19:32 +0530",
       "salmon": "2022-06-13 18:34:30 +0530",
       "melon_slice": "2022-06-13 19:01:51 +0530",
+      "golden_carrot": "2022-07-09 13:10:44 +0530",
       "cooked_chicken": "2022-07-06 15:06:13 +0530",
-      "cooked_salmon": "2022-07-07 22:27:34 +0530"
+      "cooked_salmon": "2022-07-07 22:27:34 +0530",
+      "carrot": "2022-07-09 16:35:42 +0530"
     },
     "done": false
   },
