@@ -1,60 +1,60 @@
-[22:10:32] [ServerMain/INFO]: Building unoptimized datafixer
-[22:10:35] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[22:10:38] [ServerMain/INFO]: Loaded 7 recipes
-[22:10:40] [Server thread/INFO]: Starting minecraft server version 1.19
-[22:10:40] [Server thread/INFO]: Loading properties
-[22:10:40] [Server thread/INFO]: This server is running Paper version git-Paper-20 (MC: 1.19) (Implementing API version 1.19-R0.1-SNAPSHOT) (Git: 2dcfb2b)
-[22:10:40] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[22:10:40] [Server thread/INFO]: Using 4 threads for Netty based IO
-[22:10:41] [Server thread/INFO]: Default game type: SURVIVAL
-[22:10:41] [Server thread/INFO]: Generating keypair
-[22:10:41] [Server thread/INFO]: Starting Minecraft server on *:25565
-[22:10:41] [Server thread/INFO]: Using default channel type
-[22:10:41] [Server thread/INFO]: Paper: Using Java 11 compression from Velocity.
-[22:10:41] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
-[22:10:42] [Server thread/INFO]: [Graves] Loading Graves v4.8
-[22:10:42] [Server thread/INFO]: [BlockProt] Loading BlockProt v1.1.2
-[22:10:42] [Server thread/INFO]: [BlockProt] Registered plugin integration for plugin with id 'towny'
-[22:10:42] [Server thread/INFO]: [BlockProt] Registered plugin integration for plugin with id 'placeholderapi'
-[22:10:42] [Server thread/INFO]: [SinglePlayerSleep] Loading SinglePlayerSleep v1.13_2.13.47
-[22:10:42] [Server thread/INFO]: [LaggRemover] Loading LaggRemover v2.0.6
-[22:10:42] [Server thread/INFO]: [RHLeafDecay] Loading RHLeafDecay v1.19_R1
-[22:10:42] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[22:10:42] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[22:10:42] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[22:10:42] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[22:10:42] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[22:10:42] [Server thread/INFO]: Preparing level "world"
-[22:10:44] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[22:10:45] [Server thread/INFO]: Time elapsed: 443 ms
-[22:10:45] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[22:10:45] [Server thread/INFO]: Time elapsed: 156 ms
-[22:10:45] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[22:10:45] [Server thread/INFO]: Time elapsed: 189 ms
-[22:10:45] [Server thread/INFO]: [Graves] Enabling Graves v4.8
-[22:10:46] [Server thread/INFO]: [BlockProt] Enabling BlockProt v1.1.2
-[22:10:46] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Spigot: v1_19_R1! Trying to find NMS support
-[22:10:46] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_19_R1' loaded!
-[22:10:46] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Gson: class com.google.gson.Gson
-[22:10:46] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'Graves' to create a bStats instance!
-[22:10:46] [Server thread/WARN]: [BlockProt] At least 9 translations have not been found in config: translations_en.yml
-[22:10:46] [Server thread/INFO]: [SinglePlayerSleep] Enabling SinglePlayerSleep v1.13_2.13.47
-[22:10:46] [Server thread/INFO]: §a**************************************§r
-[22:10:46] [Server thread/INFO]: §eSinglePlayerSleep v1.13_2.13.47§r Loading...
-[22:10:46] [Server thread/INFO]: §eSinglePlayerSleep v1.13_2.13.47§r plugins\SinglePlayerSleep\config.yml
-[22:10:46] [Server thread/INFO]: Checking for updates...
-[22:10:47] [Thread-6/WARN]: [NBTAPI] [NBTAPI] The NBT-API located at 'package de.sean.blockprot.bukkit.shaded.nbtapi' seems to be outdated!
-[22:10:47] [Thread-6/WARN]: [NBTAPI] [NBTAPI] Current Version: '2.10.0-SNAPSHOT' Newest Version: 2.10.0'
-[22:10:47] [Thread-6/WARN]: [NBTAPI] [NBTAPI] Please update the NBTAPI or the plugin that contains the api(nag the mod author when the newest release has an old version, not the NBTAPI dev)!
-[22:10:47] [Server thread/INFO]: §eSinglePlayerSleep v1.13_2.13.47§r plugins\SinglePlayerSleep\permissions.yml
-[22:10:47] [Server thread/INFO]: §a**************************************§r
-[22:10:47] [Server thread/INFO]: §eSinglePlayerSleep v1.13_2.13.47§r is ENABLED
-[22:10:47] [Server thread/INFO]: §a**************************************§r
-[22:10:47] [Server thread/INFO]: §eSinglePlayerSleep v1.13_2.13.47§r This server is running Paper version git-Paper-20 (MC: 1.19) (Implementing API version 1.19-R0.1-SNAPSHOT)
-[22:10:47] [Server thread/INFO]: §eSinglePlayerSleep v1.13_2.13.47§r vardebug=false debug=false in plugins\SinglePlayerSleep/config.yml
-[22:10:47] [Server thread/INFO]: §eSinglePlayerSleep v1.13_2.13.47§r jarfilename=E:\Project\MCServer\Minecraft-Server\plugins\SinglePlayerSleep-1.13_2.13.47.jar
-[22:10:47] [Server thread/INFO]: [LaggRemover] Enabling LaggRemover v2.0.6
-[22:10:47] [Server thread/INFO]: [LaggRemover] [STDOUT] 
+[18:41:18] [ServerMain/INFO]: Building unoptimized datafixer
+[18:41:21] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[18:41:24] [ServerMain/INFO]: Loaded 7 recipes
+[18:41:26] [Server thread/INFO]: Starting minecraft server version 1.19
+[18:41:26] [Server thread/INFO]: Loading properties
+[18:41:26] [Server thread/INFO]: This server is running Paper version git-Paper-20 (MC: 1.19) (Implementing API version 1.19-R0.1-SNAPSHOT) (Git: 2dcfb2b)
+[18:41:26] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[18:41:26] [Server thread/INFO]: Using 4 threads for Netty based IO
+[18:41:27] [Server thread/INFO]: Default game type: SURVIVAL
+[18:41:27] [Server thread/INFO]: Generating keypair
+[18:41:28] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:41:28] [Server thread/INFO]: Using default channel type
+[18:41:28] [Server thread/INFO]: Paper: Using Java 11 compression from Velocity.
+[18:41:28] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
+[18:41:29] [Server thread/INFO]: [Graves] Loading Graves v4.8
+[18:41:29] [Server thread/INFO]: [BlockProt] Loading BlockProt v1.1.2
+[18:41:29] [Server thread/INFO]: [BlockProt] Registered plugin integration for plugin with id 'towny'
+[18:41:29] [Server thread/INFO]: [BlockProt] Registered plugin integration for plugin with id 'placeholderapi'
+[18:41:29] [Server thread/INFO]: [SinglePlayerSleep] Loading SinglePlayerSleep v1.13_2.13.47
+[18:41:29] [Server thread/INFO]: [LaggRemover] Loading LaggRemover v2.0.6
+[18:41:29] [Server thread/INFO]: [RHLeafDecay] Loading RHLeafDecay v1.19_R1
+[18:41:29] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[18:41:29] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:41:29] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:41:29] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:41:29] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:41:29] [Server thread/INFO]: Preparing level "world"
+[18:41:31] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:41:31] [Server thread/INFO]: Time elapsed: 427 ms
+[18:41:31] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[18:41:31] [Server thread/INFO]: Time elapsed: 124 ms
+[18:41:31] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[18:41:31] [Server thread/INFO]: Time elapsed: 105 ms
+[18:41:31] [Server thread/INFO]: [Graves] Enabling Graves v4.8
+[18:41:32] [Server thread/INFO]: [BlockProt] Enabling BlockProt v1.1.2
+[18:41:32] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Spigot: v1_19_R1! Trying to find NMS support
+[18:41:32] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_19_R1' loaded!
+[18:41:32] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Gson: class com.google.gson.Gson
+[18:41:32] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'Graves' to create a bStats instance!
+[18:41:33] [Server thread/WARN]: [BlockProt] At least 9 translations have not been found in config: translations_en.yml
+[18:41:33] [Server thread/INFO]: [SinglePlayerSleep] Enabling SinglePlayerSleep v1.13_2.13.47
+[18:41:33] [Server thread/INFO]: §a**************************************§r
+[18:41:33] [Server thread/INFO]: §eSinglePlayerSleep v1.13_2.13.47§r Loading...
+[18:41:33] [Server thread/INFO]: §eSinglePlayerSleep v1.13_2.13.47§r plugins\SinglePlayerSleep\config.yml
+[18:41:33] [Server thread/INFO]: Checking for updates...
+[18:41:33] [Thread-6/WARN]: [NBTAPI] [NBTAPI] The NBT-API located at 'package de.sean.blockprot.bukkit.shaded.nbtapi' seems to be outdated!
+[18:41:33] [Thread-6/WARN]: [NBTAPI] [NBTAPI] Current Version: '2.10.0-SNAPSHOT' Newest Version: 2.10.0'
+[18:41:33] [Thread-6/WARN]: [NBTAPI] [NBTAPI] Please update the NBTAPI or the plugin that contains the api(nag the mod author when the newest release has an old version, not the NBTAPI dev)!
+[18:41:34] [Server thread/INFO]: §eSinglePlayerSleep v1.13_2.13.47§r plugins\SinglePlayerSleep\permissions.yml
+[18:41:34] [Server thread/INFO]: §a**************************************§r
+[18:41:34] [Server thread/INFO]: §eSinglePlayerSleep v1.13_2.13.47§r is ENABLED
+[18:41:34] [Server thread/INFO]: §a**************************************§r
+[18:41:34] [Server thread/INFO]: §eSinglePlayerSleep v1.13_2.13.47§r This server is running Paper version git-Paper-20 (MC: 1.19) (Implementing API version 1.19-R0.1-SNAPSHOT)
+[18:41:34] [Server thread/INFO]: §eSinglePlayerSleep v1.13_2.13.47§r vardebug=false debug=false in plugins\SinglePlayerSleep/config.yml
+[18:41:34] [Server thread/INFO]: §eSinglePlayerSleep v1.13_2.13.47§r jarfilename=E:\Project\MCServer\Minecraft-Server\plugins\SinglePlayerSleep-1.13_2.13.47.jar
+[18:41:34] [Server thread/INFO]: [LaggRemover] Enabling LaggRemover v2.0.6
+[18:41:34] [Server thread/INFO]: [LaggRemover] [STDOUT] 
     __                      ____                                         _    _____
    / /   ____ _____ _____ _/ __ \___  ____ ___  ____ _   _____  _____   | |  / /__ \
   / /   / __ `/ __ `/ __ `/ /_/ / _ \/ __ `__ \/ __ \ | / / _ \/ ___/   | | / /__/ /
@@ -62,59 +62,22 @@
 /_____/\__,_/\__, /\__, /_/ |_|\___/_/ /_/ /_/\____/|___/\___/_/        |___//____/
             /____//____/
 
-[22:10:47] [Server thread/WARN]: Nag author(s): '[drew6017]' of 'LaggRemover' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
-[22:10:47] [Server thread/INFO]: [LaggRemover] Loaded 0 module(s)
-[22:10:47] [Server thread/INFO]: [LaggRemover] The LaggRemover AI is now active!
-[22:10:47] [Server thread/INFO]: [LaggRemover] LaggRemover has been enabled!
-[22:10:47] [Server thread/INFO]: [RHLeafDecay] Enabling RHLeafDecay v1.19_R1
-[22:10:48] [Server thread/INFO]: [RHLeafDecay] The plugin has been loaded!
-[22:10:48] [Server thread/INFO]: [RHLeafDecay] You are using version 1.19_R1 /w ? by X0R3
-[22:10:48] [Server thread/INFO]: [RHLeafDecay] Info:
-[22:10:48] [Server thread/INFO]: [RHLeafDecay] If you want your server be presented on the plugin page, then please contact me! :)
-[22:10:48] [Server thread/INFO]: Running delayed init tasks
-[22:10:48] [Craft Scheduler Thread - 1 - BlockProt/INFO]: [BlockProt] BlockProt is up to date. (1.1.2)
-[22:10:48] [Server thread/INFO]: Done (8.094s)! For help, type "help"
-[22:10:48] [Server thread/INFO]: Timings Reset
-[22:13:58] [User Authenticator #1/INFO]: UUID of player OmkarSANAS is 0578c101-ef8a-3ea5-bece-979eaea41d7e
-[22:13:59] [Server thread/INFO]: OmkarSANAS joined the game
-[22:13:59] [Server thread/INFO]: OmkarSANAS[/[0:0:0:0:0:0:0:1]:58642] logged in with entity id 248 at ([world_nether]453.56793826045845, 60.0, -238.47763927660347)
-[22:31:01] [User Authenticator #2/INFO]: UUID of player RohitSardeshmukh is ae640622-7e93-37c5-9dc3-158c765c9327
-[22:31:01] [Server thread/INFO]: RohitSardeshmukh joined the game
-[22:31:01] [Server thread/INFO]: RohitSardeshmukh[/[0:0:0:0:0:0:0:1]:55252] logged in with entity id 3093 at ([world]44.30000001192093, 63.0, -2104.912890992464)
-[22:40:54] [Server thread/INFO]: RohitSardeshmukh lost connection: Disconnected
-[22:40:54] [Server thread/INFO]: RohitSardeshmukh left the game
-[23:03:15] [Server thread/INFO]: OmkarSANAS lost connection: Disconnected
-[23:03:15] [Server thread/INFO]: OmkarSANAS left the game
-[23:03:35] [User Authenticator #3/INFO]: UUID of player OmkarSANAS is 0578c101-ef8a-3ea5-bece-979eaea41d7e
-[23:03:35] [Server thread/INFO]: OmkarSANAS joined the game
-[23:03:35] [Server thread/INFO]: OmkarSANAS[/[0:0:0:0:0:0:0:1]:61969] logged in with entity id 12122 at ([world]882.3968622224054, 116.0, -1192.2503970023802)
-[23:05:36] [Server thread/INFO]: OmkarSANAS lost connection: Disconnected
-[23:05:36] [Server thread/INFO]: OmkarSANAS left the game
-[23:05:51] [Server thread/INFO]: Saving the game (this may take a moment!)
-[23:05:52] [Server thread/INFO]: Saved the game
-[23:07:20] [Server thread/INFO]: Stopping the server
-[23:07:21] [Server thread/INFO]: Stopping server
-[23:07:21] [Server thread/INFO]: [RHLeafDecay] Disabling RHLeafDecay v1.19_R1
-[23:07:21] [Server thread/INFO]: [RHLeafDecay] Cleaned up scheduledBlocks...
-[23:07:21] [Server thread/INFO]: [RHLeafDecay] The plugin has been unloaded!
-[23:07:21] [Server thread/INFO]: [LaggRemover] Disabling LaggRemover v2.0.6
-[23:07:21] [Server thread/INFO]: [LaggRemover] LaggRemover has been disabled!
-[23:07:21] [Server thread/INFO]: [SinglePlayerSleep] Disabling SinglePlayerSleep v1.13_2.13.47
-[23:07:21] [Server thread/INFO]: §a**************************************§r
-[23:07:21] [Server thread/INFO]: §eSinglePlayerSleep v1.13_2.13.47§r is DISABLED
-[23:07:21] [Server thread/INFO]: §a**************************************§r
-[23:07:21] [Server thread/INFO]: [BlockProt] Disabling BlockProt v1.1.2
-[23:07:21] [Server thread/INFO]: [BlockProt] Saving statistic file...
-[23:07:21] [Server thread/INFO]: [Graves] Disabling Graves v4.8
-[23:07:21] [Server thread/INFO]: Saving players
-[23:07:21] [Server thread/INFO]: Saving worlds
-[23:07:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[23:07:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[23:07:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[23:07:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[23:07:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:07:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[23:07:23] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[23:07:26] [Server thread/INFO]: Flushing Chunk IO
-[23:07:26] [Server thread/INFO]: Closing Thread Pool
-[23:07:26] [Server thread/INFO]: Closing Server
+[18:41:34] [Server thread/WARN]: Nag author(s): '[drew6017]' of 'LaggRemover' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
+[18:41:34] [Server thread/INFO]: [LaggRemover] Loaded 0 module(s)
+[18:41:34] [Server thread/INFO]: [LaggRemover] The LaggRemover AI is now active!
+[18:41:34] [Server thread/INFO]: [LaggRemover] LaggRemover has been enabled!
+[18:41:34] [Server thread/INFO]: [RHLeafDecay] Enabling RHLeafDecay v1.19_R1
+[18:41:34] [Server thread/INFO]: [RHLeafDecay] The plugin has been loaded!
+[18:41:34] [Server thread/INFO]: [RHLeafDecay] You are using version 1.19_R1 /w ? by X0R3
+[18:41:34] [Server thread/INFO]: [RHLeafDecay] Info:
+[18:41:34] [Server thread/INFO]: [RHLeafDecay] If you want your server be presented on the plugin page, then please contact me! :)
+[18:41:34] [Server thread/INFO]: Running delayed init tasks
+[18:41:35] [Craft Scheduler Thread - 0 - BlockProt/INFO]: [BlockProt] BlockProt is up to date. (1.1.2)
+[18:41:36] [Server thread/INFO]: Done (9.291s)! For help, type "help"
+[18:41:36] [Server thread/INFO]: Timings Reset
+[18:42:03] [Server thread/INFO]: Stopping server
+[18:42:03] [Server thread/INFO]: [RHLeafDecay] Cleaned up scheduledBlocks...
+[18:42:03] [Server thread/INFO]: [RHLeafDecay] The plugin has been unloaded!
+[18:42:03] [Server thread/INFO]: Saving players
+[18:42:03] [Server thread/INFO]: Saving worlds
+[18:42:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
