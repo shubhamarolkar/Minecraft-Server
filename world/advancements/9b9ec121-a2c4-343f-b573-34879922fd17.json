@@ -3874,6 +3874,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2022-07-12 01:02:21 +0530",
       "minecraft:skeleton": "2022-07-06 13:36:48 +0530",
       "minecraft:ghast": "2022-07-07 14:56:49 +0530",
       "minecraft:magma_cube": "2022-07-07 17:15:16 +0530",
@@ -3969,6 +3970,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_slab": {
     "criteria": {
       "has_the_recipe": "2022-07-07 14:39:41 +0530"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2022-07-12 01:02:21 +0530"
     },
     "done": true
   },
@@ -4634,7 +4641,9 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:eroded_badlands": "2022-07-12 00:37:53 +0530",
       "minecraft:wooded_badlands": "2022-07-06 13:23:32 +0530",
+      "minecraft:badlands": "2022-07-12 00:31:34 +0530",
       "minecraft:savanna_plateau": "2022-07-06 13:26:20 +0530",
       "minecraft:beach": "2022-07-07 22:14:48 +0530",
       "minecraft:stony_peaks": "2022-07-06 13:27:00 +0530",
@@ -4646,6 +4655,8 @@
       "minecraft:dripstone_caves": "2022-07-06 13:35:06 +0530",
       "minecraft:forest": "2022-07-06 17:32:56 +0530",
       "minecraft:desert": "2022-07-06 17:34:41 +0530",
+      "minecraft:jungle": "2022-07-12 00:22:50 +0530",
+      "minecraft:warm_ocean": "2022-07-12 00:28:44 +0530",
       "minecraft:deep_dark": "2022-07-06 13:36:35 +0530",
       "minecraft:savanna": "2022-07-06 13:25:09 +0530",
       "minecraft:plains": "2022-07-06 17:31:15 +0530"
@@ -5245,6 +5256,7 @@
       "apple": "2022-07-08 00:10:09 +0530",
       "bread": "2022-07-06 13:27:30 +0530",
       "glow_berries": "2022-07-07 22:45:08 +0530",
+      "cooked_rabbit": "2022-07-12 00:36:51 +0530",
       "cooked_chicken": "2022-07-06 17:26:56 +0530"
     },
     "done": false

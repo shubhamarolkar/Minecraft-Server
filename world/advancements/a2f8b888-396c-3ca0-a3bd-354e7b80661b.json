@@ -119,6 +119,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/froglights": {
+    "criteria": {
+      "froglights": "2022-07-11 22:37:25 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2022-07-09 14:10:14 +0530"
@@ -152,6 +158,12 @@
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_stone": "2022-07-09 16:21:13 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2022-07-11 23:08:58 +0530"
     },
     "done": true
   },
@@ -290,6 +302,12 @@
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_obsidian": "2022-07-09 19:04:04 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2022-07-11 21:33:32 +0530"
     },
     "done": true
   },
@@ -451,6 +469,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2022-07-11 23:24:31 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2022-07-09 16:01:48 +0530"
@@ -577,6 +601,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2022-07-11 22:49:20 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2022-07-09 13:49:32 +0530"
@@ -685,6 +715,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab": {
+    "criteria": {
+      "has_smooth_quartz": "2022-07-11 21:33:32 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-07-09 17:51:16 +0530"
@@ -741,6 +777,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:magma_cube": "2022-07-11 23:08:21 +0530",
+      "minecraft:spider": "2022-07-11 22:21:52 +0530",
       "minecraft:zombie": "2022-07-09 16:03:26 +0530",
       "minecraft:drowned": "2022-07-09 17:20:00 +0530"
     },
@@ -767,6 +805,12 @@
   "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
       "has_stone_bricks": "2022-07-09 16:21:30 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2022-07-11 23:15:59 +0530"
     },
     "done": true
   },
@@ -803,6 +847,12 @@
   "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
       "has_planks": "2022-07-11 15:43:00 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2022-07-11 23:24:31 +0530"
     },
     "done": true
   },
@@ -1184,6 +1234,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs": {
+    "criteria": {
+      "has_smooth_quartz": "2022-07-11 21:33:32 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2022-07-09 16:21:13 +0530"
@@ -1280,6 +1336,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2022-07-11 23:15:59 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2022-07-11 21:33:32 +0530"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:savanna_plateau": "2022-07-09 13:48:43 +0530",
@@ -1291,6 +1359,7 @@
       "minecraft:stony_shore": "2022-07-09 16:12:51 +0530",
       "minecraft:forest": "2022-07-09 18:45:24 +0530",
       "minecraft:jungle": "2022-07-09 19:03:21 +0530",
+      "minecraft:deep_dark": "2022-07-11 21:29:46 +0530",
       "minecraft:savanna": "2022-07-09 13:50:44 +0530",
       "minecraft:plains": "2022-07-09 18:56:44 +0530"
     },
@@ -1512,6 +1581,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2022-07-11 23:15:59 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_oak_fence": {
     "criteria": {
       "has_planks": "2022-07-11 15:43:00 +0530"
@@ -1539,6 +1614,12 @@
   "minecraft:recipes/building_blocks/andesite_slab": {
     "criteria": {
       "has_andesite": "2022-07-11 15:54:36 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2022-07-11 23:24:31 +0530"
     },
     "done": true
   },
