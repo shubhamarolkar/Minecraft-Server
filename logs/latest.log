@@ -1,28 +1,28 @@
-[00:07:57] [User Authenticator #11/INFO]: UUID of player maDKal is 9b9ec121-a2c4-343f-b573-34879922fd17
-[00:07:57] [Server thread/INFO]: maDKal joined the game
-[00:07:57] [Server thread/INFO]: maDKal[/[0:0:0:0:0:0:0:1]:23264] logged in with entity id 35660 at ([world]811.7075315742014, 64.56904711312373, -1055.7132208319204)
-[00:32:42] [User Authenticator #12/INFO]: UUID of player snypee is b43ac269-6ae9-3fc6-9cfa-48dc4978aefc
-[00:32:42] [Server thread/INFO]: snypee joined the game
-[00:32:42] [Server thread/INFO]: snypee[/[0:0:0:0:0:0:0:1]:24928] logged in with entity id 43056 at ([world]826.0966786504872, 105.0, -1249.469948497761)
-[00:38:19] [Server thread/INFO]: snypee lost connection: Disconnected
-[00:38:19] [Server thread/INFO]: snypee left the game
-[00:47:59] [User Authenticator #13/INFO]: UUID of player snypee is b43ac269-6ae9-3fc6-9cfa-48dc4978aefc
-[00:47:59] [Server thread/INFO]: snypee joined the game
-[00:47:59] [Server thread/INFO]: snypee[/[0:0:0:0:0:0:0:1]:10730] logged in with entity id 51554 at ([world]869.089222978832, 99.42314720596305, -1161.6745901470038)
-[00:48:27] [Server thread/INFO]: snypee issued server command: /tp maDKal snypee
-[00:48:27] [Server thread/INFO]: [snypee: Teleported maDKal to snypee]
-[00:49:05] [Server thread/INFO]: snypee lost connection: Disconnected
-[00:49:05] [Server thread/INFO]: snypee left the game
-[01:02:21] [Server thread/INFO]: maDKal has made the advancement [Voluntary Exile]
-[01:18:42] [Server thread/INFO]: maDKal lost connection: Disconnected
-[01:18:42] [Server thread/INFO]: maDKal left the game
-[01:18:43] [User Authenticator #14/INFO]: UUID of player maDKal is 9b9ec121-a2c4-343f-b573-34879922fd17
-[01:18:43] [Server thread/INFO]: maDKal joined the game
-[01:18:43] [Server thread/INFO]: maDKal[/[0:0:0:0:0:0:0:1]:10878] logged in with entity id 55850 at ([world]816.4595878910827, 72.0, -1040.0022850883313)
-[01:18:55] [Server thread/INFO]: maDKal lost connection: Disconnected
-[01:18:55] [Server thread/INFO]: maDKal left the game
-[01:19:14] [User Authenticator #14/INFO]: UUID of player maDKal is 9b9ec121-a2c4-343f-b573-34879922fd17
-[01:19:14] [Server thread/INFO]: maDKal joined the game
-[01:19:14] [Server thread/INFO]: maDKal[/[0:0:0:0:0:0:0:1]:10882] logged in with entity id 55907 at ([world]816.4595878910827, 72.0, -1040.0022850883313)
-[01:19:41] [Server thread/INFO]: maDKal lost connection: Disconnected
-[01:19:41] [Server thread/INFO]: maDKal left the game
+[00:31:30] [Server thread/INFO]: Saving the game (this may take a moment!)
+[00:31:30] [Server thread/INFO]: Saved the game
+[00:31:32] [Server thread/INFO]: Stopping the server
+[00:31:32] [Server thread/INFO]: Stopping server
+[00:31:32] [Server thread/INFO]: [RHLeafDecay] Disabling RHLeafDecay v1.19_R1
+[00:31:32] [Server thread/INFO]: [RHLeafDecay] Cleaned up scheduledBlocks...
+[00:31:32] [Server thread/INFO]: [RHLeafDecay] The plugin has been unloaded!
+[00:31:32] [Server thread/INFO]: [LaggRemover] Disabling LaggRemover v2.0.6
+[00:31:32] [Server thread/INFO]: [LaggRemover] LaggRemover has been disabled!
+[00:31:32] [Server thread/INFO]: [SinglePlayerSleep] Disabling SinglePlayerSleep v1.13_2.13.47
+[00:31:32] [Server thread/INFO]: §a**************************************§r
+[00:31:32] [Server thread/INFO]: §eSinglePlayerSleep v1.13_2.13.47§r is DISABLED
+[00:31:32] [Server thread/INFO]: §a**************************************§r
+[00:31:32] [Server thread/INFO]: [BlockProt] Disabling BlockProt v1.1.2
+[00:31:32] [Server thread/INFO]: [BlockProt] Saving statistic file...
+[00:31:32] [Server thread/INFO]: [Graves] Disabling Graves v4.8
+[00:31:32] [Server thread/INFO]: Saving players
+[00:31:32] [Server thread/INFO]: Saving worlds
+[00:31:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:31:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[00:31:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[00:31:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:31:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:31:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:31:35] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:31:36] [Server thread/INFO]: Flushing Chunk IO
+[00:31:36] [Server thread/INFO]: Closing Thread Pool
+[00:31:36] [Server thread/INFO]: Closing Server

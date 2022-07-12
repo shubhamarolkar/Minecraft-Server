@@ -923,6 +923,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2022-07-12 15:20:13 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_polished_blackstone": {
     "criteria": {
       "has_the_recipe": "2022-07-07 02:01:01 +0530"
@@ -3895,6 +3901,7 @@
       "minecraft:skeleton": "2022-06-13 23:43:10 +0530",
       "minecraft:spider": "2022-06-13 23:56:38 +0530",
       "minecraft:creeper": "2022-07-07 02:48:29 +0530",
+      "minecraft:husk": "2022-07-12 16:02:58 +0530",
       "minecraft:enderman": "2022-07-06 13:34:56 +0530",
       "minecraft:zombie": "2022-06-13 18:33:20 +0530",
       "minecraft:drowned": "2022-06-16 22:40:44 +0530",
@@ -4744,6 +4751,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2022-07-12 16:13:45 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2022-06-13 18:21:21 +0530"
@@ -5253,8 +5266,11 @@
       "cooked_porkchop": "2022-07-06 16:41:43 +0530",
       "cooked_mutton": "2022-07-06 18:27:46 +0530",
       "cooked_beef": "2022-07-09 13:52:14 +0530",
+      "baked_potato": "2022-07-12 16:53:14 +0530",
       "bread": "2022-06-13 23:09:11 +0530",
+      "glow_berries": "2022-07-12 16:19:20 +0530",
       "salmon": "2022-07-06 15:37:35 +0530",
+      "melon_slice": "2022-07-12 16:33:17 +0530",
       "cooked_rabbit": "2022-06-13 18:37:03 +0530",
       "cooked_chicken": "2022-07-06 18:59:01 +0530",
       "cooked_salmon": "2022-06-13 18:37:00 +0530"
